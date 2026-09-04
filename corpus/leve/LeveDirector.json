@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "leve/LeveDirector",
+  "entries": [
+    {
+      "gameKey": "leve/LeveDirector#TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_MESSAGE",
+      "en": "Return to the levemete at ?",
+      "hash": "A49EBCF4B54F2378",
+      "macro": "Return to the levemete at <ennoun(PlaceName,2,lnum1,2,1)>?",
+      "unresolved": true,
+      "fr": "Retourner auprès du mandant \u00A0?",
+      "ja": "の\r\nリーヴ発行者の下に戻りますか？",
+      "frMacro": "Retourner auprès du mandant <sheet(PlaceName,lnum1,8,3)><nbsp>?",
+      "jaMacro": "<sheet(PlaceName,lnum1,0)>の<br>リーヴ発行者の下に戻りますか？",
+      "conversation": "leve/LeveDirector",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "leve/LeveDirector"
+    },
+    {
+      "gameKey": "leve/LeveDirector#TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_TO_SAFEAREA_MESSAGE",
+      "en": "Return to the nearest settlement?",
+      "hash": "EEF3636F3F4DB30E",
+      "unresolved": false,
+      "fr": "Retourner au hameau près du lieu de la mission\u00A0?",
+      "ja": "作戦任地近くの集落に戻りますか？",
+      "frMacro": "Retourner au hameau près du lieu de la mission<nbsp>?",
+      "conversation": "leve/LeveDirector",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "leve/LeveDirector"
+    },
+    {
+      "gameKey": "leve/LeveDirector#TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_YES",
+      "en": "Yes",
+      "hash": "C29A8C9A4725951A",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "leve/LeveDirector",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "leve/LeveDirector"
+    },
+    {
+      "gameKey": "leve/LeveDirector#TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_NO",
+      "en": "No",
+      "hash": "B92DB025DD01AD3A",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "leve/LeveDirector",
+      "seq": 3,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "leve/LeveDirector"
+    }
+  ]
+}

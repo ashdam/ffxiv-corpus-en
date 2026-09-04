@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+  "entries": [
+    {
+      "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_SYSTEM_001_000",
+      "en": "You cannot consult The Unending Journey at this time.",
+      "hash": "13995391FADDE34D",
+      "macro": "You cannot consult <italic(1)>The Unending Journey<italic(0)> at this time.",
+      "unresolved": false,
+      "fr": "Vous n'êtes pas autorisé à utiliser le carnet de voyage.",
+      "ja": "愛用の紀行録を利用する権利がありません。",
+      "frMacro": "Vous n'êtes pas autorisé<if(gnum4,e,)> à utiliser le carnet de voyage.",
+      "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefCutSceneReplay_00132"
+    },
+    {
+      "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_Q1_000_000",
+      "en": "Select a cutscene.",
+      "hash": "A03FC31DA62E95F1",
+      "unresolved": false,
+      "fr": "Quelle scène voulez-vous revoir\u00A0?",
+      "ja": "どのカットシーンを再生しますか？",
+      "frMacro": "Quelle scène voulez-vous revoir<nbsp>?",
+      "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefCutSceneReplay_00132"
+    },
+    {
+      "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_001",
+      "en": "And We Shall Call It Eureka - Cutscene # 1.",
+      "hash": "0E04EE9A024CEABE",
+      "unresolved": false,
+      "fr": "“Eurêka, l'île mystérieuse”",
+      "ja": "クエスト「未知なる島、その名はエウレカ」のカットシーン",
+      "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefCutSceneReplay_00132"
+    },
+    {
+      "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_002",
+      "en": "Eureka Anemos Expedition - Cutscene # 1.",
+      "hash": "F18503D470310F76",
+      "unresolved": false,
+      "fr": "“Eurêka Anemos” (1)",
+      "ja": "「禁断の地 エウレカ：アネモス編」のカットシーン 1",
+      "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+      "seq": 3,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefCutSceneReplay_00132"
+    },
+    {
+      "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_003",
+      "en": "Eureka Anemos Expedition - Cutscene # 2.",
+      "hash": "0A83AD3B09C913F7",
+      "unresolved": false,
+      "fr": "“Eurêka Anemos” (2)",
+      "ja": "「禁断の地 エウレカ：アネモス編」のカットシーン 2",
+      "conversation": "custom/001/CmnDefCutSceneReplay_00132",
+      "seq": 4,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefCutSceneReplay_00132"
+    }
+  ]
+}

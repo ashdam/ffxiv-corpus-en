@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnGscChocoboRaceDefaultA_00255",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnGscChocoboRaceDefaultA_00255#TEXT_CMNGSCCHOCOBORACEDEFAULTA_00255_TALK_ACTOR",
+      "en": "Beg your pardon, , but if you wish to avail yourself of our services, it would be best if you spoke with the registrar forthwith.",
+      "hash": "F5589B6A1648C198",
+      "macro": "Beg your pardon, <if(gnum4,madam,sir)>, but if you wish to avail yourself of our services, it would be best if you spoke with the registrar forthwith.",
+      "unresolved": false,
+      "fr": "Vous vous intéressez aux courses de chocobos\u00A0? Dans ce cas, commencez par aller voir la responsable des inscriptions, à côté de moi.",
+      "ja": "……おや、「チョコボレース」に興味があるのかい？\r\nなら、まずは「出走受付」さんに話しかけてごらん。",
+      "frMacro": "Vous vous intéressez aux courses de chocobos<nbsp>? Dans ce cas, commencez par aller voir la responsable des ins<->crip<->tions, à côté de moi.",
+      "jaMacro": "……おや、「チョコボレース」に興味があるのかい？<br>なら、まずは「出走受付」さんに話しかけてごらん。",
+      "conversation": "custom/002/CmnGscChocoboRaceDefaultA_00255",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnGscChocoboRaceDefaultA_00255"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "story/StoryMain",
+  "entries": [
+    {
+      "gameKey": "story/StoryMain#TEXT_STORYMAIN_TEST",
+      "en": "消して下さい",
+      "hash": "9AF4847DD61D8165",
+      "unresolved": false,
+      "fr": "消して下さい",
+      "ja": "消して下さい",
+      "conversation": "story/StoryMain",
+      "seq": 0,
+      "speaker": "TEST",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "story/StoryMain"
+    }
+  ]
+}

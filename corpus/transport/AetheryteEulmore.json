@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "transport/AetheryteEulmore",
+  "entries": [
+    {
+      "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_000",
+      "en": "According to the message engraved in the base, special permission is required to use this aetheryte.",
+      "hash": "8FE3A1B37D1B95C2",
+      "unresolved": false,
+      "fr": "Une affiche semble indiquer qu'une autorisation spéciale est nécessaire afin de se servir de l'éthérite.",
+      "ja": "注意書きが添えられている……。\r\nエーテライトを使用するには、特別な許可がいるようだ。",
+      "frMacro": "Une affiche semble indiquer qu'une au<->to<->ri<->sa<->tion spéciale est nécessaire afin de se servir de l'éthérite.",
+      "jaMacro": "注意書きが添えられている……。<br>エーテライトを使用するには、特別な許可がいるようだ。",
+      "conversation": "transport/AetheryteEulmore",
+      "seq": 0,
+      "speaker": "STOP",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "transport/AetheryteEulmore"
+    },
+    {
+      "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_010",
+      "en": "The aetheryte has ceased functioning.",
+      "hash": "AB4374CB700ADDA6",
+      "unresolved": false,
+      "fr": "L'éthérite ne répond pas. Quelque chose semble perturber son fonctionnement...",
+      "ja": "反応しない……。\r\n機能を封じられているようだ。",
+      "frMacro": "L'éthérite ne répond pas. Quelque chose semble perturber son fonc<->tion<->ne<->ment...",
+      "jaMacro": "反応しない……。<br>機能を封じられているようだ。",
+      "conversation": "transport/AetheryteEulmore",
+      "seq": 1,
+      "speaker": "STOP",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "transport/AetheryteEulmore"
+    }
+  ]
+}

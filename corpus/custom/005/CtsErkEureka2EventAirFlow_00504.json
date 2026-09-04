@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka2EventAirFlow_00504",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka2EventAirFlow_00504#TEXT_CTSERKEUREKA2EVENTAIRFLOW_00504_SYSTEM_000_410",
+      "en": "An endless font of aether appears to be surging forth from beneath the earth.",
+      "hash": "E8BFC4DB598AB53D",
+      "unresolved": false,
+      "fr": "L'éther jaillit du sol en quantité phénoménale. Voilà sans doute la puissante force que Krile a détectée.",
+      "ja": "大規模なエーテルの奔流が、地面から吹き上がっている。\r\nこれがクルルの言っていた「強い力」だろう……。",
+      "jaMacro": "大規模なエーテルの奔流が、地面から吹き上がっている。<br>これがクルルの言っていた「強い力」だろう……。",
+      "conversation": "custom/005/CtsErkEureka2EventAirFlow_00504",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka2EventAirFlow_00504"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka2EventAirFlow_00504#TEXT_CTSERKEUREKA2EVENTAIRFLOW_00504_SYSTEM_000_411",
+      "en": "The column extends high into the sky, further than you can see...",
+      "hash": "57B7004DA819F561",
+      "unresolved": false,
+      "fr": "Vous n'arrivez même pas à distinguer le sommet de ce geyser d'éther... Il n'y a pas grand-chose que vous puissiez faire, si ce n'est rapporter cette découverte à Krile.",
+      "ja": "「プロトエーテライト」へ続く道どころか、\r\n吹き上がる奔流の頂点すら見えない……。\r\nさっそく、このことを「クルル」に報告しよう。",
+      "jaMacro": "「プロトエーテライト」へ続く道どころか、<br>吹き上がる奔流の頂点すら見えない……。<br>さっそく、このことを「クルル」に報告しよう。",
+      "conversation": "custom/005/CtsErkEureka2EventAirFlow_00504",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka2EventAirFlow_00504"
+    }
+  ]
+}

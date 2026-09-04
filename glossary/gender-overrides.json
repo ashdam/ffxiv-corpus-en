@@ -1,0 +1,20 @@
+{
+  "overrides": {
+    "STARKWOAD": {
+      "gender": "female",
+      "why": "Sheet says male. Three languages say otherwise, and the quest exists to go and find her. StmBda617_02543 SEQ_00: 'The Roegadyn WOMAN you seek is somewhere in Radiata, and Lyse is eager to find HER.' Lyse in the same conversation (LYSE_000_010): 'Alphinaud said we were looking for a Roegadyn woman, right? And that we should answer HER question with \"courage\"?', whose Japanese is explicit — 「ローエンガルデ族の女性」. French uses the feminine noun and feminine pronouns throughout: 'Lyse a hâte de trouver L'ESPIONNE de Pipin à Radiata' and 'essayons de LA retrouver. Si quelqu'un entre en contact avec ELLE'. StmBda618_02544 SEQ_04 then names the contact: 'As expected, Alphinaud and Alisaie are fine, as is Stark Woad, your contact.' Found by the sb-msq-09 translator, who wrote her feminine from the English and flagged the sheet."
+    },
+    "HHWATO": {
+      "gender": "male",
+      "why": "Sheet says Pronoun=1 (female) on both rows, 1046988 and 1049686, with no conflict to resolve — so the corpus had no way to doubt it. The text disagrees in three languages. Hhwato: 'I am Hhwato, chief of Mehwahhetsoan. And this is my son, Shepetto.' Shepetto addresses him as 'Père' (KinGmd107_04918, SHEPETTO_000_064) one line before Hhwato answers, and refers to 'my father' in _000_047. Erenville's ja reads 'メワヘイゾーンの首長は、フーワトだ。まずは彼に会って' — explicit 彼. Four French self-agreements are masculine: 'Je suis content', 'Je suis certain', 'Je suis rrravi', 'Je suis le chef'. Counter-signal, judged and rejected: Hhwato's own Japanese first person is あたし, normally feminine, but it is contradicted by 彼 in the same language and reads as elderly rustic register alongside 〜ですな and 倅."
+    },
+    "YAGIRI": {
+      "gender": "male",
+      "why": "Sheet says female. English and French both say male, in the same conversation. ClsWvr680_02434 SEQ_04: 'Much like the young master, Yagiri is somewhat perplexed... HE grants, however, that HIS knowledge of Western traditions is yet lacking, and expresses HIS confidence...' — three masculine pronouns in one row. French names the role with the masculine noun: 'Récupérez la soie auprès de notre COMMIS Yagiri' (the feminine would be «commise»). Found by the job-10 translator, who noticed the sheet contradicted the narration, kept every line free of Spanish gender agreement so nothing rode on the guess, and reported it rather than choosing."
+    },
+    "MAKOTO": {
+      "gender": "female",
+      "why": "Sheet says male. English and French both say female. LucKbc014_03223: 'Makoto informs you that SHE is about to depart for Eorzea in order to visit Musosai's grave.' French agrees three times over and inflects for it: 'Makoto a été très occupée depuis son ascension au rang de COMMANDANTE du Sekiseigumi, mais ELLE est enfin parvenue...' and 'LASSÉE de perdre son temps, Makoto a décidé de se rendre...'. She is the Sekiseigumi commander of the Return to Ivalice line. Found by the job-22 translator."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/034/VoiceMan_03401",
+  "entries": [
+    {
+      "gameKey": "cut_scene/034/VoiceMan_03401#TEXT_VOICEMAN_03401_000050_KRILE",
+      "en": "I leave the Goddess in your capable hands. Just watch out for her worshipers...",
+      "hash": "DB7ABA2E2E9AB448",
+      "unresolved": false,
+      "fr": "Le temps joue contre nous\u00A0!\r\nÉliminez Sophia avant qu'elle ne s'éveille complètement, et méfiez-vous de ses fidèles\u00A0!",
+      "ja": "みんな 女神「ソフィア」の討滅 まかせたわよ！\r\n例の信者たちにも気をつけて！",
+      "frMacro": "Le temps joue contre nous<nbsp>!<br>Éliminez Sophia avant qu'elle ne s'éveille com<->plè<->te<->ment, et méfiez-vous de ses fidèles<nbsp>!",
+      "jaMacro": "みんな 女神「ソフィア」の討滅 まかせたわよ！<br>例の信者たちにも気をつけて！",
+      "conversation": "cut_scene/034/VoiceMan_03401",
+      "seq": 0,
+      "speaker": "KRILE",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "cut_scene/034/VoiceMan_03401"
+    }
+  ]
+}

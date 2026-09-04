@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/CmnDefMarketBoardGridania_00039",
+  "entries": [
+    {
+      "gameKey": "custom/000/CmnDefMarketBoardGridania_00039#TEXT_CMNDEFMARKETBOARDGRIDANIA_00039_DISABLE_MARKET_BOARD",
+      "en": "The markets are not open to you at present.",
+      "hash": "68293BE5D9000132",
+      "unresolved": false,
+      "fr": "Vous ne pouvez pas encore acheter ou vendre sur ces marchés.",
+      "ja": "今はまだ利用できないようだ……。",
+      "conversation": "custom/000/CmnDefMarketBoardGridania_00039",
+      "seq": 0,
+      "speaker": "BOARD",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefMarketBoardGridania_00039"
+    }
+  ]
+}

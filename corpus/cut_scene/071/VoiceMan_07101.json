@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/071/VoiceMan_07101",
+  "entries": [
+    {
+      "gameKey": "cut_scene/071/VoiceMan_07101#TEXT_VOICEMAN_07101_000010_SHADOWLORD",
+      "en": "Come, mortals. Allow me to show you the depths of my hatred... And your folly!",
+      "hash": "0F9741240228E279",
+      "unresolved": false,
+      "fr": "Approchez, l'heure du jugement est venue\u00A0! La mort elle-même n'a pu triompher de ma colère. Voyons si vous y parviendrez\u00A0!",
+      "ja": "さあ  来い  人の子よ！\r\n我が憎しみ  思い知らせてくれる！！",
+      "frMacro": "Approchez, l'heure du jugement est venue<nbsp>! La mort elle-même n'a pu triompher de ma colère. Voyons si vous y parviendrez<nbsp>!",
+      "jaMacro": "さあ  来い  人の子よ！<br>我が憎しみ  思い知らせてくれる！！",
+      "conversation": "cut_scene/071/VoiceMan_07101",
+      "seq": 0,
+      "speaker": "SHADOWLORD",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/071/VoiceMan_07101"
+    }
+  ]
+}

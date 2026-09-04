@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/071/VoiceMan_07120",
+  "entries": [
+    {
+      "gameKey": "cut_scene/071/VoiceMan_07120#TEXT_VOICEMAN_07120_000010_BYAKKO",
+      "en": "It begins. Receive of me my fury, children of man, and quell it!",
+      "hash": "0A41D45763A235C7",
+      "unresolved": false,
+      "fr": "Humains\u00A0! Je vais libérer mon aramitama\u00A0!\r\nÀ vous d'apaiser mon âme\u00A0!",
+      "ja": "これより、アラミタマを解放するッ！\r\n我が魂、貴様らに預けるぞッ！",
+      "frMacro": "Humains<nbsp>! Je vais libérer mon aramitama<nbsp>!<br>À vous d'apaiser mon âme<nbsp>!",
+      "jaMacro": "これより、アラミタマを解放するッ！<br>我が魂、貴様らに預けるぞッ！",
+      "conversation": "cut_scene/071/VoiceMan_07120",
+      "seq": 0,
+      "speaker": "BYAKKO",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/071/VoiceMan_07120"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/006/CtsMycTemporaryBox_00680",
+  "entries": [
+    {
+      "gameKey": "custom/006/CtsMycTemporaryBox_00680#TEXT_CTSMYCTEMPORARYBOX_00680_SYSTEM_000_000",
+      "en": "You open the chest but find nothing inside. Perhaps the Resistance soldiers will find use for this later...",
+      "hash": "359480245ADB0D82",
+      "unresolved": false,
+      "fr": "Ce coffre semble vide... Peut-être vous sera-t-il utile plus tard\u00A0?",
+      "ja": "箱の中身は空っぽのようだ……。\r\nどうやら、現在は利用できないらしい。",
+      "frMacro": "Ce coffre semble vide... Peut-être vous sera-t-il utile plus tard<nbsp>?",
+      "jaMacro": "箱の中身は空っぽのようだ……。<br>どうやら、現在は利用できないらしい。",
+      "conversation": "custom/006/CtsMycTemporaryBox_00680",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycTemporaryBox_00680"
+    }
+  ]
+}

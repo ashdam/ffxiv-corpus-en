@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonDomacastle_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonDomacastle_00000#TEXT_DUNGEONDOMACASTLE_00000_GRYNEWAHT_000_000",
+      "en": "EOOORZEAN... EOOORZEAAAN... COME OUT AND PLAY...",
+      "hash": "30CE1F71CD7F1126",
+      "unresolved": false,
+      "fr": "GRAAAAAH\u00A0!... \u00A0!\u00A0... \u00A0!\u00A0...",
+      "ja": "オォォォォ…………\r\n…………！",
+      "frMacro": "GRAAAAAH<nbsp>!... <split(<string(gstr1)>, ,1)><nbsp>!<nbsp>... <split(<string(gstr1)>, ,1)><nbsp>!<nbsp>...",
+      "jaMacro": "オォォォォ…………<br><split(<string(gstr1)>, ,1)>……<split(<string(gstr1)>, ,1)>……！",
+      "conversation": "dungeon/000/DungeonDomacastle_00000",
+      "seq": 0,
+      "speaker": "GRYNEWAHT",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDomacastle_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonDomacastle_00000#TEXT_DUNGEONDOMACASTLE_00000_GRYNEWAHT_000_001",
+      "en": "DEAREST OF AAALL MY ENEMIES... I HAVE NEW TOYS TO SHOW YOU!",
+      "hash": "4BB385087A3BF349",
+      "unresolved": false,
+      "fr": "Je suis... PLUS FORT...\r\nJe vais... TE TUER\u00A0!\u00A0... RAAAAH\u00A0!",
+      "ja": "オラ……ツヨク……テンテキ……コロス……！\r\nウオオオオオォォォォッ！",
+      "frMacro": "Je suis... PLUS FORT...<br>Je vais... TE TUER<nbsp>!<nbsp>... RAAAAH<nbsp>!",
+      "jaMacro": "オラ……ツヨク……テンテキ……コロス……！<br>ウオオオオオォォォォッ！",
+      "conversation": "dungeon/000/DungeonDomacastle_00000",
+      "seq": 1,
+      "speaker": "GRYNEWAHT",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDomacastle_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonDomacastle_00000#TEXT_DUNGEONDOMACASTLE_00000_GRYNEWAHT_000_010",
+      "en": "WE GO...TOGETHER...TOGETHER...TO...",
+      "hash": "28F2247DA1CEF25B",
+      "unresolved": false,
+      "fr": "Oh NOOOON\u00A0!\u00A0... Pas encore...\r\nJe ne peux pas... peeeeerdre...",
+      "ja": "ココマデ……本当ニ……？\r\n嫌だ……オラは……まだ…………",
+      "frMacro": "Oh NOOOON<nbsp>!<nbsp>... Pas encore...<br>Je ne peux pas... peeeeerdre...",
+      "jaMacro": "ココマデ……本当ニ……？<br>嫌だ……オラは……まだ…………",
+      "conversation": "dungeon/000/DungeonDomacastle_00000",
+      "seq": 2,
+      "speaker": "GRYNEWAHT",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDomacastle_00000"
+    }
+  ]
+}

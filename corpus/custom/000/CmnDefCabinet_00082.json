@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/CmnDefCabinet_00082",
+  "entries": [
+    {
+      "gameKey": "custom/000/CmnDefCabinet_00082#TEXT_CMNDEFCABINET_00082_YESNO_Q",
+      "en": "What would you like to do?",
+      "hash": "262CA1D9E194984D",
+      "unresolved": false,
+      "fr": "Que voulez-vous faire\u00A0?",
+      "ja": "何をする？",
+      "frMacro": "Que voulez-vous faire<nbsp>?",
+      "conversation": "custom/000/CmnDefCabinet_00082",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefCabinet_00082"
+    },
+    {
+      "gameKey": "custom/000/CmnDefCabinet_00082#TEXT_CMNDEFCABINET_00082_YESNO_A1",
+      "en": "Store an item.",
+      "hash": "6F470CB0BBA08850",
+      "unresolved": false,
+      "fr": "Ranger des objets dans le bahut",
+      "ja": "アイテムを収納する",
+      "conversation": "custom/000/CmnDefCabinet_00082",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefCabinet_00082"
+    },
+    {
+      "gameKey": "custom/000/CmnDefCabinet_00082#TEXT_CMNDEFCABINET_00082_YESNO_A2",
+      "en": "Remove an item.",
+      "hash": "9BA3AE6585EF132E",
+      "unresolved": false,
+      "fr": "Retirer des objets du bahut",
+      "ja": "アイテムを確認・取り出す",
+      "conversation": "custom/000/CmnDefCabinet_00082",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefCabinet_00082"
+    },
+    {
+      "gameKey": "custom/000/CmnDefCabinet_00082#TEXT_CMNDEFCABINET_00082_YESNO_A3",
+      "en": "Nothing.",
+      "hash": "BF5F18AFFDECE0C2",
+      "unresolved": false,
+      "fr": "Annuler",
+      "ja": "やめる",
+      "conversation": "custom/000/CmnDefCabinet_00082",
+      "seq": 3,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefCabinet_00082"
+    }
+  ]
+}

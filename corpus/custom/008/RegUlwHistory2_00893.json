@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/008/RegUlwHistory2_00893",
+  "entries": [
+    {
+      "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_000",
+      "en": "The panel bears information on the history of the Milalla.",
+      "hash": "5D5DBB1FC8E6F34C",
+      "unresolved": false,
+      "fr": "Une présentation succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "ja": "ミララ族の歴史が記述されているようだ。",
+      "frMacro": "Une pré<->sen<->ta<->tion succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "conversation": "custom/008/RegUlwHistory2_00893",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory2_00893"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_010",
+      "en": "The Milalla are the keepers of a mighty relic passed down through the ages. While it has the appearance of a crystal, by whose hand it was wrought is unknown.",
+      "hash": "8C7FA8A7F3E71771",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre II-)Chez les Milalla, une précieuse relique était transmise de génération en génération. S'il s'agissait d'un cristal supposé renfermer un immense pouvoir, personne ne connaissait sa provenance, ni l'époque à laquelle ce trésor avait fait son apparition.",
+      "ja": "(-弐の章-)ミララ族には、古くから受け継がれてきた「秘宝」がありました。\r\nそれは莫大な力を秘めた結晶でしたが、\r\nいつどのようにもたらされたのか、由来は伝わっていません。",
+      "jaMacro": "(-弐の章-)ミララ族には、古くから受け継がれてきた「秘宝」がありました。<br>それは莫大な力を秘めた結晶でしたが、<br>いつどのようにもたらされたのか、由来は伝わっていません。",
+      "conversation": "custom/008/RegUlwHistory2_00893",
+      "seq": 1,
+      "speaker": "Chapter II",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory2_00893"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_011",
+      "en": "When a great calamity froze their isles, the Speaker, their spiritual leader, fervently prayed to the relic for salvation.",
+      "hash": "AC56D1FF53376E2E",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre II-)Après l'arrivée de la vague de froid sur leur île, c'est ce mystérieux artefact qui devint l'objet de leurs prières désespérées. Et, alors que les Milalla semblaient condamnés à s'éteindre, un miracle se produisit.",
+      "ja": "(-弐の章-)彼らの島に「氷の災厄」が訪れた際、\r\n神子たちは「秘宝」に救いを求め、祈り続けました。",
+      "jaMacro": "(-弐の章-)彼らの島に「氷の災厄」が訪れた際、<br>神子たちは「秘宝」に救いを求め、祈り続けました。",
+      "conversation": "custom/008/RegUlwHistory2_00893",
+      "seq": 2,
+      "speaker": "Chapter II",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory2_00893"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_012",
+      "en": "In answer to their prayers, the relic opened for them a golden path, one that shone like the light of dawn, and through it they fled unto a new land.",
+      "hash": "568DA514BCFA5F45",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre II-)Telle une aurore dorée mettant fin à une longue nuit glacée, un chemin de lumière se révéla aux yeux des Milalla, qui parvinrent alors à s'enfuir pour trouver une nouvelle terre promise.",
+      "ja": "(-弐の章-)そして祈りの果てに、彼らの前に路が現れました。\r\nかくしてミララ族は暁光の如き輝きを放つ黄金の路を渡り、\r\n新たな土地へと逃れることができたのです。",
+      "jaMacro": "(-弐の章-)そして祈りの果てに、彼らの前に路が現れました。<br>かくしてミララ族は暁光の如き輝きを放つ黄金の路を渡り、<br>新たな土地へと逃れることができたのです。",
+      "conversation": "custom/008/RegUlwHistory2_00893",
+      "seq": 3,
+      "speaker": "Chapter II",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory2_00893"
+    }
+  ]
+}

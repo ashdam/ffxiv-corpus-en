@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/062/VoiceMan_06201",
+  "entries": [
+    {
+      "gameKey": "cut_scene/062/VoiceMan_06201#TEXT_VOICEMAN_06201_000010_HEPHAESTUS",
+      "en": "Erichthonios is mine, heart and soul! And with your death, none will be left to stop me!",
+      "hash": "4410FC4741456A0F",
+      "unresolved": false,
+      "fr": "L'esprit d'Érichthonios est d'ores et déjà mien. Il ne me reste plus qu'à me débarrasser de vous\u00A0!",
+      "ja": "エリクトニオスの心は  すでに我が手中にある\r\nあとは  お前たちを消し去るのみだ！",
+      "frMacro": "L'esprit d'Érichthonios est d'ores et déjà mien. Il ne me reste plus qu'à me débarrasser de vous<nbsp>!",
+      "jaMacro": "エリクトニオスの心は  すでに我が手中にある<br>あとは  お前たちを消し去るのみだ！",
+      "conversation": "cut_scene/062/VoiceMan_06201",
+      "seq": 0,
+      "speaker": "HEPHAESTUS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/062/VoiceMan_06201"
+    }
+  ]
+}

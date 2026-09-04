@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+  "entries": [
+    {
+      "gameKey": "custom/000/CmnDefF1e4Entrance_00047#TEXT_CMNDEFF1E4ENTRANCE_00047_TALK_000",
+      "en": "The Seat of the First Bow lies beyond.",
+      "hash": "3B54959FDBAD50B8",
+      "unresolved": false,
+      "fr": "Derrière cette porte se trouve la salle de commandement du Carquois.",
+      "ja": "この先は神勇隊司令室だ。",
+      "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+      "seq": 0,
+      "speaker": "TALK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Entrance_00047"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Entrance_00047#TEXT_CMNDEFF1E4ENTRANCE_00047_TALK_001",
+      "en": "None but authorized personnel may enter.",
+      "hash": "B8C0263C84C2D9EA",
+      "unresolved": false,
+      "fr": "Seules les personnes qui ont obtenu une autorisation spéciale peuvent passer.",
+      "ja": "この先、部外者立ち入り禁止だ。",
+      "frMacro": "Seules les personnes qui ont obtenu une au<->to<->ri<->sa<->tion spéciale peuvent passer.",
+      "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+      "seq": 1,
+      "speaker": "TALK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Entrance_00047"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Entrance_00047#TEXT_CMNDEFF1E4ENTRANCE_00047_YESNO_Q",
+      "en": "Proceed to the Seat of the First Bow?",
+      "hash": "D151E8C472EBEA5B",
+      "unresolved": false,
+      "fr": "Entrer dans la Salle de commandement\u00A0?",
+      "ja": "神勇隊司令室へ入りますか？",
+      "frMacro": "Entrer dans la Salle de commandement<nbsp>?",
+      "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Entrance_00047"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Entrance_00047#TEXT_CMNDEFF1E4ENTRANCE_00047_YESNO_Y",
+      "en": "Yes",
+      "hash": "B25975A986D208A7",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+      "seq": 3,
+      "speaker": "Y",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Entrance_00047"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Entrance_00047#TEXT_CMNDEFF1E4ENTRANCE_00047_YESNO_N",
+      "en": "No",
+      "hash": "01C81143662FB56A",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/000/CmnDefF1e4Entrance_00047",
+      "seq": 4,
+      "speaker": "N",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Entrance_00047"
+    }
+  ]
+}

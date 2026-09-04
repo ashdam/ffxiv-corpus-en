@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnDefHousingDish_00213",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_TITLE",
+      "en": "Partake of ?\r\n(Remaining uses: )",
+      "hash": "3F0BA039AE762725",
+      "macro": "Partake of <ennoun(Item,2,lnum2,1,1)>?<br>(Remaining uses: <num(lnum1)>)",
+      "unresolved": true,
+      "fr": "Il en reste assez pour  personne.\r\nSe servir\u00A0?",
+      "ja": "あと回、食事を摂れます。\r\nを口にしますか？",
+      "frMacro": "Il en reste assez pour <num(lnum1)> personne<if([lnum1<=1],,s)>.<br>Se servir<nbsp>?",
+      "jaMacro": "あと<num(lnum1)>回、食事を摂れます。<br><sheet(Item,lnum2,0)>を口にしますか？",
+      "conversation": "custom/002/CmnDefHousingDish_00213",
+      "seq": 0,
+      "speaker": "TITLE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingDish_00213"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_YES",
+      "en": "Yes",
+      "hash": "704F1D47F150556B",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/002/CmnDefHousingDish_00213",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingDish_00213"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_NO",
+      "en": "No",
+      "hash": "6F7E111F8593D10D",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/002/CmnDefHousingDish_00213",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingDish_00213"
+    }
+  ]
+}

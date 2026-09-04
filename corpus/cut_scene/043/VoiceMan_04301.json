@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/043/VoiceMan_04301",
+  "entries": [
+    {
+      "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000010_BAGGAMONAN",
+      "en": "Long have I waited for this moment, Garlean swine!",
+      "hash": "54A9F8DDC0753E8D",
+      "unresolved": false,
+      "fr": "J'attends cet instant depuis si longtemps, porcs de Garlemaldais\u00A0!",
+      "ja": "待っていたゼ\u3000ガレマール帝国に与する者どもメッ！",
+      "frMacro": "J'attends cet instant depuis si longtemps, porcs de Garlemaldais<nbsp>!",
+      "conversation": "cut_scene/043/VoiceMan_04301",
+      "seq": 0,
+      "speaker": "BAGGAMONAN",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/043/VoiceMan_04301"
+    },
+    {
+      "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000011_BAGGAMONAN",
+      "en": "Come! The blood of my fallen brothers feeds my hate!",
+      "hash": "CD0E31988467C539",
+      "unresolved": false,
+      "fr": "Approchez\u00A0! Vous allez payer pour le sang de mes frères\u00A0!",
+      "ja": "貴様らに殺された同胞の恨みを\u3000今こそ晴らしてやるゥッ！！",
+      "frMacro": "Approchez<nbsp>! Vous allez payer pour le sang de mes frères<nbsp>!",
+      "conversation": "cut_scene/043/VoiceMan_04301",
+      "seq": 1,
+      "speaker": "BAGGAMONAN",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/043/VoiceMan_04301"
+    },
+    {
+      "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000020_BAGGAMONAN",
+      "en": "You may have escaped me in this life, but I...I shall be waiting in the next!",
+      "hash": "EA3A4023891F4030",
+      "unresolved": false,
+      "fr": "Si je n'ai pas eu ma vengeance... dans cette vie... je l'aurai dans la suivante\u00A0! ",
+      "ja": "朽ちようとも…\u3000この憎悪は未来永劫…\u3000貴様らの頭上に……！",
+      "frMacro": "Si je n'ai pas eu ma vengeance... dans cette vie... je l'aurai dans la suivante<nbsp>! ",
+      "conversation": "cut_scene/043/VoiceMan_04301",
+      "seq": 2,
+      "speaker": "BAGGAMONAN",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/043/VoiceMan_04301"
+    }
+  ]
+}

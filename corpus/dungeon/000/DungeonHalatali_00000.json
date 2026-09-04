@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonHalatali_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonHalatali_00000#TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_000",
+      "en": "The final test shall pit you against the finest gladiators ever to grace the bloodsands! Steel yourselves!",
+      "hash": "0001981D249AAE65",
+      "unresolved": false,
+      "fr": "La dernière épreuve sera une joute à mort contre l'élite des gladiateurs... J'ai nommé, les provocatores\u00A0!",
+      "ja": "最後の試練は 精鋭剣闘士たちとの乱戦だぜ！\r\n本物の 「剣闘」の始まりだ！",
+      "frMacro": "La dernière épreuve sera une joute à mort contre l'élite des gladiateurs... J'ai nommé, les provocatores<nbsp>!",
+      "jaMacro": "最後の試練は 精鋭剣闘士たちとの乱戦だぜ！<br>本物の 「剣闘」の始まりだ！",
+      "conversation": "dungeon/000/DungeonHalatali_00000",
+      "seq": 0,
+      "speaker": "BRONZEBULL",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonHalatali_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonHalatali_00000#TEXT_DUNGEONHALATALI_00000_BRONZEBULL_000_001",
+      "en": "A glorious contest! I was hard-pressed to restrain myself from joining the fray!",
+      "hash": "42199F5DCE9C0AD8",
+      "unresolved": false,
+      "fr": "C'était un combat superbe\u00A0! Une joute digne des plus grands tournois d'antan\u00A0! J'ai senti mon sang bouillir dans mes veines\u00A0!",
+      "ja": "勝負あった！\r\n見ている俺っちも 熱くなっちまう しびれる激闘だったぜ！",
+      "frMacro": "C'était un combat superbe<nbsp>! Une joute digne des plus grands tournois d'antan<nbsp>! J'ai senti mon sang bouillir dans mes veines<nbsp>!",
+      "jaMacro": "勝負あった！<br>見ている俺っちも 熱くなっちまう しびれる激闘だったぜ！",
+      "conversation": "dungeon/000/DungeonHalatali_00000",
+      "seq": 1,
+      "speaker": "BRONZEBULL",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonHalatali_00000"
+    }
+  ]
+}

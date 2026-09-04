@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/CmnDefBeastCurrencyGuide_00444",
+  "entries": [
+    {
+      "gameKey": "custom/004/CmnDefBeastCurrencyGuide_00444#TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_010",
+      "en": "Promissory notes can be exchanged for currency by speaking with their respective vendors or a Calamity salvager.",
+      "hash": "C7C64C7C2E6A0A42",
+      "unresolved": false,
+      "fr": "Les chèques pour monnaies des peuples alliés (inventaire) doivent être monétisés auprès d'un PNJ “consigneur” ou des vendeurs des différents peuples pour servir lors des diverses transactions.",
+      "ja": "獣人貨幣証書は、\r\n遺失物管理人、または各獣人集落のショップNPCに渡すことで、\r\n獣人貨幣に交換でき、利用可能な状態になります。",
+      "frMacro": "Les chèques pour monnaies des peuples alliés (inventaire) doivent être <colortype(506)><edgecolortype(507)>monétisés<edgecolortype(0)><colortype(0)> auprès d'un PNJ “consigneur” ou des vendeurs des différents peuples pour servir lors des diverses transactions.",
+      "jaMacro": "獣人貨幣証書は、<br>遺失物管理人、または各獣人集落のショップNPCに渡すことで、<br>獣人貨幣に交換でき、利用可能な状態になります。",
+      "conversation": "custom/004/CmnDefBeastCurrencyGuide_00444",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CmnDefBeastCurrencyGuide_00444"
+    },
+    {
+      "gameKey": "custom/004/CmnDefBeastCurrencyGuide_00444#TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_011",
+      "en": "The amount of societal currency you possess is shown in the Currency window.",
+      "hash": "566939F661DD2001",
+      "unresolved": false,
+      "fr": "Après monétisation, le nombre possédé peut être vérifié dans la fenêtre Devises, depuis le menu Personnage.",
+      "ja": "交換した獣人貨幣の所持数は、\r\n「通貨リスト」から確認できます。",
+      "frMacro": "Après monétisation, le nombre possédé peut être vérifié dans la fenêtre <colortype(506)><edgecolortype(507)>Devises<edgecolortype(0)><colortype(0)>, depuis le menu <colortype(506)><edgecolortype(507)>Personnage<edgecolortype(0)><colortype(0)>.",
+      "jaMacro": "交換した獣人貨幣の所持数は、<br>「通貨リスト」から確認できます。",
+      "conversation": "custom/004/CmnDefBeastCurrencyGuide_00444",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CmnDefBeastCurrencyGuide_00444"
+    }
+  ]
+}

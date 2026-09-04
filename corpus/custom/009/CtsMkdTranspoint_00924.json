@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CtsMkdTranspoint_00924",
+  "entries": [
+    {
+      "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_000",
+      "en": "You have attuned yourself to an Aethernet shard and now have access to the isle's Aethernet.",
+      "hash": "203C63418AAD4044",
+      "unresolved": false,
+      "fr": "Vous venez de vous harmoniser avec une éthérite ancienne\u00A0!",
+      "ja": "「魔道通路」と交感し、島内転送網を開放した！",
+      "frMacro": "Vous venez de vous harmoniser avec une <colortype(506)><edgecolortype(507)>éthérite ancienne<edgecolortype(0)><colortype(0)><nbsp>!",
+      "conversation": "custom/009/CtsMkdTranspoint_00924",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsMkdTranspoint_00924"
+    },
+    {
+      "gameKey": "custom/009/CtsMkdTranspoint_00924#TEXT_CTSMKDTRANSPOINT_00924_SYSTEM_000_010",
+      "en": "Additional shards can be found across the Occult Crescent. Attune to them to facilitate faster travel throughout the island.",
+      "hash": "34E649A0848847F7",
+      "unresolved": false,
+      "fr": "Vous pouvez désormais utiliser le réseau de transport éthéré du croissant pour vous déplacer rapidement entre les éthérites de l'île de Lunule avec lesquelles vous vous êtes .",
+      "ja": "島内転送網を使うと、\r\n同一ゾーンの魔道通路間を、自由に移動できます。\r\n見かけたら、積極的に交感しておきましょう。",
+      "frMacro": "Vous pouvez désormais utiliser le <colortype(506)><edgecolortype(507)>réseau de transport éthéré du croissant<edgecolortype(0)><colortype(0)> pour vous déplacer rapidement entre les éthérites de l'île de Lunule avec lesquelles vous vous êtes <if(gnum4,harmonisée,harmonisé)>.",
+      "jaMacro": "島内転送網を使うと、<br>同一ゾーンの魔道通路間を、自由に移動できます。<br>見かけたら、積極的に交感しておきましょう。",
+      "conversation": "custom/009/CtsMkdTranspoint_00924",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsMkdTranspoint_00924"
+    }
+  ]
+}

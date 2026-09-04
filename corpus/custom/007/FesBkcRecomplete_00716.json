@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/007/FesBkcRecomplete_00716",
+  "entries": [
+    {
+      "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000",
+      "en": "For a limited time, you can relive this event via the Seasonal Event Replay feature.",
+      "hash": "6F748FB61E915A49",
+      "unresolved": false,
+      "fr": "Le rappel événementiel vous permet, durant une période limitée, de rejouer des quêtes saisonnières/événementielles que vous avez déjà terminées.",
+      "ja": "「シーズナルクエストリプレイ」は、\r\nコンプリート済みのシーズナルクエストを、\r\n期間限定で、もう一度、体験することができる機能です。",
+      "jaMacro": "「シーズナルクエストリプレイ」は、<br>コンプリート済みのシーズナルクエストを、<br>期間限定で、もう一度、体験することができる機能です。",
+      "conversation": "custom/007/FesBkcRecomplete_00716",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesBkcRecomplete_00716"
+    },
+    {
+      "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001",
+      "en": "Do you wish to replay the event?",
+      "hash": "D199B07DC1157B3B",
+      "unresolved": false,
+      "fr": "Lancer le rappel événementiel\u00A0?",
+      "ja": "「シーズナルクエストリプレイ」を実行しますか？",
+      "frMacro": "Lancer le rappel événementiel<nbsp>?",
+      "conversation": "custom/007/FesBkcRecomplete_00716",
+      "seq": 1,
+      "speaker": "YESNO",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesBkcRecomplete_00716"
+    },
+    {
+      "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002",
+      "en": "If you proceed, the following quest(s) will be rendered incomplete:\r\n  \r\nPlease ensure that you have sufficient time, and be advised that you will not receive quest rewards via this feature.\r\n\r\n",
+      "hash": "CA61E64358058CFC",
+      "macro": "If you proceed, the following quest(s) will be rendered incomplete:<br>  <sheet(Quest,lnum1,0)><br><if([lnum2==0],,  <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,  <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,The following NPC\\(s\\) will become unavailable for trade until you have completed the requisite quest again:<br>  <headall(<ennoun(ENpcResident,2,lnum4,1,1)>)><br>)><if([lnum5==0],,  <headall(<ennoun(ENpcResident,2,lnum5,1,1)>)><br>)>Please ensure that you have sufficient time, and be advised that you will not receive quest rewards via this feature.<br><br>",
+      "unresolved": true,
+      "fr": "La ou les quêtes ci-dessous seront considérées comme non terminées\u00A0:\r\n\r\n\u3000\u3000- \r\n\r\nVous n'obtiendrez pas de récompenses de quêtes durant le rappel événementiel.\r\n",
+      "ja": "・「シーズナルクエストリプレイ」を実行すると、\r\n\u3000以下のクエストが未コンプリート状態となります。\r\n\u3000\u3000「」\r\n・シーズナルクエストリプレイ中は、\r\n\u3000対象クエストで報酬を得ることができません。\r\n\r\n「シーズナルクエストリプレイ」をご利用いただく際は、\r\n開催期間内に、対象クエストをコンプリートできるよう、\r\n十分に時間を確保した上で、お楽しみください。\r\n\r\n",
+      "frMacro": "La ou les quêtes ci-dessous seront considérées comme non terminées<nbsp>:<br><br>\u3000\u3000- <sheet(Quest,lnum1,0)><br><if([lnum2==0],,\u3000\u3000- <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,\u3000\u3000- <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,<br>Tant que vous ne les aurez pas accomplies de nouveau\\, vous ne pourrez pas acheter/échanger les objets associés auprès des PNJ suivants<nbsp>:<br><br>\u3000\u3000- <head(<sheet(ENpcResident,lnum4,0)>)><br>)><if([lnum5==0],,\u3000\u3000- <head(<sheet(ENpcResident,lnum5,0)>)><br>)><if([lnum4==0],,<br>Cette règle continuera de s'appliquer une fois la période de rappel expirée. Faites donc attention au temps dont vous disposez avant de lancer le rappel événementiel.<br>)><br>Vous n'obtiendrez pas de récompenses de quêtes durant le rappel événementiel.<br>",
+      "jaMacro": "・「シーズナルクエストリプレイ」を実行すると、<br>\u3000以下のクエストが未コンプリート状態となります。<br>\u3000\u3000「<sheet(Quest,lnum1,0)>」<br><if([lnum2==0],,\u3000\u3000「<sheet(Quest,lnum2,0)>」<br>)><if([lnum3==0],,\u3000\u3000「<sheet(Quest,lnum3,0)>」<br>)><if([lnum4==0],,・クエストをコンプリートするまで、以下のNPCから、<br>\u3000関連アイテムの購入・交換ができなくなります。<br>\u3000\u3000「<sheet(ENpcResident,lnum4,0)>」<br>)><if([lnum5==0],,\u3000\u3000「<sheet(ENpcResident,lnum5,0)>」<br>)><if([lnum4==0],,・開催期間終了後に、<br>\u3000対象クエストが未コンプリートだった場合は、<br>\u3000関連アイテムの購入・交換ができないままとなります。<br>)>・シーズナルクエストリプレイ中は、<br>\u3000対象クエストで報酬を得ることができません。<br><br>「シーズナルクエストリプレイ」をご利用いただく際は、<br>開催期間内に、対象クエストをコンプリートできるよう、<br>十分に時間を確保した上で、お楽しみください。<br><br>",
+      "conversation": "custom/007/FesBkcRecomplete_00716",
+      "seq": 2,
+      "speaker": "YESNOCHECK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesBkcRecomplete_00716"
+    },
+    {
+      "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003",
+      "en": "Proceed with Seasonal Event Replay.",
+      "hash": "C7181A1F93C43CA2",
+      "unresolved": false,
+      "fr": "Lancer le rappel événementiel",
+      "ja": "「シーズナルクエストリプレイ」を実行する",
+      "conversation": "custom/007/FesBkcRecomplete_00716",
+      "seq": 3,
+      "speaker": "CHECKBOX",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesBkcRecomplete_00716"
+    }
+  ]
+}

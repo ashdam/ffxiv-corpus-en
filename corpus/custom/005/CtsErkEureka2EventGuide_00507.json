@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka2EventGuide_00507",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka2EventGuide_00507#TEXT_CTSERKEUREKA2EVENTGUIDE_00507_INV00463_000_000",
+      "en": "Our preliminary survey of Pagos has confirmed what we long suspected: the very aether of creatures indigenous to Eureka is in constant flux!",
+      "hash": "BF0C24AA572C65BA",
+      "unresolved": false,
+      "fr": "Nos recherches à Anemos ont démontré que les monstres d'Eurêka possédaient une signature éthérée extrêmement instable.",
+      "ja": "アネモス帯の調査により判明したのですが、\r\nエウレカの魔物は、エーテル学的にとても不安定なようです！",
+      "frMacro": "Nos recherches à Anemos ont démontré que les monstres d'Eurêka possédaient une signature éthérée ex<->trê<->me<->ment instable.",
+      "jaMacro": "アネモス帯の調査により判明したのですが、<br>エウレカの魔物は、エーテル学的にとても不安定なようです！",
+      "conversation": "custom/005/CtsErkEureka2EventGuide_00507",
+      "seq": 0,
+      "speaker": "INV00463",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka2EventGuide_00507"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka2EventGuide_00507#TEXT_CTSERKEUREKA2EVENTGUIDE_00507_INV00463_000_001",
+      "en": "The underlying cause of this remains unclear, but of greater concern is the possibility that the beasts you encounter may abruptly transform into far more monstrous forms. Be on your guard!",
+      "hash": "BF43E178A2658D6C",
+      "unresolved": false,
+      "fr": "Je veux dire par là que certains facteurs extérieurs sont capables d'induire chez eux des mutations soudaines et imprévisibles... Gardez cette information à l'esprit quand vous partez en exploration\u00A0!",
+      "ja": "これは、何らかの外的要因によって、\r\n魔物が急速な突然変異を起こす可能性を示しています！\r\n探索の際は、このことを心に留めておいてください！",
+      "frMacro": "Je veux dire par là que certains facteurs extérieurs sont capables d'induire chez eux des mutations soudaines et im<->pré<->vi<->si<->bles... Gardez cette information à l'esprit quand vous partez en exploration<nbsp>!",
+      "jaMacro": "これは、何らかの外的要因によって、<br>魔物が急速な突然変異を起こす可能性を示しています！<br>探索の際は、このことを心に留めておいてください！",
+      "conversation": "custom/005/CtsErkEureka2EventGuide_00507",
+      "seq": 1,
+      "speaker": "INV00463",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka2EventGuide_00507"
+    }
+  ]
+}

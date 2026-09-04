@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonCrystaltower_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonCrystaltower_00000#TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_000",
+      "en": "You fight valiantly, mortals, but to no avail.",
+      "hash": "C9C664444BC36C49",
+      "unresolved": false,
+      "fr": "Que de vulgaires humains arrivent jusqu'ici\u00A0!?\r\nMais c'est trop tard, pauvres sots\u00A0! Rien ne peut plus arrêter les ténèbres\u00A0!",
+      "ja": "人風情が よくここまで来たな\r\nだが手遅れだ…… 闇はもう そこまで来ている",
+      "frMacro": "Que de vulgaires humains arrivent jusqu'ici<nbsp>!?<br>Mais c'est trop tard, pauvres sots<nbsp>! Rien ne peut plus arrêter les ténèbres<nbsp>!",
+      "jaMacro": "人風情が よくここまで来たな<br>だが手遅れだ…… 闇はもう そこまで来ている",
+      "conversation": "dungeon/000/DungeonCrystaltower_00000",
+      "seq": 0,
+      "speaker": "XANDE",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonCrystaltower_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonCrystaltower_00000#TEXT_DUNGEONCRYSTALTOWER_00000_XANDE_000_010",
+      "en": "Absolute darkness draws nigh. Soon it will be unleashed, and all shall return to nothingness!",
+      "hash": "984E95C91C956AC8",
+      "unresolved": false,
+      "fr": "Ce monde va disparaître dans le néant\u00A0!\r\nHahahaha... Réjouissez-vous, car vous serez les premiers à mourir\u00A0!!",
+      "ja": "私は 世界を完全なる闇で覆いつくす……\r\nファファファ…… 死ねい！！",
+      "frMacro": "Ce monde va disparaître dans le néant<nbsp>!<br>Hahahaha... Réjouissez-vous, car vous serez les premiers à mourir<nbsp>!!",
+      "jaMacro": "私は 世界を完全なる闇で覆いつくす……<br>ファファファ…… 死ねい！！",
+      "conversation": "dungeon/000/DungeonCrystaltower_00000",
+      "seq": 1,
+      "speaker": "XANDE",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonCrystaltower_00000"
+    }
+  ]
+}

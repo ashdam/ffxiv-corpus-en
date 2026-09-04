@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonDeepdungeon3_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_000",
+      "en": "Intruder detected. Initiating countermeasures. Commencing emergency deployment of proto-Dalamud.",
+      "hash": "3C459A4C1E70C31B",
+      "unresolved": false,
+      "fr": "(-Voix robotique-)Intrus détecté... Activation des défenses... Démarrage en urgence du proto-Dalamud...",
+      "ja": "(-響き渡る機械音声-)侵入者を検出……迎撃を開始します……。\r\nプロトダラガブ緊急開放……。",
+      "jaMacro": "(-響き渡る機械音声-)侵入者を検出……迎撃を開始します……。<br>プロトダラガブ緊急開放……。",
+      "conversation": "dungeon/000/DungeonDeepdungeon3_00000",
+      "seq": 0,
+      "speaker": "Mechanical Voice",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDeepdungeon3_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3LASTBOSS_000_010",
+      "en": "I...am... No... Phlegethon...forgive me...",
+      "hash": "87DFAD1C5C35187B",
+      "unresolved": false,
+      "fr": "J-je... Aaah... Phlégéton... Pardonne-moi d'avoir étouffé ta révolution...",
+      "ja": "ワたシ  私は  嗚呼――\r\n許せティターン  お前の革命を挫く私を――",
+      "jaMacro": "ワたシ  私は  嗚呼――<br>許せティターン  お前の革命を挫く私を――",
+      "conversation": "dungeon/000/DungeonDeepdungeon3_00000",
+      "seq": 1,
+      "speaker": "DD3LASTBOSS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDeepdungeon3_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_015",
+      "en": "Warning. Excalibur separated from organic host. Initializing transfer to floor 100 for surveillance.",
+      "hash": "3AD32C13CEF1E601",
+      "unresolved": false,
+      "fr": "(-Voix robotique-)Alerte\u00A0! Excalibur a échappé à son confinement organique. Transfert au sous-sol 100... Envoi vers la zone de confinement...",
+      "ja": "(-響き渡る機械音声-)警告、エクスカリバーが生体から分離しました。\r\nB100へ転送……保管モードへ移行します……。",
+      "frMacro": "(-Voix robotique-)Alerte<nbsp>! Excalibur a échappé à son confinement organique. Transfert au sous-sol 100... Envoi vers la zone de confinement...",
+      "jaMacro": "(-響き渡る機械音声-)警告、エクスカリバーが生体から分離しました。<br>B100へ転送……保管モードへ移行します……。",
+      "conversation": "dungeon/000/DungeonDeepdungeon3_00000",
+      "seq": 2,
+      "speaker": "Mechanical Voice",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonDeepdungeon3_00000"
+    }
+  ]
+}

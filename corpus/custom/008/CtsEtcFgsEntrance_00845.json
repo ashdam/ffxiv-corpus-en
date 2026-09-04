@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/008/CtsEtcFgsEntrance_00845",
+  "entries": [
+    {
+      "gameKey": "custom/008/CtsEtcFgsEntrance_00845#TEXT_CTSETCFGSENTRANCE_00845_FGSGUIDE00845_000_000",
+      "en": "Welcome to Blunderville Square! Before you take part in your first show, I suggest you have a chat with the Beankeep.",
+      "hash": "DE1F48E8B47496C9",
+      "unresolved": false,
+      "fr": "Bienvenue à vous\u00A0! Pour commencer, veuillez prendre conseil auprès de ma collègue juste à côté de moi.",
+      "ja": "ようこそお越しくださいました！\r\nまずは隣にいる「案内窓口」へお声がけください。",
+      "frMacro": "Bienvenue à vous<nbsp>! Pour commencer, veuillez prendre conseil auprès de ma collègue juste à côté de moi.",
+      "jaMacro": "ようこそお越しくださいました！<br>まずは隣にいる「案内窓口」へお声がけください。",
+      "conversation": "custom/008/CtsEtcFgsEntrance_00845",
+      "seq": 0,
+      "speaker": "FGSGUIDE00845",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/CtsEtcFgsEntrance_00845"
+    }
+  ]
+}

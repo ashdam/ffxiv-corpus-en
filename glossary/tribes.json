@@ -1,0 +1,90 @@
+{
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "terms": [
+    {
+      "en": "Ananta",
+      "fr": "Anantas",
+      "ja": "アナンタ族：アルパ国境警備隊",
+      "protect": false
+    },
+    {
+      "en": "Arkasodara",
+      "fr": "Arkasodaras",
+      "ja": "アルカソーダラ族：ヒッポライダーズ",
+      "protect": false
+    },
+    {
+      "en": "Ixal",
+      "fr": "Ixali",
+      "ja": "イクサル族：エカトル空力団",
+      "protect": false
+    },
+    {
+      "en": "Kojin",
+      "fr": "Kojin verts",
+      "ja": "コウジン族：碧甲羅",
+      "protect": false
+    },
+    {
+      "en": "Loporrits",
+      "fr": "Loporrites",
+      "ja": "レポリット族：ドリーミング・ワークショップ",
+      "protect": false
+    },
+    {
+      "en": "Mamool Ja",
+      "fr": "Mamool Ja",
+      "ja": "マムージャ族：ゴクゴルマ農園",
+      "protect": true
+    },
+    {
+      "en": "Namazu",
+      "fr": "Namazu",
+      "ja": "ナマズオ族：大鯰大祭実行委員会",
+      "protect": true
+    },
+    {
+      "en": "Omicrons",
+      "fr": "Omicrons",
+      "ja": "オミクロン族：カフェ「ラストレムナント」",
+      "protect": true
+    },
+    {
+      "en": "Pelupelu",
+      "fr": "Pelupelu",
+      "ja": "ペルペル族：トラル旅行公司",
+      "protect": true
+    },
+    {
+      "en": "Qitari",
+      "fr": "Qitari",
+      "ja": "キタリ族：ルリの発掘隊",
+      "protect": true
+    },
+    {
+      "en": "Sahagin",
+      "fr": "Sahuagins",
+      "ja": "サハギン族：ノォヴ一味",
+      "protect": false
+    },
+    {
+      "en": "Vanu Vanu",
+      "fr": "Vanu Vanu",
+      "ja": "バヌバヌ族：鮮やかなグンド",
+      "protect": true
+    },
+    {
+      "en": "Vath",
+      "fr": "Gnathes",
+      "ja": "グナース族：分かたれし者たち",
+      "protect": false
+    },
+    {
+      "en": "Yok Huy",
+      "fr": "Yok Huy",
+      "ja": "ヨカフイ族：ジィゴーテー拝壇復旧団",
+      "protect": true
+    }
+  ]
+}

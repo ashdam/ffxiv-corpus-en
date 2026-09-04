@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/CmnDefF1e5Exit_00049",
+  "entries": [
+    {
+      "gameKey": "custom/000/CmnDefF1e5Exit_00049#TEXT_CMNDEFF1E5EXIT_00049_YESNO_Q",
+      "en": "Leave the Lotus Stand?",
+      "hash": "DA4F27224B8D125A",
+      "unresolved": false,
+      "fr": "Sortir de la Chaire du Lotus\u00A0?",
+      "ja": "「不語仙の座卓」をでます。",
+      "frMacro": "Sortir de la Chaire du Lotus<nbsp>?",
+      "conversation": "custom/000/CmnDefF1e5Exit_00049",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e5Exit_00049"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e5Exit_00049#TEXT_CMNDEFF1E5EXIT_00049_YESNO_Y",
+      "en": "Yes",
+      "hash": "C743CDE4E6BC98FA",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/000/CmnDefF1e5Exit_00049",
+      "seq": 1,
+      "speaker": "Y",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e5Exit_00049"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e5Exit_00049#TEXT_CMNDEFF1E5EXIT_00049_YESNO_N",
+      "en": "No",
+      "hash": "F8A16084B2D17586",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/000/CmnDefF1e5Exit_00049",
+      "seq": 2,
+      "speaker": "N",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e5Exit_00049"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonYTC1_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonYTC1_00000#TEXT_DUNGEONYTC1_00000_2P_000_000",
+      "en": "That's him. The one controlling the machines.",
+      "hash": "3CEBF2CC39D36BFA",
+      "unresolved": false,
+      "fr": "C'est lui, celui qui contrôle les formes de vie mécaniques\u00A0!",
+      "ja": "出たぞ！ アイツが機械を操っている元凶だ！！",
+      "frMacro": "C'est lui, celui qui contrôle les formes de vie mécaniques<nbsp>!",
+      "conversation": "dungeon/000/DungeonYTC1_00000",
+      "seq": 0,
+      "speaker": "2P",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC1_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonYTC1_00000#TEXT_DUNGEONYTC1_00000_9S_000_000",
+      "en": "Well, well...",
+      "hash": "37A3C30CD32243BA",
+      "unresolved": false,
+      "fr": "Te voilà...",
+      "ja": "見つけたぞ……",
+      "conversation": "dungeon/000/DungeonYTC1_00000",
+      "seq": 1,
+      "speaker": "9S",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC1_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonYTC1_00000#TEXT_DUNGEONYTC1_00000_9S_000_001",
+      "en": "Now I destroy you─once and for all.",
+      "hash": "6CE4E41001B9645C",
+      "unresolved": false,
+      "fr": "Cette fois... je vais te détruire pour de bon\u00A0!",
+      "ja": "今度こそ…… 跡形もなく壊すッ！",
+      "frMacro": "Cette fois... je vais te détruire pour de bon<nbsp>!",
+      "conversation": "dungeon/000/DungeonYTC1_00000",
+      "seq": 2,
+      "speaker": "9S",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC1_00000"
+    }
+  ]
+}

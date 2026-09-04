@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnDefHousingWorkshopExit_00225",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnDefHousingWorkshopExit_00225#TEXT_CMNDEFHOUSINGWORKSHOPEXIT_00225_EXIT_TITLE",
+      "en": "Leave the company workshop?",
+      "hash": "7F56955F86B6F8E2",
+      "unresolved": false,
+      "fr": "Sortir de l'atelier de compagnie\u00A0?",
+      "ja": "「地下工房」から出ますか？",
+      "frMacro": "Sortir de l'atelier de compagnie<nbsp>?",
+      "conversation": "custom/002/CmnDefHousingWorkshopExit_00225",
+      "seq": 0,
+      "speaker": "TITLE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWorkshopExit_00225"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingWorkshopExit_00225#TEXT_CMNDEFHOUSINGWORKSHOPEXIT_00225_EXIT_YES",
+      "en": "Yes",
+      "hash": "7139E68BE6A1C8D8",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/002/CmnDefHousingWorkshopExit_00225",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWorkshopExit_00225"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingWorkshopExit_00225#TEXT_CMNDEFHOUSINGWORKSHOPEXIT_00225_EXIT_NO",
+      "en": "No",
+      "hash": "2AF8B02CBEFEDDDE",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/002/CmnDefHousingWorkshopExit_00225",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWorkshopExit_00225"
+    }
+  ]
+}

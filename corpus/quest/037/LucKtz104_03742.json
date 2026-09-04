@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/037/LucKtz104_03742",
+  "entries": [
+    {
+      "gameKey": "quest/037/LucKtz104_03742#TEXT_LUCKTZ104_03742_SYSTEM_000_000",
+      "en": "Memory of a Damaged Machine archived.",
+      "hash": "700B1237042C340F",
+      "macro": "<italic(1)>Memory of a Damaged Machine<italic(0)> archived.",
+      "unresolved": false,
+      "fr": "Vous avez trouvé une “mémoire résiduelle”.",
+      "ja": "「機械の残骸に残された記録」を入手した。",
+      "conversation": "quest/037/LucKtz104_03742",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "system",
+      "questId": "LucKtz104_03742",
+      "category": "Sephiroth Missions",
+      "previousQuest": "LucKta002_03718",
+      "questLevel": 1,
+      "questRowId": 69278,
+      "expansion": "Shadowbringers",
+      "eventIconType": 1
+    }
+  ]
+}

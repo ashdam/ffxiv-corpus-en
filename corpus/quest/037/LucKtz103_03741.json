@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/037/LucKtz103_03741",
+  "entries": [
+    {
+      "gameKey": "quest/037/LucKtz103_03741#TEXT_LUCKTZ103_03741_SYSTEM_000_000",
+      "en": "Unidentified Expedition Log 3 archived.",
+      "hash": "3B7137AAEF1C52FB",
+      "macro": "<italic(1)>Unidentified Expedition Log 3<italic(0)> archived.",
+      "unresolved": false,
+      "fr": "Vous avez trouvé le “3e compte rendu d'exploration”.",
+      "ja": "「誰かが残した調査記録3」を入手した。",
+      "conversation": "quest/037/LucKtz103_03741",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "system",
+      "questId": "LucKtz103_03741",
+      "category": "Sephiroth Missions",
+      "previousQuest": "LucKta002_03718",
+      "questLevel": 1,
+      "questRowId": 69277,
+      "expansion": "Shadowbringers",
+      "eventIconType": 1
+    }
+  ]
+}

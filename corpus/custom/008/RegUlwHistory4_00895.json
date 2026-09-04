@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/008/RegUlwHistory4_00895",
+  "entries": [
+    {
+      "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_000",
+      "en": "The panel bears information on the history of the Milalla.",
+      "hash": "8E216670F48F9E43",
+      "unresolved": false,
+      "fr": "Une présentation succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "ja": "ミララ族の歴史が記述されているようだ。",
+      "frMacro": "Une pré<->sen<->ta<->tion succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "conversation": "custom/008/RegUlwHistory4_00895",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory4_00895"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_010",
+      "en": "Esteemed for their excellence in the study of electrope, the Milalla were favored by the rulers of many a nation.",
+      "hash": "AA8173E7CBCA1DBB",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre IV-)La technologie à base d'électrope mise au point par les Milalla ne tarda pas à dépasser leurs frontières. Bien vite, ils s'attirèrent les faveurs des souverains des nations environnantes, finissant même par y occuper certains postes de haut rang.",
+      "ja": "(-四の章-)エレクトロープを扱う特殊な技術は高く評価され、\r\nミララ族は、各国の王族や貴族に重用されるようになりました。",
+      "jaMacro": "(-四の章-)エレクトロープを扱う特殊な技術は高く評価され、<br>ミララ族は、各国の王族や貴族に重用されるようになりました。",
+      "conversation": "custom/008/RegUlwHistory4_00895",
+      "seq": 1,
+      "speaker": "Chapter IV",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory4_00895"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_011",
+      "en": "Some among them have attempted to invoke the power of their ancient relic to return to their homeland, but their efforts were to no avail. Never again has the golden path opened that allowed their ancestors to flee to safety.",
+      "hash": "04D634C1DE16B5D0",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre IV-)Si certains Milalla ambitionnaient plutôt de regagner la terre d'origine de leur peuple grâce au pouvoir de la relique ancestrale, ils ne parvinrent jamais à rouvrir la voie dorée par laquelle leurs aïeux étaient jadis arrivés.",
+      "ja": "(-四の章-)彼らのなかには、再び「秘宝」の力を用いて、\r\n故郷へ帰ろうとする者もいましたが、それは叶いませんでした。\r\n祖先を逃避させた黄金の路は、決して開くことがなかったのです。",
+      "jaMacro": "(-四の章-)彼らのなかには、再び「秘宝」の力を用いて、<br>故郷へ帰ろうとする者もいましたが、それは叶いませんでした。<br>祖先を逃避させた黄金の路は、決して開くことがなかったのです。",
+      "conversation": "custom/008/RegUlwHistory4_00895",
+      "seq": 2,
+      "speaker": "Chapter IV",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory4_00895"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_012",
+      "en": "Eventually, the relic came to be forgotten, and some now question whether it ever actually existed.",
+      "hash": "FB7FE3C4036D8478",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre IV-)La mystérieuse relique tomba finalement dans l'oubli, si bien qu'on se demande aujourd'hui si elle a vraiment existé, ou si elle n'a jamais appartenu qu'aux contes et légendes des Milalla...",
+      "ja": "(-四の章-)やがて「秘宝」の存在は忘れ去られ、\r\n今となっては、本当に実在したのかも不明となっています。",
+      "jaMacro": "(-四の章-)やがて「秘宝」の存在は忘れ去られ、<br>今となっては、本当に実在したのかも不明となっています。",
+      "conversation": "custom/008/RegUlwHistory4_00895",
+      "seq": 3,
+      "speaker": "Chapter IV",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory4_00895"
+    }
+  ]
+}

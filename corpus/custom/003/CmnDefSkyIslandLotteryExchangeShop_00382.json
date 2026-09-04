@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382",
+  "entries": [
+    {
+      "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR",
+      "en": "Greetings, ! I am a locksmith by trade, and decided to set up shop here when I heard folk were bringing back locked boxes from the Diadem. I'd be happy to put my skills to work for you...should you happen to need them.",
+      "hash": "89B0A200BC7ED0E7",
+      "macro": "Greetings, <if(gnum4,madam,sir)>! I am a locksmith by trade, and decided to set up shop here when I heard folk were bringing back locked boxes from the Diadem. I'd be happy to put my skills to work for you...should you happen to need them.",
+      "unresolved": false,
+      "fr": "Bien que je n'en sois pas particulièrement fière, je suis une ancienne voleuse qui a récemment décidé de se reconvertir en serrurière. Aujourd'hui, je mets mes talents au service des aventuriers et autres explorateurs qui cherchent à ouvrir des coffres verrouillés.\r\nSi jamais vous découvrez de tels objets au cours d'une expédition au Diadème, n'hésitez surtout pas à me les apporter, je me ferai un malin plaisir de les crocheter pour vous.",
+      "ja": "鍵師を生業にしていてね……。\r\nキミは持っていないようだけれど、\r\n鍵の掛かった「ロックボックス」の解錠をやってるのさ。",
+      "frMacro": "Bien que je n'en sois pas par<->ti<->cu<->liè<->rement fière, je suis une ancienne voleuse qui a récemment décidé de se reconvertir en serrurière. Aujourd'hui, je mets mes talents au service des aventuriers et autres explorateurs qui cherchent à ouvrir des coffres verrouillés.<br>Si jamais vous découvrez de tels objets au cours d'une expédition au Diadème, n'hésitez surtout pas à me les apporter, je me ferai un malin plaisir de les crocheter pour vous.",
+      "jaMacro": "鍵師を生業にしていてね……。<br>キミは持っていないようだけれど、<br>鍵の掛かった「ロックボックス」の解錠をやってるのさ。",
+      "conversation": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382"
+    }
+  ]
+}

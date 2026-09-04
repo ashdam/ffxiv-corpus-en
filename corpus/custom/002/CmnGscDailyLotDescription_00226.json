@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnGscDailyLotDescription_00226",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01",
+      "en": "Good , fair traveler! I am the purveyor of Mini Cactpot tickets. Why not buy one to find out why we say “prosperity's but a scratch away”?",
+      "hash": "DFD7DE14286E3E8F",
+      "macro": "Good <if([gnum11<12],<if([gnum11<4],evening,morning)>,<if([gnum11<17],day,evening)>)>, fair traveler! I am the purveyor of Mini Cactpot tickets. Why not buy one to find out why we say “prosperity's but a scratch away”?",
+      "unresolved": false,
+      "fr": "Le Mini Cactpot est une loterie quotidienne peu onéreuse et ouverte à tous\u00A0! Est-ce votre jour de chance\u00A0? Demandez-le au Mini Cactpot\u00A0!",
+      "ja": "「ミニ・くじテンダー」は、お気軽に挑戦可能な日めくりくじ。\r\n今日という日の運試しに、\r\nぜひ「ミニ・くじテンダー」をご利用ください！",
+      "frMacro": "Le Mini Cactpot est une loterie quotidienne peu onéreuse et ouverte à tous<nbsp>! Est-ce votre jour de chance<nbsp>? Demandez-le au Mini Cactpot<nbsp>!",
+      "jaMacro": "「ミニ・くじテンダー」は、お気軽に挑戦可能な日めくりくじ。<br>今日という日の運試しに、<br>ぜひ「ミニ・くじテンダー」をご利用ください！",
+      "conversation": "custom/002/CmnGscDailyLotDescription_00226",
+      "seq": 0,
+      "speaker": "TALK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnGscDailyLotDescription_00226"
+    },
+    {
+      "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02",
+      "en": "You can purchase up to three Mini Cactpot tickets per day.",
+      "hash": "3AFF6D18D7E2531D",
+      "unresolved": false,
+      "fr": "Vous pouvez tenter votre chance au Mini Cactpot trois fois par jour.",
+      "ja": "「ミニ・くじテンダー」は、1日につき、3回まで挑戦可能です。",
+      "conversation": "custom/002/CmnGscDailyLotDescription_00226",
+      "seq": 1,
+      "speaker": "TALK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnGscDailyLotDescription_00226"
+    },
+    {
+      "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03",
+      "en": "The counter for Mini Cactpot tickets resets daily at   (Earth time).",
+      "hash": "2FA85630F9B3A739",
+      "macro": "The counter for Mini Cactpot tickets resets daily at <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (Earth time).",
+      "unresolved": false,
+      "fr": "Ce nombre de participations est réinitialisé tous les jours à h (temps réel).",
+      "ja": "この挑戦回数は、\r\n（地球時間）毎日、時にリセットされます。\r\n挑戦回数を終えた場合は、リセット時刻までお待ちください。",
+      "frMacro": "Ce nombre de par<->ti<->ci<->pa<->tions est réinitialisé tous les jours à <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23)>,0)>h (temps réel).",
+      "jaMacro": "この挑戦回数は、<br>（地球時間）毎日、<setresettime(0)><if([t_hour>=12],午後,午前)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,0,1,2,3,4,5,6,7,8,9,10,11)>,0)>時にリセットされます。<br>挑戦回数を終えた場合は、リセット時刻までお待ちください。",
+      "conversation": "custom/002/CmnGscDailyLotDescription_00226",
+      "seq": 2,
+      "speaker": "TALK",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnGscDailyLotDescription_00226"
+    }
+  ]
+}

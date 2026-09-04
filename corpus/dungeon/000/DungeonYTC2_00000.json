@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonYTC2_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonYTC2_00000#TEXT_DUNGEONYTC2_00000_2B_000_000",
+      "en": "Unit 2P process termination confirmed.",
+      "hash": "699CD4CF2A2435D0",
+      "unresolved": false,
+      "fr": "J-je ne détecte plus d'activité... Je l'ai eue\u00A0?",
+      "ja": "２Ｐの起動停止状態を確認……",
+      "frMacro": "J-je ne détecte plus d'activité... Je l'ai eue<nbsp>?",
+      "conversation": "dungeon/000/DungeonYTC2_00000",
+      "seq": 0,
+      "speaker": "2B",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC2_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonYTC2_00000#TEXT_DUNGEONYTC2_00000_2B_000_001",
+      "en": "No, wait...",
+      "hash": "1F8FA30DB89E60D0",
+      "unresolved": false,
+      "fr": "... Qu'est-ce que\u00A0!? Oh non\u00A0!",
+      "ja": "いや これは……！？",
+      "frMacro": "... Qu'est-ce que<nbsp>!? Oh non<nbsp>!",
+      "conversation": "dungeon/000/DungeonYTC2_00000",
+      "seq": 1,
+      "speaker": "2B",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC2_00000"
+    }
+  ]
+}

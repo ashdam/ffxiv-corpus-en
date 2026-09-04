@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonYTC3_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonYTC3_00000#TEXT_DUNGEONYTC3_00000_2B_000_000",
+      "en": "What will it take for these things to die and stay dead?",
+      "hash": "D360D04FA66CAA22",
+      "unresolved": false,
+      "fr": "Merde, encore elle... ",
+      "ja": "あいつは……！？\r\nくそッ…… いくら倒してもきりがない……",
+      "jaMacro": "あいつは……！？<br>くそッ…… いくら倒してもきりがない……",
+      "conversation": "dungeon/000/DungeonYTC3_00000",
+      "seq": 0,
+      "speaker": "2B",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC3_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonYTC3_00000#TEXT_DUNGEONYTC3_00000_9S_000_001",
+      "en": "No... Stop them!",
+      "hash": "5F97F272BA35D0AF",
+      "unresolved": false,
+      "fr": "Nous devons les arrêter\u00A0!",
+      "ja": "奴らの計画を止めないと！",
+      "frMacro": "Nous devons les arrêter<nbsp>!",
+      "conversation": "dungeon/000/DungeonYTC3_00000",
+      "seq": 1,
+      "speaker": "9S",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonYTC3_00000"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/041/VoiceMan_04101",
+  "entries": [
+    {
+      "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000010_ALGUS",
+      "en": "Who dares disturb the slumber of Argath Thadalfus, rightful king of Ivalice!?",
+      "hash": "0159AB53432A4FF1",
+      "unresolved": false,
+      "fr": "“Je suis Argath, roi d'Ivalice\u00A0! Qui ose troubler mon sommeil\u00A0?”",
+      "ja": "“朕はイヴァリースの王\u3000アルガスなり！\r\n朕の眠りを妨げるはなにゆえか？”",
+      "frMacro": "“Je suis Argath, roi d'Ivalice<nbsp>! Qui ose troubler mon sommeil<nbsp>?”",
+      "jaMacro": "“朕はイヴァリースの王\u3000アルガスなり！<br>朕の眠りを妨げるはなにゆえか？”",
+      "conversation": "cut_scene/041/VoiceMan_04101",
+      "seq": 0,
+      "speaker": "ALGUS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/041/VoiceMan_04101"
+    },
+    {
+      "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000011_ALGUS",
+      "en": "Descendants of House Beoulve? Then by my sword shall I banish your souls to the deepest hell!",
+      "hash": "D8706DD2FF2D68BC",
+      "unresolved": false,
+      "fr": "“Des descendants de la maison Beoulve\u00A0? Dans ce cas, de mon épée, je vais détruire vos âmes\u00A0!”",
+      "ja": "“貴様はベオルブ家の末裔か……？\r\nならば\u3000朕\u3000みずからの剣にて葬るのみよ！！”",
+      "frMacro": "“Des descendants de la maison Beoulve<nbsp>? Dans ce cas, de mon épée, je vais détruire vos âmes<nbsp>!”",
+      "jaMacro": "“貴様はベオルブ家の末裔か……？<br>ならば\u3000朕\u3000みずからの剣にて葬るのみよ！！”",
+      "conversation": "cut_scene/041/VoiceMan_04101",
+      "seq": 1,
+      "speaker": "ALGUS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/041/VoiceMan_04101"
+    },
+    {
+      "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000020_ALGUS",
+      "en": "Where... Where am I? This body... It is not my own. Oh, gods, what have I done? Save me Ramza! Save me!",
+      "hash": "A7B7EF2BA1A6E9E2",
+      "unresolved": false,
+      "fr": "“Mais que fais-je... ici\u00A0!?\u00A0... Et qu'est-il... arrivé à mon corps\u00A0!?\u00A0... Au secours... Ramza\u00A0!\u00A0...”",
+      "ja": "“オレはいったい…？\u3000どうしてここに……！？\r\nなんだ…この身体は？\u3000助けて…くれ…ラム…ザ……！”",
+      "frMacro": "“Mais que fais-je... ici<nbsp>!?<nbsp>... Et qu'est-il... arrivé à mon corps<nbsp>!?<nbsp>... Au secours... Ramza<nbsp>!<nbsp>...”",
+      "jaMacro": "“オレはいったい…？\u3000どうしてここに……！？<br>なんだ…この身体は？\u3000助けて…くれ…ラム…ザ……！”",
+      "conversation": "cut_scene/041/VoiceMan_04101",
+      "seq": 2,
+      "speaker": "ALGUS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "cut_scene/041/VoiceMan_04101"
+    }
+  ]
+}

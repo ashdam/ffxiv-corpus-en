@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka3Sphere3_00522",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka3Sphere3_00522#TEXT_CTSERKEUREKA3SPHERE3_00522_SYSTEM_000_000",
+      "en": "At the center of the confluence of aether you find a shimmering stone─magicite. As you kneel to retrieve it, the confluence dissipates...",
+      "hash": "75B9EF86F974AC12",
+      "unresolved": false,
+      "fr": "Un point de résurgence du flux éthéré. En l'examinant de plus près, vous distinguez d'étranges reflets semblables à ceux... d'une magicite\u00A0! Rapportez-la à Krile, au Septentrion.",
+      "ja": "エーテルの奔流の中から、煌めく魔晶石を回収した。\r\nさっそく「クルル」に報告しよう。",
+      "frMacro": "Un point de résurgence du flux éthéré. En l'examinant de plus près, vous distinguez d'étranges reflets semblables à ceux... d'une magicite<nbsp>! Rapportez-la à Krile, au Septentrion.",
+      "jaMacro": "エーテルの奔流の中から、煌めく魔晶石を回収した。<br>さっそく「クルル」に報告しよう。",
+      "conversation": "custom/005/CtsErkEureka3Sphere3_00522",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3Sphere3_00522"
+    }
+  ]
+}

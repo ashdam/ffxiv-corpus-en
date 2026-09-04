@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka3MagiaArca_00515",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka3MagiaArca_00515#TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_000",
+      "en": "This strange and mysterious device does not appear to be operational...",
+      "hash": "BD2FFFBD066B4ABE",
+      "unresolved": false,
+      "fr": "Cet étrange appareil semble fonctionner, mais impossible de deviner son utilité...",
+      "ja": "見たことのない不思議な装置がある。\r\nどうやら起動準備中のようだ……。",
+      "jaMacro": "見たことのない不思議な装置がある。<br>どうやら起動準備中のようだ……。",
+      "conversation": "custom/005/CtsErkEureka3MagiaArca_00515",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3MagiaArca_00515"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3MagiaArca_00515#TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_010",
+      "en": "This strange and mysterious device appears to be the logos manipulator of which Drake spoke. Hopefully it is as simple and easy to use as he claims...",
+      "hash": "1958B4ACECB4A4AD",
+      "unresolved": false,
+      "fr": "Cette curieuse machine doit être le mélangeur Logos dont Drake vous a parlé. Essayez de vous en servir afin d'extraire le savoir contenu dans un éclat Logos.",
+      "ja": "見たことのない不思議な装置がある……。\r\nこれがドレイクの言う「ロゴスミキサー」のようだ。\r\nさっそく記憶の抽出を行おう。",
+      "jaMacro": "見たことのない不思議な装置がある……。<br>これがドレイクの言う「ロゴスミキサー」のようだ。<br>さっそく記憶の抽出を行おう。",
+      "conversation": "custom/005/CtsErkEureka3MagiaArca_00515",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3MagiaArca_00515"
+    }
+  ]
+}

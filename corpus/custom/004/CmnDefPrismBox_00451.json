@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/CmnDefPrismBox_00451",
+  "entries": [
+    {
+      "gameKey": "custom/004/CmnDefPrismBox_00451#TEXT_CMNDEFPRISMBOX_00451_IS_REWARD_PROJECTION",
+      "en": "You have not yet unlocked the glamour dresser.",
+      "hash": "891A887813571EF0",
+      "unresolved": false,
+      "fr": "Utilisation impossible. Vous n'avez pas accès aux mirages.",
+      "ja": "「武具投影」が開放されていないため使用できません。",
+      "conversation": "custom/004/CmnDefPrismBox_00451",
+      "seq": 0,
+      "speaker": "PROJECTION",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/004/CmnDefPrismBox_00451"
+    }
+  ]
+}

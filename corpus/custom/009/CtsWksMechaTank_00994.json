@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CtsWksMechaTank_00994",
+  "entries": [
+    {
+      "gameKey": "custom/009/CtsWksMechaTank_00994#TEXT_CTSWKSMECHATANK_00994_TALK_ACTOR",
+      "en": "These tanks are filled with custom growth formula. Approach one to automatically replenish your sprayers.",
+      "hash": "86B39C328B1BC267",
+      "unresolved": false,
+      "fr": "Il suffit de s'approcher d'un réservoir pour s'approvisionner automatiquement en formule de croissance spéciale\u00A0!",
+      "ja": "特製のグロースフォーミュラが注入されたタンクだ。\r\n接近すると対象者へ自動的に錬金剤を補充する。",
+      "frMacro": "Il suffit de s'approcher d'un réservoir pour s'approvisionner au<->to<->ma<->ti<->que<->ment en formule de croissance spéciale<nbsp>!",
+      "jaMacro": "特製のグロースフォーミュラが注入されたタンクだ。<br>接近すると対象者へ自動的に錬金剤を補充する。",
+      "conversation": "custom/009/CtsWksMechaTank_00994",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsWksMechaTank_00994"
+    }
+  ]
+}

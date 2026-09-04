@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
+  "entries": [
+    {
+      "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000",
+      "en": "Inscribed upon a metal plate are the words “crystal forge.” While the apparatus does not appear to be damaged, its purpose and usage are not entirely clear...",
+      "hash": "B50D1E8DB4B78B06",
+      "unresolved": false,
+      "fr": "Une inscription est gravée sur cet étrange dispositif\u00A0: “”. Vous avez l'impression qu'il est en état de marche, reste à comprendre son utilité...",
+      "ja": "「」と記された装置がある。\r\n壊れてはいないようだが、使い方がわからない……。\r\n何に使うか判明したら、また来てみよう。",
+      "frMacro": "Une inscription est gravée sur cet étrange dispositif<nbsp>: “<head(<frnoun(EObj,12,2009555,1,1)>)>”. Vous avez l'impression qu'il est en état de marche, reste à comprendre son utilité...",
+      "jaMacro": "「<sheet(EObj,2009555,0)>」と記された装置がある。<br>壊れてはいないようだが、使い方がわからない……。<br>何に使うか判明したら、また来てみよう。",
+      "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsErkEureka2EventAetherPot_00493"
+    },
+    {
+      "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010",
+      "en": "Inscribed upon a metal plate are the words “crystal forge.” The apparatus does not appear to be damaged, and it seems simple enough to use─presuming you have sufficient vitiated aether with which to fuel its operation...",
+      "hash": "2BD2A547396F406E",
+      "unresolved": false,
+      "fr": "Une inscription est gravée sur cet étrange dispositif\u00A0: “”... C'est la machine dont parlait Gerolt\u00A0! Vous devriez pouvoir l'utiliser pour transformer l'éther composite en cristaux.",
+      "ja": "「」と記された装置がある。\r\nゲロルトの言っていた特殊な装置だろう。\r\nこれを使えば、混合エーテルを結晶化できるはずだ。",
+      "frMacro": "Une inscription est gravée sur cet étrange dispositif<nbsp>: “<head(<frnoun(EObj,12,2009555,1,1)>)>”... C'est la machine dont parlait Gerolt<nbsp>! Vous devriez pouvoir l'utiliser pour transformer l'éther composite en cristaux.",
+      "jaMacro": "「<sheet(EObj,2009555,0)>」と記された装置がある。<br>ゲロルトの言っていた特殊な装置だろう。<br>これを使えば、混合エーテルを結晶化できるはずだ。",
+      "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsErkEureka2EventAetherPot_00493"
+    },
+    {
+      "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT",
+      "en": "Convert vitiated aether into crystalline form?",
+      "hash": "5CDB69D422F9A9F3",
+      "unresolved": false,
+      "fr": "Transformer l'éther composite accumulé en cristaux\u00A0?",
+      "ja": "エウレカケトルに蓄積された混合エーテルを結晶化しますか？",
+      "frMacro": "Transformer l'éther composite accumulé en cristaux<nbsp>?",
+      "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
+      "seq": 2,
+      "speaker": "CONTENT",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsErkEureka2EventAetherPot_00493"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_000",
+      "en": "Inscribed upon a metal plate are the words “Mark II crystal forge.” While the apparatus does not appear to be damaged, and it is clearly patterned after the forge in Pagos, its purpose and usage are not entirely clear...",
+      "hash": "BB5C618A5C826623",
+      "unresolved": false,
+      "fr": "Vous pouvez lire l'inscription “”. Probablement un dispositif en rapport avec la machine au nom similaire à Pagos. Revenez lorsque vous en aurez l'utilité.",
+      "ja": "「」と記された装置がある。\r\nパゴス帯に設置されていた魔晶炉と、同じものだろうか？\r\n何に使うか判明したら、また来てみよう。",
+      "frMacro": "Vous pouvez lire l'inscription “<head(<frnoun(EObj,12,2009646,1,1)>)>”. Probablement un dispositif en rapport avec la machine au nom similaire à Pagos. Revenez lorsque vous en aurez l'utilité.",
+      "jaMacro": "「<sheet(EObj,2009646,0)>」と記された装置がある。<br>パゴス帯に設置されていた魔晶炉と、同じものだろうか？<br>何に使うか判明したら、また来てみよう。",
+      "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherPot_00538"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_010",
+      "en": "Inscribed upon a metal plate are the words “Mark II crystal forge.” The apparatus does not appear to be damaged, and it seems simple enough to use─presuming you have sufficient vitiated aether with which to fuel its operation...",
+      "hash": "39C96E47D445964D",
+      "unresolved": false,
+      "fr": "Vous pouvez lire l'inscription “”. Vous devriez pouvoir l'utiliser pour transformer l'éther composite en cristaux.",
+      "ja": "「」と記された装置がある。\r\nこれを使えば、混合エーテルを結晶化できるはずだ。",
+      "frMacro": "Vous pouvez lire l'inscription “<head(<frnoun(EObj,12,2009646,1,1)>)>”. Vous devriez pouvoir l'utiliser pour transformer l'éther composite en cristaux.",
+      "jaMacro": "「<sheet(EObj,2009646,0)>」と記された装置がある。<br>これを使えば、混合エーテルを結晶化できるはずだ。",
+      "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherPot_00538"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_020",
+      "en": "It seems your Eurekan kettle lacks sufficient vitiated aether to produce even a single crystal...",
+      "hash": "750FBEAF35BAAB32",
+      "unresolved": false,
+      "fr": "Vous n'avez pas accumulé assez d'éther composite pour former un cristal.",
+      "ja": "結晶化するには、混合エーテルの蓄積量が足りないようだ……。",
+      "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
+      "seq": 2,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherPot_00538"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_YESNO_CONTENT",
+      "en": "Convert vitiated aether into crystalline form?",
+      "hash": "4F4A7CC9ACCB20CD",
+      "unresolved": false,
+      "fr": "Transformer l'éther composite accumulé en cristaux\u00A0?",
+      "ja": "エウレカケトルに蓄積された混合エーテルを結晶化しますか？",
+      "frMacro": "Transformer l'éther composite accumulé en cristaux<nbsp>?",
+      "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
+      "seq": 3,
+      "speaker": "CONTENT",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherPot_00538"
+    }
+  ]
+}

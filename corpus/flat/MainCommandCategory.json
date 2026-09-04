@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "MainCommandCategory",
+  "entries": [
+    {
+      "gameKey": "MainCommandCategory#1",
+      "en": "Character",
+      "hash": "C92CF54A8E2297C6",
+      "unresolved": false,
+      "fr": "Personnage",
+      "ja": "マイキャラクター",
+      "conversation": "MainCommandCategory#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#2",
+      "en": "Duty",
+      "hash": "34FDB86E5F8E6CFF",
+      "unresolved": false,
+      "fr": "Missions",
+      "ja": "コンテンツ情報",
+      "conversation": "MainCommandCategory#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#3",
+      "en": "Logs",
+      "hash": "BEDAAE0A58316E88",
+      "unresolved": false,
+      "fr": "Carnets",
+      "ja": "手帳の管理",
+      "conversation": "MainCommandCategory#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#4",
+      "en": "Travel",
+      "hash": "FDD9AFC894860406",
+      "unresolved": false,
+      "fr": "Déplacements",
+      "ja": "マップ＆トラベル",
+      "conversation": "MainCommandCategory#4",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#5",
+      "en": "Party",
+      "hash": "1A2BA4A76B157B0B",
+      "unresolved": false,
+      "fr": "Équipe",
+      "ja": "パーティ",
+      "conversation": "MainCommandCategory#5",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#6",
+      "en": "Social",
+      "hash": "3C8A8DC7249F477E",
+      "unresolved": false,
+      "fr": "Communication",
+      "ja": "コミュニケーション",
+      "conversation": "MainCommandCategory#6",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    },
+    {
+      "gameKey": "MainCommandCategory#7",
+      "en": "System",
+      "hash": "C689004140F33C31",
+      "unresolved": false,
+      "fr": "Système",
+      "ja": "システムメニュー",
+      "conversation": "MainCommandCategory#7",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommandCategory"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/006/CtsMycEntrance_00673",
+  "entries": [
+    {
+      "gameKey": "custom/006/CtsMycEntrance_00673#TEXT_CTSMYCENTRANCE_00673_Q1_000_000",
+      "en": "What will you do?",
+      "hash": "016B935AE064935A",
+      "unresolved": false,
+      "fr": "Que voulez-vous faire\u00A0?",
+      "ja": "何をする？",
+      "frMacro": "Que voulez-vous faire<nbsp>?",
+      "conversation": "custom/006/CtsMycEntrance_00673",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycEntrance_00673"
+    },
+    {
+      "gameKey": "custom/006/CtsMycEntrance_00673#TEXT_CTSMYCENTRANCE_00673_MENU_CONTENT",
+      "en": "Enter the Bozjan southern front.",
+      "hash": "CC18A55F952D9FDB",
+      "unresolved": false,
+      "fr": "Se rendre sur le ",
+      "ja": "「」に突入する",
+      "frMacro": "Se rendre sur le <head(<sheet(ContentFinderCondition,lnum1,43)>)>",
+      "jaMacro": "「<sheet(ContentFinderCondition,lnum1,43)>」に突入する",
+      "conversation": "custom/006/CtsMycEntrance_00673",
+      "seq": 1,
+      "speaker": "CONTENT",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycEntrance_00673"
+    },
+    {
+      "gameKey": "custom/006/CtsMycEntrance_00673#TEXT_CTSMYCENTRANCE_00673_A1_000_001",
+      "en": "Ask about conditions on the Bozjan southern front.",
+      "hash": "3D73E8A5E1FA9F7C",
+      "unresolved": false,
+      "fr": "En apprendre plus sur le Front sud de Bozja",
+      "ja": "「南方ボズヤ戦線」について詳しく聞く",
+      "conversation": "custom/006/CtsMycEntrance_00673",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycEntrance_00673"
+    },
+    {
+      "gameKey": "custom/006/CtsMycEntrance_00673#TEXT_CTSMYCENTRANCE_00673_A1_000_002",
+      "en": "Nothing.",
+      "hash": "51F7FB3D373EC3C9",
+      "unresolved": false,
+      "fr": "Annuler",
+      "ja": "キャンセル",
+      "conversation": "custom/006/CtsMycEntrance_00673",
+      "seq": 3,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycEntrance_00673"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnGscChocoboRaceDefaultB_00256",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnGscChocoboRaceDefaultB_00256#TEXT_CMNGSCCHOCOBORACEDEFAULTB_00256_COUPLING_000_000",
+      "en": "These days, we've no shortage of fledgling race chocobos. The folks from the Gold Saucer have seen to that.",
+      "hash": "9BF9DDF5B947940E",
+      "unresolved": false,
+      "fr": "Bon\u00A0! Je m'occupe des chocobos de course pour le compte du Gold Saucer. Vous aurez peut-être besoin de mes services, un de ces jours\u00A0!",
+      "ja": "ゴールドソーサーって遊技場から依頼されて、\r\n「チョコボレース」っていう競技のお手伝いをしてるの。\r\nそのうち、君のお手伝いをすることもあるかもね！",
+      "frMacro": "Bon<if([gnum11<12],<if([gnum11<4],soir,jour)>,<if([gnum11<17],jour,soir)>)><nbsp>! Je m'occupe des chocobos de course pour le compte du Gold Saucer. Vous aurez peut-être besoin de mes services, un de ces jours<nbsp>!",
+      "jaMacro": "ゴールドソーサーって遊技場から依頼されて、<br>「チョコボレース」っていう競技のお手伝いをしてるの。<br>そのうち、君のお手伝いをすることもあるかもね！",
+      "conversation": "custom/002/CmnGscChocoboRaceDefaultB_00256",
+      "seq": 0,
+      "speaker": "COUPLING",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnGscChocoboRaceDefaultB_00256"
+    }
+  ]
+}

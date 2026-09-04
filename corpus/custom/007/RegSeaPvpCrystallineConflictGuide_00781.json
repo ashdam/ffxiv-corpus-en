@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/007/RegSeaPvpCrystallineConflictGuide_00781",
+  "entries": [
+    {
+      "gameKey": "custom/007/RegSeaPvpCrystallineConflictGuide_00781#TEXT_REGSEAPVPCRYSTALLINECONFLICTGUIDE_00781_GUNGI_000_000",
+      "en": "Back for an explanation, are you? Perfect. Now, you may wish to cancel any other plans you had for the next day or so...",
+      "hash": "5F49A889DA3E2712",
+      "unresolved": false,
+      "fr": "Vous souhaitez connaître les règles de Crystalline Conflict avant de vous lancer\u00A0? Dans ce cas, vous avez frappé à la bonne porte. Je vais me faire un plaisir de tout vous expliquer de A à Z, dussé-je y passer \u00A0!",
+      "ja": "やあやあ、クリスタルコンフリクトのルールが知りたいんだね？\r\n明日の朝までだって語ってあげるから、\r\n心ゆくまで聞いてってよ！",
+      "frMacro": "Vous souhaitez connaître les règles de Crystalline Conflict avant de vous lancer<nbsp>? Dans ce cas, vous avez frappé à la bonne porte. Je vais me faire un plaisir de tout vous expliquer de A à Z, dussé-je y passer <if([gnum11<12],<if([gnum11<4],la nuit entière,la journée entière)>,<if([gnum11<17],l'après-midi entier,la nuit entière)>)><nbsp>!",
+      "jaMacro": "やあやあ、クリスタルコンフリクトのルールが知りたいんだね？<br>明日の朝までだって語ってあげるから、<br>心ゆくまで聞いてってよ！",
+      "conversation": "custom/007/RegSeaPvpCrystallineConflictGuide_00781",
+      "seq": 0,
+      "speaker": "GUNGI",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/RegSeaPvpCrystallineConflictGuide_00781"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/039/LucKtz309_03938",
+  "entries": [
+    {
+      "gameKey": "quest/039/LucKtz309_03938#TEXT_LUCKTZ309_03938_SYSTEM_000",
+      "en": "White-garbed YoRHa Unit's Data Log archived.",
+      "hash": "B5B7AAB4A859EEDA",
+      "macro": "<italic(1)>White-garbed YoRHa Unit's Data Log<italic(0)> archived.",
+      "unresolved": false,
+      "fr": "Vous avez trouvé le “journal de données d'une unité YoRHa blanche”.",
+      "ja": "「白いヨルハ機体のデータログ」を入手した。",
+      "conversation": "quest/039/LucKtz309_03938",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "system",
+      "questId": "LucKtz309_03938",
+      "category": "Sephiroth Missions",
+      "previousQuest": "LucKta302_03953",
+      "questLevel": 1,
+      "questRowId": 69474,
+      "expansion": "Shadowbringers",
+      "eventIconType": 1
+    }
+  ]
+}

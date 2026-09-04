@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/FesHlx2026HorrorRoomWarp_00995",
+  "entries": [
+    {
+      "gameKey": "custom/009/FesHlx2026HorrorRoomWarp_00995#TEXT_FESHLX2026HORRORROOMWARP_00995_WARP00995_000_000",
+      "en": "Enter the Shrouded Sanctum?",
+      "hash": "184CC254082F54E1",
+      "unresolved": false,
+      "fr": "Aller dans la petite pièce cachée\u00A0?",
+      "ja": "「隠された小部屋」へ移動しますか？",
+      "frMacro": "Aller dans la petite pièce cachée<nbsp>?",
+      "conversation": "custom/009/FesHlx2026HorrorRoomWarp_00995",
+      "seq": 0,
+      "speaker": "WARP00995",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/FesHlx2026HorrorRoomWarp_00995"
+    },
+    {
+      "gameKey": "custom/009/FesHlx2026HorrorRoomWarp_00995#TEXT_FESHLX2026HORRORROOMWARP_00995_WARP00995_000_001",
+      "en": "Leave the Shrouded Sanctum?",
+      "hash": "03AB666391DB9068",
+      "unresolved": false,
+      "fr": "Sortir de la petite pièce cachée\u00A0?",
+      "ja": "「隠された小部屋」から出ますか？",
+      "frMacro": "Sortir de la petite pièce cachée<nbsp>?",
+      "conversation": "custom/009/FesHlx2026HorrorRoomWarp_00995",
+      "seq": 1,
+      "speaker": "WARP00995",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/FesHlx2026HorrorRoomWarp_00995"
+    }
+  ]
+}

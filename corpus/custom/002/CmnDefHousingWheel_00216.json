@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/002/CmnDefHousingWheel_00216",
+  "entries": [
+    {
+      "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE",
+      "en": "Open:  | Charging:  | Primed: \r\nWhat would you like to do?",
+      "hash": "E093E802280AB42D",
+      "macro": "Open: <num(lnum1)> | Charging: <num(lnum2)> | Primed: <num(lnum3)><br>What would you like to do?",
+      "unresolved": true,
+      "fr": "Que voulez-vous faire\u00A0?\r\n[Libre\u00A0: \u3000En charge\u00A0: \u3000Chargé\u00A0: ]",
+      "ja": "何をする？\u3000[空き:\u3000チャージ中:\u3000チャージ済み:]",
+      "frMacro": "Que voulez-vous faire<nbsp>?<br>[Libre<nbsp>: <num(lnum1)>\u3000En charge<nbsp>: <num(lnum2)>\u3000Chargé<nbsp>: <num(lnum3)>]",
+      "jaMacro": "何をする？\u3000[空き:<num(lnum1)>\u3000チャージ中:<num(lnum2)>\u3000チャージ済み:<num(lnum3)>]",
+      "conversation": "custom/002/CmnDefHousingWheel_00216",
+      "seq": 0,
+      "speaker": "TITLE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWheel_00216"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_SETUP_WHEEL",
+      "en": "Place or remove an aetherial wheel.",
+      "hash": "D911A4350C4624DF",
+      "unresolved": false,
+      "fr": "Gérer les tours",
+      "ja": "ホイール管理",
+      "conversation": "custom/002/CmnDefHousingWheel_00216",
+      "seq": 1,
+      "speaker": "WHEEL",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWheel_00216"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CONVERT_ENERGY",
+      "en": "Convert a primed aetherial wheel.",
+      "hash": "8F01E818B1C3407C",
+      "unresolved": false,
+      "fr": "Convertir un tour chargé",
+      "ja": "チャージドホイールを変換する",
+      "conversation": "custom/002/CmnDefHousingWheel_00216",
+      "seq": 2,
+      "speaker": "ENERGY",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWheel_00216"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_CANCEL",
+      "en": "Nothing.",
+      "hash": "30B0113DCBD94586",
+      "unresolved": false,
+      "fr": "Annuler",
+      "ja": "やめる",
+      "conversation": "custom/002/CmnDefHousingWheel_00216",
+      "seq": 3,
+      "speaker": "CANCEL",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingWheel_00216"
+    }
+  ]
+}

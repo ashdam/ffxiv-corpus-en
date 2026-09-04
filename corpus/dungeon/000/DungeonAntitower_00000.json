@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonAntitower_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonAntitower_00000#TEXT_DUNGEONANTITOWER_00000_CALCABRINA_000_000",
+      "en": "We are Calcabrina! Adorable dolls! Terrible dolls! Yip-ho-ho!",
+      "hash": "610541B54BAD2642",
+      "unresolved": false,
+      "fr": "Nous sommes Calcabrina, les poupées mignonnes qui font peur\u00A0! Hiiii hi hi hi\u00A0!",
+      "ja": "僕らは陽気な カルコブリーナ\r\n怖くて 可愛い 人形さ！ キャーホッホッー！ ",
+      "frMacro": "Nous sommes Calcabrina, les poupées mignonnes qui font peur<nbsp>! Hiiii hi hi hi<nbsp>!",
+      "jaMacro": "僕らは陽気な カルコブリーナ<br>怖くて 可愛い 人形さ！ キャーホッホッー！ ",
+      "conversation": "dungeon/000/DungeonAntitower_00000",
+      "seq": 0,
+      "speaker": "CALCABRINA",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonAntitower_00000"
+    }
+  ]
+}

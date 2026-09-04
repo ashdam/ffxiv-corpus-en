@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/HouFurWallpaperPartition_00437",
+  "entries": [
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_Q1_000_000",
+      "en": "Current Design: ",
+      "hash": "87B9C4E8FC8D2BEB",
+      "macro": "Current Design: <sheet(Item,lnum1,9)>",
+      "unresolved": true,
+      "fr": "[Revêtement\u00A0: ]",
+      "ja": "【内壁材：】",
+      "frMacro": "[Revêtement<nbsp>: <sheet(Item,lnum1,0)>]",
+      "jaMacro": "【内壁材：<sheet(Item,lnum1,0)>】",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    },
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_Q1_000_001",
+      "en": "Current Design: Nothing",
+      "hash": "E0B22E605D53A328",
+      "unresolved": false,
+      "fr": "[Revêtement\u00A0: aucun]",
+      "ja": "【内壁材：初期状態】",
+      "frMacro": "[Revêtement<nbsp>: aucun]",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    },
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_002",
+      "en": "Apply Design",
+      "hash": "E6D9AFA867F94A2F",
+      "unresolved": false,
+      "fr": "Coller un revêtement",
+      "ja": "内壁材を張る",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    },
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_003",
+      "en": "Remove Design",
+      "hash": "DB3D83ABC59F9AA2",
+      "unresolved": false,
+      "fr": "Retirer le revêtement",
+      "ja": "内壁材を外す",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 3,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    },
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_004",
+      "en": "Quit",
+      "hash": "4F600B179C6D339F",
+      "unresolved": false,
+      "fr": "Annuler",
+      "ja": "やめる",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 4,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    },
+    {
+      "gameKey": "custom/004/HouFurWallpaperPartition_00437#TEXT_HOUFURWALLPAPERPARTITION_00437_Q2_000_000",
+      "en": " will be discarded if removed from the partition. Are you certain you wish to proceed?",
+      "hash": "11880F7676C25EBA",
+      "macro": "<head(<ennoun(Item,2,lnum1,1,1)>)> will be discarded if removed from the partition. Are you certain you wish to proceed?",
+      "unresolved": true,
+      "fr": "Retirer  et réinitialiser l'apparence de la partition\u00A0?\r\n* L'objet ci-dessous sera perdu.",
+      "ja": "を取り除き、\r\nパーティションを初期状態に戻します。よろしいですか？\r\n※以下のアイテムは消滅します。",
+      "frMacro": "Retirer <frnoun(Item,2,lnum1,1,1)> et réinitialiser l'apparence de la partition<nbsp>?<br><colortype(500)><edgecolortype(501)>* L'objet ci-dessous sera perdu.<edgecolortype(0)><colortype(0)>",
+      "jaMacro": "<sheet(Item,lnum1,0)>を取り除き、<br>パーティションを初期状態に戻します。よろしいですか？<br><colortype(500)><edgecolortype(501)>※以下のアイテムは消滅します。<edgecolortype(0)><colortype(0)>",
+      "conversation": "custom/004/HouFurWallpaperPartition_00437",
+      "seq": 5,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurWallpaperPartition_00437"
+    }
+  ]
+}

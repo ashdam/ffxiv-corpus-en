@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "MultipleHelp",
+  "entries": [
+    {
+      "gameKey": "MultipleHelp#2.1",
+      "en": "Raid Finder Help",
+      "hash": "9CE80F1E2538F721",
+      "unresolved": false,
+      "fr": "Aide de l'outil de raid",
+      "ja": "RAID FINDER HELP",
+      "conversation": "MultipleHelp#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#3.1",
+      "en": "Duty Finder Help",
+      "hash": "8E86506509EF7F8B",
+      "unresolved": false,
+      "fr": "Aide de l'outil de mission",
+      "ja": "CONTENTS FINDER HELP",
+      "conversation": "MultipleHelp#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#4.1",
+      "en": "V&C Dungeon Finder Help",
+      "hash": "2953C4AACD419C05",
+      "unresolved": false,
+      "fr": "Aide de la fenêtre des donjons spéciaux",
+      "ja": "SPECIAL DUNGEON FINDER HELP",
+      "conversation": "MultipleHelp#4",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#5.1",
+      "en": "Party Member Portraits Help",
+      "hash": "5CE7446B6CDAE786",
+      "unresolved": false,
+      "fr": "Aide de la présentation des équipiers",
+      "ja": "PARTY MEMBER INFORMATION HELP",
+      "conversation": "MultipleHelp#5",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#6.1",
+      "en": "Command Panel Help",
+      "hash": "479D82D716679C0F",
+      "unresolved": false,
+      "fr": "Aide de la fenêtre d'accès rapide",
+      "ja": "QUICK PANEL HELP",
+      "conversation": "MultipleHelp#6",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CmnGscEMJGameTable_00547",
+  "entries": [
+    {
+      "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_001",
+      "en": "This table is for novices. Would you like to challenge , , and  to a game of mahjong?",
+      "hash": "E231D45A152BC55B",
+      "macro": "This table is for novices. Would you like to challenge <sheet(Addon,12346,0)>, <sheet(Addon,12347,0)>, and <sheet(Addon,12348,0)> to a game of mahjong?",
+      "unresolved": false,
+      "fr": "Cette table de mahjong est recommandée pour l'entraînement des joueurs de niveau débutant. Voulez-vous jouer contre un spriggan, un mog et une mandragore\u00A0?",
+      "ja": "初心者の練習に最適なドマ式麻雀卓です。\r\n「」、「」、「」\r\nとの対戦を開始しますか？",
+      "frMacro": "Cette table de mahjong est recommandée pour l'en<->traî<->ne<->ment des joueurs de niveau débutant. Voulez-vous jouer contre un spriggan, un mog et une mandragore<nbsp>?",
+      "jaMacro": "初心者の練習に最適なドマ式麻雀卓です。<br>「<sheet(Addon,12346,0)>」、「<sheet(Addon,12347,0)>」、「<sheet(Addon,12348,0)>」<br>との対戦を開始しますか？",
+      "conversation": "custom/005/CmnGscEMJGameTable_00547",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/005/CmnGscEMJGameTable_00547"
+    },
+    {
+      "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_002",
+      "en": "This table is for intermediate players. Would you like to challenge , , and  to a game of mahjong?",
+      "hash": "DAC5515586012753",
+      "macro": "This table is for intermediate players. Would you like to challenge <sheet(Addon,12349,0)>, <sheet(Addon,12350,0)>, and <sheet(Addon,12351,0)> to a game of mahjong?",
+      "unresolved": false,
+      "fr": "Cette table de mahjong est recommandée pour l'entraînement des joueurs de niveau intermédiaire. Voulez-vous jouer contre un chocobo, un bombo et un pampa\u00A0?",
+      "ja": "やや歯ごたえがある中級者向けのドマ式麻雀卓です。\r\n「」、「」、「」\r\nとの対戦を開始しますか？",
+      "frMacro": "Cette table de mahjong est recommandée pour l'en<->traî<->ne<->ment des joueurs de niveau intermédiaire. Voulez-vous jouer contre un chocobo, un bombo et un pampa<nbsp>?",
+      "jaMacro": "やや歯ごたえがある中級者向けのドマ式麻雀卓です。<br>「<sheet(Addon,12349,0)>」、「<sheet(Addon,12350,0)>」、「<sheet(Addon,12351,0)>」<br>との対戦を開始しますか？",
+      "conversation": "custom/005/CmnGscEMJGameTable_00547",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/005/CmnGscEMJGameTable_00547"
+    },
+    {
+      "gameKey": "custom/005/CmnGscEMJGameTable_00547#TEXT_CMNGSCEMJGAMETABLE_00547_Q1_000_003",
+      "en": "This table is for advanced players. Would you like to challenge , , and  to a game of mahjong?",
+      "hash": "67289A113F74BF82",
+      "macro": "This table is for advanced players. Would you like to challenge <sheet(Addon,12352,0)>, <sheet(Addon,12353,0)>, and <sheet(Addon,12354,0)> to a game of mahjong?",
+      "unresolved": false,
+      "fr": "Cette table de mahjong est recommandée pour l'entraînement des joueurs de niveau avancé. Voulez-vous jouer contre un tomberry, un béhémoth et un morbol\u00A0?",
+      "ja": "真剣勝負ができる上級者向けのドマ式麻雀卓です。\r\n「」、「」、「」\r\nとの対戦を開始しますか？",
+      "frMacro": "Cette table de mahjong est recommandée pour l'en<->traî<->ne<->ment des joueurs de niveau avancé. Voulez-vous jouer contre un tomberry, un béhémoth et un morbol<nbsp>?",
+      "jaMacro": "真剣勝負ができる上級者向けのドマ式麻雀卓です。<br>「<sheet(Addon,12352,0)>」、「<sheet(Addon,12353,0)>」、「<sheet(Addon,12354,0)>」<br>との対戦を開始しますか？",
+      "conversation": "custom/005/CmnGscEMJGameTable_00547",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/005/CmnGscEMJGameTable_00547"
+    }
+  ]
+}

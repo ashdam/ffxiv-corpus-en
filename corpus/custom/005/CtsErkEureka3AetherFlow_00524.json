@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka3AetherFlow_00524",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherFlow_00524#TEXT_CTSERKEUREKA3AETHERFLOW_00524_SYSTEM_000_660",
+      "en": "The endless font of aether rising from Pagos far below continues into the skies high above...",
+      "hash": "E8337C8127AF4EA6",
+      "unresolved": false,
+      "fr": "L'éther du geyser de Pagos jaillit jusqu'aux hauteurs de Pyros.",
+      "ja": "パゴス帯で見た大規模なエーテルの奔流が、\r\nピューロス帯まで届いている……。",
+      "jaMacro": "パゴス帯で見た大規模なエーテルの奔流が、<br>ピューロス帯まで届いている……。",
+      "conversation": "custom/005/CtsErkEureka3AetherFlow_00524",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherFlow_00524"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3AetherFlow_00524#TEXT_CTSERKEUREKA3AETHERFLOW_00524_SYSTEM_000_661",
+      "en": "In mere moments, the treated magicite grows bright and warm, as it reacts to the torrential stream of aether, as Krile hoped it would...",
+      "hash": "08C6DC479E57048A",
+      "unresolved": false,
+      "fr": "Alors que vous tendez les magicites au-dessus de son puissant souffle, vous sentez les pierres réagir et se charger en énergie\u00A0! Retournez auprès de Krile\u00A0!",
+      "ja": "加工した魔晶石がエーテルの奔流に反応している！\r\nさっそくこのことを、「クルル」に報告しよう。",
+      "frMacro": "Alors que vous tendez les magicites au-dessus de son puissant souffle, vous sentez les pierres réagir et se charger en énergie<nbsp>! Retournez auprès de Krile<nbsp>!",
+      "jaMacro": "加工した魔晶石がエーテルの奔流に反応している！<br>さっそくこのことを、「クルル」に報告しよう。",
+      "conversation": "custom/005/CtsErkEureka3AetherFlow_00524",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3AetherFlow_00524"
+    }
+  ]
+}

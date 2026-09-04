@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/053/VoiceMan_05301",
+  "entries": [
+    {
+      "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000040_THANCRED",
+      "en": "Damn it! Hang on to something!",
+      "hash": "81045714CD24AC13",
+      "unresolved": false,
+      "fr": "On va s'écraser\u00A0! Cramponnez-vous\u00A0!",
+      "ja": "チッ  不時着するぞ……！",
+      "frMacro": "On va s'écraser<nbsp>! Cramponnez-vous<nbsp>!",
+      "conversation": "cut_scene/053/VoiceMan_05301",
+      "seq": 0,
+      "speaker": "THANCRED",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "cut_scene/053/VoiceMan_05301"
+    },
+    {
+      "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS",
+      "en": "For my people─for our world, I will strike you down.",
+      "hash": "63A283FBE00F13CC",
+      "unresolved": false,
+      "fr": "Mon devoir est de sauver l'unique monde qui compte... Tu vas disparaître\u00A0!",
+      "ja": "我が役目  救うべき世界のために  お前を討つ――",
+      "frMacro": "Mon devoir est de sauver l'unique monde qui compte... Tu vas disparaître<nbsp>!",
+      "conversation": "cut_scene/053/VoiceMan_05301",
+      "seq": 1,
+      "speaker": "ELIDIBUS",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "cut_scene/053/VoiceMan_05301"
+    },
+    {
+      "gameKey": "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS",
+      "en": "No... I cannot fail... I will not...",
+      "hash": "753BCA50DF83B5CC",
+      "macro": "No... I cannot fail... I <italic(1)>will<italic(0)> not...",
+      "unresolved": false,
+      "fr": "Je n'abandonnerai pas... Je m'étais juré... juré de...",
+      "ja": "諦めるものか―― 我らの  約束を――",
+      "frMacro": "Je n'aban<->don<->ne<->rai pas... Je m'étais juré... juré de...",
+      "conversation": "cut_scene/053/VoiceMan_05301",
+      "seq": 2,
+      "speaker": "ELIDIBUS",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "cut_scene/053/VoiceMan_05301"
+    }
+  ]
+}

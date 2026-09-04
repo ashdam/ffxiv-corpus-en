@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/CmnDefF1e4Exit_00048",
+  "entries": [
+    {
+      "gameKey": "custom/000/CmnDefF1e4Exit_00048#TEXT_CMNDEFF1E4EXIT_00048_YESNO_Q",
+      "en": "Leave the Seat of the First Bow?",
+      "hash": "ADB21B000DFA1D8D",
+      "unresolved": false,
+      "fr": "Sortir de la Salle de commandement\u00A0?",
+      "ja": "「神勇隊司令室」をでます。",
+      "frMacro": "Sortir de la Salle de commandement<nbsp>?",
+      "conversation": "custom/000/CmnDefF1e4Exit_00048",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Exit_00048"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Exit_00048#TEXT_CMNDEFF1E4EXIT_00048_YESNO_Y",
+      "en": "Yes",
+      "hash": "59356C6C1794D632",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/000/CmnDefF1e4Exit_00048",
+      "seq": 1,
+      "speaker": "Y",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Exit_00048"
+    },
+    {
+      "gameKey": "custom/000/CmnDefF1e4Exit_00048#TEXT_CMNDEFF1E4EXIT_00048_YESNO_N",
+      "en": "No",
+      "hash": "811C331C47DEDE7D",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/000/CmnDefF1e4Exit_00048",
+      "seq": 2,
+      "speaker": "N",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/CmnDefF1e4Exit_00048"
+    }
+  ]
+}

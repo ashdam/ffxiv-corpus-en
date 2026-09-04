@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "transport/AetheryteTertium",
+  "entries": [
+    {
+      "gameKey": "transport/AetheryteTertium#TEXT_AETHERYTETERTIUM_STOP_000",
+      "en": "The aetheryte is not responding.",
+      "hash": "FD0DB26CE9412952",
+      "unresolved": false,
+      "fr": "Impossible de s'harmoniser avec cette éthérite. Son usage doit être restreint à certaines personnes...",
+      "ja": "交感すべきエーテルが感じられない。\r\n機能が制限されているようだ……。",
+      "jaMacro": "交感すべきエーテルが感じられない。<br>機能が制限されているようだ……。",
+      "conversation": "transport/AetheryteTertium",
+      "seq": 0,
+      "speaker": "STOP",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "transport/AetheryteTertium"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "EurekaAetherItem",
+  "entries": [
+    {
+      "gameKey": "EurekaAetherItem#1.0",
+      "en": "Eurekan kettle",
+      "hash": "63AB6EC0D380909F",
+      "unresolved": false,
+      "fr": "bouilloire Eurêka",
+      "conversation": "EurekaAetherItem#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    },
+    {
+      "gameKey": "EurekaAetherItem#1.2",
+      "en": "Eurekan kettles",
+      "hash": "B742DF76AE1431E7",
+      "unresolved": false,
+      "fr": "bouilloires Eurêka",
+      "conversation": "EurekaAetherItem#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    },
+    {
+      "gameKey": "EurekaAetherItem#1.8",
+      "en": "Eurekan Kettle",
+      "hash": "D25E391EEA5D5558",
+      "unresolved": false,
+      "fr": "Bouilloire Eurêka",
+      "ja": "エウレカケトル",
+      "conversation": "EurekaAetherItem#1",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    },
+    {
+      "gameKey": "EurekaAetherItem#2.0",
+      "en": "Eurekan firekettle",
+      "hash": "45F9EE9974F266C1",
+      "unresolved": false,
+      "fr": "bouilloire Eurêka bicompartiment",
+      "conversation": "EurekaAetherItem#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    },
+    {
+      "gameKey": "EurekaAetherItem#2.2",
+      "en": "Eurekan firekettles",
+      "hash": "155E69DF328A4D8D",
+      "unresolved": false,
+      "fr": "bouilloire Eurêka bicompartiment",
+      "conversation": "EurekaAetherItem#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    },
+    {
+      "gameKey": "EurekaAetherItem#2.8",
+      "en": "Eurekan Firekettle",
+      "hash": "496F593762368ABE",
+      "unresolved": false,
+      "fr": "Bouilloire Eurêka bicompartiment",
+      "ja": "エウレカケトル【火】",
+      "conversation": "EurekaAetherItem#2",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaAetherItem"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/073/VoiceMan_07320",
+  "entries": [
+    {
+      "gameKey": "cut_scene/073/VoiceMan_07320#TEXT_VOICEMAN_07320_000200_SEIRYU",
+      "en": "Prove me wrong, mortals! Make me submit─or die for your insolence!",
+      "hash": "34E176E28272D7EF",
+      "unresolved": false,
+      "fr": "Vous pensez que je suis dans l'erreur\u00A0? Prouvez-le-moi en m'affrontant\u00A0!\r\nJe vais libérer mon aramitamaaaa\u00A0!",
+      "ja": "キミが正しいというのなら 戦いで僕を否定してみせろ！\r\nアラミタマを解放するッ！",
+      "frMacro": "Vous pensez que je suis dans l'erreur<nbsp>? Prouvez-le-moi en m'affrontant<nbsp>!<br>Je vais libérer mon aramitamaaaa<nbsp>!",
+      "jaMacro": "キミが正しいというのなら 戦いで僕を否定してみせろ！<br>アラミタマを解放するッ！",
+      "conversation": "cut_scene/073/VoiceMan_07320",
+      "seq": 0,
+      "speaker": "SEIRYU",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "cut_scene/073/VoiceMan_07320"
+    }
+  ]
+}

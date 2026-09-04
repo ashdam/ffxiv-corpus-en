@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/CtsErkEureka1EventMagiaboard_00464",
+  "entries": [
+    {
+      "gameKey": "custom/004/CtsErkEureka1EventMagiaboard_00464#TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_100_001",
+      "en": "This strange and mysterious device does not appear to be operational...",
+      "hash": "F88F1B3D30EE485F",
+      "unresolved": false,
+      "fr": "Une sorte de machine dont l'utilité vous échappe. Elle semble en état de marche.",
+      "ja": "見たことのない装置が設置されている。\r\nどうやら起動準備中のようだ……。",
+      "jaMacro": "見たことのない装置が設置されている。<br>どうやら起動準備中のようだ……。",
+      "conversation": "custom/004/CtsErkEureka1EventMagiaboard_00464",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsErkEureka1EventMagiaboard_00464"
+    },
+    {
+      "gameKey": "custom/004/CtsErkEureka1EventMagiaboard_00464#TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_000_001",
+      "en": "The magia melder may be used to affix magicite to or remove it from your magia board. When you have finished experimenting with it, speak with Krile to proceed.",
+      "hash": "141F1D5871995DBC",
+      "unresolved": false,
+      "fr": "Utilisez cet appareil pour sertir la magicite dans le plateau Magia. Parlez à Krile une fois que ce sera fait.",
+      "ja": "この装置を使えば、マギアボードに魔晶石を組み込めるようだ。\r\n作業が終わったら、次の行動について「クルル」と話してみよう。",
+      "jaMacro": "この装置を使えば、マギアボードに魔晶石を組み込めるようだ。<br>作業が終わったら、次の行動について「クルル」と話してみよう。",
+      "conversation": "custom/004/CtsErkEureka1EventMagiaboard_00464",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsErkEureka1EventMagiaboard_00464"
+    }
+  ]
+}

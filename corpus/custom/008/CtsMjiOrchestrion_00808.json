@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/008/CtsMjiOrchestrion_00808",
+  "entries": [
+    {
+      "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_000",
+      "en": "This appears to be the orchestrion belonging to the islekeep.\r\nCurrently playing .",
+      "hash": "0D166F8A90C3A293",
+      "macro": "This appears to be the orchestrion belonging to the islekeep.<br>Currently playing <italic(1)><sheet(Orchestrion,lnum1,0)><italic(0)>.",
+      "unresolved": true,
+      "fr": "Les visiteurs ne sont pas autorisés à utiliser l'orchestrion. Cependant, vous pouvez voir qu'il joue actuellement\u00A0: “”.",
+      "ja": "島主専用のオーケストリオンのようだ。\r\n「」が再生中です。",
+      "frMacro": "Les visiteurs ne sont pas autorisés à utiliser l'orchestrion. Cependant, vous pouvez voir qu'il joue ac<->tu<->el<->le<->ment<nbsp>: “<sheet(Orchestrion,lnum1,0)>”.",
+      "jaMacro": "島主専用のオーケストリオンのようだ。<br>「<sheet(Orchestrion,lnum1,0)>」が再生中です。",
+      "conversation": "custom/008/CtsMjiOrchestrion_00808",
+      "seq": 1,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/008/CtsMjiOrchestrion_00808"
+    },
+    {
+      "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_001",
+      "en": "This appears to be the orchestrion belonging to the islekeep.",
+      "hash": "A050DB662EF3E95A",
+      "unresolved": false,
+      "fr": "Les visiteurs ne sont pas autorisés à utiliser l'orchestrion.",
+      "ja": "島主専用のオーケストリオンのようだ。",
+      "conversation": "custom/008/CtsMjiOrchestrion_00808",
+      "seq": 2,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/008/CtsMjiOrchestrion_00808"
+    }
+  ]
+}

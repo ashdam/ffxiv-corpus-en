@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "ContentsTutorial",
+  "entries": [
+    {
+      "gameKey": "ContentsTutorial#1.9",
+      "en": "The Bozjan Southern Front",
+      "hash": "525FF33BC5C4333A",
+      "unresolved": false,
+      "fr": "Front sud de Bozja",
+      "ja": "THE BOZJAN SOUTHERN FRONT",
+      "conversation": "ContentsTutorial#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#2.9",
+      "en": "Dungeons",
+      "hash": "D4FA57659D1F9014",
+      "unresolved": false,
+      "fr": "Missions\u00A0: donjons",
+      "ja": "CONTENTS : DUNGEON",
+      "frMacro": "Missions<nbsp>: donjons",
+      "conversation": "ContentsTutorial#2",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#3.9",
+      "en": "Variant Dungeons",
+      "hash": "F2D0A8003B9B5B11",
+      "unresolved": false,
+      "fr": "Donjons à embranchements",
+      "ja": "VARIANT DUNGEON",
+      "conversation": "ContentsTutorial#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#4.9",
+      "en": "Island Sanctuary",
+      "hash": "F8E1A988C900F4AC",
+      "unresolved": false,
+      "fr": "Félicité insulaire",
+      "ja": "ISLAND SANCTUARY",
+      "conversation": "ContentsTutorial#4",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#5.9",
+      "en": "Hall of the Novice",
+      "hash": "D12F7652D2013305",
+      "unresolved": false,
+      "fr": "Salle des novices",
+      "ja": "HALL OF THE NOVICE",
+      "conversation": "ContentsTutorial#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#6.9",
+      "en": "Hall of the Novice",
+      "hash": "828A06518FEDE749",
+      "unresolved": false,
+      "fr": "Salle des novices",
+      "ja": "HALL OF THE NOVICE",
+      "conversation": "ContentsTutorial#6",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#7.9",
+      "en": "The Occult Crescent",
+      "hash": "34EBAB51990E8468",
+      "unresolved": false,
+      "fr": "L'île de Lunule",
+      "ja": "THE CRESCENT ISLE",
+      "conversation": "ContentsTutorial#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#8.9",
+      "en": "Cosmic Exploration",
+      "hash": "80C0C45CB37A3DA5",
+      "unresolved": false,
+      "fr": "Exploration cosmique",
+      "ja": "COSMO EXPLORER",
+      "conversation": "ContentsTutorial#8",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    }
+  ]
+}

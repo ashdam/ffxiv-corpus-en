@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonBrayflox_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonBrayflox_00000#TEXT_DUNGEONBRAYFLOX_00000_GOBLINLEADER_000_000",
+      "en": "Shkohhh! Illuminati will not have cheese!",
+      "hash": "C2C2615C75F53AEA",
+      "unresolved": false,
+      "fr": "Pshhh\u00A0! Brayflox ne donnera jamais-jamais son fromage\u00A0!",
+      "ja": "シュコォ シュコォ……\r\nゴブリンチーズは 渡さないゴブ！",
+      "frMacro": "Pshhh<nbsp>! Brayflox ne donnera jamais-jamais son fromage<nbsp>!",
+      "jaMacro": "シュコォ シュコォ……<br>ゴブリンチーズは 渡さないゴブ！",
+      "conversation": "dungeon/000/DungeonBrayflox_00000",
+      "seq": 0,
+      "speaker": "GOBLINLEADER",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonBrayflox_00000"
+    }
+  ]
+}

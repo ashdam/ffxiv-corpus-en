@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CtsEtcKgrBarbecueCutScene_00957",
+  "entries": [
+    {
+      "gameKey": "custom/009/CtsEtcKgrBarbecueCutScene_00957#TEXT_CTSETCKGRBARBECUECUTSCENE_00957_SYSTEM_000_000",
+      "en": "Grill more meat?",
+      "hash": "F230F5E84608E0D1",
+      "unresolved": false,
+      "fr": "Vous avez vraiment encore faim\u00A0?",
+      "ja": "肉を焼いて食べますか？",
+      "frMacro": "Vous avez vraiment encore faim<nbsp>?",
+      "conversation": "custom/009/CtsEtcKgrBarbecueCutScene_00957",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsEtcKgrBarbecueCutScene_00957"
+    }
+  ]
+}

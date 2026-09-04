@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/007/FesHlw2021Entrance_00733",
+  "entries": [
+    {
+      "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_000",
+      "en": "I fear we're still making preparations for the feast. Pray wait a while longer!",
+      "hash": "44C1765B50FE134F",
+      "unresolved": false,
+      "fr": "Tout n'est pas encore prrrêt, désolé\u00A0!",
+      "ja": "モウシバラク、オマチクダサーイ！",
+      "frMacro": "Tout n'est pas encore prrrêt, désolé<nbsp>!",
+      "conversation": "custom/007/FesHlw2021Entrance_00733",
+      "seq": 0,
+      "speaker": "PIERROTFAMILYSERVANT00733",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesHlw2021Entrance_00733"
+    },
+    {
+      "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_PIERROTFAMILYSERVANT00733_000_001",
+      "en": "I'm frightfully sorry for having kept you waiting. Do you wish to head to the banquet now? Master Gruff is eagerly anticipating your arrival.",
+      "hash": "ACEAB94ACC89702D",
+      "unresolved": false,
+      "fr": "Merrrci pour votre patience\u00A0! Voulez-vous prendre part au banquet\u00A0?",
+      "ja": "タイヘンお待たせいたしましタ！\r\n饗宴へ向かわれますカー！？",
+      "frMacro": "Merrrci pour votre patience<nbsp>! Voulez-vous prendre part au banquet<nbsp>?",
+      "jaMacro": "タイヘンお待たせいたしましタ！<br>饗宴へ向かわれますカー！？",
+      "conversation": "custom/007/FesHlw2021Entrance_00733",
+      "seq": 1,
+      "speaker": "PIERROTFAMILYSERVANT00733",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesHlw2021Entrance_00733"
+    },
+    {
+      "gameKey": "custom/007/FesHlw2021Entrance_00733#TEXT_FESHLW2021ENTRANCE_00733_DUNGEON_CONFIRM",
+      "en": "Enter the Phantoms' Feast?",
+      "hash": "59513B57507F7512",
+      "unresolved": false,
+      "fr": "Aller au banquet cauchemardesque\u00A0?",
+      "ja": "「」に向かいますか？",
+      "frMacro": "Aller au banquet cauchemardesque<nbsp>?",
+      "jaMacro": "「<sheet(ContentFinderCondition,lnum1,43)>」に向かいますか？",
+      "conversation": "custom/007/FesHlw2021Entrance_00733",
+      "seq": 2,
+      "speaker": "CONFIRM",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesHlw2021Entrance_00733"
+    }
+  ]
+}

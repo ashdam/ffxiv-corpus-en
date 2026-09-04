@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+  "entries": [
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR",
+      "en": "What would you like to do?",
+      "hash": "724955F0AF9ABC43",
+      "unresolved": false,
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    },
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_MY_ROOM",
+      "en": "Move to your private chambers.",
+      "hash": "B8B0C48C3DFB34A6",
+      "unresolved": false,
+      "fr": "Aller dans votre chambre",
+      "ja": "自分の個室に移動する",
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 1,
+      "speaker": "ROOM",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    },
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_OTHER_ROOM",
+      "en": "Move to specified private chambers.",
+      "hash": "F1AF65E3976D3A42",
+      "unresolved": false,
+      "fr": "Spécifier la chambre où aller (Voir les attraits)",
+      "ja": "個室番号を指定して移動（ハウスアピール確認）",
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 2,
+      "speaker": "ROOM",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    },
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_FC_HOUSE",
+      "en": "Leave private chambers.",
+      "hash": "DFD52B03603CADE6",
+      "unresolved": false,
+      "fr": "Sortir de la chambre",
+      "ja": "個室の外に移動する",
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 3,
+      "speaker": "HOUSE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    },
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_EXIT",
+      "en": "Nothing.",
+      "hash": "9BDC1BD819F9BEEA",
+      "unresolved": false,
+      "fr": "Annuler",
+      "ja": "やめる",
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 4,
+      "speaker": "EXIT",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    }
+  ]
+}

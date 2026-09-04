@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/063/VoiceMan_06301",
+  "entries": [
+    {
+      "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000005_NOPHICA",
+      "en": "At last, the time is come!",
+      "hash": "895FCE372A21FF52",
+      "unresolved": false,
+      "fr": "Le moment est enfin arrivé\u00A0!",
+      "ja": "ああ  とうとうこのときが来た……！",
+      "frMacro": "Le moment est enfin arrivé<nbsp>!",
+      "conversation": "cut_scene/063/VoiceMan_06301",
+      "seq": 0,
+      "speaker": "NOPHICA",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "cut_scene/063/VoiceMan_06301"
+    },
+    {
+      "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000030_MENPHINA",
+      "en": "Come bathe in the moon's tender glow!",
+      "hash": "CD17BDD7BBF59CA5",
+      "unresolved": false,
+      "fr": "À nous, mes enfants bien-aimés\u00A0!",
+      "ja": "さあ  月神の愛で満たしてあげる！",
+      "frMacro": "À nous, mes enfants bien-aimés<nbsp>!",
+      "conversation": "cut_scene/063/VoiceMan_06301",
+      "seq": 1,
+      "speaker": "MENPHINA",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "cut_scene/063/VoiceMan_06301"
+    },
+    {
+      "gameKey": "cut_scene/063/VoiceMan_06301#TEXT_VOICEMAN_06301_000040_MENPHINA",
+      "en": "Our dreams may yet become reality. Thank you.",
+      "hash": "FBBD8B4AF12891AB",
+      "unresolved": false,
+      "fr": "Merci infiniment. Nous voilà encore un peu plus proches de notre idéal...",
+      "ja": "ありがとう\r\nまた一歩  切なる願いへ近づけた――",
+      "jaMacro": "ありがとう<br>また一歩  切なる願いへ近づけた――",
+      "conversation": "cut_scene/063/VoiceMan_06301",
+      "seq": 2,
+      "speaker": "MENPHINA",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "cut_scene/063/VoiceMan_06301"
+    }
+  ]
+}

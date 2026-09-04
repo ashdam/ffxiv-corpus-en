@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonFanfesus_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonFanfesus_00000#TEXT_DUNGEONFANFESUS_00000_HILDIBRAND_000_000",
+      "en": "Why, if it isn't a gathering of my most stalwart adventuring assistants! Or are you perchance participants in a grand convention being held in my honor?",
+      "hash": "5E3F5A74696E5F68",
+      "unresolved": false,
+      "fr": "Why, if it isn't a gathering of my most stalwart adventuring assistants! Or are you perchance participants in a grand convention being held in my honor?",
+      "ja": "Why, if it isn‘t a gathering of my most stalwart adventuring assistants! Or are you perchance participants in a grand convention being held in my honor?",
+      "frMacro": "Why, if it isn't a gathering of my most stalwart adventuring assistants! Or are you perchance par<->ti<->ci<->pants in a grand convention being held in my honor?",
+      "conversation": "dungeon/000/DungeonFanfesus_00000",
+      "seq": 0,
+      "speaker": "HILDIBRAND",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonFanfesus_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonFanfesus_00000#TEXT_DUNGEONFANFESUS_00000_HILDIBRAND_000_001",
+      "en": "But never mind that! I have urgent need of your assistance with a case which took place in this golden garden of earthly delights!",
+      "hash": "D3C842E6089003AF",
+      "unresolved": false,
+      "fr": "But never mind that! I have urgent need of your assistance with a case which took place in this golden garden of earthly delights!",
+      "ja": "But never mind that! I have urgent need of your assistance with a case which took place in this golden garden of earthly delights!",
+      "conversation": "dungeon/000/DungeonFanfesus_00000",
+      "seq": 1,
+      "speaker": "HILDIBRAND",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonFanfesus_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonFanfesus_00000#TEXT_DUNGEONFANFESUS_00000_HILDIBRAND_000_002",
+      "en": "Quickly now, we must depart for Idyllshire! No time to explain why! Nor is there time to explain why I haven't time to explain! Go, go!",
+      "hash": "4C093CB5F42EAE65",
+      "unresolved": false,
+      "fr": "Quickly now, we must depart for Idyllshire! No time to explain why! Nor is there time to explain why I haven't time to explain! Go, go!",
+      "ja": "Quickly now, we must depart for Idyllshire! No time to explain why! Nor is there time to explain why I haven‘t time to explain! Go, go!",
+      "conversation": "dungeon/000/DungeonFanfesus_00000",
+      "seq": 2,
+      "speaker": "HILDIBRAND",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonFanfesus_00000"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "dungeon/000/DungeonAmdaporkeep_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonAmdaporkeep_00000#TEXT_DUNGEONAMDAPORKEEP_00000_FERDIAD_000_000",
+      "en": "Heehee HAHA ahahaha!",
+      "hash": "AA64AB09CAEFF9F2",
+      "unresolved": false,
+      "fr": "Ha ha ha ha ha\u00A0!",
+      "ja": "ヒャーッハッハッハッハ……！",
+      "frMacro": "Ha ha ha ha ha<nbsp>!",
+      "conversation": "dungeon/000/DungeonAmdaporkeep_00000",
+      "seq": 0,
+      "speaker": "FERDIAD",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonAmdaporkeep_00000"
+    }
+  ]
+}

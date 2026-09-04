@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/006/CtsMycPlayEventAfterContent_00677",
+  "entries": [
+    {
+      "gameKey": "custom/006/CtsMycPlayEventAfterContent_00677#TEXT_CTSMYCPLAYEVENTAFTERCONTENT_00677_Q1_000_000",
+      "en": "You are about to withdraw from the field. Proceed?",
+      "hash": "724002A34085A242",
+      "unresolved": false,
+      "fr": "Quitter la mission en cours\u00A0?",
+      "ja": "コンテンツから退出します。\r\nよろしいですか？",
+      "frMacro": "Quitter la mission en cours<nbsp>?",
+      "jaMacro": "コンテンツから退出します。<br>よろしいですか？",
+      "conversation": "custom/006/CtsMycPlayEventAfterContent_00677",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycPlayEventAfterContent_00677"
+    }
+  ]
+}

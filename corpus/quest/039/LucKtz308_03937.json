@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/039/LucKtz308_03937",
+  "entries": [
+    {
+      "gameKey": "quest/039/LucKtz308_03937#TEXT_LUCKTZ308_03937_SYSTEM_000",
+      "en": "Saved Machine Lifeform Data 4 archived.",
+      "hash": "0F80F7FCAEACF336",
+      "macro": "<italic(1)>Saved Machine Lifeform Data 4<italic(0)> archived.",
+      "unresolved": false,
+      "fr": "Vous avez trouvé la “4e partie des données d'une forme de vie mécanique”.",
+      "ja": "「保存された機械生命体のデータ4」を入手した。",
+      "conversation": "quest/039/LucKtz308_03937",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "system",
+      "questId": "LucKtz308_03937",
+      "category": "Sephiroth Missions",
+      "previousQuest": "LucKta302_03953",
+      "questLevel": 1,
+      "questRowId": 69473,
+      "expansion": "Shadowbringers",
+      "eventIconType": 1
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/008/RegUlwHistory3_00894",
+  "entries": [
+    {
+      "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_000",
+      "en": "The panel bears information on the history of the Milalla.",
+      "hash": "6CF9B15EFF6D71FB",
+      "unresolved": false,
+      "fr": "Une présentation succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "ja": "ミララ族の歴史が記述されているようだ。",
+      "frMacro": "Une pré<->sen<->ta<->tion succincte de l'histoire des Milalla peut être lue sur cet écran...",
+      "conversation": "custom/008/RegUlwHistory3_00894",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory3_00894"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_010",
+      "en": "Since ancient times, the Milalla have excelled in calculations. By using formulae and figures to represent all natural phenomena, they had succeeded in devising a unique system of magic.",
+      "hash": "84E735EEBA033B31",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre III-)Depuis les temps anciens, les Milalla ont fait preuve d'un talent inné pour l'arithmétique. Ils ont appliqué cette discipline à l'étude du monde qui les entourait, tentant d'expliquer par les nombres tous les phénomènes auxquels ils étaient confrontés.",
+      "ja": "(-参の章-)ミララ族たちは、古の時代から算術を得意としていました。\r\n森羅万象のすべてを数式と図形によって解明しようと試み、\r\n独自の魔法体系を成立させていたのです。",
+      "jaMacro": "(-参の章-)ミララ族たちは、古の時代から算術を得意としていました。<br>森羅万象のすべてを数式と図形によって解明しようと試み、<br>独自の魔法体系を成立させていたのです。",
+      "conversation": "custom/008/RegUlwHistory3_00894",
+      "seq": 1,
+      "speaker": "Chapter III",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory3_00894"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_011",
+      "en": "This gift proved invaluable in their new homeland, where they employed their calculations to etch arcane circuits upon the ore which later came to be known as electrope.",
+      "hash": "D4C2ED7584ACC7C9",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre III-)Cette science leur permit de mettre au point leur propre forme de magie, un atout précieux dans leur nouvel habitat. Les Milalla s'en servirent pour graver des circuits sur une matière inconnue et chargée de foudre qu'ils découvrirent sur place, l'électrope.",
+      "ja": "(-参の章-)その力は新天地で発揮されました。\r\nのちにエレクトロープと呼ばれる雷の力を帯びた物質に、\r\nミララ族たちは算術に基づく魔法回路を刻み始めたのです。",
+      "jaMacro": "(-参の章-)その力は新天地で発揮されました。<br>のちにエレクトロープと呼ばれる雷の力を帯びた物質に、<br>ミララ族たちは算術に基づく魔法回路を刻み始めたのです。",
+      "conversation": "custom/008/RegUlwHistory3_00894",
+      "seq": 2,
+      "speaker": "Chapter III",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory3_00894"
+    },
+    {
+      "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_012",
+      "en": "Through this ingenious technique, electrope was transformed into a tool that could not only store lightning, but convert it into energy of any element.",
+      "hash": "BFCDD0BA29861676",
+      "unresolved": false,
+      "fr": "(-Les Milalla - Chapitre III-)Grâce à cette méthode, ils devinrent capables de moduler l'énergie contenue dans cette matière. L'électrope n'était désormais plus limitée à l'électricité, et les Milalla pouvaient modifier à loisir son élément afin de l'appliquer à tous les usages possibles et imaginables.",
+      "ja": "(-参の章-)この手法によって、\r\nエレクトロープは雷の力を溜め込むだけの存在から、\r\nあらゆる属性に力を変換する万能物質に変じたのでした。",
+      "jaMacro": "(-参の章-)この手法によって、<br>エレクトロープは雷の力を溜め込むだけの存在から、<br>あらゆる属性に力を変換する万能物質に変じたのでした。",
+      "conversation": "custom/008/RegUlwHistory3_00894",
+      "seq": 3,
+      "speaker": "Chapter III",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegUlwHistory3_00894"
+    }
+  ]
+}

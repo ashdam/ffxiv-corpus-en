@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka2EventConfluence3_00501",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka2EventConfluence3_00501#TEXT_CTSERKEUREKA2EVENTCONFLUENCE3_00501_SYSTEM_000_250",
+      "en": "The object seemingly left behind by the masked man is yet another depleted magicite, identical to the ones you found before...",
+      "hash": "FB7E879F3F057C4E",
+      "unresolved": false,
+      "fr": "Aucune trace de l'homme mystérieux, mais vous avez trouvé une étiolite dans la neige. Retournez à L'Engelure et faites part à Krile des derniers événements.",
+      "ja": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。\r\nどうやら魔晶片のようだ……。\r\nさっそく、このことを「クルル」に報告しよう。",
+      "jaMacro": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
+      "conversation": "custom/005/CtsErkEureka2EventConfluence3_00501",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka2EventConfluence3_00501"
+    }
+  ]
+}

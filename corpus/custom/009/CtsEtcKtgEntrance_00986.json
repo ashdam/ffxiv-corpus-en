@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CtsEtcKtgEntrance_00986",
+  "entries": [
+    {
+      "gameKey": "custom/009/CtsEtcKtgEntrance_00986#TEXT_CTSETCKTGENTRANCE_00986_KTGGUIDE00986_000_000",
+      "en": "A warm Keybound welcome to you, ! Before you register for a game, might I suggest a few words with our magitype master?",
+      "hash": "EC877BD889263B19",
+      "macro": "A warm Keybound welcome to you, <if(gnum4,madam,sir)>! Before you register for a game, might I suggest a few words with our magitype master?",
+      "unresolved": false,
+      "fr": "Soyez  bienvenu au square des clavistes\u00A0! Si vous souhaitez découvrir notre attraction phare, veuillez vous adresser d'abord au responsable à côté de moi.",
+      "ja": "ようこそお越しくださいました！\r\nまずは隣にいる「案内窓口」へお声がけください。",
+      "frMacro": "Soyez <if(gnum4,la,le)> bienvenu<if(gnum4,e,)> au square des clavistes<nbsp>! Si vous souhaitez découvrir notre attraction phare, veuillez vous adresser d'abord au responsable à côté de moi.",
+      "jaMacro": "ようこそお越しくださいました！<br>まずは隣にいる「案内窓口」へお声がけください。",
+      "conversation": "custom/009/CtsEtcKtgEntrance_00986",
+      "seq": 0,
+      "speaker": "KTGGUIDE00986",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsEtcKtgEntrance_00986"
+    }
+  ]
+}

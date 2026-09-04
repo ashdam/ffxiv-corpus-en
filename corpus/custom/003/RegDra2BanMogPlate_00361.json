@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/003/RegDra2BanMogPlate_00361",
+  "entries": [
+    {
+      "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_Q1_000_000",
+      "en": "View the engraving?",
+      "hash": "F3CB6CCF031EEA1C",
+      "unresolved": false,
+      "fr": "Lire la plaque commémorative\u00A0?",
+      "ja": "銘板を見ますか？",
+      "frMacro": "Lire la plaque commémorative<nbsp>?",
+      "conversation": "custom/003/RegDra2BanMogPlate_00361",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/RegDra2BanMogPlate_00361"
+    },
+    {
+      "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_000",
+      "en": "Yes.",
+      "hash": "2F0B3CCCE1CB4061",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/003/RegDra2BanMogPlate_00361",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/RegDra2BanMogPlate_00361"
+    },
+    {
+      "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_001",
+      "en": "No.",
+      "hash": "C07DC205EDEDC6A3",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/003/RegDra2BanMogPlate_00361",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/RegDra2BanMogPlate_00361"
+    },
+    {
+      "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000",
+      "en": "Unity and brotherhood, now and forevermore.",
+      "hash": "A9745D4B084F1F68",
+      "macro": "<italic(1)>Unity and brotherhood, now and forevermore.<italic(0)>",
+      "unresolved": false,
+      "fr": "(-L'Amitié des peuples-)“Nous gravons nos noms dans la pierre, en symbole de l'amitié passée, présente et future entre nos peuples.”",
+      "ja": "(-「友情の証」の銘板-)過去と未来、ふたつの友情の証として、ここに名を刻む",
+      "conversation": "custom/003/RegDra2BanMogPlate_00361",
+      "seq": 3,
+      "speaker": "Engraved Tablet",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/003/RegDra2BanMogPlate_00361"
+    },
+    {
+      "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000",
+      "en": "Mogzin, \r\nTarresson de Dzemael, Ohl Deeh\r\nMarinche de Faurechort, Moggon, Gullinbursti",
+      "hash": "04B9A170DED00E81",
+      "macro": "<italic(1)>Mogzin, <string(gstr1)><br>Tarresson de Dzemael, Ohl Deeh<br>Marinche de Faurechort, Moggon, Gullinbursti<italic(0)>",
+      "unresolved": false,
+      "fr": "(-L'Amitié des peuples-)“Mogzin, , Tarresson de Dzemael, Ohl Deeh, Marinche de Faurechort, Gullinbursti et Moggon.”",
+      "ja": "(-「友情の証」の銘板-)モグジン\u3000\r\nタレソン\u3000オル・ディー\r\nマランシュ・ド・フォールショル\u3000グリンブルスティ\u3000モグゴン",
+      "frMacro": "(-L'Amitié des peuples-)“Mogzin, <string(gstr1)>, Tarresson de Dzemael, Ohl Deeh, Marinche de Faurechort, Gullinbursti et Moggon.”",
+      "jaMacro": "(-「友情の証」の銘板-)モグジン\u3000<split(<string(gstr1)>, ,1)><br>タレソン\u3000オル・ディー<br>マランシュ・ド・フォールショル\u3000グリンブルスティ\u3000モグゴン",
+      "conversation": "custom/003/RegDra2BanMogPlate_00361",
+      "seq": 4,
+      "speaker": "Engraved Tablet",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/003/RegDra2BanMogPlate_00361"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/037/LucKtz106_03744",
+  "entries": [
+    {
+      "gameKey": "quest/037/LucKtz106_03744#TEXT_LUCKTZ106_03744_SYSTEM_000_000",
+      "en": "Machine Research Report 2 archived.",
+      "hash": "7404756EBAEC8CCD",
+      "macro": "<italic(1)>Machine Research Report 2<italic(0)> archived.",
+      "unresolved": false,
+      "fr": "Vous avez trouvé le “2e rapport d'études sur les armes mécaniques”.",
+      "ja": "「機械兵器の研究記録2」を入手した。",
+      "conversation": "quest/037/LucKtz106_03744",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "system",
+      "questId": "LucKtz106_03744",
+      "category": "Sephiroth Missions",
+      "previousQuest": "LucKta002_03718",
+      "questLevel": 1,
+      "questRowId": 69280,
+      "expansion": "Shadowbringers",
+      "eventIconType": 1
+    }
+  ]
+}

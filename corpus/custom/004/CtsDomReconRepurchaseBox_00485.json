@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/004/CtsDomReconRepurchaseBox_00485",
+  "entries": [
+    {
+      "gameKey": "custom/004/CtsDomReconRepurchaseBox_00485#TEXT_CTSDOMRECONREPURCHASEBOX_00485_SYSTEM_000_001",
+      "en": "The container is clearly designed to hold a large quantity of items, but for what purpose you cannot say...",
+      "hash": "59F63C64027FCAB2",
+      "unresolved": false,
+      "fr": "Un coffre appartenant au Shazenkai. Son utilité exacte vous échappe...",
+      "ja": "何かを入れる箱のようだ……。",
+      "conversation": "custom/004/CtsDomReconRepurchaseBox_00485",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsDomReconRepurchaseBox_00485"
+    }
+  ]
+}

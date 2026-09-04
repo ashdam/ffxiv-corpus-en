@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "transport/AetheryteLakeland",
+  "entries": [
+    {
+      "gameKey": "transport/AetheryteLakeland#TEXT_AETHERYTELAKELAND_STOP_000",
+      "en": "The aetheryte is not responding.",
+      "hash": "CA3DFCA5F9FC245A",
+      "unresolved": false,
+      "fr": "Cet imposant cristal ressemble comme deux gouttes d'eau aux éthérites de votre monde...",
+      "ja": "こちらの世界のエーテライトだろうか……。",
+      "conversation": "transport/AetheryteLakeland",
+      "seq": 0,
+      "speaker": "STOP",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "transport/AetheryteLakeland"
+    }
+  ]
+}

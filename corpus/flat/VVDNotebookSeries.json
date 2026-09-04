@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "VVDNotebookSeries",
+  "entries": [
+    {
+      "gameKey": "VVDNotebookSeries#1",
+      "en": "Sil'dih Survey Record",
+      "hash": "081B98873404BB4F",
+      "unresolved": false,
+      "fr": "Journal d'exploration des canalisations sildiennes",
+      "ja": "シラディハ水道 探索記",
+      "conversation": "VVDNotebookSeries#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "VVDNotebookSeries"
+    },
+    {
+      "gameKey": "VVDNotebookSeries#2",
+      "en": "Mount Rokkon Exorcism Record",
+      "hash": "6B8DEC67A2B17D80",
+      "unresolved": false,
+      "fr": "Journal d'exploration du mont Rokkon",
+      "ja": "六根山 探索記",
+      "conversation": "VVDNotebookSeries#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "VVDNotebookSeries"
+    },
+    {
+      "gameKey": "VVDNotebookSeries#3",
+      "en": "Aloalo Conservation Record",
+      "hash": "0AEA2C1131E03158",
+      "unresolved": false,
+      "fr": "Journal d'exploration de l'île d'Aloalo",
+      "ja": "アロアロ島 探索記",
+      "conversation": "VVDNotebookSeries#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "VVDNotebookSeries"
+    },
+    {
+      "gameKey": "VVDNotebookSeries#4",
+      "en": "Corvosi Folklore Record",
+      "hash": "A1709F08AFC3200E",
+      "unresolved": false,
+      "fr": "Journal d'exploration des Contes du Camelot",
+      "ja": "商客物語 探索記",
+      "conversation": "VVDNotebookSeries#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "VVDNotebookSeries"
+    }
+  ]
+}

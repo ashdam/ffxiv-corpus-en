@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/005/CtsErkEureka3Guide3_00519",
+  "entries": [
+    {
+      "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_000",
+      "en": "The longer we're dug in here, the harder my job gets. Piping hot stew might do the trick for a time, but a body needs variety, and my resources are limited.",
+      "hash": "220DAECB255B205D",
+      "unresolved": false,
+      "fr": "C'est pas évident de varier les menus quand il gèle à pierre fendre, et les gens commencent à se lasser de mes pot-au-feu. Si je ne trouve pas de nouvelles recettes, c'est le moral en berne assuré\u00A0!",
+      "ja": "こう寒い場所が続くと、献立を考えるのに苦労する。\r\n煮込み料理は、皆もう飽き飽きしているだろうし、\r\n士気を保つためにも、なにか手を考えねば。",
+      "frMacro": "C'est pas évident de varier les menus quand il gèle à pierre fendre, et les gens commencent à se lasser de mes pot-au-feu. Si je ne trouve pas de nouvelles recettes, c'est le moral en berne assuré<nbsp>!",
+      "jaMacro": "こう寒い場所が続くと、献立を考えるのに苦労する。<br>煮込み料理は、皆もう飽き飽きしているだろうし、<br>士気を保つためにも、なにか手を考えねば。",
+      "conversation": "custom/005/CtsErkEureka3Guide3_00519",
+      "seq": 0,
+      "speaker": "CULINARIAN00519",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3Guide3_00519"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_010",
+      "en": "I heard about that mess with the proto-aetheryte. Everyone did. Lot of sullen faces these days. I do what I can to raise their spirits, but as soon as they head back out the door, they're back to thinking about the expedition's future...",
+      "hash": "0D8B604C91873CF5",
+      "unresolved": false,
+      "fr": "Il paraît que la proto-éthérite a été détruite. Tout le monde pensait qu'on commençait à voir le bout de cette expédition, alors une nouvelle aussi épouvantable va en dégoûter plus d'un. C'est mon travail de cuistot de les requinquer à coups de bons petits plats\u00A0!",
+      "ja": "プロトエーテライトが破壊されたと聞く。\r\n先が見えた矢先のこと、皆も消沈していることだろう。\r\nこういうときに美味いものを食わせるのが、私の仕事だな。",
+      "frMacro": "Il paraît que la proto-éthérite a été détruite. Tout le monde pensait qu'on commençait à voir le bout de cette expédition, alors une nouvelle aussi épouvantable va en dégoûter plus d'un. C'est mon travail de cuistot de les requinquer à coups de bons petits plats<nbsp>!",
+      "jaMacro": "プロトエーテライトが破壊されたと聞く。<br>先が見えた矢先のこと、皆も消沈していることだろう。<br>こういうときに美味いものを食わせるのが、私の仕事だな。",
+      "conversation": "custom/005/CtsErkEureka3Guide3_00519",
+      "seq": 1,
+      "speaker": "CULINARIAN00519",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3Guide3_00519"
+    },
+    {
+      "gameKey": "custom/005/CtsErkEureka3Guide3_00519#TEXT_CTSERKEUREKA3GUIDE3_00519_CULINARIAN00519_000_020",
+      "en": "Maybe it's just wishful thinking, but lately everyone seems to be in higher spirits. Don't know if someone figured out how to deal with our recent setbacks─or maybe my latest culinary experiments have been making a difference?",
+      "hash": "445EF75B2E77EA36",
+      "unresolved": false,
+      "fr": "On ne dirait pas, mais bien manger compte pour beaucoup dans le maintien du moral des troupes. Même si ma condition de cuisinier ne me permet pas de me joindre aux missions de reconnaissance, le travail que j'accomplis est tout aussi important pour le succès de notre entreprise.",
+      "ja": "食事が士気に与える影響は、意外と馬鹿にならない。\r\n私が直接、調査に貢献することはできないが、\r\n職分を果たすことで、これからも皆を支えてみせよう。",
+      "frMacro": "On ne dirait pas, mais bien manger compte pour beaucoup dans le maintien du moral des troupes. Même si ma condition de cuisinier ne me permet pas de me joindre aux missions de recon<->nais<->san<->ce, le travail que j'accomplis est tout aussi important pour le succès de notre entreprise.",
+      "jaMacro": "食事が士気に与える影響は、意外と馬鹿にならない。<br>私が直接、調査に貢献することはできないが、<br>職分を果たすことで、これからも皆を支えてみせよう。",
+      "conversation": "custom/005/CtsErkEureka3Guide3_00519",
+      "seq": 2,
+      "speaker": "CULINARIAN00519",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsErkEureka3Guide3_00519"
+    }
+  ]
+}

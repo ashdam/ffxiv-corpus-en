@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CtsWksFateMountRideAgain_00987",
+  "entries": [
+    {
+      "gameKey": "custom/009/CtsWksFateMountRideAgain_00987#TEXT_CTSWKSFATEMOUNTRIDEAGAIN_00987_TALK_ACTOR",
+      "en": "「」に乗り込みますか？",
+      "hash": "A3C396E9E937A48A",
+      "macro": "「<sheet(Mount,lnum1,0)>」に乗り込みますか？",
+      "unresolved": true,
+      "fr": "「」に乗り込みますか？",
+      "ja": "「」に乗り込みますか？",
+      "frMacro": "「<sheet(Mount,lnum1,0)>」に乗り込みますか？",
+      "jaMacro": "「<sheet(Mount,lnum1,0)>」に乗り込みますか？",
+      "conversation": "custom/009/CtsWksFateMountRideAgain_00987",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/CtsWksFateMountRideAgain_00987"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "Aetheryte",
+  "entries": [
+    {
+      "gameKey": "Aetheryte#0.0",
+      "en": "aetheryte",
+      "hash": "1A2E43356733068E",
+      "unresolved": false,
+      "fr": "éthérite",
+      "ja": "エーテライト",
+      "conversation": "Aetheryte#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Aetheryte"
+    },
+    {
+      "gameKey": "Aetheryte#0.2",
+      "en": "aetheryte crystals",
+      "hash": "1E5DEB4776E29F61",
+      "unresolved": false,
+      "fr": "éthérites",
+      "conversation": "Aetheryte#0",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Aetheryte"
+    },
+    {
+      "gameKey": "Aetheryte#1.0",
+      "en": "Aethernet shard",
+      "hash": "593317BB088CC8B3",
+      "unresolved": false,
+      "fr": "éthérite urbaine",
+      "ja": "都市内エーテライト",
+      "conversation": "Aetheryte#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Aetheryte"
+    },
+    {
+      "gameKey": "Aetheryte#1.2",
+      "en": "Aethernet shards",
+      "hash": "00D996A4D3995999",
+      "unresolved": false,
+      "fr": "éthérites urbaines",
+      "conversation": "Aetheryte#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Aetheryte"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/003/ComArmGcArmyEnterLobby_00325",
+  "entries": [
+    {
+      "gameKey": "custom/003/ComArmGcArmyEnterLobby_00325#TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_Q",
+      "en": "Enter the barracks?",
+      "hash": "1CE08D1C933C5353",
+      "unresolved": false,
+      "fr": "Entrer dans la caserne \u00A0?",
+      "ja": "「兵舎」へ入りますか？",
+      "frMacro": "Entrer dans la caserne <if([gnum52>0],du Maelstrom,)><if([gnum53>0],de l'ordre des Deux Vipères,)><if([gnum54>0],des Immortels,)><nbsp>?",
+      "jaMacro": "「<if([gnum52>0],黒渦団,)><if([gnum53>0],双蛇党,)><if([gnum54>0],不滅隊,)>兵舎」へ入りますか？",
+      "conversation": "custom/003/ComArmGcArmyEnterLobby_00325",
+      "seq": 0,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/ComArmGcArmyEnterLobby_00325"
+    },
+    {
+      "gameKey": "custom/003/ComArmGcArmyEnterLobby_00325#TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_YES",
+      "en": "Yes",
+      "hash": "2825B3152E5CAA67",
+      "unresolved": false,
+      "fr": "Oui",
+      "ja": "はい",
+      "conversation": "custom/003/ComArmGcArmyEnterLobby_00325",
+      "seq": 1,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/ComArmGcArmyEnterLobby_00325"
+    },
+    {
+      "gameKey": "custom/003/ComArmGcArmyEnterLobby_00325#TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_NO",
+      "en": "No",
+      "hash": "068F93E6BA341E9B",
+      "unresolved": false,
+      "fr": "Non",
+      "ja": "いいえ",
+      "conversation": "custom/003/ComArmGcArmyEnterLobby_00325",
+      "seq": 2,
+      "speakerKind": "prompt",
+      "kind": "dialogue",
+      "sheet": "custom/003/ComArmGcArmyEnterLobby_00325"
+    }
+  ]
+}

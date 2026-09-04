@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+  "entries": [
+    {
+      "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000",
+      "en": "Process of shifty-making is of big help-use. First, be taking five need-not materia, yes? Melty-mix this one, mixy-melt that one, squeeze and squash, then bigeyes! Five need-not are reborn as one shiny-new!",
+      "hash": "5B9495A716476AF2",
+      "unresolved": false,
+      "fr": "Pshhh... Mutamix sait fusionner les matérias pour en obtenir une différente, une plus jolie. Mutamix appelle ça la “transmatérialisation”\u00A0! Si l'aventuri apporte cinq matérias, Mutamix lui fera une démonstration.",
+      "ja": "いらない\u3000マテリア\u30005つの\u3000マテリア\r\nなんやら\u3000かんやら\u3000混ぜ込めば～\r\n新たな\u3000マテリア\u3000生まれるぞ～。",
+      "frMacro": "Pshhh... Mutamix sait fusionner les matérias pour en obtenir une différente, une plus jolie. Mutamix appelle ça la “transmatérialisation”<nbsp>! Si l'aventuri<if(gnum4,ère,er)> apporte cinq matérias, Mutamix lui fera une dé<->mon<->stra<->tion.",
+      "jaMacro": "いらない\u3000マテリア\u30005つの\u3000マテリア<br>なんやら\u3000かんやら\u3000混ぜ込めば～<br>新たな\u3000マテリア\u3000生まれるぞ～。",
+      "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+      "seq": 0,
+      "speaker": "MUTAMIX",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefMateriaSlotTalk_00175"
+    },
+    {
+      "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001",
+      "en": "What kind of materia is reborn? Such knowings do not rattle Mutamix's braincase. Maybe new materia is worth much jinglyshine; maybe it is even more scrappyjunk than five before. Shifty-making is exciting chance-game, yes?",
+      "hash": "ED40F552F5022BB9",
+      "unresolved": false,
+      "fr": "Mais l'aventuri doit savoir que même Mutamix ne peut pas prévoir le résultat\u00A0! À  de décider s veut tenter sa chance\u00A0!",
+      "ja": "なにができるか\u3000運しだい～！\r\nためしてみたけりゃ\u3000もってこい～！\r\n5つの\u3000マテリア\u3000もってこい～！",
+      "frMacro": "Mais l'aventuri<if(gnum4,ère,er)> doit savoir que même Mutamix ne peut pas prévoir le résultat<nbsp>! À <if(gnum4,elle,lui)> de décider s<if(gnum4,i elle,'il)> veut tenter sa chance<nbsp>!",
+      "jaMacro": "なにができるか\u3000運しだい～！<br>ためしてみたけりゃ\u3000もってこい～！<br>5つの\u3000マテリア\u3000もってこい～！",
+      "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+      "seq": 1,
+      "speaker": "MUTAMIX",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefMateriaSlotTalk_00175"
+    },
+    {
+      "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005",
+      "en": "Mutamix will perform materia transmutation for you at any time, free of charge. Bring the goblin five pieces of unwanted materia, and he will transform them into a single new piece to use as you see fit.",
+      "hash": "AEDE30CD7270400F",
+      "unresolved": false,
+      "fr": "Si vous remettez 5 matérias dont vous n'avez pas besoin à Mutamix, ce dernier les fusionnera pour en créer une entièrement nouvelle.",
+      "ja": "不要なマテリア5つを、ミュタミクスに渡すと、\r\nそれらを合成して、異なるマテリア1つに\r\n変換することができます。",
+      "jaMacro": "不要なマテリア5つを、ミュタミクスに渡すと、<br>それらを合成して、異なるマテリア1つに<br>変換することができます。",
+      "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+      "seq": 2,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefMateriaSlotTalk_00175"
+    },
+    {
+      "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006",
+      "en": "That said, materia transmutation remains an inexact science. As for what manner of materia will emerge each time Mutamix works his wonders, not even the goblin genius himself can say.",
+      "hash": "B7A7D77BE678A37B",
+      "unresolved": false,
+      "fr": "Notez toutefois que le résultat de la transmatérialisation étant aléatoire, il n'est pas possible de savoir quel type de matéria sera obtenu.",
+      "ja": "ただし、どんなマテリアに変換されるのか、\r\n合成結果は運次第です。\r\n不要なマテリアがある場合に、利用してみましょう。",
+      "jaMacro": "ただし、どんなマテリアに変換されるのか、<br>合成結果は運次第です。<br>不要なマテリアがある場合に、利用してみましょう。",
+      "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+      "seq": 3,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefMateriaSlotTalk_00175"
+    }
+  ]
+}

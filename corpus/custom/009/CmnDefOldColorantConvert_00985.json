@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/009/CmnDefOldColorantConvert_00985",
+  "entries": [
+    {
+      "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT",
+      "en": "No applicable dye items to exchange.",
+      "hash": "8666F36DD3F0E538",
+      "unresolved": false,
+      "fr": "Vous n'avez aucune ancienne teinture à échanger.",
+      "ja": "該当するアイテムがありません。",
+      "conversation": "custom/009/CmnDefOldColorantConvert_00985",
+      "seq": 0,
+      "speaker": "COLORANT",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/CmnDefOldColorantConvert_00985"
+    },
+    {
+      "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1",
+      "en": "You will receive:\r\n\r\nTrade in single-color dye items?",
+      "hash": "8D20FB1E86F33C84",
+      "macro": "You will receive:<string(lstr1)><br><br>Trade in single-color dye items?",
+      "unresolved": false,
+      "fr": "Vous recevrez\u00A0:\r\n\r\n\r\nÉchanger vos anciennes teintures\u00A0?",
+      "ja": "手持ちのカララントを\r\nと交換しますか？",
+      "frMacro": "Vous recevrez<nbsp>:<br><string(lstr1)><br><br>Échanger vos anciennes teintures<nbsp>?",
+      "jaMacro": "手持ちのカララントを<string(lstr1)><br>と交換しますか？",
+      "conversation": "custom/009/CmnDefOldColorantConvert_00985",
+      "seq": 1,
+      "speaker": "DIALOG",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/009/CmnDefOldColorantConvert_00985"
+    }
+  ]
+}

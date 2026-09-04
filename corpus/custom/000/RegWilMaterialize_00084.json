@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "custom/000/RegWilMaterialize_00084",
+  "entries": [
+    {
+      "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_01",
+      "en": "Pshhh...?\r\nUplander wants to remove materia? Uplander need but wedgy-pry it off. If uplander is lucky, materia not become bittybits!",
+      "hash": "FE63949E6EE2A7C5",
+      "macro": "Pshhh...?<br>Uplander wants to remove materia? Uplander need but wedgy-pry it off. If uplander is lucky, materia not become bittybits!",
+      "unresolved": false,
+      "fr": "Pshhh... L' peut enlever la jolie matéria qui brille sur l'objet, s le veut.",
+      "ja": "シュコォ……シュコォ……\r\n武具に\u3000かがやく\u3000ぴかぴかマテリア～。\r\nグイっと\u3000スポっと\u3000外せるぞ～。",
+      "frMacro": "Pshhh... L'<if(gnum4,aventurière,aventurier)> peut enlever la jolie matéria qui brille sur l'objet, s<if(gnum4,i elle,'il)> le veut.",
+      "jaMacro": "シュコォ……シュコォ……<br>武具に\u3000かがやく\u3000ぴかぴかマテリア～。<br>グイっと\u3000スポっと\u3000外せるぞ～。",
+      "conversation": "custom/000/RegWilMaterialize_00084",
+      "seq": 0,
+      "speaker": "MUTAMIX",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/RegWilMaterialize_00084"
+    },
+    {
+      "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_02",
+      "en": "If you wish to remove materia from an item, highlight its icon and select Retrieve Materia. There is a chance that the materia will be salvaged.",
+      "hash": "5C40B2F2F2AD29C2",
+      "unresolved": false,
+      "fr": "Pour retirer une matéria sertie sur une pièce d'équipement, il suffit d'utiliser “Dessertir” à partir du sous-menu de l'objet. Les chances de récupérer la matéria intacte sont variables.",
+      "ja": "装着した「マテリア」は、装備品のサブコマンドから、\r\n「マテリア回収」を選択することで、取り外すことができます。\r\nその際、一定確率でマテリアを再入手できます。",
+      "jaMacro": "装着した「マテリア」は、装備品のサブコマンドから、<br>「マテリア回収」を選択することで、取り外すことができます。<br>その際、一定確率でマテリアを再入手できます。",
+      "conversation": "custom/000/RegWilMaterialize_00084",
+      "seq": 1,
+      "speaker": "MUTAMIX",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/000/RegWilMaterialize_00084"
+    }
+  ]
+}

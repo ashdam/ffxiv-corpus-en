@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "cut_scene/035/VoiceMan_03501",
+  "entries": [
+    {
+      "gameKey": "cut_scene/035/VoiceMan_03501#TEXT_VOICEMAN_03501_000010_KRILE",
+      "en": "There's been enough sacrifice for one day. We must take the chance we've been given and defeat Zurvan now!",
+      "hash": "12B5435E0F4EDAE7",
+      "unresolved": false,
+      "fr": "Il y a déjà eu trop de sacrifices inutiles.\r\nNous devons saisir cette opportunité pour en finir une bonne fois pour toutes avec Zurvan\u00A0!",
+      "ja": "託された想い 無駄にはできないわ\r\nみんな 鬼神「ズルワーン」を倒して お願い！",
+      "frMacro": "Il y a déjà eu trop de sacrifices inutiles.<br>Nous devons saisir cette opportunité pour en finir une bonne fois pour toutes avec Zurvan<nbsp>!",
+      "jaMacro": "託された想い 無駄にはできないわ<br>みんな 鬼神「ズルワーン」を倒して お願い！",
+      "conversation": "cut_scene/035/VoiceMan_03501",
+      "seq": 0,
+      "speaker": "KRILE",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "cut_scene/035/VoiceMan_03501"
+    }
+  ]
+}
