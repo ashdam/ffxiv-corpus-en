@@ -21,6 +21,7 @@ glossary/places.json                   every place name, en/fr/ja
 glossary/tribes.json                   the beast tribes, en/fr/ja
 glossary/gender-overrides.json         speaker genders the NPC sheets get wrong; an input to the extraction
 versions/<gameVersion>.json             what each patch added, rewrote and retired
+docs/                                   macros, sheets and the glossary files of a language pack
 ```
 ## File structure example
 
