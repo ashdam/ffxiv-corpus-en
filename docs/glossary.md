@@ -44,9 +44,9 @@ An emote has `en` and `<code>` only. Emotes are the stage directions the game sh
 
 ## register.json
 
-How each speaker addresses the player and, where it matters, other characters. The file is JSONC:
-the rules of the language are `//` comments at the top. A key is the speaker token with only letters
-and digits, in upper case: `Kan-E-Senna` is `KANESENNA`.
+How each speaker addresses the player and, where it matters, other characters. The rules of the
+language are the lines of `_comment`, at the top. A key is the speaker token with only letters and
+digits, in upper case: `Kan-E-Senna` is `KANESENNA`.
 
 ```jsonc
 "ALFONSE": {
@@ -78,4 +78,4 @@ A speaker's gender is a fact of the game and the same for every language. It liv
 | File | Start |
 |---|---|
 | `overrides.json` | The `protect: true` terms of an existing pack, with `en`, `fr`, `ja` and `protect` only. They say what stays English. |
-| `register.json` | The `//` rules written for the language, and an empty `register`. |
+| `register.json` | The rules of the language in `_comment`, and an empty `register`. |
