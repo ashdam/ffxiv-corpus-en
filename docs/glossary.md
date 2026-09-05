@@ -1,16 +1,20 @@
 # Glossary
 
-Reference. What lives in `glossary/` of every language repository, the same two files in each. `<code>` is the
-`language` of `pack.json` (`es-ES`, `it`, `pt-BR`, `pl`): it names the rendering column, and no tool
-reads a fixed `es`.
+Every language pack has a `glossary/` folder with two files. `overrides.json` holds the terms the
+language has decided. `register.json` holds how each character speaks. This page describes both.
 
-The glossary outranks the corpus. It is consulted before measuring; a count over the delivered text
-decides only where the glossary is silent.
+In the examples, `<code>` is the language code from the pack's `pack.json`: `es-ES`, `it`, `pt-BR`,
+`pl`. It is the name of the column that holds the translation of a term.
+
+The glossary wins over the corpus. A term is written as the glossary says, even where most of the
+translated text says otherwise. A count over the corpus decides only the terms the glossary does
+not have.
 
 ## overrides.json
 
-Hand-decided terms, on top of the generated `glossary/characters.json`, `places.json` and `tribes.json` of this repository (names that exist as sheet
-rows). Two arrays: `terms` and `emotes`. A term:
+Terms decided by hand. They come on top of `glossary/characters.json`, `places.json` and
+`tribes.json` of this repository, which hold the names that exist as sheet rows. The file has two
+arrays: `terms` and `emotes`. A term:
 
 ```json
 {
@@ -23,25 +27,26 @@ rows). Two arrays: `terms` and `emotes`. A term:
 }
 ```
 
-| Field | What it is |
+| Field | |
 |---|---|
-| `en` | The characters the corpus contains. The key every check matches on. |
-| `fr`, `ja` | The official renderings, copied from observed lines. Empty when that language uses no fixed term. |
-| `<code>` | The agreed rendering in this language, used everywhere. |
-| `protect` | `true` = reproduce the English verbatim; `false` = translate, and `<code>` is what it becomes. |
-| `forbidden` | Renderings the validator rejects, with the plural allowed: `["mercader"]`. |
-| `note` | The ruling and the traps. Never the history. |
+| `en` | The English as the corpus writes it. Every check matches on this key. |
+| `fr`, `ja` | The official renderings, copied from corpus lines. Empty when that language uses no fixed term. |
+| `<code>` | The agreed rendering in this language. Used everywhere. |
+| `protect` | `true`: keep the English as it is. `false`: translate it, and `<code>` is the result. |
+| `forbidden` | Renderings the validator rejects. The plural is allowed: `["mercader"]`. |
+| `note` | The decision and its traps. Not the history. |
 
-An entry whose `en` starts with `_` is a convention or a divider, not a term: `_comment`, `_divider`.
-A divider is a heading and carries no rule.
+An entry whose `en` starts with `_` is not a term: `_comment` holds the conventions of the file, and
+`_divider` is a heading with no rule.
 
-An emote is `en` and `<code>` only: stage directions FFXIV writes as on-screen text, `\<sigh>`.
+An emote has `en` and `<code>` only. Emotes are the stage directions the game shows as text,
+`\<sigh>`.
 
 ## register.json
 
-How each speaker addresses the player and, where it matters, other characters. JSONC: the rules
-are `//` comments at the top. Keys are the normalised speaker token, letters and digits upper-cased:
-`Kan-E-Senna` is `KANESENNA`.
+How each speaker addresses the player and, where it matters, other characters. The file is JSONC:
+the rules of the language are `//` comments at the top. A key is the speaker token with only letters
+and digits, in upper case: `Kan-E-Senna` is `KANESENNA`.
 
 ```jsonc
 "ALFONSE": {
@@ -54,22 +59,23 @@ are `//` comments at the top. Keys are the normalised speaker token, letters and
 }
 ```
 
-`confidence` says how much the entry weighs: `high` and `medium` are measured against the corpus,
-with the reason in `why` and the rows in `examples`; `low` has no rows cited and is followed until
-the scenes contradict it. `voice` is the speaker's tic: an accent, a catchphrase, a way of naming
-themselves. The axis in `player` is the language's own; the file says which forms exist.
+| Field | |
+|---|---|
+| `player` | How the speaker addresses the player. The values are the language's own forms. |
+| `others` | The same for named characters, when it differs. |
+| `confidence` | `high` and `medium` are measured against the corpus: the reason is in `why` and the rows in `examples`. `low` cites no rows and is followed until the scenes contradict it. |
+| `why` | The reason for the entry. |
+| `voice` | The speaker's tic: an accent, a catchphrase, a way to name themselves. |
+| `examples` | Rows that show the register. |
 
 ## What is not here
 
-A speaker's gender is a fact of the game and the same for every language, so
-`gender-overrides.json` lives in `glossary/` of this repository, keyed by the same speaker token as
-`register.json`.
+A speaker's gender is a fact of the game and the same for every language. It lives in
+`glossary/gender-overrides.json` of this repository, with the same speaker token as `register.json`.
 
 ## A new language
 
-What is copied from an existing repository, and what starts empty:
-
-| File | Copy |
+| File | Start |
 |---|---|
-| `overrides.json` | The `protect: true` terms with `en`, `fr`, `ja` and `protect`; no rendering, no note. They say what stays English. |
-| `register.json` | The `//` rules with the language's own forms, and an empty `register`. |
+| `overrides.json` | The `protect: true` terms of an existing pack, with `en`, `fr`, `ja` and `protect` only. They say what stays English. |
+| `register.json` | The `//` rules written for the language, and an empty `register`. |

@@ -4,18 +4,18 @@
 
     exd/logmessage_0_en.exd
         │           │  └── language: en, fr, de, ja
-        │           └───── the page's first row id; a sheet is split into pages
-        └───────────────── sheet name, lowercased
+        │           └───── the first row id of the page; a sheet is split into pages
+        └───────────────── sheet name, in lower case
 
 ## Addressing
 
-`Sheet#row` ==> a row. `Sheet#row.column` ==> a cell, where a sheet has several text columns.
-`quest/<cube>/<questId>#TEXT_…` ==> quest text.
+`Sheet#row` is a row. `Sheet#row.column` is a cell, for a sheet with several text columns.
+`quest/<bucket>/<questId>#TEXT_…` is quest text.
 
-A row id is the same in every language, which is what lets a translation be served by row id rather
-than by matching text.
+A row id is the same in every language. This is what lets a translation be served by row id and
+not by matching text.
 
-`Description#3604482.2` ==> row 3604482, **subrow** 2. `ExdPage.Parse` refuses subrow sheets.
+`Description#3604482.2` is row 3604482, subrow 2. Subrow sheets are not supported.
 
 ## Dialogue and ambient
 
@@ -31,26 +31,25 @@ than by matching text.
 
 ## Help and interface
 
-    HowTo                       261 tutorial titles
+    HowTo                       tutorial titles
     HowToPage                   the tutorial bodies. Columns 4, 5 and 6 are the mouse, keyboard and
-                                gamepad variants; each row fills exactly one
-    HowToCategory               the 16 tab headings
+                                gamepad variants; each row fills one of them
+    HowToCategory               the tab headings
     DescriptionString           the guide a content window opens: Occult Crescent, Frontline,
                                 mahjong, housing, New Game+
-    Description                 those guides' window titles
-    Addon, AddonTransient       the interface itself — buttons, window titles, «Requirements»
+    Description                 the window titles of those guides
+    Addon, AddonTransient       the interface: buttons, window titles, «Requirements»
     EventItemHelp               help for event items
     GuidePageString             the job gauge guide
     ContentsTutorialPage        content briefings: Bozja, variant dungeons, Island Sanctuary
     EventTutorialPage           event and minigame tutorials
     MultipleHelpString          the multi-page help windows
 
-In every help family the header sheet is structure and carries no text; the text is in the
-`…Page`/`…String` sheet. `Tutorial`, `Guide`, `GuidePage`, `InstanceContentGuide`, `ScenarioTreeTips`
-and `LoadingTips` have zero string columns. `LoadingTipsSub` has one and 251 rows, all empty.
+In every help family, the header sheet is structure and has no text. The text is in the
+`…Page` or `…String` sheet.
 
 ## Finding things
 
-A line's `gameKey` names its sheet and row, `Addon#1572`, so a search for the English text across
+A line's `gameKey` names its sheet and row, `Addon#1572`. A search for the English text across
 `corpus/` says where the game holds it. Text the corpus does not carry lives in a sheet nobody has
 extracted; ask for it rather than guess.
