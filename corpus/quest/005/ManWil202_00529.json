@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/005/ManWil202_00529",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManWil202_00529#TEXT_MANWIL202_00529_HECATONCHEIR_000_1",
+      "en": "SLAVES NO MORE! FREE! FREEEEEE!",
+      "hash": "17C35583C12C5660",
+      "unresolved": false,
+      "fr": "Mal... à la tête... Qui m'appelle\u00A0? Je veux être libre... Libre\u00A0!!",
+      "ja": "……オオオオ……アタマがイタイ……。\r\nダレだ……オデをヨブのは……。",
+      "frMacro": "Mal... à la tête... Qui m'appelle<nbsp>? Je veux être libre... Libre<nbsp>!!",
+      "jaMacro": "……オオオオ……アタマがイタイ……。<br>ダレだ……オデをヨブのは……。",
+      "conversation": "quest/005/ManWil202_00529",
+      "seq": 0,
+      "speaker": "???",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "quest/005/ManWil202_00529"
+    }
+  ]
+}
