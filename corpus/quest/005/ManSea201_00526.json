@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.08.11.0000.0000",
+  "conversation": "quest/005/ManSea201_00526",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_TODO_00",
+      "en": "Speaketh with",
+      "hash": "E35B7D0F98C9D7A7",
+      "unresolved": false,
+      "fr": "～と話す",
+      "ja": "～と話す",
+      "conversation": "quest/005/ManSea201_00526",
+      "seq": 0,
+      "speakerKind": "system",
+      "kind": "todo",
+      "sheet": "quest/005/ManSea201_00526"
+    },
+    {
+      "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_SAHAGINBOSS_000_1",
+      "en": "Pshhh... You sssully our ssspawning groundsss, shorewalker!",
+      "hash": "CFA5333C0176F364",
+      "unresolved": false,
+      "fr": "Fsshhh\u00A0! Comment oses-tu pénétrer dans notre territoire\u00A0!?",
+      "ja": "フスィーッ……。\r\nワレらが海域に侵入してくるとは！",
+      "frMacro": "Fsshhh<nbsp>! Comment oses-tu pénétrer dans notre territoire<nbsp>!?",
+      "jaMacro": "フスィーッ……。<br>ワレらが海域に侵入してくるとは！",
+      "conversation": "quest/005/ManSea201_00526",
+      "seq": 1,
+      "speaker": "SAHAGINBOSS",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "quest/005/ManSea201_00526"
+    }
+  ]
+}
