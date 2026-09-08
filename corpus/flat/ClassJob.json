@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "ClassJob",
+  "entries": [
+    {
+      "gameKey": "ClassJob#43.0",
+      "en": "beastmaster",
+      "hash": "A223758603E9391B",
+      "unresolved": false,
+      "fr": "dresseur",
+      "ja": "魔獣使い",
+      "conversation": "ClassJob#43",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#43.30",
+      "en": "Beastmaster",
+      "hash": "AC436881FC101A3A",
+      "unresolved": false,
+      "fr": "Beastmaster",
+      "ja": "Beastmaster",
+      "conversation": "ClassJob#43",
+      "seq": 30,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    }
+  ]
+}

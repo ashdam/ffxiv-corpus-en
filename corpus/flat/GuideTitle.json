@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "GuideTitle",
+  "entries": [
+    {
+      "gameKey": "GuideTitle#1.0",
+      "en": "Job Gauge Details",
+      "hash": "3208A89DCA45A838",
+      "unresolved": false,
+      "fr": "Description de l'interface de job",
+      "ja": "JOB HUD INFO",
+      "conversation": "GuideTitle#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GuideTitle"
+    }
+  ]
+}
