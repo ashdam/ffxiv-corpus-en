@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/055/KinGkd108_05518",
   "entries": [
     {
@@ -2662,9 +2662,9 @@
       "hash": "BAFF6A2E7FEE9637",
       "unresolved": false,
       "fr": "J'atteindrai l'ultime puissance,\r\nau-delà des limites du savoir\u00A0!",
-      "ja": "我は知りたい――\r\nこの叡智の先に 何があるのかを！",
+      "ja": "我は知りたい――\r\nこの叡智の先に  何があるのかを！",
       "frMacro": "J'atteindrai l'ultime puissance,<br>au-delà des limites du savoir<nbsp>!",
-      "jaMacro": "我は知りたい――<br>この叡智の先に 何があるのかを！",
+      "jaMacro": "我は知りたい――<br>この叡智の先に  何があるのかを！",
       "conversation": "quest/055/KinGkd108_05518",
       "seq": 102,
       "speaker": "INDEX",
@@ -2689,7 +2689,7 @@
       "hash": "F4BE7086C99EB94B",
       "unresolved": false,
       "fr": "Ainsi s'éteint la promesse d'un savoir illimité...",
-      "ja": "継がれし叡智が ここで絶えるというのか――",
+      "ja": "継がれし叡智が  ここで絶えるというのか――",
       "conversation": "quest/055/KinGkd108_05518",
       "seq": 103,
       "speaker": "INDEX",

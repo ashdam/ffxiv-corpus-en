@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "MassivePcContentTextData",
   "entries": [
     {
@@ -5689,9 +5689,9 @@
       "en": "The cosmoport is in need of a little brushing up, and we've finally solidified our plans for maintenance! Stand by for more details!",
       "hash": "AFAE35C2C14A7ED8",
       "unresolved": false,
-      "fr": "On va bientôt pouvoir commencer l'agrandissement du cosmoport\u00A0! J'espère que vous serez nombreux à venir nous aider\u00A0!",
+      "fr": "On va bientôt pouvoir commencer l'amélioration du cosmoport\u00A0! J'espère que vous serez nombreux à venir nous aider\u00A0!",
       "ja": "「コスモポート整備支援」の着工時刻が決まったッス！\r\n実施時には、ぜひぜひ協力してほしいッスー！",
-      "frMacro": "On va bientôt pouvoir commencer l'agrandissement du cosmoport<nbsp>! J'espère que vous serez nombreux à venir nous aider<nbsp>!",
+      "frMacro": "On va bientôt pouvoir commencer l'amélioration du cosmoport<nbsp>! J'espère que vous serez nombreux à venir nous aider<nbsp>!",
       "jaMacro": "「コスモポート整備支援」の着工時刻が決まったッス！<br>実施時には、ぜひぜひ協力してほしいッスー！",
       "conversation": "MassivePcContentTextData#1476",
       "seq": 0,
@@ -5705,9 +5705,9 @@
       "hash": "6889D221B4B5DEA4",
       "macro": "Feast your eyes upon our new and improved cosmoport! Marvel at the quantity of research materials we can now send to Etheirys all in one go!<key>And have you seen our completed shielding? Not only will it reduce interference with our takeoffs and landings, but also enhance our interstellar communications!<key>Take a peek into the Infrastructure Index where Reportingway covers our progress!",
       "unresolved": false,
-      "fr": "L'agrandissement du cosmoport est terminé\u00A0! Nous allons pouvoir faire profiter Ætherys de toutes nos découvertes, merci de votre coopération\u00A0!On a également bâti un toit au milieu de la station, avec à la clef moins de nuisances dues à l'atterrissage des navettes, et une meilleure transmission de nos communications\u00A0!Au fait, Reportingway a ajouté une nouvelle entrée au registre du projet, si vous aimez la lecture\u00A0!",
+      "fr": "L'amélioration du cosmoport est terminé\u00A0! Nous allons pouvoir faire profiter Ætherys de toutes nos découvertes, merci de votre coopération\u00A0!On a également bâti un toit au milieu de la station, avec à la clef moins de nuisances dues à l'atterrissage des navettes, et une meilleure transmission de nos communications\u00A0!Au fait, Reportingway a ajouté une nouvelle entrée au registre du projet, si vous aimez la lecture\u00A0!",
       "ja": "コスモポートが、さらに高機能にアップグレードされたッスよ！\r\nこれで、より多くの研究物資をアーテリスに送って解析ができるッスー！合わせて基地中央に、シールド屋根が完成したッス！\r\n宇宙船発着の影響を受けにくくしつつ、星外との通信効率改善ッスよー！探索の軌跡に、\r\nレポーティングウェイの新しい記事も掲載されたッス！",
-      "frMacro": "L'agrandissement du cosmoport est terminé<nbsp>! Nous allons pouvoir faire profiter Ætherys de toutes nos découvertes, merci de votre coopération<nbsp>!<key>On a également bâti un toit au milieu de la station, avec à la clef moins de nuisances dues à l'atterrissage des navettes, et une meilleure transmission de nos communications<nbsp>!<key>Au fait, Reportingway a ajouté une nouvelle entrée au registre du projet, si vous aimez la lecture<nbsp>!",
+      "frMacro": "L'amélioration du cosmoport est terminé<nbsp>! Nous allons pouvoir faire profiter Ætherys de toutes nos découvertes, merci de votre coopération<nbsp>!<key>On a également bâti un toit au milieu de la station, avec à la clef moins de nuisances dues à l'atterrissage des navettes, et une meilleure transmission de nos communications<nbsp>!<key>Au fait, Reportingway a ajouté une nouvelle entrée au registre du projet, si vous aimez la lecture<nbsp>!",
       "jaMacro": "コスモポートが、さらに高機能にアップグレードされたッスよ！<br>これで、より多くの研究物資をアーテリスに送って解析ができるッスー！<key>合わせて基地中央に、シールド屋根が完成したッス！<br>宇宙船発着の影響を受けにくくしつつ、星外との通信効率改善ッスよー！<key>探索の軌跡に、<br>レポーティングウェイの新しい記事も掲載されたッス！",
       "conversation": "MassivePcContentTextData#1477",
       "seq": 0,

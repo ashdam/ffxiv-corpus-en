@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "CustomTalk",
   "entries": [
     {
@@ -4914,6 +4914,19 @@
       "ja": "異邦の詩人",
       "conversation": "CustomTalk#721793",
       "seq": 65,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CustomTalk"
+    },
+    {
+      "gameKey": "CustomTalk#721872.64",
+      "en": "Crucible of the Unbroken",
+      "hash": "B2902AB4457850DD",
+      "unresolved": false,
+      "fr": "Dédale bestial",
+      "ja": "闘獣練",
+      "conversation": "CustomTalk#721872",
+      "seq": 64,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "CustomTalk"

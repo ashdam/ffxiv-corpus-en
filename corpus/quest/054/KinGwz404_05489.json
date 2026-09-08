@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/054/KinGwz404_05489",
   "entries": [
     {
@@ -32,9 +32,9 @@
       "en": "Theorizingway has sent out fresh invitations to Studium members who were regrettably unable to attend the previous field trip. Together, the two of you welcome Rurusha, Jude, and Hinageshi to the Timberlodge, each of them modest contributors to the Cosmic Exploration Initiative. Though theirs is an independent tour, you are nevertheless requested to keep an eye on them and answer questions as they arise.",
       "hash": "8F6BA29D22C2A3BE",
       "unresolved": false,
-      "fr": "Theorizingway vous a appris que des invités de l'académie de magie de Sharlayan, absents lors de la visite d'Oizys, allaient bientôt atterrir sur Auxesia. Lui et vous êtes ainsi allés accueillir Rurusha, Jude et Hinageshi, spécialistes respectifs en archéologie, en astronomie et en anthropologie. Le Loporrite vous a  de les accompagner et de répondre à leur question,  de votre expérience sur le terrain. Pour commencer, rendez-vous près de Pousse vivace, et parlez à Jude.",
+      "fr": "Theorizingway vous a appris que des invités de l'académie de magie de Sharlayan, absents lors de la visite d'Oizys, allaient bientôt atterrir sur Auxesia. Lui et vous êtes ainsi allés accueillir Rurusha, Jude et Hinageshi, spécialistes respectifs en archéologie, en astronomie et en anthropologie. Le Loporrite vous a  de les accompagner et de répondre à leur question,  de votre expérience sur le terrain. Pour commencer, rendez-vous près de la Pousse vivace, et parlez à Jude.",
       "ja": "セオライジングウェイと話し、共にアーテリスから訪れたルルシャ、ジュード、ヒナゲシを出迎えた。3人は惑星アウクセシアの各所をまわり、コスモエクスプローラー計画における魔法大学の貢献を見学していくという。まず石蒼き林班の末葉の塔へ向かう彼らと合流し、「ジュード」と話して惑星探索の現場について案内しよう。",
-      "frMacro": "Theorizingway vous a appris que des invités de l'académie de magie de Sharlayan, absents lors de la visite d'Oizys, allaient bientôt atterrir sur Auxesia. Lui et vous êtes ainsi allés accueillir Rurusha, Jude et Hinageshi, spé<->cia<->listes respectifs en archéologie, en astronomie et en anthropologie. Le Loporrite vous a <if(gnum4,chargée,chargé)> de les accompagner et de répondre à leur question, <if(gnum4,forte,fort)> de votre expérience sur le terrain. Pour commencer, rendez-vous près de Pousse vivace, et parlez à Jude.",
+      "frMacro": "Theorizingway vous a appris que des invités de l'académie de magie de Sharlayan, absents lors de la visite d'Oizys, allaient bientôt atterrir sur Auxesia. Lui et vous êtes ainsi allés accueillir Rurusha, Jude et Hinageshi, spé<->cia<->listes respectifs en archéologie, en astronomie et en anthropologie. Le Loporrite vous a <if(gnum4,chargée,chargé)> de les accompagner et de répondre à leur question, <if(gnum4,forte,fort)> de votre expérience sur le terrain. Pour commencer, rendez-vous près de la Pousse vivace, et parlez à Jude.",
       "conversation": "quest/054/KinGwz404_05489",
       "seq": 1,
       "speakerKind": "system",

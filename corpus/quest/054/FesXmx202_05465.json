@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/054/FesXmx202_05465",
   "entries": [
     {
@@ -36,9 +36,9 @@
       "hash": "85DBFA4FF5CAB74B",
       "macro": "Laurenssen suspects that the children, so eager to volunteer, may find themselves unused to working in such cold. Since it is important to keep one's workers comfortable and productive, he suggests that you present them with a mug of kinderpunsch. Agreeing with the sentiment, you head over to speak with the saturnine Starlight celebrant distributing the mulled punch.<br><br>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone.",
       "unresolved": false,
-      "fr": "Cette quête ne peut être commencée et effectuée que pendant la durée de l'événement saisonnier correspondant. Pour plus de détails, veuillez consulter The Lodestone.\r\n\r\nSur la demande de Laurenssen, vous devez observer la construction du traîneau et vous assurer que chaque groupe s'en sort convenablement. Afin d'apporter un peu de soutien aux enfants, le professeur vous a suggéré de distribuer aux enfants du kinderpunsch, que vous devez aller récupérer auprès du disciple du saint calme, au marché des étoiles.",
+      "fr": "Cette quête ne peut être commencée et effectuée que pendant la durée de l'événement saisonnier correspondant. Pour plus de détails, veuillez consulter The Lodestone.\r\n\r\nLaurenssen vous a demandé d'observer la construction du traîneau et de vous assurer que chaque groupe s'en sort convenablement. Afin d'apporter un peu de soutien aux enfants, le professeur vous a suggéré de leur distribuer du kinderpunsch, que vous devez aller récupérer auprès du disciple du saint calme, au marché des étoiles.",
       "ja": "※本クエストは、シーズナルイベント開催中にかぎり、\r\n\u3000受注、進行できます。\r\n\u3000開催期間終了後は進行できませんので、ご注意ください。\r\n\u3000期間等の詳細についてはLodestoneをご覧ください。\r\n\r\nローレンセンに頼まれ、ソリ作りを手伝う子どもたちに、キンダープンシュの差し入れをすることになった。星芒マーケットの「おっとりした星芒祭実行委員」と話そう。",
-      "frMacro": "Cette quête ne peut être commencée et effectuée que pendant la durée de l'événement saisonnier correspondant. Pour plus de détails, veuillez consulter The Lodestone.<br><br>Sur la demande de Laurenssen, vous devez observer la con<->struc<->tion du traîneau et vous assurer que chaque groupe s'en sort con<->ve<->na<->ble<->ment. Afin d'apporter un peu de soutien aux enfants, le professeur vous a suggéré de distribuer aux enfants du kinderpunsch, que vous devez aller récupérer auprès du disciple du saint calme, au marché des étoiles.",
+      "frMacro": "Cette quête ne peut être commencée et effectuée que pendant la durée de l'événement saisonnier correspondant. Pour plus de détails, veuillez consulter The Lodestone.<br><br>Laurenssen vous a demandé d'observer la con<->struc<->tion du traîneau et de vous assurer que chaque groupe s'en sort con<->ve<->na<->ble<->ment. Afin d'apporter un peu de soutien aux enfants, le professeur vous a suggéré de leur distribuer du kinderpunsch, que vous devez aller récupérer auprès du disciple du saint calme, au marché des étoiles.",
       "jaMacro": "※本クエストは、シーズナルイベント開催中にかぎり、<br>\u3000受注、進行できます。<br>\u3000開催期間終了後は進行できませんので、ご注意ください。<br>\u3000期間等の詳細についてはLodestoneをご覧ください。<br><br>ローレンセンに頼まれ、ソリ作りを手伝う子どもたちに、キンダープンシュの差し入れをすることになった。星芒マーケットの「おっとりした星芒祭実行委員」と話そう。",
       "conversation": "quest/054/FesXmx202_05465",
       "seq": 1,
@@ -320,7 +320,7 @@
       "en": "Ride the sleigh and ring the bell near any children you find.",
       "hash": "5007C5F33FBAA742",
       "unresolved": false,
-      "fr": "À bord du traîneau, faites sonner la clochette des étoiles près des enfants",
+      "fr": "À bord du traîneau, faire sonner la clochette des étoiles près des enfants",
       "ja": "スターライトスレイに騎乗して\r\n子どもたちの付近でスターライトベルを使う",
       "jaMacro": "スターライトスレイに騎乗して<br>子どもたちの付近でスターライトベルを使う",
       "conversation": "quest/054/FesXmx202_05465",

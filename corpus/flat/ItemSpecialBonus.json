@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "ItemSpecialBonus",
   "entries": [
     {
@@ -115,6 +115,20 @@
       "jaMacro": "<num(lnum1)>種装備時のみ効果有効",
       "conversation": "ItemSpecialBonus#10",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ItemSpecialBonus"
+    },
+    {
+      "gameKey": "ItemSpecialBonus#11.0",
+      "en": "Crucible Effect:",
+      "hash": "13B9DD68DC2303A6",
+      "unresolved": false,
+      "fr": "Bonus du Dédale bestial\u00A0:",
+      "ja": "闘獣練専用効果",
+      "frMacro": "Bonus du Dédale bestial<nbsp>:",
+      "conversation": "ItemSpecialBonus#11",
+      "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ItemSpecialBonus"

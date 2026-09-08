@@ -1,6 +1,6 @@
 {
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "terms": [
     {
       "en": "A Treatise on Runes",
@@ -5927,6 +5927,12 @@
       "protect": true
     },
     {
+      "en": "Cu Sith",
+      "fr": "cu sith",
+      "ja": "クーシー",
+      "protect": false
+    },
+    {
       "en": "Cullaal Ja",
       "fr": "Cullaal Ja",
       "ja": "スラージャ",
@@ -11200,6 +11206,12 @@
       "protect": true
     },
     {
+      "en": "Guttler",
+      "fr": "Dévoreuse",
+      "ja": "ガトラー",
+      "protect": false
+    },
+    {
       "en": "Guydelot",
       "fr": "Guydelot",
       "ja": "ギドゥロ",
@@ -14358,6 +14370,12 @@
       "note": "Token Exchange"
     },
     {
+      "en": "J'yhuh Tia",
+      "fr": "J'yhuh Tia",
+      "ja": "ジャ・ユハ・ティア",
+      "protect": true
+    },
+    {
       "en": "J'zula Tia",
       "fr": "J'zula Tia",
       "ja": "ジャ・ズラ・ティア",
@@ -15639,6 +15657,12 @@
       "protect": true
     },
     {
+      "en": "Ketill",
+      "fr": "Ketill",
+      "ja": "ケティル",
+      "protect": true
+    },
+    {
       "en": "Ketonye",
       "fr": "Ketonye",
       "ja": "ケトネ",
@@ -16218,6 +16242,12 @@
       "fr": "Korille",
       "ja": "コリル",
       "protect": true
+    },
+    {
+      "en": "Kornago merchant",
+      "fr": "marchand du cornago",
+      "ja": "コルナゴ派の商人",
+      "protect": false
     },
     {
       "en": "Koruri",
@@ -16938,6 +16968,12 @@
       "en": "Latisha",
       "fr": "Latisha",
       "ja": "ラティシャ",
+      "protect": true
+    },
+    {
+      "en": "Lauda",
+      "fr": "Lauda",
+      "ja": "ラウダ",
       "protect": true
     },
     {
@@ -17727,6 +17763,12 @@
       "fr": "mère de Loonh Gah",
       "ja": "ルーン・ガーの母",
       "protect": false
+    },
+    {
+      "en": "Loosefrox",
+      "fr": "Loosefrox",
+      "ja": "ルースフロクス",
+      "protect": true
     },
     {
       "en": "Loporrit junkmonger",
@@ -23798,6 +23840,12 @@
       "protect": true
     },
     {
+      "en": "Philkin",
+      "fr": "Philkin",
+      "ja": "フィルキン",
+      "protect": true
+    },
+    {
       "en": "Phillice",
       "fr": "Phillice",
       "ja": "フィリス",
@@ -29072,6 +29120,12 @@
       "protect": true
     },
     {
+      "en": "Sylmond",
+      "fr": "Sylmond",
+      "ja": "シルモン",
+      "protect": true
+    },
+    {
       "en": "Sylphie",
       "fr": "Sylphie",
       "ja": "シルフィー",
@@ -32176,6 +32230,12 @@
       "en": "Vishryde",
       "fr": "Vishryde",
       "ja": "ヴィッシュリード",
+      "protect": true
+    },
+    {
+      "en": "Visna",
+      "fr": "Visna",
+      "ja": "ヴィスナ",
       "protect": true
     },
     {

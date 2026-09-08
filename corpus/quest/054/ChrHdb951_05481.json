@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/054/ChrHdb951_05481",
   "entries": [
     {
@@ -2732,9 +2732,9 @@
       "en": "Clots: These amorphous organisms inhabit dense jungle environments and demonstrate an extraordinary capability for physical mimicry. When threatened, the clot will either mirror the threat itself, or adopt a more intimidating form.",
       "hash": "1AA59225013E7171",
       "unresolved": false,
-      "fr": "(-Terminal de recherche du secteur commercial-)Caillot\u00A0: monstre forestier appartenant à la famille des mollusques. Lorsqu'il se sent menacé, il utilise ses capacités de mimétisme pour prendre l'apparence de ses agresseurs ou d'une autre forme de vie capable de les effrayer.",
+      "fr": "(-Terminal du secteur commercial-)Caillot\u00A0: monstre forestier appartenant à la famille des mollusques. Lorsqu'il se sent menacé, il utilise ses capacités de mimétisme pour prendre l'apparence de ses agresseurs ou d'une autre forme de vie capable de les effrayer.",
       "ja": "(-コマースセクターの情報端末-)クロット……密林に生息する軟体生物。\r\n優れた擬態能力を有しており、生命の危険を感じると、\r\n脅威となる対象そのもの、あるいはより強大な存在に擬態する。",
-      "frMacro": "(-Terminal de recherche du secteur commercial-)Caillot<nbsp>: monstre forestier appartenant à la famille des mollusques. Lorsqu'il se sent menacé, il utilise ses capacités de mimétisme pour prendre l'apparence de ses agresseurs ou d'une autre forme de vie capable de les effrayer.",
+      "frMacro": "(-Terminal du secteur commercial-)Caillot<nbsp>: monstre forestier appartenant à la famille des mollusques. Lorsqu'il se sent menacé, il utilise ses capacités de mimétisme pour prendre l'apparence de ses agresseurs ou d'une autre forme de vie capable de les effrayer.",
       "jaMacro": "(-コマースセクターの情報端末-)クロット……密林に生息する軟体生物。<br>優れた擬態能力を有しており、生命の危険を感じると、<br>脅威となる対象そのもの、あるいはより強大な存在に擬態する。",
       "conversation": "quest/054/ChrHdb951_05481",
       "seq": 105,
@@ -2759,7 +2759,7 @@
       "en": "Clots can also fuse with others of their species, and there are recorded cases of multiple clots merging into a single gigantic entity possessed of immense magical power.",
       "hash": "364A62E98A88F9CF",
       "unresolved": false,
-      "fr": "(-Terminal de recherche du secteur commercial-)Des rapports indiquent que plusieurs caillots seraient également capables de fusionner pour former une entité gigantesque qui cumulerait la puissance magique de tous les individus qui la composent.",
+      "fr": "(-Terminal du secteur commercial-)Des rapports indiquent que plusieurs caillots seraient également capables de fusionner pour former une entité gigantesque qui cumulerait la puissance magique de tous les individus qui la composent.",
       "ja": "(-コマースセクターの情報端末-)また、同種と融合することがあり、複数が融合したことによって、\r\n巨体と大きな魔力を持つクロットも記録されている。",
       "jaMacro": "(-コマースセクターの情報端末-)また、同種と融合することがあり、複数が融合したことによって、<br>巨体と大きな魔力を持つクロットも記録されている。",
       "conversation": "quest/054/ChrHdb951_05481",

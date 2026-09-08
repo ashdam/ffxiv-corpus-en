@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/054/KinGra306_05440",
   "entries": [
     {
@@ -767,8 +767,8 @@
     },
     {
       "gameKey": "quest/054/KinGra306_05440#TEXT_KINGRA306_05440_METEM_000_110",
-      "en": "For a small blessing, his regulator still allowed him control over the Arcadion's devices, and he could remotely operate machinery.",
-      "hash": "2794B675AF4B675E",
+      "en": "For a small blessing, the apparatus he wore still allowed him control over the Arcadion's devices, and he could remotely operate machinery.",
+      "hash": "71A14D9316576709",
       "unresolved": false,
       "fr": "La conscience du propriétaire était désormais prisonnière du Lindwurm. Cependant, après des années à manipuler quotidiennement les machines de l'Arcadion avec son régulateur, il restait capable de les contrôler à distance. ",
       "ja": "オーナーの意識はリンドブルムの中に閉じ込められてしまった。\r\nだが、常日頃からアルカディアの機器を操作するための、\r\n端末を着けていたことが功を奏し、機械の遠隔操作は可能だった。",

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "dungeon/000/DungeonXbm_00000",
+  "entries": [
+    {
+      "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000",
+      "en": "Pshhh... Shkohhh... The moment of truetruth.\r\nLet's go, Chewchum Popoto!",
+      "hash": "2DC3F6DA958678C4",
+      "macro": "Pshhh... Shkohhh... The moment of truetruth.<br>Let's go, Chewchum Popoto!",
+      "unresolved": false,
+      "fr": "Pshhh\u00A0! Loosefrox est l'aînée, elle est la plus forte\u00A0! Et elle va le prouver avec l'aide de Patatoune\u00A0!",
+      "ja": "シュコォ……姉弟子のアタイの方が強いゴブ！\r\nお芋ちゃん  やっちゃって！",
+      "frMacro": "Pshhh<nbsp>! Loosefrox est l'aînée, elle est la plus forte<nbsp>! Et elle va le prouver avec l'aide de Patatoune<nbsp>!",
+      "jaMacro": "シュコォ……姉弟子のアタイの方が強いゴブ！<br>お芋ちゃん  やっちゃって！",
+      "conversation": "dungeon/000/DungeonXbm_00000",
+      "seq": 0,
+      "speaker": "LOOSEFROX",
+      "speakerKind": "character",
+      "speakerGender": "female",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonXbm_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100",
+      "en": "For eternity shalt thou know suffering.\r\nBeastmaster... Surrender thy soul!",
+      "hash": "B605F0626B52C988",
+      "macro": "For eternity shalt thou know suffering.<br>Beastmaster... Surrender thy soul!",
+      "unresolved": false,
+      "fr": "Misérable ... Je vais te réduire en lambeaux et dévorer ton âme\u00A0!",
+      "ja": "憎き魔獣使イの魂――\r\n喰らイ尽クしてヤる！",
+      "frMacro": "Misérable <if(gnum4,dresseuse,dresseur)>... Je vais te réduire en lambeaux et dévorer ton âme<nbsp>!",
+      "jaMacro": "憎き魔獣使イの魂――<br>喰らイ尽クしてヤる！",
+      "conversation": "dungeon/000/DungeonXbm_00000",
+      "seq": 1,
+      "speaker": "GUTTLER",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonXbm_00000"
+    },
+    {
+      "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200",
+      "en": "Blood of mine enemy, brethren of spilt blood...\r\nWith me, Lauda. We fight as one! ",
+      "hash": "CE0046E1F588A1EB",
+      "macro": "Blood of mine enemy, brethren of spilt blood...<br>With me, Lauda. We fight as one! ",
+      "unresolved": false,
+      "fr": "Mon cœur et celui de Lauda battent désormais à l'unisson... Approche, , tu vas découvrir notre véritable puissance\u00A0!",
+      "ja": "我ガ心ハ相棒ラウダと共に――\r\nユくぞ  魔獣使イ！",
+      "frMacro": "Mon cœur et celui de Lauda battent désormais à l'unisson... Approche, <if(gnum4,dresseuse,dresseur)>, tu vas découvrir notre véritable puissance<nbsp>!",
+      "jaMacro": "我ガ心ハ相棒ラウダと共に――<br>ユくぞ  魔獣使イ！",
+      "conversation": "dungeon/000/DungeonXbm_00000",
+      "seq": 2,
+      "speaker": "GUTTLER",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "dungeon/000/DungeonXbm_00000"
+    }
+  ]
+}

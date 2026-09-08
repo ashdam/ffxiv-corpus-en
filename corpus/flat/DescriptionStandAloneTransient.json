@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "DescriptionStandAloneTransient",
   "entries": [
     {
@@ -337,6 +337,19 @@
       "fr": "Commandes spéciales",
       "ja": "CUSTOM DELIVERIES",
       "conversation": "DescriptionStandAloneTransient#27",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#28.1",
+      "en": "Crucible of the Unbroken",
+      "hash": "AE4369A1E451861E",
+      "unresolved": false,
+      "fr": "Dédale bestial",
+      "ja": "CRUCIBLE OF THE UNBROKEN",
+      "conversation": "DescriptionStandAloneTransient#28",
       "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "SpecialShop",
   "entries": [
     {
@@ -13655,6 +13655,32 @@
       "sheet": "SpecialShop"
     },
     {
+      "gameKey": "SpecialShop#1771019",
+      "en": "Faded Remnants of Resilience",
+      "hash": "B6F9B4A9BE787279",
+      "unresolved": false,
+      "fr": "Essences bestiales de basse qualité",
+      "ja": "低純度ビーストコアの取引",
+      "conversation": "SpecialShop#1771019",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SpecialShop"
+    },
+    {
+      "gameKey": "SpecialShop#1771020",
+      "en": "Bright Remnants of Resilience",
+      "hash": "10EAC51F6BE4EBEC",
+      "unresolved": false,
+      "fr": "Essences bestiales de haute qualité",
+      "ja": "高純度ビーストコアの取引",
+      "conversation": "SpecialShop#1771020",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SpecialShop"
+    },
+    {
       "gameKey": "SpecialShop#1771023",
       "en": "Tattered Score Exchange (Third Movement)",
       "hash": "2193B3AC7785A13C",
@@ -13818,6 +13844,19 @@
       "fr": "Échange d'équipements de naufragé du croissant +2",
       "ja": "「クレセントノート装備+2」の交換",
       "conversation": "SpecialShop#1771035",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SpecialShop"
+    },
+    {
+      "gameKey": "SpecialShop#1771036",
+      "en": "Achievement Rewards",
+      "hash": "76837C876FBFDE73",
+      "unresolved": false,
+      "fr": "Récompenses de hauts faits",
+      "ja": "達成報酬の受取",
+      "conversation": "SpecialShop#1771036",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

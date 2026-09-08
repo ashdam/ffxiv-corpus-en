@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/055/KinGkd107_05517",
   "entries": [
     {
@@ -57,9 +57,9 @@
       "hash": "3A3BEDC740FC1FDB",
       "macro": "It appears the North Horn's aetherial abnormalities partially result from the presence of several familiars, each of whom exude such powerful aetheric energies as to disrupt the local confluences. To restore the balance, and thereby gain ingress into the tower, these fiends must be dealt with─a task which inevitably falls to you.<br><br>※The relevant critical encounters are “Doubled Trouble,” “Quarried Away,” and “Appalling Behavior.”",
       "unresolved": false,
-      "fr": "D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.\r\n\r\nRemportez les confrontations critiques suivantes\u00A0:\r\n- “Défi\u00A0: les dérives du clonage”\r\n- “Défi\u00A0: l'homme à albâtre”\r\n- “Défi\u00A0: le visage pâle”",
+      "fr": "D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.\r\n\r\nRemportez les confrontations critiques suivantes\u00A0:\r\n- “Défi\u00A0: les dérives du clonage”\r\n- “Défi\u00A0: l'homme à albâtre”\r\n- “Défi\u00A0: vert de rancœur”",
       "ja": "ケテンラムと話し、地脈の流れを阻害している要因が判明した。クリティカルエンカウントに参加し、強い魔力を放っている魔物を討伐しよう。\r\n\r\n※対象となるクリティカルエンカウントは以下のとおりです。\r\n\r\n「魔女の複製体「カロフィステリ・ダブル」」\r\n「白の守護者「アラバスターブレード」」\r\n「呪いを継ぐ者「ペイルマギア」」",
-      "frMacro": "D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.<br><br>Remportez les confrontations critiques suivantes<nbsp>:<br>- “Défi<nbsp>: les dérives du clonage”<br>- “Défi<nbsp>: l'homme à albâtre”<br>- “Défi<nbsp>: le visage pâle”",
+      "frMacro": "D'après Ketenramm, certaines créatures du nord de Lunule dégageraient une énergie si puissante qu'elle déséquilibrerait les flux éthérés de la région. Afin de restaurer l'accès à la Tour fourchue de la Magie, vous devez les abattre.<br><br>Remportez les confrontations critiques suivantes<nbsp>:<br>- “Défi<nbsp>: les dérives du clonage”<br>- “Défi<nbsp>: l'homme à albâtre”<br>- “Défi<nbsp>: vert de rancœur”",
       "jaMacro": "ケテンラムと話し、地脈の流れを阻害している要因が判明した。クリティカルエンカウントに参加し、強い魔力を放っている魔物を討伐しよう。<br><br>※対象となるクリティカルエンカウントは以下のとおりです。<br><br>「魔女の複製体「カロフィステリ・ダブル」」<br>「白の守護者「アラバスターブレード」」<br>「呪いを継ぐ者「ペイルマギア」」",
       "conversation": "quest/055/KinGkd107_05517",
       "seq": 2,
@@ -252,9 +252,9 @@
       "en": "Complete the critical encounter “Appalling Behavior.”",
       "hash": "480959EAD83E4EF4",
       "unresolved": false,
-      "fr": "Remporter la confrontation critique “Défi\u00A0: le visage pâle”",
+      "fr": "Remporter la confrontation critique “Défi\u00A0: vert de rancœur”",
       "ja": "クリティカルエンカウント\r\n「呪いを継ぐ者「ペイルマギア」」を攻略",
-      "frMacro": "Remporter la confrontation critique “Défi<nbsp>: le visage pâle”",
+      "frMacro": "Remporter la confrontation critique “Défi<nbsp>: vert de rancœur”",
       "jaMacro": "クリティカルエンカウント<br>「呪いを継ぐ者「ペイルマギア」」を攻略",
       "conversation": "quest/055/KinGkd107_05517",
       "seq": 10,

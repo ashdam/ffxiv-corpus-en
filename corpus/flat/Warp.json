@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "Warp",
   "entries": [
     {
@@ -8904,6 +8904,48 @@
       "ja": "「ゼロの領域」へ移動しますか？",
       "frMacro": "Aller au territoire de Zero<nbsp>?",
       "conversation": "Warp#131639",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Warp"
+    },
+    {
+      "gameKey": "Warp#131640.11",
+      "en": "Travel to the unmoored isle?",
+      "hash": "740B947C933D0750",
+      "unresolved": false,
+      "fr": "Aller sur l'île flottante sans nom\u00A0?",
+      "ja": "「名もなき浮島」へ移動しますか？",
+      "frMacro": "Aller sur l'île flottante sans nom<nbsp>?",
+      "conversation": "Warp#131640",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Warp"
+    },
+    {
+      "gameKey": "Warp#131641.11",
+      "en": "Travel to Dawn's Respite?",
+      "hash": "6B0633D8A1FD233E",
+      "unresolved": false,
+      "fr": "Aller à la chambre de l'Aube\u00A0?",
+      "ja": "「未明の間」へ移動しますか？",
+      "frMacro": "Aller à la chambre de l'Aube<nbsp>?",
+      "conversation": "Warp#131641",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Warp"
+    },
+    {
+      "gameKey": "Warp#131642.11",
+      "en": "Travel to the unmoored isle?",
+      "hash": "C80F6992A7E3E178",
+      "unresolved": false,
+      "fr": "Aller sur l'île flottante sans nom\u00A0?",
+      "ja": "「名もなき浮島」へ移動しますか？",
+      "frMacro": "Aller sur l'île flottante sans nom<nbsp>?",
+      "conversation": "Warp#131642",
       "seq": 11,
       "speakerKind": "unknown",
       "kind": "ambient",

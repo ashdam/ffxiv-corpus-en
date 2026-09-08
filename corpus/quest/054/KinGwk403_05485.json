@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/054/KinGwk403_05485",
   "entries": [
     {
@@ -1614,9 +1614,9 @@
       "en": "Would that I had a survey drone to scan the surrounds! Alas, I was told that they aren't designed to function on Etheirys.",
       "hash": "52663912AC6E6D79",
       "unresolved": false,
-      "fr": "Dommage que les drones du projet d'exploration cosmique ne fonctionnement pas correctement sur Ætherys. J'aurais pu en emprunter quelques-uns pour analyser les environs.",
+      "fr": "Dommage que les drones du projet d'exploration cosmique ne fonctionnent pas correctement sur Ætherys. J'aurais pu en emprunter quelques-uns pour analyser les environs.",
       "ja": "コスモエクスプローラー計画で使ってるドローンで、\r\nこの周辺をスキャンできたらいいんだけどな。\r\nあれは、地上じゃうまく動作しないらしいんだ。",
-      "frMacro": "Dommage que les drones du projet d'exploration cosmique ne fonc<->tion<->ne<->ment pas cor<->rec<->te<->ment sur Ætherys. J'aurais pu en emprunter quelques-uns pour analyser les environs.",
+      "frMacro": "Dommage que les drones du projet d'exploration cosmique ne fonctionnent pas cor<->rec<->te<->ment sur Ætherys. J'aurais pu en emprunter quelques-uns pour analyser les environs.",
       "jaMacro": "コスモエクスプローラー計画で使ってるドローンで、<br>この周辺をスキャンできたらいいんだけどな。<br>あれは、地上じゃうまく動作しないらしいんだ。",
       "conversation": "quest/054/KinGwk403_05485",
       "seq": 62,

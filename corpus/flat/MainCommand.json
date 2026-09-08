@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "MainCommand",
   "entries": [
     {
@@ -2585,6 +2585,32 @@
       "fr": "Permet de sauvegarder temporairement des paramètres de configuration comme les barres de raccourcis pour les partager avec un autre personnage.",
       "ja": "ホットバーや各種コンフィグなどの設定データをサーバーに一時保存し、別のキャラクターと共有できます。",
       "conversation": "MainCommand#99",
+      "seq": 6,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommand"
+    },
+    {
+      "gameKey": "MainCommand#100.5",
+      "en": "Master's Bestiary",
+      "hash": "DAAD147B648B2780",
+      "unresolved": false,
+      "fr": "Bestiaire de dresseur",
+      "ja": "魔獣図鑑",
+      "conversation": "MainCommand#100",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MainCommand"
+    },
+    {
+      "gameKey": "MainCommand#100.6",
+      "en": "Displays all captured beasts. Here, beasts can be assigned to and removed from your battlehorns.",
+      "hash": "28A66AFAB10CA7EA",
+      "unresolved": false,
+      "fr": "Affiche la liste de toutes les bêtes que vous avez capturées. Permet également de les assigner à votre Corne d'appel.",
+      "ja": "とらえたペットが登録される図鑑です。呼び笛で呼び出すペットの設定なども行えます。",
+      "conversation": "MainCommand#100",
       "seq": 6,
       "speakerKind": "unknown",
       "kind": "ambient",

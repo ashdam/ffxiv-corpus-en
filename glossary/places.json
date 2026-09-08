@@ -1,6 +1,6 @@
 {
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "terms": [
     {
       "en": "A Door Unopened",
@@ -1593,6 +1593,12 @@
       "protect": false
     },
     {
+      "en": "Beastmaster",
+      "fr": "Dresseur",
+      "ja": "魔獣使い",
+      "protect": false
+    },
+    {
       "en": "Beckoning Backstreet",
       "fr": "Ruelle du quartier résidentiel",
       "ja": "街外れの裏通り",
@@ -1974,6 +1980,12 @@
       "en": "Borel Manor",
       "fr": "Manoir des Borel",
       "ja": "ボーレル子爵邸",
+      "protect": false
+    },
+    {
+      "en": "Boss",
+      "fr": "Gardien du plateau",
+      "ja": "ボスエネミー",
       "protect": false
     },
     {
@@ -2388,6 +2400,12 @@
       "en": "Camp Vrdelnis",
       "fr": "Avant-poste de Vrdelnis",
       "ja": "ヴァルデニス前哨地",
+      "protect": false
+    },
+    {
+      "en": "Campsite",
+      "fr": "Campement",
+      "ja": "テント",
       "protect": false
     },
     {
@@ -3723,6 +3741,12 @@
       "protect": false
     },
     {
+      "en": "Crucible of the Unbroken",
+      "fr": "Dédale bestial",
+      "ja": "闘獣練",
+      "protect": false
+    },
+    {
       "en": "Crumbling Bridge",
       "fr": "Pont démoli",
       "ja": "崩れかけた橋",
@@ -4929,6 +4953,12 @@
       "protect": false
     },
     {
+      "en": "Elite Enemy",
+      "fr": "Cible d'élite",
+      "ja": "エリートエネミー",
+      "protect": false
+    },
+    {
       "en": "Elpis",
       "fr": "Elpis",
       "ja": "エルピス",
@@ -5142,6 +5172,12 @@
       "en": "Endless City",
       "fr": "Cité des splendeurs",
       "ja": "壮麗なる都",
+      "protect": false
+    },
+    {
+      "en": "Enemy",
+      "fr": "Affrontement",
+      "ja": "エネミー",
       "protect": false
     },
     {
@@ -5781,6 +5817,12 @@
       "protect": false
     },
     {
+      "en": "First Board of the Unbroken",
+      "fr": "1er plateau",
+      "ja": "闘獣練 第一盤",
+      "protect": false
+    },
+    {
       "en": "First Central Ring",
       "fr": "Niveau médian I",
       "ja": "中層1",
@@ -5820,6 +5862,12 @@
       "en": "First Lower Ring",
       "fr": "Niveau inférieur I",
       "ja": "下層1",
+      "protect": false
+    },
+    {
+      "en": "First Master's Board",
+      "fr": "1er plateau expert",
+      "ja": "闘獣練 特一盤",
       "protect": false
     },
     {
@@ -13707,6 +13755,12 @@
       "protect": false
     },
     {
+      "en": "Random",
+      "fr": "Carte chance",
+      "ja": "ランダム",
+      "protect": false
+    },
+    {
       "en": "Rare Tomes Desk",
       "fr": "Accueil du bâtiment des manuscrits rares",
       "ja": "稀覯書庫受付",
@@ -15177,6 +15231,12 @@
       "protect": false
     },
     {
+      "en": "Second Board of the Unbroken",
+      "fr": "2e plateau",
+      "ja": "闘獣練 第二盤",
+      "protect": false
+    },
+    {
       "en": "Second Central Ring",
       "fr": "Niveau médian II",
       "ja": "中層2",
@@ -15204,6 +15264,12 @@
       "en": "Second Lower Ring",
       "fr": "Niveau inférieur II",
       "ja": "下層2",
+      "protect": false
+    },
+    {
+      "en": "Second Master's Board",
+      "fr": "2e plateau expert",
+      "ja": "闘獣練 特二盤",
       "protect": false
     },
     {
@@ -19433,6 +19499,7 @@
     {
       "en": "The Dire Deepcroft",
       "fr": "Cimetière désaffecté",
+      "ja": "廃墓所",
       "protect": false
     },
     {
@@ -24554,6 +24621,12 @@
       "protect": false
     },
     {
+      "en": "Third Board of the Unbroken",
+      "fr": "3e plateau",
+      "ja": "闘獣練 第三盤",
+      "protect": false
+    },
+    {
       "en": "Third Central Ring",
       "fr": "Niveau médian III",
       "ja": "中層3",
@@ -24887,6 +24960,12 @@
       "en": "Transport Elevator",
       "fr": "Monte-charge",
       "ja": "昇降機",
+      "protect": false
+    },
+    {
+      "en": "Treasure",
+      "fr": "Coffre au trésor",
+      "ja": "トレジャー",
       "protect": false
     },
     {
@@ -25325,6 +25404,12 @@
       "en": "Unmoored Anchor",
       "fr": "L'Ancre",
       "ja": "アンカーマウンテン",
+      "protect": false
+    },
+    {
+      "en": "Unmoored Isle",
+      "fr": "Île flottante sans nom",
+      "ja": "名もなき浮島",
       "protect": false
     },
     {

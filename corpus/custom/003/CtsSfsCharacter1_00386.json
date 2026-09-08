@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "custom/003/CtsSfsCharacter1_00386",
   "entries": [
     {
@@ -268,9 +268,8 @@
       "en": "In making your first successful delivery, you have begun to earn Zhloe's trust.",
       "hash": "E9516A935EFF7BA9",
       "unresolved": false,
-      "fr": "依頼品を納品したことで、\r\nは、あなたのことを信頼し始めました。",
+      "fr": "Plus vous livrerez de commandes spéciales à Zhloe, plus elle sera satisfaite de vos services.",
       "ja": "依頼品を納品したことで、\r\nは、あなたのことを信頼し始めました。",
-      "frMacro": "依頼品を納品したことで、<br><sheet(ENpcResident,lnum1,0)>は、あなたのことを信頼し始めました。",
       "jaMacro": "依頼品を納品したことで、<br><sheet(ENpcResident,lnum1,0)>は、あなたのことを信頼し始めました。",
       "conversation": "custom/003/CtsSfsCharacter1_00386",
       "seq": 15,

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "quest/055/FesAnx201_05510",
   "entries": [
     {
@@ -105,9 +105,9 @@
       "hash": "045EDCE52F742464",
       "macro": "Bathu bids you lead the way to the Bismarck to find Lyngsath. Hopefully, the man will be able to point you in A'nimuili's direction.<br><br>※You must be accompanied by Bathu Molkoh to complete this task. Speak with her again should you become separated.",
       "unresolved": false,
-      "fr": "Bathu Molkoh vous a demandé de la guider jusqu'au Bismarck afin d'y trouver Lyngsath. Avec un peu de chance, il pourra vous indiquer où se trouve A'nimuili.\r\n\r\n* Si vous vous retrouvez  de Bathu Molkoh, reparlez-lui au Dauphin noyé pour qu'elle vous accompagne à nouveau.",
+      "fr": "Bathu Molkoh vous a demandé de la guider jusqu'au Bismarck afin d'y trouver Lyngsath. Avec un peu de chance, il pourra vous indiquer où se trouve A'nimuili.\r\n* Si vous vous retrouvez  de Bathu Molkoh, reparlez-lui au Dauphin noyé pour qu'elle vous accompagne à nouveau.",
       "ja": "バツ・モルコーと話した。彼女を連れて、リムサ・ロミンサのレストラン・ビスマルクで「リングサス」と話そう。\r\n\r\n※同行状態が解除された場合、溺れた海豚亭の「バツ・モルコー」に話しかけることで同行を再開できます。",
-      "frMacro": "Bathu Molkoh vous a demandé de la guider jusqu'au Bismarck afin d'y trouver Lyngsath. Avec un peu de chance, il pourra vous indiquer où se trouve A'nimuili.<br><br>* Si vous vous retrouvez <if(gnum4,séparée,séparé)> de Bathu Molkoh, reparlez-lui au Dauphin noyé pour qu'elle vous accompagne à nouveau.",
+      "frMacro": "Bathu Molkoh vous a demandé de la guider jusqu'au Bismarck afin d'y trouver Lyngsath. Avec un peu de chance, il pourra vous indiquer où se trouve A'nimuili.<br>* Si vous vous retrouvez <if(gnum4,séparée,séparé)> de Bathu Molkoh, reparlez-lui au Dauphin noyé pour qu'elle vous accompagne à nouveau.",
       "jaMacro": "バツ・モルコーと話した。彼女を連れて、リムサ・ロミンサのレストラン・ビスマルクで「リングサス」と話そう。<br><br>※同行状態が解除された場合、溺れた海豚亭の「バツ・モルコー」に話しかけることで同行を再開できます。",
       "conversation": "quest/055/FesAnx201_05510",
       "seq": 4,
@@ -2961,8 +2961,8 @@
     },
     {
       "gameKey": "quest/055/FesAnx201_05510#TEXT_FESANX201_05510_DORATHIA_000_115",
-      "en": "The music what Nimuilia plays comforts 'em like nothin' else. To know to do that, she 'erself must've known tragedy too.",
-      "hash": "5276D12F7509DFB2",
+      "en": "The music what Nimuili plays comforts 'em like nothin' else. To know to do that, she 'erself must've known tragedy too.",
+      "hash": "79A57EB3F749493F",
       "unresolved": false,
       "fr": "La musique de Nimuili les réconforte et leur fait beaucoup de bien. Pour être capable de jouer ainsi, c'est qu'elle a sans doute connu, elle aussi, des tragédies.",
       "ja": "ニミの奏でる音は、そんな子の気持ちを和らげてくれるのさ。\r\n……きっとニミ自身、似た思いを抱えてるのかもしれないね、\r\nそういうのは、伝わるもんだから。",
@@ -4009,8 +4009,8 @@
     },
     {
       "gameKey": "quest/055/FesAnx201_05510#TEXT_FESANX201_05510_BATHUMOLKOH_000_163",
-      "en": "Still, I can't help but feel sad. I had assumed you'd always be there as my rival, but then you gave that up and and found another path...",
-      "hash": "9CAA43300BB5A047",
+      "en": "Still, I can't help but feel sad. I had assumed you'd always be there as my rival, but then you gave that up and found another path...",
+      "hash": "E82A7DA6532ECC0F",
       "unresolved": false,
       "fr": "Malgré tout, ça me rend triste. Je pensais que tu resterais toujours ma rivale, mais tu as abandonné ce rrrôle et choisi un autre chemin.",
       "ja": "でも、なんだか癪だわね。\r\nこれからも競い合って生きてくと思ってたのに、\r\nアンタはそれを捨てて、簡単にほかの道を見つけちゃうんだから。",

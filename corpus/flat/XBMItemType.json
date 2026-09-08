@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "XBMItemType",
+  "entries": [
+    {
+      "gameKey": "XBMItemType#1",
+      "en": "Beast Gear",
+      "hash": "6B4E768C8F93ED39",
+      "unresolved": false,
+      "fr": "Équipement de dressage",
+      "ja": "ビーストギア",
+      "conversation": "XBMItemType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMItemType"
+    },
+    {
+      "gameKey": "XBMItemType#2",
+      "en": "Crucible Item",
+      "hash": "2835179FFC5E025A",
+      "unresolved": false,
+      "fr": "Objet du Dédale",
+      "ja": "クルーシブルアイテム",
+      "conversation": "XBMItemType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMItemType"
+    },
+    {
+      "gameKey": "XBMItemType#3",
+      "en": "Feed",
+      "hash": "F5775D06B9837159",
+      "unresolved": false,
+      "fr": "Aliment",
+      "ja": "フィード",
+      "conversation": "XBMItemType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMItemType"
+    }
+  ]
+}

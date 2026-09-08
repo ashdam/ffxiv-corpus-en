@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "ContentFinderCondition",
   "entries": [
     {
@@ -11351,6 +11351,71 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1088.43",
+      "en": "First Board of the Unbroken",
+      "hash": "E9D7DFBF107B2305",
+      "unresolved": false,
+      "fr": "Dédale bestial - 1er plateau",
+      "ja": "闘獣練 第一盤",
+      "conversation": "ContentFinderCondition#1088",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1089.43",
+      "en": "Second Board of the Unbroken",
+      "hash": "C5BEAC2DB103A8A4",
+      "unresolved": false,
+      "fr": "Dédale bestial - 2e plateau",
+      "ja": "闘獣練 第二盤",
+      "conversation": "ContentFinderCondition#1089",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1090.43",
+      "en": "Third Board of the Unbroken",
+      "hash": "670F4BBC0054E34D",
+      "unresolved": false,
+      "fr": "Dédale bestial - 3e plateau",
+      "ja": "闘獣練 第三盤",
+      "conversation": "ContentFinderCondition#1090",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1091.43",
+      "en": "First Master's Board",
+      "hash": "98D6F2A76CD21F61",
+      "unresolved": false,
+      "fr": "Dédale bestial - 1er plateau expert",
+      "ja": "闘獣練 特一盤",
+      "conversation": "ContentFinderCondition#1091",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1092.43",
+      "en": "Second Master's Board",
+      "hash": "6AB0D99BF9E5B94A",
+      "unresolved": false,
+      "fr": "Dédale bestial - 2e plateau expert",
+      "ja": "闘獣練 特二盤",
+      "conversation": "ContentFinderCondition#1092",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1093.43",
       "en": "the Occult Crescent: North Horn",
       "hash": "CDA312B0D9A7E136",
@@ -11423,6 +11488,19 @@
       "fr": "Pêche en mer",
       "ja": "オーシャンフィッシング",
       "conversation": "ContentFinderCondition#1100",
+      "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1101.43",
+      "en": "A Rush of Cold Wind",
+      "hash": "DB2F084D3BB79F3A",
+      "unresolved": false,
+      "fr": "L'heure de briser la glace",
+      "ja": "寒風の吹くとき",
+      "conversation": "ContentFinderCondition#1101",
       "seq": 43,
       "speakerKind": "unknown",
       "kind": "ambient",

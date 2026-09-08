@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "XBMActionTarget",
+  "entries": [
+    {
+      "gameKey": "XBMActionTarget#1",
+      "en": "Self",
+      "hash": "7D1952EE4999AA4D",
+      "unresolved": false,
+      "fr": "Soi",
+      "ja": "自分",
+      "conversation": "XBMActionTarget#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    },
+    {
+      "gameKey": "XBMActionTarget#2",
+      "en": "Ground",
+      "hash": "96DE13DB4B3F1E21",
+      "unresolved": false,
+      "fr": "Sol",
+      "ja": "地面",
+      "conversation": "XBMActionTarget#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    },
+    {
+      "gameKey": "XBMActionTarget#3",
+      "en": "Highest Enmity",
+      "hash": "A827174F0701CE35",
+      "unresolved": false,
+      "fr": "Plus haute inimitié",
+      "ja": "ヘイトトップ",
+      "conversation": "XBMActionTarget#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    },
+    {
+      "gameKey": "XBMActionTarget#4",
+      "en": "Random",
+      "hash": "752FF7CD8837DBDD",
+      "unresolved": false,
+      "fr": "Aléatoire",
+      "ja": "ランダム",
+      "conversation": "XBMActionTarget#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    },
+    {
+      "gameKey": "XBMActionTarget#5",
+      "en": "Player",
+      "hash": "B57BAD43E4491E4D",
+      "unresolved": false,
+      "fr": "Joueur",
+      "ja": "プレイヤー",
+      "conversation": "XBMActionTarget#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    },
+    {
+      "gameKey": "XBMActionTarget#6",
+      "en": "Allies",
+      "hash": "C2CB3F72665E63ED",
+      "unresolved": false,
+      "fr": "Alliés",
+      "ja": "味方",
+      "conversation": "XBMActionTarget#6",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionTarget"
+    }
+  ]
+}

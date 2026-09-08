@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "conversation": "Description",
   "entries": [
     {
@@ -700,6 +700,32 @@
       "fr": "Frappe fatale",
       "ja": "Keybound Brawler",
       "conversation": "Description#3604510",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604511.2",
+      "en": "Crucible of the Unbroken",
+      "hash": "F73262FD6177AA00",
+      "unresolved": false,
+      "fr": "Se renseigner sur le Dédale bestial",
+      "ja": "闘獣練の解説",
+      "conversation": "Description#3604511",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604511.3",
+      "en": "Crucible of the Unbroken",
+      "hash": "0CADAD3343F17C02",
+      "unresolved": false,
+      "fr": "Dédale bestial",
+      "ja": "CRUCIBLE OF THE UNBROKEN",
+      "conversation": "Description#3604511",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
