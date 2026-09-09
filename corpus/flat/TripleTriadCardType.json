@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "TripleTriadCardType",
+  "entries": [
+    {
+      "gameKey": "TripleTriadCardType#1",
+      "en": "Primal",
+      "hash": "FDE59B8FC7D0A508",
+      "unresolved": false,
+      "fr": "Primordial",
+      "ja": "蛮神タイプ",
+      "conversation": "TripleTriadCardType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TripleTriadCardType"
+    },
+    {
+      "gameKey": "TripleTriadCardType#2",
+      "en": "Scion",
+      "hash": "E0C979C0D3C5AB0F",
+      "unresolved": false,
+      "fr": "Héritier",
+      "ja": "暁タイプ",
+      "conversation": "TripleTriadCardType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TripleTriadCardType"
+    },
+    {
+      "gameKey": "TripleTriadCardType#3",
+      "en": "Society",
+      "hash": "3262C920FFE0027B",
+      "unresolved": false,
+      "fr": "Homme-bête",
+      "ja": "獣人タイプ",
+      "conversation": "TripleTriadCardType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TripleTriadCardType"
+    },
+    {
+      "gameKey": "TripleTriadCardType#4",
+      "en": "Garlean",
+      "hash": "C9B11BB03D5B64F0",
+      "unresolved": false,
+      "fr": "Garlemaldais",
+      "ja": "帝国タイプ",
+      "conversation": "TripleTriadCardType#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TripleTriadCardType"
+    }
+  ]
+}

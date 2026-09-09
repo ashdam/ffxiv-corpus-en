@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "RacingChocoboParam",
+  "entries": [
+    {
+      "gameKey": "RacingChocoboParam#0",
+      "en": "Maximum Speed",
+      "hash": "124E47B31FF6AE87",
+      "unresolved": false,
+      "fr": "Vitesse maximale",
+      "ja": "最高速力",
+      "conversation": "RacingChocoboParam#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboParam"
+    },
+    {
+      "gameKey": "RacingChocoboParam#1",
+      "en": "Acceleration",
+      "hash": "308C17DD5904DEEA",
+      "unresolved": false,
+      "fr": "Accélération",
+      "ja": "加速力",
+      "conversation": "RacingChocoboParam#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboParam"
+    },
+    {
+      "gameKey": "RacingChocoboParam#2",
+      "en": "Endurance",
+      "hash": "6C98DF279BB82726",
+      "unresolved": false,
+      "fr": "Vitalité",
+      "ja": "体力",
+      "conversation": "RacingChocoboParam#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboParam"
+    },
+    {
+      "gameKey": "RacingChocoboParam#3",
+      "en": "Stamina",
+      "hash": "78EB56FE5A95BB3F",
+      "unresolved": false,
+      "fr": "Endurance",
+      "ja": "持久力",
+      "conversation": "RacingChocoboParam#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboParam"
+    },
+    {
+      "gameKey": "RacingChocoboParam#4",
+      "en": "Cunning",
+      "hash": "01F1D8EE9D7D0FA3",
+      "unresolved": false,
+      "fr": "Agilité",
+      "ja": "適応力",
+      "conversation": "RacingChocoboParam#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboParam"
+    }
+  ]
+}
