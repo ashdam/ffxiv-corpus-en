@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "MinionRace",
+  "entries": [
+    {
+      "gameKey": "MinionRace#1",
+      "en": "Critter",
+      "hash": "931B58B6821A2706",
+      "unresolved": false,
+      "fr": "Créature",
+      "ja": "アニマル",
+      "conversation": "MinionRace#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MinionRace"
+    },
+    {
+      "gameKey": "MinionRace#2",
+      "en": "Monster",
+      "hash": "9B92A13574682C32",
+      "unresolved": false,
+      "fr": "Monstre",
+      "ja": "モンスター",
+      "conversation": "MinionRace#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MinionRace"
+    },
+    {
+      "gameKey": "MinionRace#3",
+      "en": "Poppet",
+      "hash": "56056ADD527CBC2B",
+      "unresolved": false,
+      "fr": "Poupée",
+      "ja": "ドール",
+      "conversation": "MinionRace#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MinionRace"
+    },
+    {
+      "gameKey": "MinionRace#4",
+      "en": "Gadget",
+      "hash": "A8CB2BB0FDEDDB0C",
+      "unresolved": false,
+      "fr": "Mécanisme",
+      "ja": "ガジェット",
+      "conversation": "MinionRace#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MinionRace"
+    }
+  ]
+}
