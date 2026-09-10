@@ -5,32 +5,6 @@
   "conversation": "TripleTriadCard",
   "entries": [
     {
-      "gameKey": "TripleTriadCard#0.0",
-      "en": "0",
-      "hash": "249FD8FB391978B0",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "TripleTriadCard#0",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "TripleTriadCard"
-    },
-    {
-      "gameKey": "TripleTriadCard#0.2",
-      "en": "0",
-      "hash": "F2594AE6A46D1374",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "TripleTriadCard#0",
-      "seq": 2,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "TripleTriadCard"
-    },
-    {
       "gameKey": "TripleTriadCard#1.0",
       "en": "Dodo",
       "hash": "3189E6AC0B69887C",
@@ -952,19 +926,6 @@
       "sheet": "TripleTriadCard"
     },
     {
-      "gameKey": "TripleTriadCard#24.2",
-      "en": "0",
-      "hash": "E79381404B37E4F0",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "TripleTriadCard#24",
-      "seq": 2,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "TripleTriadCard"
-    },
-    {
       "gameKey": "TripleTriadCard#24.8",
       "en": "Succubi manifest on the physical plane by forcing their souls into the bodies of deceased women. Once the transition is complete, the resultant creature is said to be both fair and fey to look upon. Still more disconcerting, researchers claim that these voidsent occasionally exhibit the personality traits of their deceased hosts. Succubi occupy the third and fourth rungs of the voidsent hierarchy.",
       "hash": "BE504F6FF2D51C43",
@@ -992,19 +953,6 @@
       "sheet": "TripleTriadCard"
     },
     {
-      "gameKey": "TripleTriadCard#25.2",
-      "en": "0",
-      "hash": "6ADE5E6F35A7EE6D",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "TripleTriadCard#25",
-      "seq": 2,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "TripleTriadCard"
-    },
-    {
       "gameKey": "TripleTriadCard#25.8",
       "en": "A nightmarish combination of lion, goat, and dragon, the fell chimera has three heads, a pair of mighty wings, and a cruelly barbed tail. Its origins have been furiously debated, with some insisting the creature a cruel jest of the gods, while others believe it the twisted creation of forbidden sorcery.",
       "hash": "9137C008495D7CF3",
@@ -1027,19 +975,6 @@
       "ja": "ブルードラゴン",
       "conversation": "TripleTriadCard#26",
       "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "TripleTriadCard"
-    },
-    {
-      "gameKey": "TripleTriadCard#26.2",
-      "en": "0",
-      "hash": "C5957C3A42F85C74",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "TripleTriadCard#26",
-      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "TripleTriadCard"

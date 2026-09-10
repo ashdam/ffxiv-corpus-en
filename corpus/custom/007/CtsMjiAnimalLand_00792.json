@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiAnimalLand_00792",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiAnimalLand_00792#TEXT_CTSMJIANIMALLAND_00792_TALK_ACTOR",
-      "en": "0",
-      "hash": "288E0EC1306AE8D9",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiAnimalLand_00792",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiAnimalLand_00792"
-    },
-    {
       "gameKey": "custom/007/CtsMjiAnimalLand_00792#TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_000",
       "en": "Hey there, friend. Are you ready to build a little home for some adorable animals?",
       "hash": "4724A77AC78EB8B0",

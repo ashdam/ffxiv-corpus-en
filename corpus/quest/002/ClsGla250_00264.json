@@ -1170,27 +1170,6 @@
       "eventIconType": 8
     },
     {
-      "gameKey": "quest/002/ClsGla250_00264#TEXT_CLSGLA250_00264_Q1_000_170",
-      "en": "What will you say?",
-      "hash": "B2CD24DB2A858858",
-      "unresolved": false,
-      "conversation": "quest/002/ClsGla250_00264",
-      "seq": 45,
-      "speakerKind": "prompt",
-      "kind": "dialogue",
-      "questId": "ClsGla250_00264",
-      "questName": "On Holy Ground",
-      "section": "Class & Job Quests",
-      "category": "Disciple of War Quests",
-      "genre": "Gladiator Quests",
-      "previousQuest": "ClsGla200_00263",
-      "sortKey": 250,
-      "questLevel": 25,
-      "questRowId": 65800,
-      "expansion": "A Realm Reborn",
-      "eventIconType": 8
-    },
-    {
       "gameKey": "quest/002/ClsGla250_00264#TEXT_CLSGLA250_00264_A1_000_180",
       "en": "I'll do what I can.",
       "hash": "5B633114DF296B8F",

@@ -109,18 +109,6 @@
       "sheet": "Description"
     },
     {
-      "gameKey": "Description#3604485.4",
-      "en": "つよくてニューゲーム解説",
-      "hash": "A549EFF6572BE6C6",
-      "unresolved": false,
-      "ja": "つよくてニューゲーム解説",
-      "conversation": "Description#3604485",
-      "seq": 4,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Description"
-    },
-    {
       "gameKey": "Description#3604486.2",
       "en": "Frontline Rules",
       "hash": "672C8B0DB7DCEF0A",

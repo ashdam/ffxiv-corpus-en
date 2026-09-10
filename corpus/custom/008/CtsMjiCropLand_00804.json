@@ -5,21 +5,6 @@
   "conversation": "custom/008/CtsMjiCropLand_00804",
   "entries": [
     {
-      "gameKey": "custom/008/CtsMjiCropLand_00804#TEXT_CTSMJICROPLAND_00804_TALK_ACTOR",
-      "en": "0",
-      "hash": "8B9686C9C8A367CF",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/008/CtsMjiCropLand_00804",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/008/CtsMjiCropLand_00804"
-    },
-    {
       "gameKey": "custom/008/CtsMjiCropLand_00804#TEXT_CTSMJICROPLAND_00804_TAGAYASU_008_000",
       "en": "Hmmm? I'm sort of busy here, um, looking at the, uh...the grass. It's quite green, I've noticed, and...ugh, you're gonna ask me to clear the area, aren't you?",
       "hash": "4E24DE146F300E53",

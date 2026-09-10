@@ -1534,17 +1534,6 @@
       "sheet": "Warp"
     },
     {
-      "gameKey": "Warp#131158.11",
-      "en": "Travel to the Lavender Beds?",
-      "hash": "B0A67245A70F074B",
-      "unresolved": false,
-      "conversation": "Warp#131158",
-      "seq": 11,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Warp"
-    },
-    {
       "gameKey": "Warp#131160.10",
       "en": "Seek Passage to Mist",
       "hash": "3E47D2AE91D7C049",
@@ -1553,17 +1542,6 @@
       "ja": "「ミスト・ヴィレッジ」へ行く",
       "conversation": "Warp#131160",
       "seq": 10,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Warp"
-    },
-    {
-      "gameKey": "Warp#131160.11",
-      "en": "Travel to Mist?",
-      "hash": "4CDE93A3E72B14BB",
-      "unresolved": false,
-      "conversation": "Warp#131160",
-      "seq": 11,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Warp"
@@ -3074,17 +3052,6 @@
       "sheet": "Warp"
     },
     {
-      "gameKey": "Warp#131252.10",
-      "en": "Purchase Passage to Limsa Lominsa",
-      "hash": "B7A4BBBF1C5794A7",
-      "unresolved": false,
-      "conversation": "Warp#131252",
-      "seq": 10,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Warp"
-    },
-    {
       "gameKey": "Warp#131252.11",
       "en": "Travel to Limsa Lominsa for 300 gil?",
       "hash": "E4A93F7261F01E82",
@@ -3095,17 +3062,6 @@
       "jaMacro": "「リムサ・ロミンサ」へ移動しますか？<br>運賃：300ギル",
       "conversation": "Warp#131252",
       "seq": 11,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Warp"
-    },
-    {
-      "gameKey": "Warp#131253.10",
-      "en": "Purchase Passage to Kugane",
-      "hash": "CB4E9C42CA7846CA",
-      "unresolved": false,
-      "conversation": "Warp#131253",
-      "seq": 10,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Warp"
