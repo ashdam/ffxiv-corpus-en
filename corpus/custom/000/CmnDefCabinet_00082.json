@@ -9,7 +9,7 @@
       "en": "What would you like to do?",
       "hash": "262CA1D9E194984D",
       "unresolved": false,
-      "fr": "Que voulez-vous faire\u00A0?",
+      "fr": "Que voulez-vous faire<nbsp>?",
       "ja": "何をする？",
       "frMacro": "Que voulez-vous faire<nbsp>?",
       "conversation": "custom/000/CmnDefCabinet_00082",

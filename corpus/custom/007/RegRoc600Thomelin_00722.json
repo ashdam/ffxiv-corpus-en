@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/007/RegRoc600Thomelin_00722",
+  "entries": [
+    {
+      "gameKey": "custom/007/RegRoc600Thomelin_00722#TEXT_REGROC600THOMELIN_00722_TALK_ACTOR",
+      "en": "0",
+      "hash": "EB9C1BD170A37582",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/007/RegRoc600Thomelin_00722",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/007/RegRoc600Thomelin_00722"
+    }
+  ]
+}

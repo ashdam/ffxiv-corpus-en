@@ -9,7 +9,7 @@
       "en": "What would you like to draft plans for?",
       "hash": "0CBA3F5C74453B5A",
       "unresolved": false,
-      "fr": "Quel type de prototype voulez-vous créer\u00A0?",
+      "fr": "Quel type de prototype voulez-vous créer<nbsp>?",
       "ja": "何をする？",
       "frMacro": "Quel type de prototype voulez-vous créer<nbsp>?",
       "conversation": "custom/002/CmnDefCompanyDraftingBoard_00257",

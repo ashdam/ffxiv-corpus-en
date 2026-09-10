@@ -10,7 +10,7 @@
       "hash": "9F2A1D8B427AA7B2",
       "unresolved": false,
       "fr": "Une affiche indique que l'éthérite de la ville restera hors d'usage tant que le calme ne sera pas revenu...",
-      "ja": "注意書きが添えられている……。\r\n状況が落ち着くまで、一時的に機能を止めているようだ。",
+      "ja": "注意書きが添えられている……。<br>状況が落ち着くまで、一時的に機能を止めているようだ。",
       "jaMacro": "注意書きが添えられている……。<br>状況が落ち着くまで、一時的に機能を止めているようだ。",
       "conversation": "transport/AetheryteRadzathan",
       "seq": 0,

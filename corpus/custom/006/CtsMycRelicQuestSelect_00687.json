@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/006/CtsMycRelicQuestSelect_00687",
+  "entries": [
+    {
+      "gameKey": "custom/006/CtsMycRelicQuestSelect_00687#TEXT_CTSMYCRELICQUESTSELECT_00687_TALK_ACTOR",
+      "en": "0",
+      "hash": "BF6D9DCE01489EE8",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/006/CtsMycRelicQuestSelect_00687",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/006/CtsMycRelicQuestSelect_00687"
+    }
+  ]
+}

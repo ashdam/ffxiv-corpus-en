@@ -9,7 +9,7 @@
       "en": "Leave the company workshop?",
       "hash": "7F56955F86B6F8E2",
       "unresolved": false,
-      "fr": "Sortir de l'atelier de compagnie\u00A0?",
+      "fr": "Sortir de l'atelier de compagnie<nbsp>?",
       "ja": "「地下工房」から出ますか？",
       "frMacro": "Sortir de l'atelier de compagnie<nbsp>?",
       "conversation": "custom/002/CmnDefHousingWorkshopExit_00225",

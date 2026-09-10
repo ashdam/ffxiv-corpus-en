@@ -9,7 +9,7 @@
       "en": "Leave the Lotus Stand?",
       "hash": "DA4F27224B8D125A",
       "unresolved": false,
-      "fr": "Sortir de la Chaire du Lotus\u00A0?",
+      "fr": "Sortir de la Chaire du Lotus<nbsp>?",
       "ja": "「不語仙の座卓」をでます。",
       "frMacro": "Sortir de la Chaire du Lotus<nbsp>?",
       "conversation": "custom/000/CmnDefF1e5Exit_00049",

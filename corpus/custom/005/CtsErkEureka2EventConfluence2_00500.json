@@ -10,7 +10,7 @@
       "hash": "74D00DF796FFBDA9",
       "unresolved": false,
       "fr": "Vous avez trouvé un petit cristal terni semblable au premier. Cela pourrait bien être la deuxième étiolite dont Krile avait besoin. Retournez à L'Engelure pour la lui remettre.",
-      "ja": "色のくすんだ小さな結晶を発見した。\r\nどうやら魔晶片のようだ……。\r\nさっそく、このことを「クルル」に報告しよう。",
+      "ja": "色のくすんだ小さな結晶を発見した。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
       "jaMacro": "色のくすんだ小さな結晶を発見した。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
       "conversation": "custom/005/CtsErkEureka2EventConfluence2_00500",
       "seq": 0,

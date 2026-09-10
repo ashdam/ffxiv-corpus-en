@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "transport/AetheryteIshgard#TEXT_AETHERYTEISHGARD_HWD_WARP",
-      "en": " Travel to the Firmament.",
+      "en": "<icon(69)> Travel to the Firmament.",
       "hash": "9495FD78EBA025C7",
       "macro": "<icon(69)> Travel to the Firmament.",
       "unresolved": false,
-      "fr": " Azurée",
-      "ja": " 蒼天街転送",
+      "fr": "<icon(69)> Azurée",
+      "ja": "<icon(69)> 蒼天街転送",
       "frMacro": "<icon(69)> Azurée",
       "jaMacro": "<icon(69)> 蒼天街転送",
       "conversation": "transport/AetheryteIshgard",

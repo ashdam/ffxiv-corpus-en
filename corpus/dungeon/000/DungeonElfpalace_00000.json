@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "dungeon/000/DungeonElfpalace_00000#TEXT_DUNGEONELFPALACE_00000_BEQLUGG_000_000",
-      "en": "You have sullied these halls long enough.\r\nCome, Lugus! Our guests yet want for company.",
+      "en": "You have sullied these halls long enough.<br>Come, Lugus! Our <italic(1)>guests<italic(0)> yet want for company.",
       "hash": "8EC524F123089164",
       "macro": "You have sullied these halls long enough.<br>Come, Lugus! Our <italic(1)>guests<italic(0)> yet want for company.",
       "unresolved": false,
-      "fr": "Puisque vous refusez de quitter gentiment les lieux,\r\nmon familier Lugus va se charger de vous raccompagner jusqu'à la sortie\u00A0!",
-      "ja": "あくまで去らぬというなら\r\n我が自慢の使い魔 「ルゴス」と踊っていただこう……！",
+      "fr": "Puisque vous refusez de quitter gentiment les lieux,<br>mon familier Lugus va se charger de vous rac<->com<->pag<->ner jusqu'à la sortie<nbsp>!",
+      "ja": "あくまで去らぬというなら<br>我が自慢の使い魔 「ルゴス」と踊っていただこう……！",
       "frMacro": "Puisque vous refusez de quitter gentiment les lieux,<br>mon familier Lugus va se charger de vous rac<->com<->pag<->ner jusqu'à la sortie<nbsp>!",
       "jaMacro": "あくまで去らぬというなら<br>我が自慢の使い魔 「ルゴス」と踊っていただこう……！",
       "conversation": "dungeon/000/DungeonElfpalace_00000",

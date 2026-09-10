@@ -10,7 +10,7 @@
       "hash": "3A414DAD3BA1F3CA",
       "unresolved": false,
       "fr": "Libre à toi de t'aventurer dans la Tour fourchue de la Force. En ce qui concerne la suite des opérations, tu devrais aller parler à Ketenramm, du côté de la ville fantôme.",
-      "ja": "フォークタワーに行くかどうかはあんた次第だ。\r\n探査の方針については、蜃気楼の町にいる、\r\n「ケテンラム」の旦那と相談してくれ。",
+      "ja": "フォークタワーに行くかどうかはあんた次第だ。<br>探査の方針については、蜃気楼の町にいる、<br>「ケテンラム」の旦那と相談してくれ。",
       "jaMacro": "フォークタワーに行くかどうかはあんた次第だ。<br>探査の方針については、蜃気楼の町にいる、<br>「ケテンラム」の旦那と相談してくれ。",
       "conversation": "custom/009/CtsMkdKinGkd010Induction_00936",
       "seq": 0,

@@ -9,7 +9,7 @@
       "en": "Supply & Provisioning Missions.",
       "hash": "B5651C6B2A7C6034",
       "unresolved": false,
-      "fr": "Missions de ravitaillement.",
+      "fr": "Missions de ra<->vi<->tail<->le<->ment.",
       "ja": "調達任務",
       "frMacro": "Missions de ra<->vi<->tail<->le<->ment.",
       "conversation": "custom/000/ComDefGCSupplyDuty_00075",

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/008/CtsEtcVvdEntrance_00805",
+  "entries": [
+    {
+      "gameKey": "custom/008/CtsEtcVvdEntrance_00805#TEXT_CTSETCVVDENTRANCE_00805_TALK_ACTOR",
+      "en": "0",
+      "hash": "19D8CE33AFBC2A2B",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/008/CtsEtcVvdEntrance_00805",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/CtsEtcVvdEntrance_00805"
+    }
+  ]
+}

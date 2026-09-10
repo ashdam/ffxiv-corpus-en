@@ -9,7 +9,7 @@
       "en": "Exit room?",
       "hash": "1AE69192EDBBB424",
       "unresolved": false,
-      "fr": "Voulez-vous sortir\u00A0?",
+      "fr": "Voulez-vous sortir<nbsp>?",
       "ja": "退出しますか？",
       "frMacro": "Voulez-vous sortir<nbsp>?",
       "conversation": "custom/000/CmnDefInnDoor_00021",

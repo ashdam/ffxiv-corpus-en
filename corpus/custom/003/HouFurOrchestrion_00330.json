@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_TITLE",
-      "en": "●プレイリスト []",
+      "en": "●プレイリスト [<string(lstr1)>]",
       "hash": "750E8546C1BA6E7C",
       "macro": "●プレイリスト [<string(lstr1)>]",
       "unresolved": false,
-      "fr": "●プレイリスト []",
-      "ja": "●プレイリスト []",
+      "fr": "●プレイリスト [<string(lstr1)>]",
+      "ja": "●プレイリスト [<string(lstr1)>]",
       "frMacro": "●プレイリスト [<string(lstr1)>]",
       "jaMacro": "●プレイリスト [<string(lstr1)>]",
       "conversation": "custom/003/HouFurOrchestrion_00330",

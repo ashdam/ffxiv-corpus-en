@@ -40,7 +40,7 @@
       "hash": "9CBB22AB755EF8B8",
       "unresolved": false,
       "fr": "C'est le dépôt où vous devez livrer le matériel désigné pour votre mission. Commencez par rassembler les objets requis\u00A0!",
-      "ja": "任務で指定された物資の納品場所だ。\r\n必要な物資を集めよう！",
+      "ja": "任務で指定された物資の納品場所だ。<br>必要な物資を集めよう！",
       "jaMacro": "任務で指定された物資の納品場所だ。<br>必要な物資を集めよう！",
       "conversation": "custom/009/CtsWksEmergencyAccessObj_00923",
       "seq": 2,

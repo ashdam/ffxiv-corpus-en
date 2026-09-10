@@ -6,7 +6,7 @@
   "entries": [
     {
       "gameKey": "quest/037/LucKtz104_03742#TEXT_LUCKTZ104_03742_SYSTEM_000_000",
-      "en": "Memory of a Damaged Machine archived.",
+      "en": "<italic(1)>Memory of a Damaged Machine<italic(0)> archived.",
       "hash": "700B1237042C340F",
       "macro": "<italic(1)>Memory of a Damaged Machine<italic(0)> archived.",
       "unresolved": false,

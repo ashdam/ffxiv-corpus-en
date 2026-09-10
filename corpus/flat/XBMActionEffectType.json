@@ -5,6 +5,19 @@
   "conversation": "XBMActionEffectType",
   "entries": [
     {
+      "gameKey": "XBMActionEffectType#0",
+      "en": "???",
+      "hash": "DD78C00FA37E8BB8",
+      "unresolved": false,
+      "fr": "???",
+      "ja": "？？？？",
+      "conversation": "XBMActionEffectType#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "XBMActionEffectType"
+    },
+    {
       "gameKey": "XBMActionEffectType#1",
       "en": "Single Target",
       "hash": "97FD05EBE77834E9",

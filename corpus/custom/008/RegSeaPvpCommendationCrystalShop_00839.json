@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/008/RegSeaPvpCommendationCrystalShop_00839",
+  "entries": [
+    {
+      "gameKey": "custom/008/RegSeaPvpCommendationCrystalShop_00839#TEXT_REGSEAPVPCOMMENDATIONCRYSTALSHOP_00839_TALK_ACTOR",
+      "en": "0",
+      "hash": "CF62D200C4BAACB4",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/008/RegSeaPvpCommendationCrystalShop_00839",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/RegSeaPvpCommendationCrystalShop_00839"
+    }
+  ]
+}

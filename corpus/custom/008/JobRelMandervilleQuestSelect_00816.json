@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/008/JobRelMandervilleQuestSelect_00816",
+  "entries": [
+    {
+      "gameKey": "custom/008/JobRelMandervilleQuestSelect_00816#TEXT_JOBRELMANDERVILLEQUESTSELECT_00816_TALK_ACTOR",
+      "en": "0",
+      "hash": "04E34B274482DE54",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/008/JobRelMandervilleQuestSelect_00816",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/008/JobRelMandervilleQuestSelect_00816"
+    }
+  ]
+}

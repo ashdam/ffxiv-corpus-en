@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "custom/002/CmnDefHousingWheel_00216#TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE",
-      "en": "Open:  | Charging:  | Primed: \r\nWhat would you like to do?",
+      "en": "Open: <num(lnum1)> | Charging: <num(lnum2)> | Primed: <num(lnum3)><br>What would you like to do?",
       "hash": "E093E802280AB42D",
       "macro": "Open: <num(lnum1)> | Charging: <num(lnum2)> | Primed: <num(lnum3)><br>What would you like to do?",
       "unresolved": true,
-      "fr": "Que voulez-vous faire\u00A0?\r\n[Libre\u00A0: \u3000En charge\u00A0: \u3000Chargé\u00A0: ]",
-      "ja": "何をする？\u3000[空き:\u3000チャージ中:\u3000チャージ済み:]",
+      "fr": "Que voulez-vous faire<nbsp>?<br>[Libre<nbsp>: <num(lnum1)>\u3000En charge<nbsp>: <num(lnum2)>\u3000Chargé<nbsp>: <num(lnum3)>]",
+      "ja": "何をする？\u3000[空き:<num(lnum1)>\u3000チャージ中:<num(lnum2)>\u3000チャージ済み:<num(lnum3)>]",
       "frMacro": "Que voulez-vous faire<nbsp>?<br>[Libre<nbsp>: <num(lnum1)>\u3000En charge<nbsp>: <num(lnum2)>\u3000Chargé<nbsp>: <num(lnum3)>]",
       "jaMacro": "何をする？\u3000[空き:<num(lnum1)>\u3000チャージ中:<num(lnum2)>\u3000チャージ済み:<num(lnum3)>]",
       "conversation": "custom/002/CmnDefHousingWheel_00216",

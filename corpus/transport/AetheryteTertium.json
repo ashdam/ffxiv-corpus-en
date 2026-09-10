@@ -10,7 +10,7 @@
       "hash": "FD0DB26CE9412952",
       "unresolved": false,
       "fr": "Impossible de s'harmoniser avec cette éthérite. Son usage doit être restreint à certaines personnes...",
-      "ja": "交感すべきエーテルが感じられない。\r\n機能が制限されているようだ……。",
+      "ja": "交感すべきエーテルが感じられない。<br>機能が制限されているようだ……。",
       "jaMacro": "交感すべきエーテルが感じられない。<br>機能が制限されているようだ……。",
       "conversation": "transport/AetheryteTertium",
       "seq": 0,

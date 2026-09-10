@@ -9,7 +9,7 @@
       "en": "Leave the apartment?",
       "hash": "9ABC1510690A1FF1",
       "unresolved": false,
-      "fr": "Sortir de l'immeuble\u00A0?",
+      "fr": "Sortir de l'immeuble<nbsp>?",
       "ja": "「アパルトメント」から出ますか？",
       "frMacro": "Sortir de l'immeuble<nbsp>?",
       "conversation": "custom/003/HouFixMansionExit_00362",

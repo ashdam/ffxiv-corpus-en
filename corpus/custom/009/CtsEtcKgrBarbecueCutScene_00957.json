@@ -9,7 +9,7 @@
       "en": "Grill more meat?",
       "hash": "F230F5E84608E0D1",
       "unresolved": false,
-      "fr": "Vous avez vraiment encore faim\u00A0?",
+      "fr": "Vous avez vraiment encore faim<nbsp>?",
       "ja": "肉を焼いて食べますか？",
       "frMacro": "Vous avez vraiment encore faim<nbsp>?",
       "conversation": "custom/009/CtsEtcKgrBarbecueCutScene_00957",

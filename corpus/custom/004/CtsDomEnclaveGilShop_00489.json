@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/004/CtsDomEnclaveGilShop_00489",
+  "entries": [
+    {
+      "gameKey": "custom/004/CtsDomEnclaveGilShop_00489#TEXT_CTSDOMENCLAVEGILSHOP_00489_TALK_ACTOR",
+      "en": "0",
+      "hash": "632C475CE9535BA7",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/004/CtsDomEnclaveGilShop_00489",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/004/CtsDomEnclaveGilShop_00489"
+    }
+  ]
+}

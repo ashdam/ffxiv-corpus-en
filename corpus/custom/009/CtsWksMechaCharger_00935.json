@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "custom/009/CtsWksMechaCharger_00935#TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE",
-      "en": "Currently accepting fuel provisions from ground support. Energy output at  percent.",
+      "en": "Currently accepting fuel provisions from ground support. Energy output at <num(lnum1)> percent.",
       "hash": "F4AAAE8905573024",
       "macro": "Currently accepting fuel provisions from ground support. Energy output at <num(lnum1)> percent.",
       "unresolved": true,
-      "fr": "Réception de carburant par assistance extérieure. Rendement énergétique actuel\u00A0: %...",
-      "ja": "サポーターからの燃料投入を受付中……。\r\n現在の出力：[  ]%……。",
+      "fr": "Réception de carburant par assistance extérieure. Rendement énergétique actuel\u00A0: <num(lnum1)>%...",
+      "ja": "サポーターからの燃料投入を受付中……。<br>現在の出力：[ <num(lnum1)> ]%……。",
       "frMacro": "Réception de carburant par assistance extérieure. Rendement énergétique actuel\u00A0: <num(lnum1)>%...",
       "jaMacro": "サポーターからの燃料投入を受付中……。<br>現在の出力：[ <num(lnum1)> ]%……。",
       "conversation": "custom/009/CtsWksMechaCharger_00935",

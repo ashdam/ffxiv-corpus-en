@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "custom/001/CmnGscWeeklyLotUnlockTalk_00105#TEXT_CMNGSCWEEKLYLOTUNLOCKTALK_00105_LOTTERY00105_000_000",
-      "en": "Have you come to try the Jumbo Cactpot, ? The lady at the center of that counter will help you get started.",
+      "en": "Have you come to try the Jumbo Cactpot, <if(gnum4,miss,sir)>? The lady at the center of that counter will help you get started.",
       "hash": "3860AA6612C8D317",
       "macro": "Have you come to try the Jumbo Cactpot, <if(gnum4,miss,sir)>? The lady at the center of that counter will help you get started.",
       "unresolved": false,
-      "fr": "Je sens que vous voulez tenter votre chance au Méga Cactpot, aventuri\u00A0! Je vous conseille d'aller en discuter avec la demoiselle au centre du comptoir, elle se fera un plaisir de vous renseigner.",
-      "ja": "「ジャンボ・くじテンダー」の挑戦をご希望ですか？\r\nカウンターの中央にいるお姉さんに話しかければ、\r\nくじの説明が聞けますよ！",
+      "fr": "Je sens que vous voulez tenter votre chance au Méga Cactpot, aventuri<if(gnum4,ère,er)><nbsp>! Je vous conseille d'aller en discuter avec la demoiselle au centre du comptoir, elle se fera un plaisir de vous renseigner.",
+      "ja": "「ジャンボ・くじテンダー」の挑戦をご希望ですか？<br>カウンターの中央にいるお姉さんに話しかければ、<br>くじの説明が聞けますよ！",
       "frMacro": "Je sens que vous voulez tenter votre chance au Méga Cactpot, aventuri<if(gnum4,ère,er)><nbsp>! Je vous conseille d'aller en discuter avec la demoiselle au centre du comptoir, elle se fera un plaisir de vous renseigner.",
       "jaMacro": "「ジャンボ・くじテンダー」の挑戦をご希望ですか？<br>カウンターの中央にいるお姉さんに話しかければ、<br>くじの説明が聞けますよ！",
       "conversation": "custom/001/CmnGscWeeklyLotUnlockTalk_00105",

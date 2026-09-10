@@ -10,7 +10,7 @@
       "hash": "FB7E879F3F057C4E",
       "unresolved": false,
       "fr": "Aucune trace de l'homme mystérieux, mais vous avez trouvé une étiolite dans la neige. Retournez à L'Engelure et faites part à Krile des derniers événements.",
-      "ja": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。\r\nどうやら魔晶片のようだ……。\r\nさっそく、このことを「クルル」に報告しよう。",
+      "ja": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
       "jaMacro": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
       "conversation": "custom/005/CtsErkEureka2EventConfluence3_00501",
       "seq": 0,

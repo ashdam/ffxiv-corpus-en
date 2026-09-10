@@ -6,12 +6,12 @@
   "entries": [
     {
       "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_TITLE",
-      "en": "Select a destination.\r\nCurrent Location: ",
+      "en": "Select a destination.<br>Current Location: <string(lstr1)>",
       "hash": "98CB7C3B2EBB7DD0",
       "macro": "Select a destination.<br>Current Location: <string(lstr1)>",
       "unresolved": false,
-      "fr": "Choisissez une destination.\r\nLieu actuel\u00A0: ",
-      "ja": "行き先を選択してください。\r\n現在地：",
+      "fr": "Choisissez une destination.<br>Lieu actuel<nbsp>: <string(lstr1)>",
+      "ja": "行き先を選択してください。<br>現在地：<string(lstr1)>",
       "frMacro": "Choisissez une destination.<br>Lieu actuel<nbsp>: <string(lstr1)>",
       "jaMacro": "行き先を選択してください。<br>現在地：<string(lstr1)>",
       "conversation": "custom/007/CtsHwdTranspoint_00701",

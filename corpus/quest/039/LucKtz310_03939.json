@@ -6,7 +6,7 @@
   "entries": [
     {
       "gameKey": "quest/039/LucKtz310_03939#TEXT_LUCKTZ310_03939_SYSTEM_000",
-      "en": "Saved Message History archived.",
+      "en": "<italic(1)>Saved Message History<italic(0)> archived.",
       "hash": "450CEF3440D425B2",
       "macro": "<italic(1)>Saved Message History<italic(0)> archived.",
       "unresolved": false,

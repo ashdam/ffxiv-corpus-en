@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "custom/004/HouFurVisitNote_00477",
+  "entries": [
+    {
+      "gameKey": "custom/004/HouFurVisitNote_00477#TEXT_HOUFURVISITNOTE_00477_TALK_ACTOR",
+      "en": "0",
+      "hash": "ADBC94A7A5AB4E58",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "conversation": "custom/004/HouFurVisitNote_00477",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/004/HouFurVisitNote_00477"
+    }
+  ]
+}

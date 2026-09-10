@@ -9,7 +9,7 @@
       "en": "Leave the Seat of the First Bow?",
       "hash": "ADB21B000DFA1D8D",
       "unresolved": false,
-      "fr": "Sortir de la Salle de commandement\u00A0?",
+      "fr": "Sortir de la Salle de commandement<nbsp>?",
       "ja": "「神勇隊司令室」をでます。",
       "frMacro": "Sortir de la Salle de commandement<nbsp>?",
       "conversation": "custom/000/CmnDefF1e4Exit_00048",
