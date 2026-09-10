@@ -5,21 +5,6 @@
   "conversation": "custom/008/CtsMjiCaveReclamation_00832",
   "entries": [
     {
-      "gameKey": "custom/008/CtsMjiCaveReclamation_00832#TEXT_CTSMJICAVERECLAMATION_00832_TALK_ACTOR",
-      "en": "0",
-      "hash": "52A5640792173280",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/008/CtsMjiCaveReclamation_00832",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/008/CtsMjiCaveReclamation_00832"
-    },
-    {
       "gameKey": "custom/008/CtsMjiCaveReclamation_00832#TEXT_CTSMJICAVERECLAMATION_00832_TANKEN_033_000",
       "en": "O-Oh, you're here already! I was just taking an innocent look around. Promise.",
       "hash": "DBDB8D3AD5C8DF2D",

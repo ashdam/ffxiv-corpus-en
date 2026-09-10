@@ -76255,19 +76255,6 @@
       "sheet": "InstanceContentTextData"
     },
     {
-      "gameKey": "InstanceContentTextData#30518",
-      "en": "Pathetic! Do the ironmen seek to slow us with these obstructions!?",
-      "hash": "1D41C64B8FC7AEF2",
-      "unresolved": false,
-      "fr": "Ha ha<nbsp>! Rien de tel qu'un peu difficulté pour pimenter les combats<nbsp>! Attention à ne pas toucher les obstacles<nbsp>!",
-      "frMacro": "Ha ha<nbsp>! Rien de tel qu'un peu difficulté pour pimenter les combats<nbsp>! Attention à ne pas toucher les obstacles<nbsp>!",
-      "conversation": "InstanceContentTextData#30518",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "InstanceContentTextData"
-    },
-    {
       "gameKey": "InstanceContentTextData#30519",
       "en": "We're slowing down! Our destination must be close.",
       "hash": "F8091A02AB969CF1",
@@ -77430,18 +77417,6 @@
       "ja": "その星で、死は貴き黄金色。<br>覆われすべてが終わりゆく……。",
       "jaMacro": "その星で、死は貴き黄金色。<br>覆われすべてが終わりゆく……。",
       "conversation": "InstanceContentTextData#30810",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "InstanceContentTextData"
-    },
-    {
-      "gameKey": "InstanceContentTextData#30811",
-      "en": "For altruism and selfishness both were its carriers.",
-      "hash": "58F97E8117C079C6",
-      "unresolved": false,
-      "fr": "Le mal se transmettait à travers les intentions, bonnes ou mauvaises...",
-      "conversation": "InstanceContentTextData#30811",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

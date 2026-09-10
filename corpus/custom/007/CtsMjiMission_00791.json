@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiMission_00791",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiMission_00791#TEXT_CTSMJIMISSION_00791_TALK_ACTOR",
-      "en": "0",
-      "hash": "CEBD7CB2C23DD184",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiMission_00791",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiMission_00791"
-    },
-    {
       "gameKey": "custom/007/CtsMjiMission_00791#TEXT_CTSMJIMISSION_00791_NEKOMIMI_001_000",
       "en": "Now listen, <split(<string(gstr1)>, ,1)>─may I call you <split(<string(gstr1)>, ,1)>? Well, I will anyway. Before we get started, I want to make it very clear that while you may be the owner, I command the mammets, and as such I demand a considerable sum. I would hate for us to get off on the wrong foot.",
       "hash": "8D8611753CB25F7D",

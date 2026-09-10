@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiSpecialShop_00789",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiSpecialShop_00789#TEXT_CTSMJISPECIALSHOP_00789_TALK_ACTOR",
-      "en": "0",
-      "hash": "648247AF87E7B81E",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiSpecialShop_00789"
-    },
-    {
       "gameKey": "custom/007/CtsMjiSpecialShop_00789#TEXT_CTSMJISPECIALSHOP_00789_SYSTEM_000_000",
       "en": "What will you do?",
       "hash": "3DC44B5E9D2D5AC1",

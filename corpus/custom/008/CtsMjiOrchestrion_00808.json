@@ -5,21 +5,6 @@
   "conversation": "custom/008/CtsMjiOrchestrion_00808",
   "entries": [
     {
-      "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_TALK_ACTOR",
-      "en": "0",
-      "hash": "FED809DA7B71C037",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/008/CtsMjiOrchestrion_00808",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/008/CtsMjiOrchestrion_00808"
-    },
-    {
       "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_000",
       "en": "This appears to be the orchestrion belonging to the islekeep.<br>Currently playing <italic(1)><sheet(Orchestrion,lnum1,0)><italic(0)>.",
       "hash": "0D166F8A90C3A293",

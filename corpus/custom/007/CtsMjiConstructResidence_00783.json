@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiConstructResidence_00783",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiConstructResidence_00783#TEXT_CTSMJICONSTRUCTRESIDENCE_00783_TALK_ACTOR",
-      "en": "0",
-      "hash": "0BEEB739F94E5580",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiConstructResidence_00783",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiConstructResidence_00783"
-    },
-    {
       "gameKey": "custom/007/CtsMjiConstructResidence_00783#TEXT_CTSMJICONSTRUCTRESIDENCE_00783_SYSTEM_000_000",
       "en": "What will you do?",
       "hash": "7E623CDE9595E128",

@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiVillageDevelopment_00782",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiVillageDevelopment_00782#TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_TALK_ACTOR",
-      "en": "0",
-      "hash": "56D07D9EF0F37C2E",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiVillageDevelopment_00782",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiVillageDevelopment_00782"
-    },
-    {
       "gameKey": "custom/007/CtsMjiVillageDevelopment_00782#TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_100_000",
       "en": "Are those t-t-tools you have there? Beautiful, d-dangerous tools for cutting things and smashing them up? Give them here, nice and easy...",
       "hash": "AD7D0507910F64C0",

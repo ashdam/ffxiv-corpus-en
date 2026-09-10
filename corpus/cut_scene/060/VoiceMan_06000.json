@@ -3334,20 +3334,6 @@
       "sheet": "cut_scene/060/VoiceMan_06000"
     },
     {
-      "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001980_KRILE",
-      "en": "Ugh...",
-      "hash": "F545EE2EBC47CC74",
-      "unresolved": false,
-      "ja": "っ…",
-      "conversation": "cut_scene/060/VoiceMan_06000",
-      "seq": 205,
-      "speaker": "KRILE",
-      "speakerKind": "character",
-      "speakerGender": "female",
-      "kind": "dialogue",
-      "sheet": "cut_scene/060/VoiceMan_06000"
-    },
-    {
       "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001990_KRILE",
       "en": "Did you call to me just now?",
       "hash": "41736778E058401C",

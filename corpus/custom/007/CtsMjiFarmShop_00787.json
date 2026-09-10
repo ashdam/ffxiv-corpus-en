@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiFarmShop_00787",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_TALK_ACTOR",
-      "en": "0",
-      "hash": "3D0C1C5C223593BF",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiFarmShop_00787",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiFarmShop_00787"
-    },
-    {
       "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_000_000",
       "en": "What will you do?",
       "hash": "A389ECA2BCB28A1C",

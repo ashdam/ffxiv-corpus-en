@@ -5,21 +5,6 @@
   "conversation": "custom/007/CtsMjiEntrance_00798",
   "entries": [
     {
-      "gameKey": "custom/007/CtsMjiEntrance_00798#TEXT_CTSMJIENTRANCE_00798_TALK_ACTOR",
-      "en": "0",
-      "hash": "B2BFB3FCA6B7721F",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/007/CtsMjiEntrance_00798"
-    },
-    {
       "gameKey": "custom/007/CtsMjiEntrance_00798#TEXT_CTSMJIENTRANCE_00798_BARDIN_000_000",
       "en": "Ahoy there, <if(gnum4,lass,lad)>. Where can I take ye?",
       "hash": "3D06F797198F019B",

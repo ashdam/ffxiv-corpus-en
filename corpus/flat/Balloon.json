@@ -97752,17 +97752,6 @@
       "sheet": "Balloon"
     },
     {
-      "gameKey": "Balloon#8018",
-      "en": "Almost there. Let's get this over with!",
-      "hash": "748A906D8F222F87",
-      "unresolved": false,
-      "conversation": "Balloon#8018",
-      "seq": 1,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Balloon"
-    },
-    {
       "gameKey": "Balloon#8019",
       "en": "I should be safe here.",
       "hash": "3AB2F41FB6F3F57C",

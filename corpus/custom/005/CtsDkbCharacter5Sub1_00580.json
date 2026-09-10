@@ -5,21 +5,6 @@
   "conversation": "custom/005/CtsDkbCharacter5Sub1_00580",
   "entries": [
     {
-      "gameKey": "custom/005/CtsDkbCharacter5Sub1_00580#TEXT_CTSDKBCHARACTER5SUB1_00580_TALK_ACTOR",
-      "en": "0",
-      "hash": "A7DEC18BA2118658",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/005/CtsDkbCharacter5Sub1_00580",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/005/CtsDkbCharacter5Sub1_00580"
-    },
-    {
       "gameKey": "custom/005/CtsDkbCharacter5Sub1_00580#TEXT_CTSDKBCHARACTER5SUB1_00580_LOBB_000_000",
       "en": "Phew! Standing in for Frithrik is much harder work than I was expecting! In all honesty, I feel as though asking him to manage this post by himself is a bit of a tall order.",
       "hash": "54825DB7DCDE46F5",

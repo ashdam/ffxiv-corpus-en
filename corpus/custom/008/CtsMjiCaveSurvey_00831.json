@@ -5,21 +5,6 @@
   "conversation": "custom/008/CtsMjiCaveSurvey_00831",
   "entries": [
     {
-      "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_TALK_ACTOR",
-      "en": "0",
-      "hash": "DCCC9AB86C60F3BC",
-      "unresolved": false,
-      "fr": "0",
-      "ja": "0",
-      "conversation": "custom/008/CtsMjiCaveSurvey_00831",
-      "seq": 0,
-      "speaker": "ACTOR",
-      "speakerKind": "character",
-      "speakerGender": "unknown",
-      "kind": "dialogue",
-      "sheet": "custom/008/CtsMjiCaveSurvey_00831"
-    },
-    {
       "gameKey": "custom/008/CtsMjiCaveSurvey_00831#TEXT_CTSMJICAVESURVEY_00831_POINT_001_000",
       "en": "Nothing seems particularly suspicious here. Maybe you'll have better luck at another location.",
       "hash": "5D0AC3D5B80D06B1",
