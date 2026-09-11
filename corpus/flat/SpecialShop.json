@@ -18,32 +18,6 @@
       "sheet": "SpecialShop"
     },
     {
-      "gameKey": "SpecialShop#1769474",
-      "en": "Currency Test",
-      "hash": "E83BBDC12618D032",
-      "unresolved": false,
-      "fr": "Test des devises",
-      "ja": "テスト用ショップ：通貨交換",
-      "conversation": "SpecialShop#1769474",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "SpecialShop"
-    },
-    {
-      "gameKey": "SpecialShop#1769475",
-      "en": "Materia Test",
-      "hash": "AADF35DF401D35C9",
-      "unresolved": false,
-      "fr": "Test des matérias",
-      "ja": "テスト用ショップ：マテリア交換",
-      "conversation": "SpecialShop#1769475",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "SpecialShop"
-    },
-    {
       "gameKey": "SpecialShop#1769482",
       "en": "Lightning Returns",
       "hash": "B07C106AE474A7EB",
@@ -376,19 +350,6 @@
       "fr": "Babioles orientales",
       "ja": "東方の宝珠の取引",
       "conversation": "SpecialShop#1769523",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "SpecialShop"
-    },
-    {
-      "gameKey": "SpecialShop#1769524",
-      "en": "Items in Development",
-      "hash": "8A2CE4260EDF682E",
-      "unresolved": false,
-      "fr": "Objets en développement",
-      "ja": "テスト用ショップ",
-      "conversation": "SpecialShop#1769524",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

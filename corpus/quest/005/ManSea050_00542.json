@@ -5,19 +5,6 @@
   "conversation": "quest/005/ManSea050_00542",
   "entries": [
     {
-      "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_SEQ_02",
-      "en": "-1",
-      "hash": "6DE10080CDFA0F70",
-      "unresolved": false,
-      "fr": "-1",
-      "ja": "-1",
-      "conversation": "quest/005/ManSea050_00542",
-      "seq": 0,
-      "speakerKind": "system",
-      "kind": "seq",
-      "sheet": "quest/005/ManSea050_00542"
-    },
-    {
       "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200010_NARRATION",
       "en": "At the Battle of Carteneau, as fire rained down from the heavens...",
       "hash": "4EF906361B36C965",

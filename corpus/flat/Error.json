@@ -5,19 +5,6 @@
   "conversation": "Error",
   "entries": [
     {
-      "gameKey": "Error#12002",
-      "en": "****",
-      "hash": "9ED8E31CEABEE578",
-      "unresolved": false,
-      "fr": "****",
-      "ja": "【中国版専用】****",
-      "conversation": "Error#12002",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Error"
-    },
-    {
       "gameKey": "Error#13001",
       "en": "The lobby server connection has encountered an error.",
       "hash": "92191B173862DE76",

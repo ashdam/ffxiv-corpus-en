@@ -5,19 +5,6 @@
   "conversation": "quest/005/ManSea201_00526",
   "entries": [
     {
-      "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_TODO_00",
-      "en": "Speaketh with",
-      "hash": "E35B7D0F98C9D7A7",
-      "unresolved": false,
-      "fr": "～と話す",
-      "ja": "～と話す",
-      "conversation": "quest/005/ManSea201_00526",
-      "seq": 0,
-      "speakerKind": "system",
-      "kind": "todo",
-      "sheet": "quest/005/ManSea201_00526"
-    },
-    {
       "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_SAHAGINBOSS_000_1",
       "en": "Pshhh... You sssully our ssspawning groundsss, shorewalker!",
       "hash": "CFA5333C0176F364",
