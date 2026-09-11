@@ -10234,22 +10234,6 @@
       "sheet": "Lobby"
     },
     {
-      "gameKey": "Lobby#1168.3",
-      "en": "❖<string(lstr1)>",
-      "hash": "4F3C1D73133BAC2F",
-      "macro": "❖<string(lstr1)>",
-      "unresolved": false,
-      "fr": "❖<string(lstr1)>",
-      "ja": "❖<string(lstr1)>",
-      "frMacro": "❖<string(lstr1)>",
-      "jaMacro": "❖<string(lstr1)>",
-      "conversation": "Lobby#1168",
-      "seq": 3,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "Lobby"
-    },
-    {
       "gameKey": "Lobby#1169.3",
       "en": "Retrieving World data...",
       "hash": "999C959F8DF5B239",
