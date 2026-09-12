@@ -3153,21 +3153,6 @@
       "sheet": "cut_scene/023/VoiceMan_02300"
     },
     {
-      "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00180_NANAMOULNAMO",
-      "en": "This isn't the text you're looking for.",
-      "hash": "3E4E415A202673EE",
-      "unresolved": false,
-      "fr": "(pleure)",
-      "ja": "（泣き）",
-      "conversation": "cut_scene/023/VoiceMan_02300",
-      "seq": 194,
-      "speaker": "NANAMOULNAMO",
-      "speakerKind": "character",
-      "speakerGender": "female",
-      "kind": "dialogue",
-      "sheet": "cut_scene/023/VoiceMan_02300"
-    },
-    {
       "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00190_RAUBAHN",
       "en": "Have faith, Your Grace. It is not over...",
       "hash": "12381C19BFA5998B",
