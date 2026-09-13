@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "DisposalShopFilterType",
+  "entries": [
+    {
+      "gameKey": "DisposalShopFilterType#1",
+      "en": "Show All",
+      "hash": "64A5BC29672B0F41",
+      "unresolved": false,
+      "fr": "Tous les objets",
+      "ja": "対象品をすべて表示",
+      "conversation": "DisposalShopFilterType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DisposalShopFilterType"
+    },
+    {
+      "gameKey": "DisposalShopFilterType#2",
+      "en": "Hide Items Registered to Gear Sets",
+      "hash": "317B66050E020408",
+      "unresolved": false,
+      "fr": "Cacher les objets des tenues",
+      "ja": "ギアセット登録アイテムを除外",
+      "conversation": "DisposalShopFilterType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DisposalShopFilterType"
+    },
+    {
+      "gameKey": "DisposalShopFilterType#3",
+      "en": "Hide Armoury Chest Items",
+      "hash": "6EA5C06825B1BD81",
+      "unresolved": false,
+      "fr": "Cacher les objets de l'arsenal",
+      "ja": "アーマリーチェストを除外",
+      "conversation": "DisposalShopFilterType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DisposalShopFilterType"
+    },
+    {
+      "gameKey": "DisposalShopFilterType#4",
+      "en": "Show Only Items IL <num(lnum1)> and Below",
+      "hash": "EADBB7BE2F49B314",
+      "macro": "Show Only Items IL <num(lnum1)> and Below",
+      "unresolved": true,
+      "fr": "Objets de Nv obj ≦ <num(lnum1)>",
+      "ja": "アイテムレベル<num(lnum1)>以下の対象品のみ表示",
+      "frMacro": "Objets de Nv obj ≦ <num(lnum1)>",
+      "jaMacro": "アイテムレベル<num(lnum1)>以下の対象品のみ表示",
+      "conversation": "DisposalShopFilterType#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DisposalShopFilterType"
+    }
+  ]
+}

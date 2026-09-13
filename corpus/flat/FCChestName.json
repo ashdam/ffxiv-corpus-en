@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "FCChestName",
+  "entries": [
+    {
+      "gameKey": "FCChestName#0",
+      "en": "Items",
+      "hash": "87C5D193F4DD660E",
+      "unresolved": false,
+      "fr": "Objets",
+      "ja": "アイテムボックス",
+      "conversation": "FCChestName#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCChestName"
+    },
+    {
+      "gameKey": "FCChestName#1",
+      "en": "Miscellany",
+      "hash": "35A5DB831D292EA3",
+      "unresolved": false,
+      "fr": "Divers",
+      "ja": "なんでも",
+      "conversation": "FCChestName#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCChestName"
+    },
+    {
+      "gameKey": "FCChestName#2",
+      "en": "Gear",
+      "hash": "FF57142A592500F3",
+      "unresolved": false,
+      "fr": "Équipement",
+      "ja": "装備品",
+      "conversation": "FCChestName#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCChestName"
+    },
+    {
+      "gameKey": "FCChestName#3",
+      "en": "Medicines",
+      "hash": "E1E46A1CE43B76C0",
+      "unresolved": false,
+      "fr": "Remèdes",
+      "ja": "薬品",
+      "conversation": "FCChestName#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCChestName"
+    }
+  ]
+}

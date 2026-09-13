@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "CompanyCraftManufactoryState",
+  "entries": [
+    {
+      "gameKey": "CompanyCraftManufactoryState#0",
+      "en": "-",
+      "hash": "7B8A3C874A857644",
+      "unresolved": false,
+      "fr": "Invalide",
+      "ja": "無効",
+      "conversation": "CompanyCraftManufactoryState#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftManufactoryState"
+    },
+    {
+      "gameKey": "CompanyCraftManufactoryState#1",
+      "en": "Normal",
+      "hash": "C60DAFECD91F5D32",
+      "unresolved": false,
+      "fr": "Normal",
+      "ja": "通常",
+      "conversation": "CompanyCraftManufactoryState#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftManufactoryState"
+    },
+    {
+      "gameKey": "CompanyCraftManufactoryState#2",
+      "en": "Excellent",
+      "hash": "5B367A04D9F8CDE1",
+      "unresolved": false,
+      "fr": "Bon",
+      "ja": "良好",
+      "conversation": "CompanyCraftManufactoryState#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftManufactoryState"
+    },
+    {
+      "gameKey": "CompanyCraftManufactoryState#3",
+      "en": "Outstanding",
+      "hash": "2153EC3710023972",
+      "unresolved": false,
+      "fr": "Parfait",
+      "ja": "最良",
+      "conversation": "CompanyCraftManufactoryState#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftManufactoryState"
+    }
+  ]
+}

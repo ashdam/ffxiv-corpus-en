@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "CompanyCraftDraftCategory",
+  "entries": [
+    {
+      "gameKey": "CompanyCraftDraftCategory#0",
+      "en": "Aetherial Wheels",
+      "hash": "ADE780C20E7289DE",
+      "unresolved": false,
+      "fr": "Tours éthéréens",
+      "ja": "エーテリアルホイール",
+      "conversation": "CompanyCraftDraftCategory#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftDraftCategory"
+    },
+    {
+      "gameKey": "CompanyCraftDraftCategory#1",
+      "en": "Airships & Submersibles",
+      "hash": "FE6C55C2055DBE6D",
+      "unresolved": false,
+      "fr": "Aéronefs et sous-marins",
+      "ja": "飛空艇・潜水艦",
+      "conversation": "CompanyCraftDraftCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftDraftCategory"
+    },
+    {
+      "gameKey": "CompanyCraftDraftCategory#2",
+      "en": "Housing",
+      "hash": "00A916D67F7C5D7A",
+      "unresolved": false,
+      "fr": "Logement",
+      "ja": "ハウス",
+      "conversation": "CompanyCraftDraftCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanyCraftDraftCategory"
+    }
+  ]
+}

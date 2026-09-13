@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "CollectablesShop",
+  "entries": [
+    {
+      "gameKey": "CollectablesShop#3866625",
+      "en": "Oddly Specific Materials Exchange (Crafting)",
+      "hash": "6E8AAC68A00EB83F",
+      "unresolved": false,
+      "fr": "Composants d'affinage pour artisans",
+      "ja": "改良用部材の交換：クラフター",
+      "conversation": "CollectablesShop#3866625",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866626",
+      "en": "収集品納品",
+      "hash": "626D0FA516EB4A8D",
+      "unresolved": false,
+      "fr": "収集品納品",
+      "ja": "収集品納品",
+      "conversation": "CollectablesShop#3866626",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866627",
+      "en": "●収集品回収",
+      "hash": "2416A6654E9F5D9E",
+      "unresolved": false,
+      "fr": "●収集品回収",
+      "ja": "●収集品回収",
+      "conversation": "CollectablesShop#3866627",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866628",
+      "en": "Oddly Delicate Materials Exchange",
+      "hash": "03468F5CD90822E3",
+      "unresolved": false,
+      "fr": "Composants d'affinage final",
+      "ja": "最終改良用部材の交換",
+      "conversation": "CollectablesShop#3866628",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866629",
+      "en": "Obsolete Resplendent Materials Exchange",
+      "hash": "9C77F365B1A2A3AF",
+      "unresolved": false,
+      "fr": "Anciens composants pour outils resplendissants",
+      "ja": "二次～最終素材【旧】の取引",
+      "conversation": "CollectablesShop#3866629",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866630",
+      "en": "Resplendent Materials Exchange",
+      "hash": "9C76453C152AAF11",
+      "unresolved": false,
+      "fr": "Composants pour outils resplendissants",
+      "ja": "二次～最終素材の取引",
+      "conversation": "CollectablesShop#3866630",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    },
+    {
+      "gameKey": "CollectablesShop#3866631",
+      "en": "Trade Goods Exchange",
+      "hash": "589428D3737FABEC",
+      "unresolved": false,
+      "fr": "Marchandises pour outils des merveilles",
+      "ja": "取引資本の納品",
+      "conversation": "CollectablesShop#3866631",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CollectablesShop"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "HousingMateAuthority",
+  "entries": [
+    {
+      "gameKey": "HousingMateAuthority#1",
+      "en": "Adding/Removing/Dyeing Furnishings",
+      "hash": "BBEBBC19652C6A62",
+      "unresolved": false,
+      "fr": "Ajout/Retrait/Déplacement/Teinture",
+      "ja": "外装・内装・調度品・庭具の追加/撤去/配置変更/染色",
+      "conversation": "HousingMateAuthority#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#2",
+      "en": "Planting",
+      "hash": "5110307ECF37C5C2",
+      "unresolved": false,
+      "fr": "Culture du potager/pots de fleurs",
+      "ja": "畑・植木鉢への種まき",
+      "conversation": "HousingMateAuthority#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#3",
+      "en": "Harvesting",
+      "hash": "F00EC0819EF748D8",
+      "unresolved": false,
+      "fr": "Récolte des cultures",
+      "ja": "作物の収穫",
+      "conversation": "HousingMateAuthority#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#4",
+      "en": "Crop Disposal",
+      "hash": "ECFF17AF02AE1516",
+      "unresolved": false,
+      "fr": "Suppression des cultures",
+      "ja": "作物の処分",
+      "conversation": "HousingMateAuthority#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#5",
+      "en": "Stabling Chocobos",
+      "hash": "CDCA03E699E31783",
+      "unresolved": false,
+      "fr": "Mise en pension du chocobo",
+      "ja": "マイチョコボを預ける",
+      "conversation": "HousingMateAuthority#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#6",
+      "en": "Orchestrion Operation",
+      "hash": "57B2F758F808E012",
+      "unresolved": false,
+      "fr": "Utilisation de l'orchestrion",
+      "ja": "オーケストリオンの管理",
+      "conversation": "HousingMateAuthority#6",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    },
+    {
+      "gameKey": "HousingMateAuthority#7",
+      "en": "Message Book Management",
+      "hash": "A0DB50C869B308CD",
+      "unresolved": false,
+      "fr": "Gestion des livres de correspondance",
+      "ja": "交流帳の管理",
+      "conversation": "HousingMateAuthority#7",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMateAuthority"
+    }
+  ]
+}

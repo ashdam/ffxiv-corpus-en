@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "FCHierarchy",
+  "entries": [
+    {
+      "gameKey": "FCHierarchy#0",
+      "en": "Master",
+      "hash": "4749F2F7AF606652",
+      "unresolved": false,
+      "fr": "Maître",
+      "ja": "マスター",
+      "conversation": "FCHierarchy#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCHierarchy"
+    },
+    {
+      "gameKey": "FCHierarchy#1",
+      "en": "Officer",
+      "hash": "427FCE8155DFCF7C",
+      "unresolved": false,
+      "fr": "Officier",
+      "ja": "オフィサー",
+      "conversation": "FCHierarchy#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCHierarchy"
+    },
+    {
+      "gameKey": "FCHierarchy#2",
+      "en": "Member",
+      "hash": "CB75938758FE3643",
+      "unresolved": false,
+      "fr": "Membre",
+      "ja": "メンバー",
+      "conversation": "FCHierarchy#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCHierarchy"
+    },
+    {
+      "gameKey": "FCHierarchy#15",
+      "en": "Guest",
+      "hash": "1A506B11136A4E31",
+      "unresolved": false,
+      "fr": "Invité",
+      "ja": "ゲスト",
+      "conversation": "FCHierarchy#15",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCHierarchy"
+    },
+    {
+      "gameKey": "FCHierarchy#16",
+      "en": "Recruit",
+      "hash": "D78BB562D569B455",
+      "unresolved": false,
+      "fr": "Recruteur",
+      "ja": "招待者",
+      "conversation": "FCHierarchy#16",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCHierarchy"
+    }
+  ]
+}

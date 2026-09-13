@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "InclusionShop",
+  "entries": [
+    {
+      "gameKey": "InclusionShop#3801094",
+      "en": "Scrip Exchange",
+      "hash": "1442BD0D06F8B5E3",
+      "unresolved": false,
+      "fr": "Échange d'assignats",
+      "ja": "スクリップの取引",
+      "conversation": "InclusionShop#3801094",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    },
+    {
+      "gameKey": "InclusionShop#3801095",
+      "en": "Gatherers' Scrip Exchange",
+      "hash": "82C885CFB21FE9C9",
+      "unresolved": false,
+      "fr": "Échange d'assignats de récolteur",
+      "ja": "ギャザラースクリップの取引",
+      "conversation": "InclusionShop#3801095",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    },
+    {
+      "gameKey": "InclusionShop#3801096",
+      "en": "Scrip Exchange",
+      "hash": "94791AEA4B0960EA",
+      "unresolved": false,
+      "fr": "Échange d'assignats",
+      "ja": "スクリップの取引",
+      "conversation": "InclusionShop#3801096",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    },
+    {
+      "gameKey": "InclusionShop#3801097",
+      "en": "Scrip Exchange",
+      "hash": "CDD12E152C03EAF0",
+      "unresolved": false,
+      "fr": "Échange d'assignats",
+      "ja": "スクリップの取引",
+      "conversation": "InclusionShop#3801097",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    },
+    {
+      "gameKey": "InclusionShop#3801098",
+      "en": "●対人戦績の取引",
+      "hash": "52D2BE969C18E6D9",
+      "unresolved": false,
+      "fr": "●対人戦績の取引",
+      "ja": "●対人戦績の取引",
+      "conversation": "InclusionShop#3801098",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    },
+    {
+      "gameKey": "InclusionShop#3801103",
+      "en": "Scrip Exchange",
+      "hash": "CB309BA4F87662EB",
+      "unresolved": false,
+      "fr": "Échange d'assignats",
+      "ja": "スクリップの取引",
+      "conversation": "InclusionShop#3801103",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InclusionShop"
+    }
+  ]
+}
