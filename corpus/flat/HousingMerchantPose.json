@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "HousingMerchantPose",
+  "entries": [
+    {
+      "gameKey": "HousingMerchantPose#0",
+      "en": "Standard",
+      "hash": "41DCAC398F958E31",
+      "unresolved": false,
+      "fr": "Classique",
+      "ja": "基本立ち",
+      "conversation": "HousingMerchantPose#0",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMerchantPose"
+    },
+    {
+      "gameKey": "HousingMerchantPose#1",
+      "en": "Store Window",
+      "hash": "4D837435D5CF64CB",
+      "unresolved": false,
+      "fr": "Mannequin",
+      "ja": "マネキン立ち",
+      "conversation": "HousingMerchantPose#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMerchantPose"
+    },
+    {
+      "gameKey": "HousingMerchantPose#2",
+      "en": "Arms Crossed",
+      "hash": "BE6498215720F658",
+      "unresolved": false,
+      "fr": "Bras croisés",
+      "ja": "腕組み",
+      "conversation": "HousingMerchantPose#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMerchantPose"
+    },
+    {
+      "gameKey": "HousingMerchantPose#3",
+      "en": "Unique",
+      "hash": "47FEAC281E707902",
+      "unresolved": false,
+      "fr": "Spéciale",
+      "ja": "個性立ち",
+      "conversation": "HousingMerchantPose#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMerchantPose"
+    },
+    {
+      "gameKey": "HousingMerchantPose#4",
+      "en": "Runway Model",
+      "hash": "480265CBC97B3BB9",
+      "unresolved": false,
+      "fr": "Top modèle",
+      "ja": "モデル立ち",
+      "conversation": "HousingMerchantPose#4",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HousingMerchantPose"
+    }
+  ]
+}

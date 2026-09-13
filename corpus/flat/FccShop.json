@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "FccShop",
+  "entries": [
+    {
+      "gameKey": "FccShop#2752513",
+      "en": "Company Credit Exchange",
+      "hash": "CB7D754025E7F917",
+      "unresolved": false,
+      "fr": "Échanger des crédits de compagnie (objets)",
+      "ja": "カンパニークレジットを交換する(アイテム)",
+      "conversation": "FccShop#2752513",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FccShop"
+    },
+    {
+      "gameKey": "FccShop#2752515",
+      "en": "Company Credit Exchange",
+      "hash": "F839E30D690C67FD",
+      "unresolved": false,
+      "fr": "Échanger des crédits de compagnie (objets)",
+      "ja": "カンパニークレジットを交換する(アイテム)",
+      "conversation": "FccShop#2752515",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FccShop"
+    }
+  ]
+}

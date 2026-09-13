@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "EmoteCategory",
+  "entries": [
+    {
+      "gameKey": "EmoteCategory#1",
+      "en": "General",
+      "hash": "EBCC479DF231D328",
+      "unresolved": false,
+      "fr": "Générales",
+      "ja": "全般",
+      "conversation": "EmoteCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EmoteCategory"
+    },
+    {
+      "gameKey": "EmoteCategory#2",
+      "en": "Special",
+      "hash": "7B77700E235CA4DA",
+      "unresolved": false,
+      "fr": "Spéciales",
+      "ja": "スペシャル",
+      "conversation": "EmoteCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EmoteCategory"
+    },
+    {
+      "gameKey": "EmoteCategory#3",
+      "en": "Expressions",
+      "hash": "DBEC9B59C70352A3",
+      "unresolved": false,
+      "fr": "Expressions",
+      "ja": "表情",
+      "conversation": "EmoteCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EmoteCategory"
+    }
+  ]
+}

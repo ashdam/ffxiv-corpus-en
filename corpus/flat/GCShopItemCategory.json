@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "GCShopItemCategory",
+  "entries": [
+    {
+      "gameKey": "GCShopItemCategory#1",
+      "en": "Materiel",
+      "hash": "A41502E825F251DE",
+      "unresolved": false,
+      "fr": "Matériel militaire",
+      "ja": "軍用品",
+      "conversation": "GCShopItemCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCShopItemCategory"
+    },
+    {
+      "gameKey": "GCShopItemCategory#2",
+      "en": "Weapons",
+      "hash": "CAA505BE22EB8BE3",
+      "unresolved": false,
+      "fr": "Armes",
+      "ja": "武器",
+      "conversation": "GCShopItemCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCShopItemCategory"
+    },
+    {
+      "gameKey": "GCShopItemCategory#3",
+      "en": "Armor",
+      "hash": "67FB7C7F9646C3E1",
+      "unresolved": false,
+      "fr": "Armures",
+      "ja": "防具",
+      "conversation": "GCShopItemCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCShopItemCategory"
+    }
+  ]
+}

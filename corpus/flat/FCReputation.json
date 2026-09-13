@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "FCReputation",
+  "entries": [
+    {
+      "gameKey": "FCReputation#1",
+      "en": "Neutral",
+      "hash": "1C2E2CB330213471",
+      "unresolved": false,
+      "fr": "Neutre",
+      "ja": "中立",
+      "conversation": "FCReputation#1",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#2",
+      "en": "Recognized",
+      "hash": "9244B77656DC3FFD",
+      "unresolved": false,
+      "fr": "Reconnu",
+      "ja": "認定",
+      "conversation": "FCReputation#2",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#3",
+      "en": "Friendly",
+      "hash": "28EEAAC3F5D75FB4",
+      "unresolved": false,
+      "fr": "Ami",
+      "ja": "友好",
+      "conversation": "FCReputation#3",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#4",
+      "en": "Trusted",
+      "hash": "B34F21181D08BB07",
+      "unresolved": false,
+      "fr": "Estimé",
+      "ja": "信頼",
+      "conversation": "FCReputation#4",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#5",
+      "en": "Respected",
+      "hash": "36E4B70F312CAE57",
+      "unresolved": false,
+      "fr": "Respecté",
+      "ja": "敬意",
+      "conversation": "FCReputation#5",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#6",
+      "en": "Honored",
+      "hash": "27DE94A0B647E584",
+      "unresolved": false,
+      "fr": "Émérite",
+      "ja": "名誉",
+      "conversation": "FCReputation#6",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#7",
+      "en": "Sworn",
+      "hash": "5D679AC1C402CFE8",
+      "unresolved": false,
+      "fr": "Assermenté",
+      "ja": "誓約",
+      "conversation": "FCReputation#7",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    },
+    {
+      "gameKey": "FCReputation#8",
+      "en": "Allied",
+      "hash": "1B57D4D829B1FF3F",
+      "unresolved": false,
+      "fr": "Allié",
+      "ja": "盟友",
+      "conversation": "FCReputation#8",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCReputation"
+    }
+  ]
+}
