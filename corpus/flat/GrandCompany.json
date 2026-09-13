@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.01.0000.0000",
+  "conversation": "GrandCompany",
+  "entries": [
+    {
+      "gameKey": "GrandCompany#0.0",
+      "en": "None",
+      "hash": "E33DF91472F68F93",
+      "unresolved": false,
+      "fr": "Sans allégeance",
+      "ja": "グランドカンパニー無効値",
+      "conversation": "GrandCompany#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
+      "gameKey": "GrandCompany#1.0",
+      "en": "Maelstrom",
+      "hash": "A3F799B6F32B5477",
+      "unresolved": false,
+      "fr": "Le Maelstrom",
+      "ja": "黒渦団",
+      "conversation": "GrandCompany#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
+      "gameKey": "GrandCompany#2.0",
+      "en": "Order of the Twin Adder",
+      "hash": "79281ACCD1DC6BD8",
+      "unresolved": false,
+      "fr": "L'ordre des Deux Vipères",
+      "ja": "双蛇党",
+      "conversation": "GrandCompany#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
+      "gameKey": "GrandCompany#3.0",
+      "en": "Immortal Flames",
+      "hash": "FAAAF53C3BBBB732",
+      "unresolved": false,
+      "fr": "Les Immortels",
+      "ja": "不滅隊",
+      "conversation": "GrandCompany#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    }
+  ]
+}
