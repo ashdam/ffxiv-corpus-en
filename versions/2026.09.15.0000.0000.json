@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "gameVersion": "2026.09.15.0000.0000",
+  "previousGameVersion": "2026.09.01.0000.0000",
+  "previousRows": 636664,
+  "rows": 636662,
+  "added": [],
+  "rewritten": {
+    "ActionTransient#46751": "0C29CE4DD2E6DFAC",
+    "Addon#17787": "85B89AA4D4AF0721",
+    "Addon#17912": "BB7016F2FCE19695"
+  },
+  "retired": {
+    "BNpcName#14566.0": "9FDE79F9E1F5B36E",
+    "BNpcName#14566.2": "3A1A7D3156CA5E1D"
+  }
+}

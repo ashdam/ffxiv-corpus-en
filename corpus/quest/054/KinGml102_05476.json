@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceLanguage": "en",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "conversation": "quest/054/KinGml102_05476",
   "entries": [
     {
@@ -669,8 +669,8 @@
       "hash": "B1753459542916E7",
       "unresolved": false,
       "fr": "Quant aux autres îles flottant dans les environs, tout porte à croire qu'elles sont inoccupées.",
-      "ja": "周囲には、いくつかの浮島が浮かんでいるが、<br>それらにも人は暮らしてはいないようだ。",
-      "jaMacro": "周囲には、いくつかの浮島が浮かんでいるが、<br>それらにも人は暮らしてはいないようだ。",
+      "ja": "周囲には、いくつかの浮島が点在しているが、<br>それらにも人は暮らしてはいないようだ。",
+      "jaMacro": "周囲には、いくつかの浮島が点在しているが、<br>それらにも人は暮らしてはいないようだ。",
       "conversation": "quest/054/KinGml102_05476",
       "seq": 27,
       "speakerKind": "system",
