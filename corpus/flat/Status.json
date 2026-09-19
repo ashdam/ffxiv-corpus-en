@@ -1279,6 +1279,32 @@
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Status"
+    },
+    {
+      "gameKey": "Status#5586.0",
+      "en": "Enmity Up",
+      "hash": "E9D7D62813350177",
+      "unresolved": false,
+      "fr": "Inimitié augmentée",
+      "ja": "敵視上昇",
+      "conversation": "Status#5586",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Status"
+    },
+    {
+      "gameKey": "Status#5586.1",
+      "en": "Enmity is increased.",
+      "hash": "8966E0F91EB494A3",
+      "unresolved": false,
+      "fr": "La génération d'inimitié est augmentée.",
+      "ja": "自身に向けられる敵視が上昇する状態。",
+      "conversation": "Status#5586",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Status"
     }
   ]
 }
