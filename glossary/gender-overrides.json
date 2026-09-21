@@ -1,5 +1,9 @@
 {
   "overrides": {
+    "BERKOEYA": {
+      "gender": "male",
+      "why": "ComAll001_02283 ALYS_000_004 refers to Berkoeya as him and his."
+    },
     "STARKWOAD": {
       "gender": "female",
       "why": "Sheet says male. Three languages say otherwise, and the quest exists to go and find her. StmBda617_02543 SEQ_00: 'The Roegadyn WOMAN you seek is somewhere in Radiata, and Lyse is eager to find HER.' Lyse in the same conversation (LYSE_000_010): 'Alphinaud said we were looking for a Roegadyn woman, right? And that we should answer HER question with \"courage\"?', whose Japanese is explicit — 「ローエンガルデ族の女性」. French uses the feminine noun and feminine pronouns throughout: 'Lyse a hâte de trouver L'ESPIONNE de Pipin à Radiata' and 'essayons de LA retrouver. Si quelqu'un entre en contact avec ELLE'. StmBda618_02544 SEQ_04 then names the contact: 'As expected, Alphinaud and Alisaie are fine, as is Stark Woad, your contact.' Found by the sb-msq-09 translator, who wrote her feminine from the English and flagged the sheet."
