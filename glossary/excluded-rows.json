@@ -21930,6 +21930,12 @@
       "rows": [
         { "gameKey": "GimmickBill#1", "hash": "E1436A4B6D8B1985" }
       ]
+    },
+    {
+      "why": "Exclude the internal EventItem language marker; it is not a key item name.",
+      "rows": [
+        { "gameKey": "EventItem#2000000.0", "hash": "F51FC4C5CE98B481" }
+      ]
     }
   ]
 }
