@@ -1,7 +1,7 @@
 # Inventory exclusions
 
 Each language pack stores its rules in `inventory-exclusions.json` at the repository root. All packs
-use the same format. The inventory and validator read it for the selected `--language`.
+use the same format. These rules define the scope of its localization inventory.
 
 ```json
 {
@@ -33,19 +33,13 @@ When a row exclusion's source hash changes, that row rule no longer applies and 
 Review the source before updating the hash or removing the rule. Unknown sheets, missing rows and
 duplicate keys fail validation.
 
-These rules affect the `Localized` percentage. They do not remove existing translations from the
+An absent file means there are no pack-specific inventory exclusions. These rules affect the `Localized` percentage. They do not remove existing translations from the
 generated language pack.
 
 `WIP & future localization` reports pending percentages for each sheet affected by these rules. Its
 counts include all source rows with translatable English in that sheet, including rows kept in scope.
 Existing translations reduce the pending percentage. Blank text, digit-only text, placeholders and
 Japanese text do not count. Categories with no pending text are omitted from the Gubal column.
-
-## Initialization
-
-`--sync-target` creates this file with both arrays empty when it is absent. It preserves existing
-files. `--dry-run` reports the creation without writing. `--dry-run --strict` returns exit code 3
-when initialization is needed. An absent file means there are no pack-specific inventory exclusions.
 
 ## Publication
 
