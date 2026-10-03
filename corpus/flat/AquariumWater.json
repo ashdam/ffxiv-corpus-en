@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "AquariumWater",
+  "entries": [
+    {
+      "gameKey": "AquariumWater#0",
+      "en": "nothing",
+      "hash": "01E1E45D87E4F3C9",
+      "unresolved": false,
+      "fr": "Invalide",
+      "ja": "無効",
+      "conversation": "AquariumWater#0",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AquariumWater"
+    },
+    {
+      "gameKey": "AquariumWater#1",
+      "en": "Freshwater",
+      "hash": "590266092F7ED583",
+      "unresolved": false,
+      "fr": "Eau douce",
+      "ja": "淡水",
+      "conversation": "AquariumWater#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AquariumWater"
+    },
+    {
+      "gameKey": "AquariumWater#2",
+      "en": "Saltwater",
+      "hash": "01B203AAB5F66B71",
+      "unresolved": false,
+      "fr": "Eau de mer",
+      "ja": "海水",
+      "conversation": "AquariumWater#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AquariumWater"
+    }
+  ]
+}
