@@ -42,6 +42,11 @@ An entry whose `en` starts with `_` is not a term: `_comment` holds the conventi
 An emote has `en` and `<code>` only. Emotes are the stage directions the game shows as text,
 `\<sigh>`.
 
+## npc-names.json
+
+Confirmed NPC names for spelling checks. Each term has `en`, `fr` and `ja`;
+optional `nicknames` contains names in the same format.
+
 ## register.json
 
 How each speaker addresses the player and, where it matters, other characters. The rules of the

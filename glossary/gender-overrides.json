@@ -1,5 +1,41 @@
 {
   "overrides": {
+    "MOGZIN": {
+      "gender": "male",
+      "why": "The short NPC name Mogzin says female, but Master Mogzin rows say male. BanAll140_02385 MOGZIN_000_096 uses French seul for the same speaker."
+    },
+    "SETOTO": {
+      "gender": "female",
+      "why": "ENpcResident row 1030993 says male and conflicts with the female rows. JobSch650_02925 SEQ_03 uses English her and French la tomberry and Elle for Setoto."
+    },
+    "BIBI": {
+      "gender": "female",
+      "why": "ENpcResident rows 1005933 and 1008947 say male and conflict with the female rows. BanAll040_01470 SEQ_06 identifies Bi Bi with French l'amie and Japanese 彼女."
+    },
+    "YOUNGHANSAKEEPER04562": {
+      "gender": "female",
+      "why": "The quest speaker token has no resolved gender. BanArk112_04562 MARU_000_003 uses French éleveuse for the hamsa handler; YOUNGHANSAKEEPER04562_000_014 through _000_017 identify the same recipient."
+    },
+    "LUCIA": {
+      "gender": "female",
+      "why": "ENpcResident rows 1014316 and 1020598 say male and conflict with the female rows. VoiceMan_06001 003180_LUCIA uses French chevalière; DefaultTalk#597921.20 uses English she and French commandante."
+    },
+    "HEUSTIENNE": {
+      "gender": "female",
+      "why": "ENpcResident rows 1022542 and 1022543 say male and conflict with the female rows. JobDrg400_01069 SEQ_03 uses English her and French impressionnée."
+    },
+    "PRUNILLA": {
+      "gender": "female",
+      "why": "ENpcResident row 1006468 says male and row 1011198 says female. GaiUsc003_00940 SEQ_03 uses English her, French la and Japanese 彼女."
+    },
+    "LAURISSE": {
+      "gender": "female",
+      "why": "The speaker token LAURISSE does not match the full NPC name Laurisse de Jervaint, whose rows say female. ClsBsm550_02009 SEQ_02 uses English daughter, French fille and Japanese 彼女."
+    },
+    "ZELENIA": {
+      "gender": "female",
+      "why": "The speaker token ZELENIA has no matching ENpcResident name. VoiceMan_07200 001960_NEWSPHENE uses French resplendissante; 002280_ORIGINALSPHENE uses partie, both for Zelenia."
+    },
     "BERKOEYA": {
       "gender": "male",
       "why": "ComAll001_02283 ALYS_000_004 refers to Berkoeya as him and his."

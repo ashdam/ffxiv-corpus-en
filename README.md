@@ -17,6 +17,7 @@ corpus/
   warp/ transport/ raid/ content/ dungeon/ opening/ shop/ leve/ guild_order/ story/ system/
                                         small keyed families, one file per sheet
 glossary/characters.json               every named NPC, en/fr/ja, from the game's own sheets
+glossary/npc-names.json                confirmed NPC proper names, en/fr/ja, for spelling checks
 glossary/places.json                   every place name, en/fr/ja
 glossary/tribes.json                   the beast tribes, en/fr/ja
 glossary/gender-overrides.json         speaker genders the NPC sheets get wrong; an input to the extraction
