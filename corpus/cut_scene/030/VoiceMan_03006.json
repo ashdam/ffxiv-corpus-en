@@ -241,9 +241,9 @@
       "jaMacro": "賢人と言えば、昨晩、タタル嬢が大騒ぎをしておったぞ。<br>何でも、尋ね人の手がかりが掴めたとかで……。",
       "conversation": "cut_scene/030/VoiceMan_03006",
       "seq": 14,
-      "speaker": "EDMONT",
+      "speaker": "Count Edmont de Fortemps",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/030/VoiceMan_03006"
     },

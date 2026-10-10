@@ -690,7 +690,7 @@
       "jaMacro": "よう、頼まれたものを調達してきたぞ。<br>これでいいんだよな……？",
       "conversation": "quest/032/LucKba301_03273",
       "seq": 27,
-      "speaker": "HIREDMAN03273",
+      "speaker": "hired hand",
       "speakerKind": "character",
       "speakerGender": "unknown",
       "kind": "dialogue",

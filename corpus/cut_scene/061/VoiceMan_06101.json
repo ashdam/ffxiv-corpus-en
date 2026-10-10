@@ -77,9 +77,9 @@
       "jaMacro": "祈りの力  希望の光か――<br>そんなものは  この暗き底へ  届きはしない！",
       "conversation": "cut_scene/061/VoiceMan_06101",
       "seq": 4,
-      "speaker": "VOICE",
+      "speaker": "the Endsinger",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/061/VoiceMan_06101"
     }

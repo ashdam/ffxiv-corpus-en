@@ -15,9 +15,9 @@
       "jaMacro": "フスィーッ……。<br>ワレらが海域に侵入してくるとは！",
       "conversation": "quest/005/ManSea201_00526",
       "seq": 1,
-      "speaker": "SAHAGINBOSS",
+      "speaker": "Denn the Orcatoothed",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "quest/005/ManSea201_00526"
     }

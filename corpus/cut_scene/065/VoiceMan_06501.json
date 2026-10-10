@@ -45,9 +45,9 @@
       "jaMacro": "愛しき人の子ら――<br>どうか旧き人の欠片に  はなむけを――",
       "conversation": "cut_scene/065/VoiceMan_06501",
       "seq": 2,
-      "speaker": "THETWELVE",
+      "speaker": "Eulogia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/065/VoiceMan_06501"
     },
@@ -108,9 +108,9 @@
       "ja": "ありがとう――",
       "conversation": "cut_scene/065/VoiceMan_06501",
       "seq": 6,
-      "speaker": "THETWELVE",
+      "speaker": "Eulogia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/065/VoiceMan_06501"
     },

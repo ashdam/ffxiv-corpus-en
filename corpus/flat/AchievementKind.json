@@ -70,6 +70,19 @@
       "sheet": "AchievementKind"
     },
     {
+      "gameKey": "AchievementKind#6",
+      "en": "Gathering",
+      "hash": "1DA38D732ED62D24",
+      "unresolved": false,
+      "fr": "Récolte",
+      "ja": "採集",
+      "conversation": "AchievementKind#6",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
       "gameKey": "AchievementKind#8",
       "en": "Quests",
       "hash": "747EE08BBDA6E872",
@@ -103,6 +116,19 @@
       "fr": "Grandes compagnies",
       "ja": "グランドカンパニー",
       "conversation": "AchievementKind#12",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#13",
+      "en": "Legacy",
+      "hash": "8598158725F2D115",
+      "unresolved": false,
+      "fr": "Legacy",
+      "ja": "レガシー",
+      "conversation": "AchievementKind#13",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

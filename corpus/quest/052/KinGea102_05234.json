@@ -2886,7 +2886,7 @@
       "jaMacro": "(-甲冑姿の男性-)「アルシャール」……か。<br>わかった、そう名乗らせてもらうよ。",
       "conversation": "quest/052/KinGea102_05234",
       "seq": 113,
-      "speaker": "ALXAAL",
+      "speaker": "armor-clad wanderer",
       "speakerKind": "character",
       "speakerGender": "male",
       "kind": "dialogue",

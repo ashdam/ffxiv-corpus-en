@@ -15,9 +15,9 @@
       "jaMacro": "古の王の骸を依代とし、<br>ヴォイドの深淵より我を呼びしは貴様か？",
       "conversation": "quest/005/ManFst201_00508",
       "seq": 0,
-      "speaker": "GALVANTH",
+      "speaker": "Galvanth the Dominator",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "quest/005/ManFst201_00508"
     }
