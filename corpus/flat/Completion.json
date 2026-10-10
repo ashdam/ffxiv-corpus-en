@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "Completion",
+  "entries": [
+    {
+      "gameKey": "Completion#618.3",
+      "en": "delivery",
+      "hash": "820065765F250D8C",
+      "unresolved": false,
+      "fr": "Colis",
+      "ja": "お届け物",
+      "conversation": "Completion#618",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Completion"
+    }
+  ]
+}

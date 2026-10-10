@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "TextCommand",
+  "entries": [
+    {
+      "gameKey": "TextCommand#33",
+      "en": "/petglamour",
+      "hash": "05F29A98F2E6958D",
+      "unresolved": false,
+      "fr": "/miragefamilier",
+      "ja": "/petmirage",
+      "conversation": "TextCommand#33",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TextCommand"
+    },
+    {
+      "gameKey": "TextCommand#225",
+      "en": "/novicenetworkleave",
+      "hash": "A96EE1E445574298",
+      "unresolved": false,
+      "fr": "/quitterréseaunovices",
+      "ja": "/beginnerchannelleave",
+      "conversation": "TextCommand#225",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TextCommand"
+    },
+    {
+      "gameKey": "TextCommand#238",
+      "en": "/returnerstatusoff",
+      "hash": "6EEB1DCC453B51AE",
+      "unresolved": false,
+      "fr": "/désactiveétatrappelé",
+      "ja": "/returnerstatusoff",
+      "conversation": "TextCommand#238",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TextCommand"
+    }
+  ]
+}

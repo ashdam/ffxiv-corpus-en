@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "AchievementKind",
+  "entries": [
+    {
+      "gameKey": "AchievementKind#1",
+      "en": "Battle",
+      "hash": "800498C659E3A658",
+      "unresolved": false,
+      "fr": "Combats",
+      "ja": "バトル",
+      "conversation": "AchievementKind#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#2",
+      "en": "PvP",
+      "hash": "EB51C8C523092A27",
+      "unresolved": false,
+      "fr": "JcJ",
+      "ja": "PvP",
+      "conversation": "AchievementKind#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#3",
+      "en": "Character",
+      "hash": "3DA740D553E65BC2",
+      "unresolved": false,
+      "fr": "Personnage",
+      "ja": "キャラクター",
+      "conversation": "AchievementKind#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#4",
+      "en": "Items",
+      "hash": "5820F995C4BF61B0",
+      "unresolved": false,
+      "fr": "Objets",
+      "ja": "アイテム",
+      "conversation": "AchievementKind#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#5",
+      "en": "Crafting & Gathering",
+      "hash": "35C41AFC56A65EB0",
+      "unresolved": false,
+      "fr": "Synthèse et récolte",
+      "ja": "製作・採集",
+      "conversation": "AchievementKind#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#8",
+      "en": "Quests",
+      "hash": "747EE08BBDA6E872",
+      "unresolved": false,
+      "fr": "Quêtes",
+      "ja": "クエスト",
+      "conversation": "AchievementKind#8",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#11",
+      "en": "Exploration",
+      "hash": "2A83199BFA0798DC",
+      "unresolved": false,
+      "fr": "Exploration",
+      "ja": "探検",
+      "conversation": "AchievementKind#11",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    },
+    {
+      "gameKey": "AchievementKind#12",
+      "en": "Grand Company",
+      "hash": "F82954138D64ACA5",
+      "unresolved": false,
+      "fr": "Grandes compagnies",
+      "ja": "グランドカンパニー",
+      "conversation": "AchievementKind#12",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AchievementKind"
+    }
+  ]
+}

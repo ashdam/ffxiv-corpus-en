@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "MateAuthorityCategory",
+  "entries": [
+    {
+      "gameKey": "MateAuthorityCategory#1",
+      "en": "Estate Customization",
+      "hash": "8C3B345F472CC4D9",
+      "unresolved": false,
+      "fr": "Décoration et mobilier",
+      "ja": "カスタマイズ管理",
+      "conversation": "MateAuthorityCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MateAuthorityCategory"
+    },
+    {
+      "gameKey": "MateAuthorityCategory#2",
+      "en": "Gardening",
+      "hash": "00ABDDCBC1F6F713",
+      "unresolved": false,
+      "fr": "Jardinage",
+      "ja": "栽培管理",
+      "conversation": "MateAuthorityCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MateAuthorityCategory"
+    },
+    {
+      "gameKey": "MateAuthorityCategory#3",
+      "en": "Stable Tending",
+      "hash": "9DCA76B9881A19C3",
+      "unresolved": false,
+      "fr": "Écurie à chocobos",
+      "ja": "マイチョコボ管理",
+      "conversation": "MateAuthorityCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MateAuthorityCategory"
+    },
+    {
+      "gameKey": "MateAuthorityCategory#4",
+      "en": "Orchestrion",
+      "hash": "265A8A0391DAC8D9",
+      "unresolved": false,
+      "fr": "Orchestrion",
+      "ja": "オーケストリオンの管理",
+      "conversation": "MateAuthorityCategory#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MateAuthorityCategory"
+    },
+    {
+      "gameKey": "MateAuthorityCategory#5",
+      "en": "Message Book",
+      "hash": "27125A145DD7C9E9",
+      "unresolved": false,
+      "fr": "Livres de correspondance",
+      "ja": "交流帳の管理",
+      "conversation": "MateAuthorityCategory#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MateAuthorityCategory"
+    }
+  ]
+}
