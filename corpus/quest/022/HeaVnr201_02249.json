@@ -1498,7 +1498,7 @@
       "jaMacro": "いや、もともと起動目前の状態だったんだろう。<br>じゃなけりゃ、こうはならんさ。<br>……むしろ、新しい入口をこじ開ける手間が省けたみたいだぜ！",
       "conversation": "quest/022/HeaVnr201_02249",
       "seq": 57,
-      "speaker": "BIGGS",
+      "speaker": "Cid",
       "speakerKind": "character",
       "speakerGender": "male",
       "kind": "dialogue",

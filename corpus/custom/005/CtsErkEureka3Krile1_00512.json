@@ -1709,9 +1709,9 @@
       "jaMacro": "正しき心を持つ……我が担い手よ……。<br>忌々しき枷は……すでに解かれた……。<br>契約どおり……望みし力は……御身に……。",
       "conversation": "custom/005/CtsErkEureka3Krile1_00512",
       "seq": 104,
-      "speaker": "EUREKAPERSON",
+      "speaker": "shrouded man",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/005/CtsErkEureka3Krile1_00512"
     },

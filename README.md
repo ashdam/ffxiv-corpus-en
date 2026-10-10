@@ -126,11 +126,11 @@ Generated from the game's own sheets, so they are regenerated with the corpus an
 | Field | |
 |---|---|
 | `en`, `fr`, `ja` | The name as the game ships it in each language. `fr` or `ja` is absent when that language has no row. |
-| `protect` | Whether the official French translation kept the name as it is in English. `true`: French left it unchanged, so it is a real name. `false`: French translated it, so it is a description that reads as a name, and a translation probably should translate it too. Only French is compared; Japanese rewrites every name. |
+| `protect` | Whether the French form equals the English form, or French is absent. This is a source hint; the language pack's explicit translation takes precedence. |
 | `note` | Characters only, when the sheet has it: the title shown under the name, `Flame Private`, `Merchant & Mender`. |
 
-One entry per English name across the three files. `characters.json` comes from the NPC sheet,
-`places.json` from the place-name sheet, `tribes.json` from the beast-tribe sheet.
+One entry per English name in each file. `characters.json` comes from the NPC sheet,
+`places.json` from the place-name sheet. `tribes.json` contains every nonempty beast-tribe label.
 
 ## A patch
 

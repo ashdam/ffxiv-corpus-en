@@ -1322,7 +1322,7 @@
       "seq": 50,
       "speaker": "LUCIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "questId": "GaiUse503_00365",
       "questName": "Best-laid Schemes",

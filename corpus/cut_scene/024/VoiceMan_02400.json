@@ -1389,9 +1389,9 @@
       "jaMacro": "ほ、報告っ！<br>巡回中の兵から、本国からの追加物資が、<br>またもや襲われたとの報告が！",
       "conversation": "cut_scene/024/VoiceMan_02400",
       "seq": 85,
-      "speaker": "CAVALRY02400",
+      "speaker": "House Fortemps knight",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },
@@ -1407,9 +1407,9 @@
       "jaMacro": "なお、「氷の巫女」率いる、<br>異端者勢力の仕業と思われます！",
       "conversation": "cut_scene/024/VoiceMan_02400",
       "seq": 86,
-      "speaker": "CAVALRY02400",
+      "speaker": "House Fortemps knight",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },
@@ -3689,7 +3689,7 @@
       "seq": 226,
       "speaker": "Lucia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },
@@ -3705,7 +3705,7 @@
       "seq": 227,
       "speaker": "Lucia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },
@@ -3721,7 +3721,7 @@
       "seq": 228,
       "speaker": "Lucia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },
@@ -3736,7 +3736,7 @@
       "seq": 229,
       "speaker": "Lucia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/024/VoiceMan_02400"
     },

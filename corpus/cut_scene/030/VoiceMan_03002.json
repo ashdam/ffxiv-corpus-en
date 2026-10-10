@@ -902,9 +902,9 @@
       "frMacro": "Père<nbsp>!",
       "conversation": "cut_scene/030/VoiceMan_03002",
       "seq": 55,
-      "speaker": "PIPPIN",
+      "speaker": "Pipin",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/030/VoiceMan_03002"
     },
@@ -935,9 +935,9 @@
       "jaMacro": "しかし、義父上……<br>陛下を……ナナモ様を守りきれず……うぅ……。",
       "conversation": "cut_scene/030/VoiceMan_03002",
       "seq": 57,
-      "speaker": "PIPPIN",
+      "speaker": "Pipin",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/030/VoiceMan_03002"
     },

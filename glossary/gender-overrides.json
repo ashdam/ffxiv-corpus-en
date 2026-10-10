@@ -55,6 +55,18 @@
     "MAKOTO": {
       "gender": "female",
       "why": "Sheet says male. English and French both say female. LucKbc014_03223: 'Makoto informs you that SHE is about to depart for Eorzea in order to visit Musosai's grave.' French agrees three times over and inflects for it: 'Makoto a été très occupée depuis son ascension au rang de COMMANDANTE du Sekiseigumi, mais ELLE est enfin parvenue...' and 'LASSÉE de perdre son temps, Makoto a décidé de se rendre...'. She is the Sekiseigumi commander of the Return to Ivalice line. Found by the job-22 translator."
+    },
+    "GYOREI": {
+      "gender": "female",
+      "why": "Use female for Gyorei. ENpcResident row 1026011 has a conflicting male value; BanNam005_03101 GYOSHIN_000_107 uses her."
+    },
+    "UMASOU": {
+      "gender": "female",
+      "why": "Use female for the Hungerer. ENpcResident row 1012282 says male; HeaVnz218 SEQ_01 uses she, and SEQ_03 uses French feminine agreement and Japanese kanojo."
+    },
+    "THEHUNGERER": {
+      "gender": "female",
+      "why": "Use female for ENpcResident row 1012282, the Hungerer. UMASOU is the dialogue token for the same NPC."
     }
   }
 }

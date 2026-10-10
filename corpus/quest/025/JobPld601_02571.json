@@ -1871,7 +1871,7 @@
       "jaMacro": "おぉ、俺っちに剣を作ってくれた冒険者じゃないか！<br>だが、闘技会では敵同士……恩はあるが容赦はなしだ。<br>当たることになったら、正々堂々、勝負しようぜ！",
       "conversation": "quest/025/JobPld601_02571",
       "seq": 70,
-      "speaker": "BRONZEBULL",
+      "speaker": "the Bronze Bull",
       "speakerKind": "character",
       "speakerGender": "male",
       "kind": "dialogue",

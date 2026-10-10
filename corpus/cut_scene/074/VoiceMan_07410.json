@@ -48,9 +48,9 @@
       "frMacro": "K.O.<nbsp>!",
       "conversation": "cut_scene/074/VoiceMan_07410",
       "seq": 2,
-      "speaker": "REFEREE",
+      "speaker": "refbot",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/074/VoiceMan_07410"
     },

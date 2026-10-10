@@ -1285,7 +1285,7 @@
       "jaMacro": "(-飛空艇の乗組員-)ようやく、試験飛行にまでこぎ着けたんだ。<br>……順調に飛んでたってのに、くそッ！",
       "conversation": "quest/006/ManSea302_00681",
       "seq": 49,
-      "speaker": "BIGGS",
+      "speaker": "airship crewman",
       "speakerKind": "character",
       "speakerGender": "male",
       "kind": "dialogue",

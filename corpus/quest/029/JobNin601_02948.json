@@ -1552,7 +1552,7 @@
       "jaMacro": "そして、遠洋航海に出るためエールの買付に来ていた、<br>東アルデナード商会の交易船に乗って、見事にトンズラさ。<br>ひんがしの国の港街「クガネ」に向かったようだね……ウププ。",
       "conversation": "quest/029/JobNin601_02948",
       "seq": 60,
-      "speaker": "KARASU",
+      "speaker": "black marketeer",
       "speakerKind": "character",
       "speakerGender": "male",
       "kind": "dialogue",

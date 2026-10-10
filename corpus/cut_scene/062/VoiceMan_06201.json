@@ -15,9 +15,9 @@
       "jaMacro": "エリクトニオスの心は  すでに我が手中にある<br>あとは  お前たちを消し去るのみだ！",
       "conversation": "cut_scene/062/VoiceMan_06201",
       "seq": 0,
-      "speaker": "HEPHAESTUS",
+      "speaker": "Hephaistos",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/062/VoiceMan_06201"
     }
