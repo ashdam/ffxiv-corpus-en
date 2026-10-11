@@ -32,9 +32,9 @@
       "jaMacro": "ウルダハで行われる不滅隊の市街地演習の受付と、<br>演習場までの案内は、我々黒渦団でも受け持っているよ。<br>キミも参加するかい？",
       "conversation": "custom/004/FesAnv2018_00497",
       "seq": 1,
-      "speaker": "ANVENTRANCE00497",
+      "speaker": "Rising recruiter",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/FesAnv2018_00497"
     },
@@ -49,9 +49,9 @@
       "jaMacro": "ウルダハで行われる不滅隊の市街地演習の受付と、<br>演習場までの案内は、我々双蛇党でも受け持っているよ。<br>キミも参加するかい？",
       "conversation": "custom/004/FesAnv2018_00497",
       "seq": 2,
-      "speaker": "ANVENTRANCE00497",
+      "speaker": "Rising recruiter",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/FesAnv2018_00497"
     },

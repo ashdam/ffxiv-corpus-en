@@ -515,7 +515,7 @@
       "seq": 20,
       "speaker": "Starstruck Fan",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobAoz100_03194",
       "questName": "Blue Collar Work",

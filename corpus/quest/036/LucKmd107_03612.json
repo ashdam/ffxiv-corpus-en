@@ -1342,7 +1342,7 @@
       "seq": 52,
       "speaker": "Minfilia",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "questId": "LucKmd107_03612",
       "questName": "Rust and Ruin",

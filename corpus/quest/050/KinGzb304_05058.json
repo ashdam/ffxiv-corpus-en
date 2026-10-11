@@ -799,7 +799,7 @@
       "seq": 31,
       "speaker": "Pelupelu Fisherman",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "KinGzb304_05058",
       "questName": "Resolve Reignited",

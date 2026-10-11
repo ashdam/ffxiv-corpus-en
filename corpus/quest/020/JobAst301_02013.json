@@ -826,7 +826,7 @@
       "seq": 32,
       "speaker": "bandit leader",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobAst301_02013",
       "questName": "Fortune Favors the Bole",

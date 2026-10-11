@@ -581,7 +581,7 @@
       "seq": 22,
       "speaker": "Pining Gridanian",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "FesVlt607_03758",
       "questName": "Rodrigault's Revelation",

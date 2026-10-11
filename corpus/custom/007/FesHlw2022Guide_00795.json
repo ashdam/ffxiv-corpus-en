@@ -102,9 +102,9 @@
       "jaMacro": "アナタのような冒険者も、気に入るに違いなシ！<br>魔物退治は忘れて、一緒に「守護天節」を楽しみましょウ！",
       "conversation": "custom/007/FesHlw2022Guide_00795",
       "seq": 6,
-      "speaker": "GUIDEHLW2022",
+      "speaker": "All Saints' Wake crier",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/007/FesHlw2022Guide_00795"
     },

@@ -3117,7 +3117,7 @@
       "seq": 119,
       "speaker": "HORTEFENSE",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "questId": "FesVlt901_04654",
       "questName": "Suited for Affection",

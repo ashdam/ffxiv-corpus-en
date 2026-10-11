@@ -523,7 +523,7 @@
       "seq": 29,
       "speaker": "GOLDSAUCER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "transport/Aetheryte"
     },

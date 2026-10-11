@@ -2187,7 +2187,7 @@
       "seq": 84,
       "speaker": "BABYOPOOPO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "AktKea101_04536",
       "questName": "A Mission in Mor Dhona",

@@ -267,9 +267,9 @@
       "jaMacro": "あら、ベーンフェールドをお探しですか？<br>彼なら、なんでも買い出しをするといって、<br>国際街広場の方に行きましたよ。",
       "conversation": "custom/003/FesXms2015_00313",
       "seq": 16,
-      "speaker": "GUIDEXMS2015",
+      "speaker": "saint's big helper",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/FesXms2015_00313"
     }

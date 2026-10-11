@@ -255,9 +255,9 @@
       "jaMacro": "館内では、様々な訓練を受けることができる！<br>冒険者として活動していきたいなら、挑戦しておくといいよ。",
       "conversation": "custom/003/CmnDefBeginnerGuide_00327",
       "seq": 15,
-      "speaker": "COACH00327",
+      "speaker": "the Smith",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/CmnDefBeginnerGuide_00327"
     },

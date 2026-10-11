@@ -118,9 +118,9 @@
       "jaMacro": "アナタのような冒険者も、気に入るに違いないと思いマス！<br>魔物退治は忘れて、一緒に「守護天節」を楽しみまショー！",
       "conversation": "custom/005/FesHlw2018Guide_00534",
       "seq": 7,
-      "speaker": "GUIDEHLW2018",
+      "speaker": "Continental Circus publicist",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/005/FesHlw2018Guide_00534"
     },

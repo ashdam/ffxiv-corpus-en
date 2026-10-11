@@ -1245,7 +1245,7 @@
       "seq": 47,
       "speaker": "Strange Child",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobWhm601_02414",
       "questName": "Unease in East End",

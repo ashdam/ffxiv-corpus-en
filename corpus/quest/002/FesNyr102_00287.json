@@ -1007,7 +1007,7 @@
       "seq": 38,
       "speaker": "Merry Maid?",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "FesNyr102_00287",
       "questName": "All's Wool That Ends Wool",

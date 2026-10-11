@@ -16,7 +16,7 @@
       "seq": 0,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -34,7 +34,7 @@
       "seq": 1,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -51,7 +51,7 @@
       "seq": 2,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -69,7 +69,7 @@
       "seq": 3,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -86,7 +86,7 @@
       "seq": 4,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -102,7 +102,7 @@
       "seq": 5,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -118,7 +118,7 @@
       "seq": 6,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -135,7 +135,7 @@
       "seq": 7,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -151,7 +151,7 @@
       "seq": 8,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     },
@@ -168,7 +168,7 @@
       "seq": 9,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/001/RegWiltheWakingSands_00131"
     }

@@ -907,7 +907,7 @@
       "seq": 34,
       "speaker": "Incorrigible Youth",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "StmBdy401_03078",
       "questName": "And We Shall Call It Eureka",

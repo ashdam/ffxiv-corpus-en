@@ -15,9 +15,9 @@
       "jaMacro": "この服、素敵でしょう。<br>どこで手に入れたかって？<br>ウルダハに行ってみるといいんじゃないかしら。",
       "conversation": "custom/003/FesGsc2017_00383",
       "seq": 0,
-      "speaker": "ADVENTURE00383",
+      "speaker": "prosperous adventurer",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/003/FesGsc2017_00383"
     },
@@ -32,9 +32,9 @@
       "jaMacro": "この装備、格好いいでしょう。<br>どこで手に入れたか知りたい？<br>なら、ウルダハに行ってごらんよ！",
       "conversation": "custom/003/FesGsc2017_00383",
       "seq": 1,
-      "speaker": "ADVENTURE00383",
+      "speaker": "prosperous adventurer",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/003/FesGsc2017_00383"
     },

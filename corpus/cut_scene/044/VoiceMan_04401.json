@@ -34,7 +34,7 @@
       "seq": 1,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04401"
     },

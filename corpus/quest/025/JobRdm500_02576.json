@@ -564,7 +564,7 @@
       "seq": 23,
       "speaker": "Red-garbed Traveler",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobRdm500_02576",
       "questName": "Taking the Red",

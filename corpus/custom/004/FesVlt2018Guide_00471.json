@@ -132,9 +132,9 @@
       "jaMacro": "相性診断や占いなど、気軽に体験できる催しもございます。<br>興味がお有りでしたら、ぜひご参加くださいませ。",
       "conversation": "custom/004/FesVlt2018Guide_00471",
       "seq": 8,
-      "speaker": "MAIDVLT00471",
+      "speaker": "House Valentione butler",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/FesVlt2018Guide_00471"
     },
@@ -217,9 +217,9 @@
       "jaMacro": "彼女は正真正銘、「ヴァレンティオン伯爵家」の令嬢であり、<br>「アラベル・ド・ヴァレンティオン」様の子孫にあたります。<br>見かけたら、お気軽に声をおかけくださいませ。",
       "conversation": "custom/004/FesVlt2018Guide_00471",
       "seq": 13,
-      "speaker": "MAIDVLT00471",
+      "speaker": "House Valentione butler",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/FesVlt2018Guide_00471"
     },

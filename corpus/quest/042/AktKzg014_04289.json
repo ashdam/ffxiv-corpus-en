@@ -379,7 +379,7 @@
       "seq": 14,
       "speaker": "Ailouros",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "AktKzg014_04289",
       "questName": "Sing, O Mews",

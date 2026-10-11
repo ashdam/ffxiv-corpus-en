@@ -165,9 +165,9 @@
       "jaMacro": "新生祭販売担当が取り扱っておりますので、<br>よろしければ、あなたもおひとついかがですか？",
       "conversation": "custom/007/FesAnv2021_00717",
       "seq": 10,
-      "speaker": "NEWBORNINTERN",
+      "speaker": "Rising attendant",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/007/FesAnv2021_00717"
     },

@@ -1609,7 +1609,7 @@
       "seq": 63,
       "speaker": "POD",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "LucKta110_03720",
       "questName": "Tails, You Lose",

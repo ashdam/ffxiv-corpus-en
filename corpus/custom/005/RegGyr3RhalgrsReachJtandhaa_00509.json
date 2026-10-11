@@ -62,9 +62,9 @@
       "jaMacro": "ようこそ、<split(<string(gstr1)>, ,1)>様。<br>こちらのカウンターでは、不要な装備品の回収と、<br>別の装備品への交換を承っております。",
       "conversation": "custom/005/RegGyr3RhalgrsReachJtandhaa_00509",
       "seq": 3,
-      "speaker": "HINOSEN",
+      "speaker": "Hillicen",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/005/RegGyr3RhalgrsReachJtandhaa_00509"
     },

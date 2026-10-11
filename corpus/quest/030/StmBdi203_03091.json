@@ -1669,7 +1669,7 @@
       "seq": 64,
       "speaker": "BWAGI",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "StmBdi203_03091",
       "questName": "Desire",

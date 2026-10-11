@@ -1488,7 +1488,7 @@
       "seq": 58,
       "speaker": "Panic-stricken Scavenger",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "LucKba121_03245",
       "questName": "Defined by Loss",

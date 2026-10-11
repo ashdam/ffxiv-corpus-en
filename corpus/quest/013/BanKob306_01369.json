@@ -504,7 +504,7 @@
       "seq": 20,
       "speaker": "KOBOLD",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanKob306_01369",
       "questName": "A Meal Fit for a Fugleman",

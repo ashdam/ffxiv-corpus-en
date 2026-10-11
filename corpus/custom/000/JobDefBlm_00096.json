@@ -16,7 +16,7 @@
       "seq": 0,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -32,7 +32,7 @@
       "seq": 1,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -48,7 +48,7 @@
       "seq": 2,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -65,7 +65,7 @@
       "seq": 3,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -134,7 +134,7 @@
       "seq": 8,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -150,7 +150,7 @@
       "seq": 9,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -166,7 +166,7 @@
       "seq": 10,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -182,7 +182,7 @@
       "seq": 11,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -199,7 +199,7 @@
       "seq": 12,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -216,7 +216,7 @@
       "seq": 13,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -233,7 +233,7 @@
       "seq": 14,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -250,7 +250,7 @@
       "seq": 15,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -267,7 +267,7 @@
       "seq": 16,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -285,7 +285,7 @@
       "seq": 17,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -303,7 +303,7 @@
       "seq": 18,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -373,7 +373,7 @@
       "seq": 23,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -389,7 +389,7 @@
       "seq": 24,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -405,7 +405,7 @@
       "seq": 25,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -421,7 +421,7 @@
       "seq": 26,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -437,7 +437,7 @@
       "seq": 27,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -454,7 +454,7 @@
       "seq": 28,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -470,7 +470,7 @@
       "seq": 29,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -487,7 +487,7 @@
       "seq": 30,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -504,7 +504,7 @@
       "seq": 31,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -520,7 +520,7 @@
       "seq": 32,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -537,7 +537,7 @@
       "seq": 33,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -554,7 +554,7 @@
       "seq": 34,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -570,7 +570,7 @@
       "seq": 35,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -586,7 +586,7 @@
       "seq": 36,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -604,7 +604,7 @@
       "seq": 37,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -621,7 +621,7 @@
       "seq": 38,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -638,7 +638,7 @@
       "seq": 39,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -655,7 +655,7 @@
       "seq": 40,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -673,7 +673,7 @@
       "seq": 41,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -690,7 +690,7 @@
       "seq": 42,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -707,7 +707,7 @@
       "seq": 43,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -724,7 +724,7 @@
       "seq": 44,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -742,7 +742,7 @@
       "seq": 45,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -758,7 +758,7 @@
       "seq": 46,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -774,7 +774,7 @@
       "seq": 47,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -790,7 +790,7 @@
       "seq": 48,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -806,7 +806,7 @@
       "seq": 49,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     },
@@ -823,7 +823,7 @@
       "seq": 50,
       "speaker": "LALAI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/JobDefBlm_00096"
     }

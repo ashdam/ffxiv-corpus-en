@@ -586,7 +586,7 @@
       "seq": 20,
       "speaker": "Eral",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -25513,7 +25513,7 @@
       "seq": 20,
       "speaker": "Ealdgyth",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -27617,7 +27617,7 @@
       "seq": 20,
       "speaker": "black uma doshin",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -36312,7 +36312,7 @@
       "seq": 20,
       "speaker": "Yalto Nolto",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -36804,7 +36804,7 @@
       "seq": 20,
       "speaker": "Moonfire Faire chaperone",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -36821,7 +36821,7 @@
       "seq": 20,
       "speaker": "Moonfire Faire chaperone",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -36839,7 +36839,7 @@
       "seq": 20,
       "speaker": "Moonfire Faire chaperone",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37269,7 +37269,7 @@
       "seq": 20,
       "speaker": "Rising vendor",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37286,7 +37286,7 @@
       "seq": 21,
       "speaker": "Rising vendor",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37303,7 +37303,7 @@
       "seq": 22,
       "speaker": "Rising vendor",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37420,7 +37420,7 @@
       "seq": 20,
       "speaker": "merchandiseless merchant",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37436,7 +37436,7 @@
       "seq": 21,
       "speaker": "merchandiseless merchant",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37453,7 +37453,7 @@
       "seq": 20,
       "speaker": "reminiscing ranger",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -37470,7 +37470,7 @@
       "seq": 21,
       "speaker": "reminiscing ranger",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -42760,7 +42760,7 @@
       "seq": 20,
       "speaker": "officiant of the graces",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -50987,7 +50987,7 @@
       "seq": 20,
       "speaker": "Ephemie",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -54841,7 +54841,7 @@
       "seq": 20,
       "speaker": "the Hungerer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -61670,7 +61670,7 @@
       "seq": 20,
       "speaker": "bloodied adventurer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -61687,7 +61687,7 @@
       "seq": 20,
       "speaker": "seasoned adventurer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -64621,7 +64621,7 @@
       "seq": 20,
       "speaker": "Hortefense",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -64638,7 +64638,7 @@
       "seq": 21,
       "speaker": "Hortefense",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -66024,7 +66024,7 @@
       "seq": 20,
       "speaker": "Isildaure",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -66236,7 +66236,7 @@
       "seq": 20,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -66254,7 +66254,7 @@
       "seq": 21,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -68565,7 +68565,7 @@
       "seq": 20,
       "speaker": "eggsaminer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -70486,7 +70486,7 @@
       "seq": 20,
       "speaker": "Isildaure",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -70623,7 +70623,7 @@
       "seq": 20,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -70638,7 +70638,7 @@
       "seq": 21,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -74806,7 +74806,7 @@
       "seq": 20,
       "speaker": "Isildaure",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -76131,7 +76131,7 @@
       "seq": 20,
       "speaker": "Motte",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -88086,7 +88086,7 @@
       "seq": 20,
       "speaker": "Hien",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -88103,7 +88103,7 @@
       "seq": 21,
       "speaker": "Hien",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -92532,7 +92532,7 @@
       "seq": 20,
       "speaker": "Kozakura",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -92549,7 +92549,7 @@
       "seq": 21,
       "speaker": "Kozakura",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -95424,7 +95424,7 @@
       "seq": 20,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -98183,7 +98183,7 @@
       "seq": 20,
       "speaker": "Higiri",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -98200,7 +98200,7 @@
       "seq": 21,
       "speaker": "Higiri",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -100476,7 +100476,7 @@
       "seq": 20,
       "speaker": "Rokka",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -100492,7 +100492,7 @@
       "seq": 20,
       "speaker": "Rokka",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -100722,7 +100722,7 @@
       "seq": 20,
       "speaker": "Higiri",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -101371,7 +101371,7 @@
       "seq": 20,
       "speaker": "Clemence",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -101389,7 +101389,7 @@
       "seq": 20,
       "speaker": "Isildaure",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -103170,7 +103170,7 @@
       "seq": 20,
       "speaker": "well-informed adventurer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -109592,7 +109592,7 @@
       "seq": 20,
       "speaker": "Giott",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -130640,7 +130640,7 @@
       "seq": 20,
       "speaker": "hardworking healer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -142077,7 +142077,7 @@
       "seq": 20,
       "speaker": "well-informed adventurer",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -167004,7 +167004,7 @@
       "seq": 20,
       "speaker": "Pukty Piko",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -167021,7 +167021,7 @@
       "seq": 21,
       "speaker": "Pukty Piko",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -182610,7 +182610,7 @@
       "seq": 20,
       "speaker": "well-informed adventurer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -182955,7 +182955,7 @@
       "seq": 20,
       "speaker": "Pukty Piko",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -201899,7 +201899,7 @@
       "seq": 20,
       "speaker": "irksome judge",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "male",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -204882,7 +204882,7 @@
       "seq": 20,
       "speaker": "Starlight supplier",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -209013,7 +209013,7 @@
       "seq": 20,
       "speaker": "Starlight celebrant",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -214468,7 +214468,7 @@
       "seq": 20,
       "speaker": "well-informed adventurer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -217753,7 +217753,7 @@
       "seq": 20,
       "speaker": "Starlight supplier",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -217769,7 +217769,7 @@
       "seq": 20,
       "speaker": "Starlight supplier",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -217786,7 +217786,7 @@
       "seq": 20,
       "speaker": "Starlight supplier",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "female",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -218082,7 +218082,7 @@
       "seq": 20,
       "speaker": "costumed captain",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -218099,7 +218099,7 @@
       "seq": 21,
       "speaker": "costumed captain",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },
@@ -218116,7 +218116,7 @@
       "seq": 22,
       "speaker": "costumed captain",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "ambient",
       "sheet": "DefaultTalk"
     },

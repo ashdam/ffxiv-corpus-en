@@ -2697,7 +2697,7 @@
       "seq": 103,
       "speaker": "Endless boy",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanPix001_03683",
       "questName": "Manic Pixie Dream Realm",
