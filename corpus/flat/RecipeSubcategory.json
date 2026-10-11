@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "RecipeSubcategory",
+  "entries": [
+    {
+      "gameKey": "RecipeSubcategory#1",
+      "en": "Fourth Restoration Phase",
+      "hash": "8CB3113F6B32CDBF",
+      "unresolved": false,
+      "fr": "Quatrième phase de reconstruction",
+      "ja": "第四次復興事業",
+      "conversation": "RecipeSubcategory#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RecipeSubcategory"
+    },
+    {
+      "gameKey": "RecipeSubcategory#2",
+      "en": "Third Restoration Phase",
+      "hash": "8AC35EAA8A16724D",
+      "unresolved": false,
+      "fr": "Troisième phase de reconstruction",
+      "ja": "第三次復興事業",
+      "conversation": "RecipeSubcategory#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RecipeSubcategory"
+    },
+    {
+      "gameKey": "RecipeSubcategory#3",
+      "en": "Second Restoration Phase",
+      "hash": "4CD4843D2DD851D6",
+      "unresolved": false,
+      "fr": "Seconde phase de reconstruction",
+      "ja": "第二次復興事業",
+      "conversation": "RecipeSubcategory#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RecipeSubcategory"
+    },
+    {
+      "gameKey": "RecipeSubcategory#4",
+      "en": "First Restoration Phase",
+      "hash": "6B1690598616955C",
+      "unresolved": false,
+      "fr": "Première phase de reconstruction",
+      "ja": "第一次復興事業",
+      "conversation": "RecipeSubcategory#4",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RecipeSubcategory"
+    }
+  ]
+}
