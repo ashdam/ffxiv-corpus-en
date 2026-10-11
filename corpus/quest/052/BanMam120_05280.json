@@ -239,7 +239,7 @@
       "seq": 9,
       "speaker": "Branchbearer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanMam120_05280",
       "questName": "Fruit of Friendship",

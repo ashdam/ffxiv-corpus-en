@@ -167,7 +167,7 @@
       "seq": 9,
       "speaker": "Brass Blade",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "quest/005/ManWil000_00548"
     },
@@ -184,7 +184,7 @@
       "seq": 10,
       "speaker": "Brass Blade",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "quest/005/ManWil000_00548"
     },

@@ -508,7 +508,7 @@
       "seq": 20,
       "speaker": "CHOCOBO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "SubWil160_00702",
       "questName": "My Little Chocobo (Immortal Flames)",

@@ -753,7 +753,7 @@
       "seq": 30,
       "speaker": "POD",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "LucKta503_04036",
       "questName": "It Takes a Village",

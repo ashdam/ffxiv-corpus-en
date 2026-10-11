@@ -468,7 +468,7 @@
       "seq": 19,
       "speaker": "Amiable Sylph",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanSyl205_01271",
       "questName": "Something to Sneeze At",

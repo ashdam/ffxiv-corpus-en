@@ -451,7 +451,7 @@
       "seq": 17,
       "speaker": "startled Hhetsarro",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "KinGze202_05141",
       "questName": "Broken Record",

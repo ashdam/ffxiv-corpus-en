@@ -17,7 +17,7 @@
       "seq": 0,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -89,7 +89,7 @@
       "seq": 5,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -106,7 +106,7 @@
       "seq": 6,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -123,7 +123,7 @@
       "seq": 7,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -139,7 +139,7 @@
       "seq": 8,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -155,7 +155,7 @@
       "seq": 9,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     },
@@ -173,7 +173,7 @@
       "seq": 10,
       "speaker": "PAPASU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/000/RegWikAdvGuild_00059"
     }

@@ -410,7 +410,7 @@
       "seq": 24,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -443,7 +443,7 @@
       "seq": 26,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -458,7 +458,7 @@
       "seq": 27,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1262,7 +1262,7 @@
       "seq": 77,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1279,7 +1279,7 @@
       "seq": 78,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1296,7 +1296,7 @@
       "seq": 79,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1312,7 +1312,7 @@
       "seq": 80,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1329,7 +1329,7 @@
       "seq": 81,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1346,7 +1346,7 @@
       "seq": 82,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1362,7 +1362,7 @@
       "seq": 83,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1379,7 +1379,7 @@
       "seq": 84,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1396,7 +1396,7 @@
       "seq": 85,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1413,7 +1413,7 @@
       "seq": 86,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1429,7 +1429,7 @@
       "seq": 87,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1446,7 +1446,7 @@
       "seq": 88,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1463,7 +1463,7 @@
       "seq": 89,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1479,7 +1479,7 @@
       "seq": 90,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1495,7 +1495,7 @@
       "seq": 91,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1512,7 +1512,7 @@
       "seq": 92,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },
@@ -1529,7 +1529,7 @@
       "seq": 93,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/045/VoiceMan_04505"
     },

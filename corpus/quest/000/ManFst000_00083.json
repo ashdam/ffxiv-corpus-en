@@ -515,7 +515,7 @@
       "seq": 34,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -533,7 +533,7 @@
       "seq": 35,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -549,7 +549,7 @@
       "seq": 36,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -566,7 +566,7 @@
       "seq": 37,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -583,7 +583,7 @@
       "seq": 38,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -600,7 +600,7 @@
       "seq": 39,
       "speaker": "Moogle",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },
@@ -1596,7 +1596,7 @@
       "seq": 100,
       "speaker": "Wood Wailer",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "quest/000/ManFst000_00083"
     },

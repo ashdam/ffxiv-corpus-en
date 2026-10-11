@@ -429,7 +429,7 @@
       "seq": 16,
       "speaker": "Zephyros 72",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "AktKzh003_04298",
       "questName": "Naughty Little Ones",

@@ -17,7 +17,7 @@
       "seq": 0,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -67,7 +67,7 @@
       "seq": 3,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -83,7 +83,7 @@
       "seq": 4,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -117,7 +117,7 @@
       "seq": 6,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -132,9 +132,9 @@
       "jaMacro": "この先はイクサル族の本拠地……。<br>戦い慣れた相手といえど、油断は禁物ですね。",
       "conversation": "custom/008/CmnDefSdsAddNpc01_00806",
       "seq": 7,
-      "speaker": "CAVALRYC02342",
+      "speaker": "doughty House Fortemps knight",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -148,9 +148,9 @@
       "jaMacro": "ふう、ようやく息がつける……。<br>ゼルファトルでは、生きた心地がしませんでしたよ。",
       "conversation": "custom/008/CmnDefSdsAddNpc01_00806",
       "seq": 8,
-      "speaker": "CAVALRYC02342",
+      "speaker": "doughty House Fortemps knight",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -166,7 +166,7 @@
       "seq": 9,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },
@@ -267,7 +267,7 @@
       "seq": 15,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/CmnDefSdsAddNpc01_00806"
     },

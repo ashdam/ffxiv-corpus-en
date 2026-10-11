@@ -133,9 +133,9 @@
       "jaMacro": "その一環として、ヴァレンティオン家伝統の、<br>「愛を表現する」方法を、皆様に伝授しております。<br>興味がお有りでしたら、ぜひご習得ください。",
       "conversation": "custom/003/FesVlt2017_00379",
       "seq": 8,
-      "speaker": "MAIDVLT00379",
+      "speaker": "House Valentione servant",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/FesVlt2017_00379"
     },
@@ -218,9 +218,9 @@
       "jaMacro": "彼女は正真正銘、「ヴァレンティオン伯爵家」の令嬢であり、<br>「アラベル・ド・ヴァレンティオン」様の子孫にあたります。<br>見かけたら、お気軽に声をおかけくださいませ。",
       "conversation": "custom/003/FesVlt2017_00379",
       "seq": 13,
-      "speaker": "MAIDVLT00379",
+      "speaker": "House Valentione servant",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/FesVlt2017_00379"
     },

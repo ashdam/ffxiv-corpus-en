@@ -17,7 +17,7 @@
       "seq": 0,
       "speaker": "SKYWATCHER",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/CmnDefWeatherForeCastInTerritory_00310"
     },
@@ -35,7 +35,7 @@
       "seq": 1,
       "speaker": "SKYWATCHER",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/CmnDefWeatherForeCastInTerritory_00310"
     },
@@ -53,7 +53,7 @@
       "seq": 2,
       "speaker": "SKYWATCHER",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/CmnDefWeatherForeCastInTerritory_00310"
     },
@@ -85,9 +85,9 @@
       "jaMacro": "なお、「乱霊流」と呼ばれる天候だけは、<br>その発生を予測できませんので、ご注意ください。",
       "conversation": "custom/003/CmnDefWeatherForeCastInTerritory_00310",
       "seq": 4,
-      "speaker": "EUWATCHER",
+      "speaker": "expedition skywatcher",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/CmnDefWeatherForeCastInTerritory_00310"
     },

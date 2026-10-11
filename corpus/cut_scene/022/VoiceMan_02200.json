@@ -148,7 +148,7 @@
       "seq": 8,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -213,7 +213,7 @@
       "seq": 12,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -246,7 +246,7 @@
       "seq": 14,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -310,7 +310,7 @@
       "seq": 18,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -358,7 +358,7 @@
       "seq": 21,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -374,7 +374,7 @@
       "seq": 22,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -406,7 +406,7 @@
       "seq": 24,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -438,7 +438,7 @@
       "seq": 26,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -486,7 +486,7 @@
       "seq": 29,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -518,7 +518,7 @@
       "seq": 31,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -732,7 +732,7 @@
       "seq": 44,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -879,7 +879,7 @@
       "seq": 53,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1270,7 +1270,7 @@
       "seq": 77,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1301,7 +1301,7 @@
       "seq": 79,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1347,7 +1347,7 @@
       "seq": 82,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1363,7 +1363,7 @@
       "seq": 83,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1379,7 +1379,7 @@
       "seq": 84,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1395,7 +1395,7 @@
       "seq": 85,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1411,7 +1411,7 @@
       "seq": 86,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1428,7 +1428,7 @@
       "seq": 87,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1445,7 +1445,7 @@
       "seq": 88,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1460,7 +1460,7 @@
       "seq": 89,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1476,7 +1476,7 @@
       "seq": 90,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1492,7 +1492,7 @@
       "seq": 91,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1508,7 +1508,7 @@
       "seq": 92,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1525,7 +1525,7 @@
       "seq": 93,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1541,7 +1541,7 @@
       "seq": 94,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1556,7 +1556,7 @@
       "seq": 95,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1607,7 +1607,7 @@
       "seq": 98,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1622,7 +1622,7 @@
       "seq": 99,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1638,7 +1638,7 @@
       "seq": 100,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1654,7 +1654,7 @@
       "seq": 101,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1670,7 +1670,7 @@
       "seq": 102,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1687,7 +1687,7 @@
       "seq": 103,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1704,7 +1704,7 @@
       "seq": 104,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1721,7 +1721,7 @@
       "seq": 105,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1737,7 +1737,7 @@
       "seq": 106,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1753,7 +1753,7 @@
       "seq": 107,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1783,7 +1783,7 @@
       "seq": 109,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1799,7 +1799,7 @@
       "seq": 110,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1830,7 +1830,7 @@
       "seq": 112,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1862,7 +1862,7 @@
       "seq": 114,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1894,7 +1894,7 @@
       "seq": 116,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1926,7 +1926,7 @@
       "seq": 118,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1942,7 +1942,7 @@
       "seq": 119,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -1959,7 +1959,7 @@
       "seq": 120,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -2238,7 +2238,7 @@
       "seq": 137,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -2453,7 +2453,7 @@
       "seq": 150,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -2600,7 +2600,7 @@
       "seq": 159,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -2732,7 +2732,7 @@
       "seq": 167,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -2827,7 +2827,7 @@
       "seq": 173,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3366,7 +3366,7 @@
       "seq": 206,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3399,7 +3399,7 @@
       "seq": 208,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3527,7 +3527,7 @@
       "seq": 216,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3543,7 +3543,7 @@
       "seq": 217,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3560,7 +3560,7 @@
       "seq": 218,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3625,7 +3625,7 @@
       "seq": 222,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3659,7 +3659,7 @@
       "seq": 224,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3740,7 +3740,7 @@
       "seq": 229,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3756,7 +3756,7 @@
       "seq": 230,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3772,7 +3772,7 @@
       "seq": 231,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3788,7 +3788,7 @@
       "seq": 232,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3804,7 +3804,7 @@
       "seq": 233,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3820,7 +3820,7 @@
       "seq": 234,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3835,7 +3835,7 @@
       "seq": 235,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3851,7 +3851,7 @@
       "seq": 236,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3867,7 +3867,7 @@
       "seq": 237,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3883,7 +3883,7 @@
       "seq": 238,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3899,7 +3899,7 @@
       "seq": 239,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3917,7 +3917,7 @@
       "seq": 240,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3934,7 +3934,7 @@
       "seq": 241,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3950,7 +3950,7 @@
       "seq": 242,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3966,7 +3966,7 @@
       "seq": 243,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3982,7 +3982,7 @@
       "seq": 244,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -3998,7 +3998,7 @@
       "seq": 245,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -4016,7 +4016,7 @@
       "seq": 246,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -4063,7 +4063,7 @@
       "seq": 249,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -4096,7 +4096,7 @@
       "seq": 251,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },
@@ -4144,7 +4144,7 @@
       "seq": 254,
       "speaker": "MINFILIA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/022/VoiceMan_02200"
     },

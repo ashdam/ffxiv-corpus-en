@@ -1724,7 +1724,7 @@
       "seq": 67,
       "speaker": "UCHIKIN",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanKjn003_02975",
       "questName": "The Value of Silence",

@@ -1460,7 +1460,7 @@
       "seq": 56,
       "speaker": "Queer Maid",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobNin300_00212",
       "questName": "Peasants by Day, Ninjas by Night",

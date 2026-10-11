@@ -619,7 +619,7 @@
       "seq": 24,
       "speaker": "Novice Bard",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "LucKbc005_03214",
       "questName": "A Harmony from the Heavens",

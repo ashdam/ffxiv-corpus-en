@@ -1266,7 +1266,7 @@
       "seq": 74,
       "speaker": "HISUI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsSfsCharacter3_00481"
     },
@@ -1348,7 +1348,7 @@
       "seq": 79,
       "speaker": "HISUI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsSfsCharacter3_00481"
     },

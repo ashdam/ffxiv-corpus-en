@@ -102,7 +102,7 @@
       "seq": 5,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -136,7 +136,7 @@
       "seq": 7,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -169,7 +169,7 @@
       "seq": 9,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -336,7 +336,7 @@
       "seq": 19,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -353,7 +353,7 @@
       "seq": 20,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -603,7 +603,7 @@
       "seq": 35,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1041,7 +1041,7 @@
       "seq": 62,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1142,7 +1142,7 @@
       "seq": 68,
       "speaker": "TSURANUKI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1159,7 +1159,7 @@
       "seq": 69,
       "speaker": "TSURANUKI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1176,7 +1176,7 @@
       "seq": 70,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1193,7 +1193,7 @@
       "seq": 71,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1208,7 +1208,7 @@
       "seq": 72,
       "speaker": "KOZAKURA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1242,7 +1242,7 @@
       "seq": 74,
       "speaker": "TSURANUKI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },
@@ -1260,7 +1260,7 @@
       "seq": 75,
       "speaker": "TSURANUKI",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/004/CtsDomReconstructKamisuki_00490"
     },

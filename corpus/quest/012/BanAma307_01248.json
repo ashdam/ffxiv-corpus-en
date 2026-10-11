@@ -249,7 +249,7 @@
       "seq": 10,
       "speaker": "AMALJAA",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanAma307_01248",
       "questName": "Nothing Sacred",

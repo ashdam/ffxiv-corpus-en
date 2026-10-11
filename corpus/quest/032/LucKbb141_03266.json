@@ -538,7 +538,7 @@
       "seq": 21,
       "speaker": "Prospective Client",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "LucKbb141_03266",
       "questName": "Steel against Steel",

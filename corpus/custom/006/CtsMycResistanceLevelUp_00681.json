@@ -18,7 +18,7 @@
       "seq": 0,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -36,7 +36,7 @@
       "seq": 1,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -53,7 +53,7 @@
       "seq": 2,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -124,7 +124,7 @@
       "seq": 7,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -141,7 +141,7 @@
       "seq": 8,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -174,7 +174,7 @@
       "seq": 10,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -191,7 +191,7 @@
       "seq": 11,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -238,7 +238,7 @@
       "seq": 14,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -255,7 +255,7 @@
       "seq": 15,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -272,7 +272,7 @@
       "seq": 16,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -321,7 +321,7 @@
       "seq": 19,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -338,7 +338,7 @@
       "seq": 20,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -369,7 +369,7 @@
       "seq": 22,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -387,7 +387,7 @@
       "seq": 23,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -404,7 +404,7 @@
       "seq": 24,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     },
@@ -421,7 +421,7 @@
       "seq": 25,
       "speaker": "RESISTANCEOFFICER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/006/CtsMycResistanceLevelUp_00681"
     }

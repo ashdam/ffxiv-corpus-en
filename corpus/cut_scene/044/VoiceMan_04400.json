@@ -529,7 +529,7 @@
       "seq": 31,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -544,7 +544,7 @@
       "seq": 32,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -560,7 +560,7 @@
       "seq": 33,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -576,7 +576,7 @@
       "seq": 34,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -593,7 +593,7 @@
       "seq": 35,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -672,7 +672,7 @@
       "seq": 40,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -689,7 +689,7 @@
       "seq": 41,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -771,7 +771,7 @@
       "seq": 46,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -820,7 +820,7 @@
       "seq": 49,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -887,7 +887,7 @@
       "seq": 53,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -904,7 +904,7 @@
       "seq": 54,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1003,7 +1003,7 @@
       "seq": 60,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1019,7 +1019,7 @@
       "seq": 61,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1035,7 +1035,7 @@
       "seq": 62,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1052,7 +1052,7 @@
       "seq": 63,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1068,7 +1068,7 @@
       "seq": 64,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1085,7 +1085,7 @@
       "seq": 65,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1150,7 +1150,7 @@
       "seq": 69,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1166,7 +1166,7 @@
       "seq": 70,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1182,7 +1182,7 @@
       "seq": 71,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1232,7 +1232,7 @@
       "seq": 74,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1280,7 +1280,7 @@
       "seq": 77,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1295,7 +1295,7 @@
       "seq": 78,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1311,7 +1311,7 @@
       "seq": 79,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1327,7 +1327,7 @@
       "seq": 80,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1344,7 +1344,7 @@
       "seq": 81,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1361,7 +1361,7 @@
       "seq": 82,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1376,7 +1376,7 @@
       "seq": 83,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1393,7 +1393,7 @@
       "seq": 84,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1409,7 +1409,7 @@
       "seq": 85,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1458,7 +1458,7 @@
       "seq": 88,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1474,7 +1474,7 @@
       "seq": 89,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1506,7 +1506,7 @@
       "seq": 91,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1522,7 +1522,7 @@
       "seq": 92,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1556,7 +1556,7 @@
       "seq": 94,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1574,7 +1574,7 @@
       "seq": 95,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1592,7 +1592,7 @@
       "seq": 96,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1626,7 +1626,7 @@
       "seq": 98,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1642,7 +1642,7 @@
       "seq": 99,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1674,7 +1674,7 @@
       "seq": 101,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1690,7 +1690,7 @@
       "seq": 102,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1705,7 +1705,7 @@
       "seq": 103,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1722,7 +1722,7 @@
       "seq": 104,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1738,7 +1738,7 @@
       "seq": 105,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1754,7 +1754,7 @@
       "seq": 106,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1787,7 +1787,7 @@
       "seq": 108,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1803,7 +1803,7 @@
       "seq": 109,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1820,7 +1820,7 @@
       "seq": 110,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1836,7 +1836,7 @@
       "seq": 111,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1852,7 +1852,7 @@
       "seq": 112,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1868,7 +1868,7 @@
       "seq": 113,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1885,7 +1885,7 @@
       "seq": 114,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1901,7 +1901,7 @@
       "seq": 115,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1917,7 +1917,7 @@
       "seq": 116,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1933,7 +1933,7 @@
       "seq": 117,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1949,7 +1949,7 @@
       "seq": 118,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1965,7 +1965,7 @@
       "seq": 119,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1981,7 +1981,7 @@
       "seq": 120,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -1997,7 +1997,7 @@
       "seq": 121,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2013,7 +2013,7 @@
       "seq": 122,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2030,7 +2030,7 @@
       "seq": 123,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2046,7 +2046,7 @@
       "seq": 124,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2062,7 +2062,7 @@
       "seq": 125,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2077,7 +2077,7 @@
       "seq": 126,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2093,7 +2093,7 @@
       "seq": 127,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2110,7 +2110,7 @@
       "seq": 128,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2127,7 +2127,7 @@
       "seq": 129,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2144,7 +2144,7 @@
       "seq": 130,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2177,7 +2177,7 @@
       "seq": 132,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2242,7 +2242,7 @@
       "seq": 136,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2258,7 +2258,7 @@
       "seq": 137,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2341,7 +2341,7 @@
       "seq": 142,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2456,7 +2456,7 @@
       "seq": 149,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2524,7 +2524,7 @@
       "seq": 153,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2541,7 +2541,7 @@
       "seq": 154,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2654,7 +2654,7 @@
       "seq": 161,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2685,7 +2685,7 @@
       "seq": 163,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2732,7 +2732,7 @@
       "seq": 166,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2797,7 +2797,7 @@
       "seq": 170,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2862,7 +2862,7 @@
       "seq": 174,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2878,7 +2878,7 @@
       "seq": 175,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2895,7 +2895,7 @@
       "seq": 176,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -2959,7 +2959,7 @@
       "seq": 180,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3249,7 +3249,7 @@
       "seq": 198,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3394,7 +3394,7 @@
       "seq": 207,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3459,7 +3459,7 @@
       "seq": 211,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3492,7 +3492,7 @@
       "seq": 213,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3778,7 +3778,7 @@
       "seq": 231,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3893,7 +3893,7 @@
       "seq": 238,
       "speaker": "RESISTANCEHEALER",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -3975,7 +3975,7 @@
       "seq": 243,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4025,7 +4025,7 @@
       "seq": 246,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4139,7 +4139,7 @@
       "seq": 253,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4188,7 +4188,7 @@
       "seq": 256,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4205,7 +4205,7 @@
       "seq": 257,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4269,7 +4269,7 @@
       "seq": 261,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4302,7 +4302,7 @@
       "seq": 263,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4366,7 +4366,7 @@
       "seq": 267,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4399,7 +4399,7 @@
       "seq": 269,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4449,7 +4449,7 @@
       "seq": 272,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4497,7 +4497,7 @@
       "seq": 275,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4642,7 +4642,7 @@
       "seq": 284,
       "speaker": "storm private",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },
@@ -4688,7 +4688,7 @@
       "seq": 287,
       "speaker": "storm private",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/044/VoiceMan_04400"
     },

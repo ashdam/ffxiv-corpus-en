@@ -16,7 +16,7 @@
       "seq": 0,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -32,7 +32,7 @@
       "seq": 1,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -48,7 +48,7 @@
       "seq": 2,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -64,7 +64,7 @@
       "seq": 3,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -96,7 +96,7 @@
       "seq": 5,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -387,7 +387,7 @@
       "seq": 23,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -530,7 +530,7 @@
       "seq": 32,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -547,7 +547,7 @@
       "seq": 33,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -708,7 +708,7 @@
       "seq": 43,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -806,7 +806,7 @@
       "seq": 50,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -822,7 +822,7 @@
       "seq": 51,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -839,7 +839,7 @@
       "seq": 52,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -889,7 +889,7 @@
       "seq": 55,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -905,7 +905,7 @@
       "seq": 56,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -985,7 +985,7 @@
       "seq": 61,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1016,7 +1016,7 @@
       "seq": 63,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1047,7 +1047,7 @@
       "seq": 65,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1097,7 +1097,7 @@
       "seq": 68,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1113,7 +1113,7 @@
       "seq": 69,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1130,7 +1130,7 @@
       "seq": 70,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1146,7 +1146,7 @@
       "seq": 71,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1179,7 +1179,7 @@
       "seq": 73,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1241,7 +1241,7 @@
       "seq": 77,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1289,7 +1289,7 @@
       "seq": 80,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1305,7 +1305,7 @@
       "seq": 81,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1373,7 +1373,7 @@
       "seq": 85,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1388,7 +1388,7 @@
       "seq": 86,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1483,7 +1483,7 @@
       "seq": 92,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1565,7 +1565,7 @@
       "seq": 97,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1598,7 +1598,7 @@
       "seq": 99,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1630,7 +1630,7 @@
       "seq": 101,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -1646,7 +1646,7 @@
       "seq": 102,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2006,7 +2006,7 @@
       "seq": 124,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2086,7 +2086,7 @@
       "seq": 129,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2117,7 +2117,7 @@
       "seq": 131,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2134,7 +2134,7 @@
       "seq": 132,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2218,7 +2218,7 @@
       "seq": 137,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2235,7 +2235,7 @@
       "seq": 138,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2298,7 +2298,7 @@
       "seq": 142,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2314,7 +2314,7 @@
       "seq": 143,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2331,7 +2331,7 @@
       "seq": 144,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2363,7 +2363,7 @@
       "seq": 146,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2379,7 +2379,7 @@
       "seq": 147,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2474,7 +2474,7 @@
       "seq": 153,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2525,7 +2525,7 @@
       "seq": 156,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2605,7 +2605,7 @@
       "seq": 161,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2669,7 +2669,7 @@
       "seq": 165,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2687,7 +2687,7 @@
       "seq": 166,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2753,7 +2753,7 @@
       "seq": 170,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2785,7 +2785,7 @@
       "seq": 172,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2932,7 +2932,7 @@
       "seq": 181,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -2996,7 +2996,7 @@
       "seq": 185,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3077,7 +3077,7 @@
       "seq": 190,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3141,7 +3141,7 @@
       "seq": 194,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3157,7 +3157,7 @@
       "seq": 195,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3250,7 +3250,7 @@
       "seq": 201,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3314,7 +3314,7 @@
       "seq": 205,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3364,7 +3364,7 @@
       "seq": 208,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3498,7 +3498,7 @@
       "seq": 216,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3581,7 +3581,7 @@
       "seq": 221,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3680,7 +3680,7 @@
       "seq": 227,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3812,7 +3812,7 @@
       "seq": 235,
       "speaker": "YSHTOLA",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -3987,7 +3987,7 @@
       "seq": 246,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },
@@ -4003,7 +4003,7 @@
       "seq": 247,
       "speaker": "TATARU",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "female",
       "kind": "dialogue",
       "sheet": "cut_scene/075/VoiceMan_07505"
     },

@@ -509,7 +509,7 @@
       "seq": 20,
       "speaker": "CHOCOBO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "SubSea910_00701",
       "questName": "My Little Chocobo (Maelstrom)",

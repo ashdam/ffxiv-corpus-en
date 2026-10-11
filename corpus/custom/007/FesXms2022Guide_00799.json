@@ -200,9 +200,9 @@
       "jaMacro": "ただ、催しを始める前段階で、<br>なにやら問題が起きているらしくて……。<br>子どもたちのためにも、解決するといいのですが。",
       "conversation": "custom/007/FesXms2022Guide_00799",
       "seq": 12,
-      "speaker": "GUIDEXMS2022",
+      "speaker": "Starlight Celebration crier",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/007/FesXms2022Guide_00799"
     },
@@ -217,9 +217,9 @@
       "jaMacro": "そういえば、企画提案者のローレンセンさんが、<br>どなたかに協力を求めていたような……。<br>心当たりがあるなら、声をかけてみては？",
       "conversation": "custom/007/FesXms2022Guide_00799",
       "seq": 13,
-      "speaker": "GUIDEXMS2022",
+      "speaker": "Starlight Celebration crier",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/007/FesXms2022Guide_00799"
     }

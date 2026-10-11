@@ -191,7 +191,7 @@
       "seq": 7,
       "speaker": "Ailouros",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "AktKzg013_04288",
       "questName": "You and the Ailouros",

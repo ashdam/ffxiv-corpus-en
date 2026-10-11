@@ -15,9 +15,9 @@
       "jaMacro": "この船は、東部森林「花蜜桟橋」行きです。<br>お乗りになられますか？",
       "conversation": "custom/000/CmnDefWarpNpc_00026",
       "seq": 0,
-      "speaker": "ACTOR0",
+      "speaker": "Romarique",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/000/CmnDefWarpNpc_00026"
     },
@@ -32,9 +32,9 @@
       "jaMacro": "この船は、グリダニア旧市街行きです。<br>お乗りになられますか？",
       "conversation": "custom/000/CmnDefWarpNpc_00026",
       "seq": 1,
-      "speaker": "ACTOR1",
+      "speaker": "Muraudel",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/000/CmnDefWarpNpc_00026"
     },

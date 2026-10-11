@@ -18,7 +18,7 @@
       "seq": 0,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -36,7 +36,7 @@
       "seq": 1,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -120,7 +120,7 @@
       "seq": 7,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -137,7 +137,7 @@
       "seq": 8,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -155,7 +155,7 @@
       "seq": 9,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -188,7 +188,7 @@
       "seq": 11,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -221,7 +221,7 @@
       "seq": 13,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -237,7 +237,7 @@
       "seq": 14,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -254,7 +254,7 @@
       "seq": 15,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -272,7 +272,7 @@
       "seq": 16,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -289,7 +289,7 @@
       "seq": 17,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -384,7 +384,7 @@
       "seq": 23,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -400,7 +400,7 @@
       "seq": 24,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -465,7 +465,7 @@
       "seq": 28,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -482,7 +482,7 @@
       "seq": 29,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -500,7 +500,7 @@
       "seq": 30,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -517,7 +517,7 @@
       "seq": 31,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },
@@ -534,7 +534,7 @@
       "seq": 32,
       "speaker": "RESISTANCECOUNCILOR",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMycMedal_00719"
     },

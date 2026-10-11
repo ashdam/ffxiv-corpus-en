@@ -495,7 +495,7 @@
       "seq": 20,
       "speaker": "Little Solace Sylph",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanSyl307_01283",
       "questName": "Podling Peril",

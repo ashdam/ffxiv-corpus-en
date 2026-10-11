@@ -224,7 +224,7 @@
       "seq": 8,
       "speaker": "red panda cub",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "StmBdz120_02670",
       "questName": "Where the Wild Pandas Are",

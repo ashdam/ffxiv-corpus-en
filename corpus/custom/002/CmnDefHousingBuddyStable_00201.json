@@ -48,7 +48,7 @@
       "seq": 3,
       "speaker": "CHOCOBO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/002/CmnDefHousingBuddyStable_00201"
     },
@@ -108,7 +108,7 @@
       "seq": 7,
       "speaker": "CHOCOBO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/002/CmnDefHousingBuddyStable_00201"
     },
@@ -760,7 +760,7 @@
       "seq": 50,
       "speaker": "CHOCOBO",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/002/CmnDefHousingBuddyStable_00201"
     },

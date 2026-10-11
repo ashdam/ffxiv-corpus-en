@@ -1254,7 +1254,7 @@
       "seq": 49,
       "speaker": "Imperial Decurion",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "StmBda319_02495",
       "questName": "A New Ruby Tithe",

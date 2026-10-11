@@ -341,7 +341,7 @@
       "seq": 20,
       "speaker": "frightened villager",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -423,7 +423,7 @@
       "seq": 25,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -455,7 +455,7 @@
       "seq": 27,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -472,7 +472,7 @@
       "seq": 28,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -488,7 +488,7 @@
       "seq": 29,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -541,7 +541,7 @@
       "seq": 32,
       "speaker": "frightened villager",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -637,7 +637,7 @@
       "seq": 38,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -654,7 +654,7 @@
       "seq": 39,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -734,7 +734,7 @@
       "seq": 44,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -749,7 +749,7 @@
       "seq": 45,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -781,7 +781,7 @@
       "seq": 47,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -843,7 +843,7 @@
       "seq": 51,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -939,7 +939,7 @@
       "seq": 57,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -971,7 +971,7 @@
       "seq": 59,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -987,7 +987,7 @@
       "seq": 60,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1051,7 +1051,7 @@
       "seq": 64,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1067,7 +1067,7 @@
       "seq": 65,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1115,7 +1115,7 @@
       "seq": 68,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1130,7 +1130,7 @@
       "seq": 69,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1146,7 +1146,7 @@
       "seq": 70,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1180,7 +1180,7 @@
       "seq": 72,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1246,7 +1246,7 @@
       "seq": 76,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1262,7 +1262,7 @@
       "seq": 77,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1278,7 +1278,7 @@
       "seq": 78,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1747,7 +1747,7 @@
       "seq": 107,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1763,7 +1763,7 @@
       "seq": 108,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1780,7 +1780,7 @@
       "seq": 109,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1797,7 +1797,7 @@
       "seq": 110,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1813,7 +1813,7 @@
       "seq": 111,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1845,7 +1845,7 @@
       "seq": 113,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1861,7 +1861,7 @@
       "seq": 114,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1895,7 +1895,7 @@
       "seq": 116,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1912,7 +1912,7 @@
       "seq": 117,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1943,7 +1943,7 @@
       "seq": 119,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -1992,7 +1992,7 @@
       "seq": 122,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2007,7 +2007,7 @@
       "seq": 123,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2091,7 +2091,7 @@
       "seq": 128,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2107,7 +2107,7 @@
       "seq": 129,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2206,7 +2206,7 @@
       "seq": 135,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2270,7 +2270,7 @@
       "seq": 139,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2287,7 +2287,7 @@
       "seq": 140,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -2304,7 +2304,7 @@
       "seq": 141,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3112,7 +3112,7 @@
       "seq": 190,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3159,7 +3159,7 @@
       "seq": 193,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3191,7 +3191,7 @@
       "seq": 195,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3287,7 +3287,7 @@
       "seq": 201,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3303,7 +3303,7 @@
       "seq": 202,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3337,7 +3337,7 @@
       "seq": 204,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3386,7 +3386,7 @@
       "seq": 207,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3418,7 +3418,7 @@
       "seq": 209,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3450,7 +3450,7 @@
       "seq": 211,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3466,7 +3466,7 @@
       "seq": 212,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3498,7 +3498,7 @@
       "seq": 214,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3514,7 +3514,7 @@
       "seq": 215,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3548,7 +3548,7 @@
       "seq": 217,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3564,7 +3564,7 @@
       "seq": 218,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3580,7 +3580,7 @@
       "seq": 219,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3597,7 +3597,7 @@
       "seq": 220,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3660,7 +3660,7 @@
       "seq": 224,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3708,7 +3708,7 @@
       "seq": 227,
       "speaker": "ALPHINAUD",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3724,7 +3724,7 @@
       "seq": 228,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3820,7 +3820,7 @@
       "seq": 234,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3918,7 +3918,7 @@
       "seq": 240,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3950,7 +3950,7 @@
       "seq": 242,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },
@@ -3966,7 +3966,7 @@
       "seq": 243,
       "speaker": "HIEN",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "cut_scene/043/VoiceMan_04300"
     },

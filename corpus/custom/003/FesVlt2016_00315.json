@@ -217,9 +217,9 @@
       "jaMacro": "彼女は正真正銘、「ヴァレンティオン伯爵家」の令嬢であり、<br>「アラベル・ド・ヴァレンティオン」様の子孫にあたります。<br>見かけたら、お気軽に声をおかけくださいませ。",
       "conversation": "custom/003/FesVlt2016_00315",
       "seq": 13,
-      "speaker": "MAIDVLT00315",
+      "speaker": "House Valentione servant",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/003/FesVlt2016_00315"
     },

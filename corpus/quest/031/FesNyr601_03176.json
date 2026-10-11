@@ -1570,7 +1570,7 @@
       "seq": 62,
       "speaker": "Nezumi Bugyo",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "FesNyr601_03176",
       "questName": "Mochi to Be Desired",

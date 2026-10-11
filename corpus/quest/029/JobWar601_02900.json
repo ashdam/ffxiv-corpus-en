@@ -561,7 +561,7 @@
       "seq": 21,
       "speaker": "Familiar Fellow",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "JobWar601_02900",
       "questName": "Curious Gorge Meets His Match",

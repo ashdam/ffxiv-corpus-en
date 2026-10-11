@@ -331,9 +331,9 @@
       "jaMacro": "ウルダハではプリンセスデーを行っておりますが、<br>「グリダニア」ではエッグハントが開催されています。<br>そちらにも訪れてみてはいかがでしょうか。",
       "conversation": "custom/008/FesPdyEst2024Guid_00843",
       "seq": 20,
-      "speaker": "GUIDEPDY00843",
+      "speaker": "royal servant",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/FesPdyEst2024Guid_00843"
     },
@@ -349,9 +349,9 @@
       "jaMacro": "エッグハントの催しは、「グリダニア」で行っております。<br>ウルダハで行われているプリンセスデーとあわせて、<br>そちらにも訪れてみてはいかがでしょうか。",
       "conversation": "custom/008/FesPdyEst2024Guid_00843",
       "seq": 21,
-      "speaker": "GUIDEPDY00843",
+      "speaker": "royal herald",
       "speakerKind": "character",
-      "speakerGender": "unknown",
+      "speakerGender": "male",
       "kind": "dialogue",
       "sheet": "custom/008/FesPdyEst2024Guid_00843"
     },

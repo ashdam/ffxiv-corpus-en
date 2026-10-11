@@ -755,7 +755,7 @@
       "seq": 28,
       "speaker": "Pelupelu guest",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "KinGla307_04988",
       "questName": "Three Cheers for Sweet Juice",

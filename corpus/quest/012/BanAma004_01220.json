@@ -803,7 +803,7 @@
       "seq": 33,
       "speaker": "Flame Sergeant",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanAma004_01220",
       "questName": "An Eye on the Inside",

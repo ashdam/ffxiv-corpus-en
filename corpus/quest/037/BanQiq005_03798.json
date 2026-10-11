@@ -3453,7 +3453,7 @@
       "seq": 131,
       "speaker": "Great Serpent of Ronka",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "BanQiq005_03798",
       "questName": "What Ails the Forest",

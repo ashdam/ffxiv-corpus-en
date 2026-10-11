@@ -1067,7 +1067,7 @@
       "seq": 41,
       "speaker": "Baby Opo-opo",
       "speakerKind": "character",
-      "speakerGender": "male",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "questId": "AktKea103_04538",
       "questName": "A Divine Dilemma",

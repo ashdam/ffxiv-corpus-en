@@ -1907,7 +1907,7 @@
       "seq": 116,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -1924,7 +1924,7 @@
       "seq": 117,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -1939,7 +1939,7 @@
       "seq": 118,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -1956,7 +1956,7 @@
       "seq": 119,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -1972,7 +1972,7 @@
       "seq": 120,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -1988,7 +1988,7 @@
       "seq": 121,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },
@@ -2004,7 +2004,7 @@
       "seq": 122,
       "speaker": "Bewinged Girl",
       "speakerKind": "character",
-      "speakerGender": "female",
+      "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "cut_scene/060/VoiceMan_06004"
     },

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.09.15.0000.0000",
+  "conversation": "CraftType",
+  "entries": [
+    {
+      "gameKey": "CraftType#0",
+      "en": "Woodworking",
+      "hash": "03158B1524E48284",
+      "unresolved": false,
+      "fr": "Menuiserie",
+      "ja": "木工",
+      "conversation": "CraftType#0",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#1",
+      "en": "Smithing",
+      "hash": "9E0FA41D063547BF",
+      "unresolved": false,
+      "fr": "Métallurgie",
+      "ja": "鍛冶",
+      "conversation": "CraftType#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#2",
+      "en": "Armorcraft",
+      "hash": "BE43AE9DB4843534",
+      "unresolved": false,
+      "fr": "Armurerie",
+      "ja": "甲冑",
+      "conversation": "CraftType#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#3",
+      "en": "Goldsmithing",
+      "hash": "497E6765FB50732E",
+      "unresolved": false,
+      "fr": "Orfèvrerie",
+      "ja": "彫金",
+      "conversation": "CraftType#3",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#4",
+      "en": "Leatherworking",
+      "hash": "B5C9CC450BF366C3",
+      "unresolved": false,
+      "fr": "Tannerie",
+      "ja": "革細工",
+      "conversation": "CraftType#4",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#5",
+      "en": "Clothcraft",
+      "hash": "33CB62CAE96DE050",
+      "unresolved": false,
+      "fr": "Couture",
+      "ja": "裁縫",
+      "conversation": "CraftType#5",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#6",
+      "en": "Alchemy",
+      "hash": "63CB478554328148",
+      "unresolved": false,
+      "fr": "Alchimie",
+      "ja": "錬金",
+      "conversation": "CraftType#6",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    },
+    {
+      "gameKey": "CraftType#7",
+      "en": "Cooking",
+      "hash": "2B661F1876BEA915",
+      "unresolved": false,
+      "fr": "Cuisine",
+      "ja": "調理",
+      "conversation": "CraftType#7",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CraftType"
+    }
+  ]
+}
