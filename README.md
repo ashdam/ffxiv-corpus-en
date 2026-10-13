@@ -21,6 +21,8 @@ glossary/npc-names.json                confirmed NPC proper names, en/fr/ja, for
 glossary/places.json                   every place name, en/fr/ja
 glossary/tribes.json                   the beast tribes, en/fr/ja
 glossary/gender-overrides.json         speaker genders the NPC sheets get wrong; an input to the extraction
+glossary/bnpcname-override.json         reviewed battle NPC genders, keyed by gameKey
+glossary/enpcresident-override.json     reviewed resident NPC genders, keyed by gameKey
 glossary/excluded-rows.json             reviewed rows omitted from every language corpus
 versions/<gameVersion>.json             what each patch added, rewrote and retired
 docs/                                   macros, sheets and the glossary files of a language pack
@@ -61,6 +63,7 @@ docs/                                   macros, sheets and the glossary files of
 | `hash` | Fingerprint of `gameKey` and the English. A translation carries it, so a later patch can tell whether the line it was written against is still the line the game ships. |
 | `unresolved` | `true` when a macro needs a value only the game calculates, such as the player's name. |
 | `speaker`, `speakerKind`, `speakerGender` | Who says it. See below. |
+| `gender` | Resolved gender for `ENpcResident` and `BNpcName`: `male`, `female`, `unknown` or `n/a`. |
 | `kind` | What the row is. See below. |
 | `questId`, `questName`, `section`, `category` | On quest rows: where the line sits in the journal. |
 
@@ -86,6 +89,16 @@ docs/                                   macros, sheets and the glossary files of
 
 `speakerGender` is `male`, `female` or `unknown`, from the game's NPC sheets. Grammatical agreement
 in a translation depends on it; the English text alone cannot tell.
+
+`gender` uses linked humanoid model data. The matching `gameKey` in `bnpcname-override.json` or
+`enpcresident-override.json` takes priority. Missing or conflicting evidence remains `unknown`;
+`n/a` requires a reviewed override that confirms sex does not apply.
+
+Each NPC override file has the same format. `why` must state the evidence for the decision.
+
+```json
+{ "overrides": { "BNpcName#511.0": { "gender": "n/a", "why": "EN: barricade; FR: barricade; JA: バリケード. An inanimate barrier." } } }
+```
 
 `glossary/gender-overrides.json` corrects the sheet where the game's own dialogue contradicts it:
 
