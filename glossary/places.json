@@ -1,6 +1,6 @@
 {
   "sourceLanguage": "en",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "terms": [
     {
       "en": "A Door Unopened",
@@ -7965,6 +7965,12 @@
       "protect": false
     },
     {
+      "en": "Hydaelyn",
+      "fr": "Hydaelyn",
+      "ja": "ハイデリン",
+      "protect": true
+    },
+    {
       "en": "Hydro Terminal",
       "fr": "Hydroterminal",
       "ja": "ウォーターターミナル",
@@ -10458,6 +10464,12 @@
       "en": "Marvyn",
       "fr": "Sphère de Marvyn",
       "ja": "スフィア・オブ・マーヴィン",
+      "protect": false
+    },
+    {
+      "en": "Masked Rose",
+      "fr": "Revue de mode",
+      "ja": "ファッションチェック",
       "protect": false
     },
     {
@@ -13177,6 +13189,12 @@
       "fr": "Étage mésosphérique",
       "ja": "創造天空層",
       "protect": false
+    },
+    {
+      "en": "Principia",
+      "fr": "Principia",
+      "ja": "プリンシピア",
+      "protect": true
     },
     {
       "en": "Principle Dynamics",
