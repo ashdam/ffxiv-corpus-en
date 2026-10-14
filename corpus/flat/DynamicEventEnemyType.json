@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.06.0000.0000",
+  "conversation": "DynamicEventEnemyType",
+  "entries": [
+    {
+      "gameKey": "DynamicEventEnemyType#1",
+      "en": "Magitek Unit",
+      "hash": "171BB5E7AE8E809E",
+      "unresolved": false,
+      "fr": "Infanterie mécanisée",
+      "ja": "機械化歩兵大隊",
+      "conversation": "DynamicEventEnemyType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#2",
+      "en": "Mage Detachment",
+      "hash": "7050DF58F027BE34",
+      "unresolved": false,
+      "fr": "Incantateurs",
+      "ja": "術士大隊",
+      "conversation": "DynamicEventEnemyType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#3",
+      "en": "Solo Engagement",
+      "hash": "93A14DFCAF298DBA",
+      "unresolved": false,
+      "fr": "Combat singulier",
+      "ja": "一騎打ち",
+      "conversation": "DynamicEventEnemyType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#4",
+      "en": "War Beasts",
+      "hash": "5A03061518F4C64E",
+      "unresolved": false,
+      "fr": "Bêtes de guerre",
+      "ja": "魔獣大隊",
+      "conversation": "DynamicEventEnemyType#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#5",
+      "en": "Undead",
+      "hash": "D06C8A20DC197617",
+      "unresolved": false,
+      "fr": "Morts-vivants",
+      "ja": "アンデッド",
+      "conversation": "DynamicEventEnemyType#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#6",
+      "en": "Motley Crew",
+      "hash": "EBEAA7817A6BA8E6",
+      "unresolved": false,
+      "fr": "Groupe hétéroclite",
+      "ja": "混合部隊",
+      "conversation": "DynamicEventEnemyType#6",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#7",
+      "en": "IVth Legion Cavalier",
+      "hash": "A7C3827CCB1849EA",
+      "unresolved": false,
+      "fr": "Cavalerie magitek",
+      "ja": "魔導騎兵大隊",
+      "conversation": "DynamicEventEnemyType#7",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    },
+    {
+      "gameKey": "DynamicEventEnemyType#8",
+      "en": "IVth Legion Zealot",
+      "hash": "F8909FB196FA943B",
+      "unresolved": false,
+      "fr": "Prêtres magitek",
+      "ja": "魔導僧兵大隊",
+      "conversation": "DynamicEventEnemyType#8",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DynamicEventEnemyType"
+    }
+  ]
+}
