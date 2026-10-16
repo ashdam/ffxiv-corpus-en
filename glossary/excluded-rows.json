@@ -21936,6 +21936,19 @@
       "rows": [
         { "gameKey": "EventItem#2000000.0", "hash": "F51FC4C5CE98B481" }
       ]
+    },
+    {
+      "why": "Exclude the internal harpoon markers shared by all reference languages.",
+      "rows": [
+        { "gameKey": "GatheringType#4", "hash": "9767173A3AC44F29" },
+        { "gameKey": "GatheringType#5", "hash": "7F0373C4911CC0C0" }
+      ]
+    },
+    {
+      "why": "Exclude the internal weekly bingo dummy label. French marks it as a test and Japanese marks it as a dummy.",
+      "rows": [
+        { "gameKey": "WeeklyBingoText#0", "hash": "B6184D5A96B1FE85" }
+      ]
     }
   ]
 }
