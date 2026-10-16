@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.06.0000.0000",
+  "conversation": "GatheringType",
+  "entries": [
+    {
+      "gameKey": "GatheringType#0",
+      "en": "Mining",
+      "hash": "8744A133364C852C",
+      "unresolved": false,
+      "fr": "Extraction de minerai",
+      "ja": "採掘",
+      "conversation": "GatheringType#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GatheringType"
+    },
+    {
+      "gameKey": "GatheringType#1",
+      "en": "Quarrying",
+      "hash": "DA17EB2AB1F7941F",
+      "unresolved": false,
+      "fr": "Extraction de pierre",
+      "ja": "砕岩",
+      "conversation": "GatheringType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GatheringType"
+    },
+    {
+      "gameKey": "GatheringType#2",
+      "en": "Logging",
+      "hash": "C109744A8D990491",
+      "unresolved": false,
+      "fr": "Coupe",
+      "ja": "伐採",
+      "conversation": "GatheringType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GatheringType"
+    },
+    {
+      "gameKey": "GatheringType#3",
+      "en": "Harvesting",
+      "hash": "C32345EB3B8C74F7",
+      "unresolved": false,
+      "fr": "Fauche",
+      "ja": "草刈",
+      "conversation": "GatheringType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GatheringType"
+    }
+  ]
+}

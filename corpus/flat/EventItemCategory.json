@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.06.0000.0000",
+  "conversation": "EventItemCategory",
+  "entries": [
+    {
+      "gameKey": "EventItemCategory#1",
+      "en": "Quest: <head(<string(lstr1)>)>",
+      "hash": "AE50B6FE048F684A",
+      "macro": "Quest: <head(<string(lstr1)>)>",
+      "unresolved": false,
+      "fr": "<string(lstr1)>",
+      "ja": "[<string(lstr1)>]",
+      "frMacro": "<string(lstr1)>",
+      "jaMacro": "[<string(lstr1)>]",
+      "conversation": "EventItemCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemCategory"
+    },
+    {
+      "gameKey": "EventItemCategory#2",
+      "en": "Treasure Map",
+      "hash": "664463FAE9C33117",
+      "unresolved": false,
+      "fr": "(Chasse aux trésors)",
+      "ja": "[トレジャーハント]",
+      "conversation": "EventItemCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemCategory"
+    },
+    {
+      "gameKey": "EventItemCategory#4",
+      "en": "The Hunt",
+      "hash": "46D0BCCB84EB1209",
+      "unresolved": false,
+      "fr": "(Chasse)",
+      "ja": "[モブハント]",
+      "conversation": "EventItemCategory#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemCategory"
+    }
+  ]
+}
