@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "cut_scene/072/VoiceMan_07220",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Mon aramitama... Je le sens qui se réveille... Aaaaaaaah<nbsp>!",
       "ja": "アラミタマ…… 解放……<br>あ……ああ…… ウアアアアアア！",
-      "frMacro": "Mon aramitama... Je le sens qui se réveille... Aaaaaaaah<nbsp>!",
-      "jaMacro": "アラミタマ…… 解放……<br>あ……ああ…… ウアアアアアア！",
+      "de": "Sei frei<nbsp>... meine Aramitama<nbsp>...<br>Aaaaaaaah!",
       "conversation": "cut_scene/072/VoiceMan_07220",
       "seq": 0,
       "speaker": "SUZAKU",

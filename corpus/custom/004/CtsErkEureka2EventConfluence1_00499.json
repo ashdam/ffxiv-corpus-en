@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/004/CtsErkEureka2EventConfluence1_00499",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Vous avez trouvé un petit cristal terni dans les fourrés. Il ressemble bien à une magicite, mais sa taille réduite l'empêche de s'emboîter cor<->rec<->te<->ment dans votre plateau Magia. Apportez-le à Krile pour qu'elle l'examine.",
       "ja": "色のくすんだ小さな結晶を発見した。<br>魔晶石のようだが、マギアボードに組み込めそうにない。<br>さっそく、このことを「クルル」に報告しよう。",
-      "frMacro": "Vous avez trouvé un petit cristal terni dans les fourrés. Il ressemble bien à une magicite, mais sa taille réduite l'empêche de s'emboîter cor<->rec<->te<->ment dans votre plateau Magia. Apportez-le à Krile pour qu'elle l'examine.",
-      "jaMacro": "色のくすんだ小さな結晶を発見した。<br>魔晶石のようだが、マギアボードに組み込めそうにない。<br>さっそく、このことを「クルル」に報告しよう。",
+      "de": "Du findest einen matten Stein, der einem Maginit gleicht, aber für die Magia-Tafel anscheinend nicht zu gebrauchen ist. Berichte Krile von deiner Entdeckung.",
       "conversation": "custom/004/CtsErkEureka2EventConfluence1_00499",
       "seq": 0,
       "speakerKind": "system",

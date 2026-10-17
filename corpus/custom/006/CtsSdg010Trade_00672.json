@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/006/CtsSdg010Trade_00672",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Et voilà<nbsp>! Avec des matériaux d'une telle qualité, un plan bien détaillé et mes dix doigts de fée, pas étonnant que votre outil soit aussi resplendissant<nbsp>! Faites-en bon usage<nbsp>!",
       "ja": "お前が調達してきてくれた極上の材料のおかげで、<br>設計図どおり……いや、それ以上の改良が施せたよ。<br>最高の「スカイスチールツール」が組み上がったぜ！",
-      "frMacro": "Et voilà<nbsp>! Avec des matériaux d'une telle qualité, un plan bien détaillé et mes dix doigts de fée, pas étonnant que votre outil soit aussi resplendissant<nbsp>! Faites-en bon usage<nbsp>!",
-      "jaMacro": "お前が調達してきてくれた極上の材料のおかげで、<br>設計図どおり……いや、それ以上の改良が施せたよ。<br>最高の「スカイスチールツール」が組み上がったぜ！",
+      "de": "Ohne deinen Eifer bei der Materialbeschaffung wären wir niemals dazu gekommen, unsere Verbesserungspläne in die Praxis umzusetzen! Die alten Blaupausen sind wirklich Gold wert, aber ich bin mir sicher, dass wir diese auch noch übertreffen können. Für eine ganz neue Generation von Himmelsstahl-Werkzeugen!",
       "conversation": "custom/006/CtsSdg010Trade_00672",
       "seq": 0,
       "speaker": "DENYSE",

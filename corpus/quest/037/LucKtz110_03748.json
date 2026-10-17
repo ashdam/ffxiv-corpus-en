@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/037/LucKtz110_03748",
@@ -8,10 +8,10 @@
       "gameKey": "quest/037/LucKtz110_03748#TEXT_LUCKTZ110_03748_SYSTEM_000_000",
       "en": "<italic(1)>Weapon Fragment Data 4<italic(0)> archived.",
       "hash": "F437973676CC5097",
-      "macro": "<italic(1)>Weapon Fragment Data 4<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé la “4e archive d'arme”.",
       "ja": "「武器の破片に残された記録4」を入手した。",
+      "de": "Du hast den vierten Teil der Archive einer gebrochenen Waffe gefunden.",
       "conversation": "quest/037/LucKtz110_03748",
       "seq": 0,
       "speakerKind": "system",

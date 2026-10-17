@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/008/CtsEtcFgsEntrance_00845",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Bienvenue à vous<nbsp>! Pour commencer, veuillez prendre conseil auprès de ma collègue juste à côté de moi.",
       "ja": "ようこそお越しくださいました！<br>まずは隣にいる「案内窓口」へお声がけください。",
-      "frMacro": "Bienvenue à vous<nbsp>! Pour commencer, veuillez prendre conseil auprès de ma collègue juste à côté de moi.",
-      "jaMacro": "ようこそお越しくださいました！<br>まずは隣にいる「案内窓口」へお声がけください。",
+      "de": "Herzlich Willkommen! Bitte wende dich zunächst an die Rezeption neben mir.",
       "conversation": "custom/008/CtsEtcFgsEntrance_00845",
       "seq": 0,
       "speaker": "FGSGUIDE00845",

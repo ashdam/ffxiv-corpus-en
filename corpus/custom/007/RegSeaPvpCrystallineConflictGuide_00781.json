@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/007/RegSeaPvpCrystallineConflictGuide_00781",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Vous souhaitez connaître les règles de Crystalline Conflict avant de vous lancer<nbsp>? Dans ce cas, vous avez frappé à la bonne porte. Je vais me faire un plaisir de tout vous expliquer de A à Z, dussé-je y passer <if([gnum11<12],<if([gnum11<4],la nuit entière,la journée entière)>,<if([gnum11<17],l'après-midi entier,la nuit entière)>)><nbsp>!",
       "ja": "やあやあ、クリスタルコンフリクトのルールが知りたいんだね？<br>明日の朝までだって語ってあげるから、<br>心ゆくまで聞いてってよ！",
-      "frMacro": "Vous souhaitez connaître les règles de Crystalline Conflict avant de vous lancer<nbsp>? Dans ce cas, vous avez frappé à la bonne porte. Je vais me faire un plaisir de tout vous expliquer de A à Z, dussé-je y passer <if([gnum11<12],<if([gnum11<4],la nuit entière,la journée entière)>,<if([gnum11<17],l'après-midi entier,la nuit entière)>)><nbsp>!",
-      "jaMacro": "やあやあ、クリスタルコンフリクトのルールが知りたいんだね？<br>明日の朝までだって語ってあげるから、<br>心ゆくまで聞いてってよ！",
+      "de": "Du bist hier, weil du dir die Regeln des Crystalline Conflict erklären lassen möchtest? Das tue ich gerne. Und würde dir raten, gut aufzupassen - diese Übung hat es durchaus in sich.",
       "conversation": "custom/007/RegSeaPvpCrystallineConflictGuide_00781",
       "seq": 0,
       "speaker": "GUNGI",

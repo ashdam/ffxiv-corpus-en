@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/039/LucKtz309_03938",
@@ -8,10 +8,10 @@
       "gameKey": "quest/039/LucKtz309_03938#TEXT_LUCKTZ309_03938_SYSTEM_000",
       "en": "<italic(1)>White-garbed YoRHa Unit's Data Log<italic(0)> archived.",
       "hash": "B5B7AAB4A859EEDA",
-      "macro": "<italic(1)>White-garbed YoRHa Unit's Data Log<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé le “journal de données d'une unité YoRHa blanche”.",
       "ja": "「白いヨルハ機体のデータログ」を入手した。",
+      "de": "Du hast das Datenprotokoll einer weißen YoRHa-Einheit gefunden.",
       "conversation": "quest/039/LucKtz309_03938",
       "seq": 0,
       "speakerKind": "system",

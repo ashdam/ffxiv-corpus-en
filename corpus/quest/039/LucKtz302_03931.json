@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/039/LucKtz302_03931",
@@ -8,10 +8,10 @@
       "gameKey": "quest/039/LucKtz302_03931#TEXT_LUCKTZ302_03931_SYSTEM_000",
       "en": "<italic(1)>On the Purpose of the Bunker<italic(0)> archived.",
       "hash": "BF5DFFFEAAADEB88",
-      "macro": "<italic(1)>On the Purpose of the Bunker<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé une “note à propos de la Base”.",
       "ja": "「バンカー建設について」を入手した。",
+      "de": "Du hast eine Schrift über den Bunker gefunden.",
       "conversation": "quest/039/LucKtz302_03931",
       "seq": 0,
       "speakerKind": "system",

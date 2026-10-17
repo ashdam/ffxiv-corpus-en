@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/039/LucKtz310_03939",
@@ -8,10 +8,10 @@
       "gameKey": "quest/039/LucKtz310_03939#TEXT_LUCKTZ310_03939_SYSTEM_000",
       "en": "<italic(1)>Saved Message History<italic(0)> archived.",
       "hash": "450CEF3440D425B2",
-      "macro": "<italic(1)>Saved Message History<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé un “message électronique sauvegardé”.",
       "ja": "「保存されたメールの受信履歴」を入手した。",
+      "de": "Du hast die Daten einer elektronischen Mitteilung gefunden.",
       "conversation": "quest/039/LucKtz310_03939",
       "seq": 0,
       "speakerKind": "system",

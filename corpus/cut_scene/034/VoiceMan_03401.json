@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "cut_scene/034/VoiceMan_03401",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Le temps joue contre nous<nbsp>!<br>Éliminez Sophia avant qu'elle ne s'éveille com<->plè<->te<->ment, et méfiez-vous de ses fidèles<nbsp>!",
       "ja": "みんな 女神「ソフィア」の討滅 まかせたわよ！<br>例の信者たちにも気をつけて！",
-      "frMacro": "Le temps joue contre nous<nbsp>!<br>Éliminez Sophia avant qu'elle ne s'éveille com<->plè<->te<->ment, et méfiez-vous de ses fidèles<nbsp>!",
-      "jaMacro": "みんな 女神「ソフィア」の討滅 まかせたわよ！<br>例の信者たちにも気をつけて！",
+      "de": "Ihr müsst Sophia besiegen! Und passt auf ihre Wächter auf!",
       "conversation": "cut_scene/034/VoiceMan_03401",
       "seq": 0,
       "speaker": "KRILE",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/004/CtsDomReconRepurchaseBox_00485",
@@ -11,6 +11,7 @@
       "unresolved": false,
       "fr": "Un coffre appartenant au Shazenkai. Son utilité exacte vous échappe...",
       "ja": "何かを入れる箱のようだ……。",
+      "de": "Dir ist nicht klar, wozu diese Kiste dienen soll. Aber bestimmt wird es dir jemand erklären.",
       "conversation": "custom/004/CtsDomReconRepurchaseBox_00485",
       "seq": 0,
       "speakerKind": "system",

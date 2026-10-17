@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "transport/AetheryteRadzathan",
@@ -11,7 +11,7 @@
       "unresolved": false,
       "fr": "Une affiche indique que l'éthérite de la ville restera hors d'usage tant que le calme ne sera pas revenu...",
       "ja": "注意書きが添えられている……。<br>状況が落ち着くまで、一時的に機能を止めているようだ。",
-      "jaMacro": "注意書きが添えられている……。<br>状況が落ち着くまで、一時的に機能を止めているようだ。",
+      "de": "Ein Zettel ist notdürftig am Ätheryten befestigt: Vorübergehend außer Betrieb.",
       "conversation": "transport/AetheryteRadzathan",
       "seq": 0,
       "speaker": "STOP",

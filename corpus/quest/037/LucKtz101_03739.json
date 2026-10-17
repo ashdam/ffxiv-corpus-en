@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/037/LucKtz101_03739",
@@ -8,10 +8,10 @@
       "gameKey": "quest/037/LucKtz101_03739#TEXT_LUCKTZ101_03739_SYSTEM_000_000",
       "en": "<italic(1)>Unidentified Expedition Log 1<italic(0)> archived.",
       "hash": "1D612561ED649B70",
-      "macro": "<italic(1)>Unidentified Expedition Log 1<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé le “1er compte rendu d'exploration”.",
       "ja": "「誰かが残した調査記録1」を入手した。",
+      "de": "Du hast den ersten Teil des zurück<->gelassenen Unter<->such<->ungsberichts gefunden.",
       "conversation": "quest/037/LucKtz101_03739",
       "seq": 0,
       "speakerKind": "system",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/005/CtsErkEureka3MagiaArcaParts_00525",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Vous avez trouvé le robot dont parlait Drake et êtes parvenu<if(gnum4,e,)> à extraire de sa carcasse des composants en bon état.",
       "ja": "ドレイクの言っていた装置らしき金属の残骸から、<br>まだ使えそうな部品を回収した。<br>さっそく「ドレイク」に渡そう。",
-      "frMacro": "Vous avez trouvé le robot dont parlait Drake et êtes parvenu<if(gnum4,e,)> à extraire de sa carcasse des composants en bon état.",
-      "jaMacro": "ドレイクの言っていた装置らしき金属の残骸から、<br>まだ使えそうな部品を回収した。<br>さっそく「ドレイク」に渡そう。",
+      "de": "Um die zerstörte Apparatur herum liegen überall Metallteile verstreut. Du entdeckst ein gut erhaltenes Bauteil, das auf die Beschreibung Drakes passt und packst es vorsichtig in deinen Rucksack. Begib dich zurück ins Lager und überreiche das Fundstück an Drake.",
       "conversation": "custom/005/CtsErkEureka3MagiaArcaParts_00525",
       "seq": 0,
       "speakerKind": "system",

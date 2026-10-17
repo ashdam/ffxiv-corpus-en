@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/001/CmnDefHousingBuildHouse_00149",
@@ -11,7 +11,7 @@
       "unresolved": false,
       "fr": "Tadaaaam<nbsp>! Et voilà le travail<nbsp>!",
       "ja": "ぱんぱかぱーん！家が建ちました！",
-      "frMacro": "Tadaaaam<nbsp>! Et voilà le travail<nbsp>!",
+      "de": "ぱんぱかぱーん！家が建ちました！",
       "conversation": "custom/001/CmnDefHousingBuildHouse_00149",
       "seq": 0,
       "speaker": "ACTOR",
