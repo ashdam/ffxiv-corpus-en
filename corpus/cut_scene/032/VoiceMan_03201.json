@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "cut_scene/032/VoiceMan_03201",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Je vais libérer Sephirot<nbsp>! Bonne chance<nbsp>!",
       "ja": "魔神「セフィロト」の拘束を解くわ！<br>みんな頼んだわよ！",
-      "frMacro": "Je vais libérer Sephirot<nbsp>! Bonne chance<nbsp>!",
-      "jaMacro": "魔神「セフィロト」の拘束を解くわ！<br>みんな頼んだわよ！",
+      "de": "Ich löse die Fesseln! Jetzt liegt es bei euch!",
       "conversation": "cut_scene/032/VoiceMan_03201",
       "seq": 0,
       "speaker": "KRILE",

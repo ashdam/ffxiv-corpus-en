@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/000/CmnDefMarketBoardGridania_00039",
@@ -11,6 +11,7 @@
       "unresolved": false,
       "fr": "Vous ne pouvez pas encore acheter ou vendre sur ces marchés.",
       "ja": "今はまだ利用できないようだ……。",
+      "de": "Diese Funktion steht dir noch nicht zur Verfügung.",
       "conversation": "custom/000/CmnDefMarketBoardGridania_00039",
       "seq": 0,
       "speaker": "BOARD",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "dungeon/000/DungeonAntitower_00000",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Nous sommes Calcabrina, les poupées mignonnes qui font peur<nbsp>! Hiiii hi hi hi<nbsp>!",
       "ja": "僕らは陽気な カルコブリーナ<br>怖くて 可愛い 人形さ！ キャーホッホッー！ ",
-      "frMacro": "Nous sommes Calcabrina, les poupées mignonnes qui font peur<nbsp>! Hiiii hi hi hi<nbsp>!",
-      "jaMacro": "僕らは陽気な カルコブリーナ<br>怖くて 可愛い 人形さ！ キャーホッホッー！ ",
+      "de": "Wir sind ... die zauberhafte, herzallerliebste, schaurige Calcobrina! Hiiihihihahaha!",
       "conversation": "dungeon/000/DungeonAntitower_00000",
       "seq": 0,
       "speaker": "CALCABRINA",

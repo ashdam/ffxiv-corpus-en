@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/005/CtsErkEureka2EventGuide2_00510",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Alors que j'étais en train de planter une tente, j'ai vu une sorte de lapin se faire courser par une autre créature. Pendant un moment, j'ai cru que j'avais la berlue<nbsp>!",
       "ja": "拠点の建設中に、うさぎみてえな魔物が、<br>ほかの魔物に追いかけ回されてるのを見たぜ。<br>ありゃあ何だったんだろうな？",
-      "frMacro": "Alors que j'étais en train de planter une tente, j'ai vu une sorte de lapin se faire courser par une autre créature. Pendant un moment, j'ai cru que j'avais la berlue<nbsp>!",
-      "jaMacro": "拠点の建設中に、うさぎみてえな魔物が、<br>ほかの魔物に追いかけ回されてるのを見たぜ。<br>ありゃあ何だったんだろうな？",
+      "de": "Beim Errichten der Basis hier habe ich ein hasenartiges Tier beobachtet, das von rundlichen Wesen hin und her gescheucht wurde. Sah ziemlich drollig aus, aber keine Ahnung, was das zu bedeuten hatte.",
       "conversation": "custom/005/CtsErkEureka2EventGuide2_00510",
       "seq": 0,
       "speaker": "OPERATOR00510",

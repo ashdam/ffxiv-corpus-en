@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/005/CtsErkEureka2EventConfluence3_00501",
@@ -11,7 +11,7 @@
       "unresolved": false,
       "fr": "Aucune trace de l'homme mystérieux, mais vous avez trouvé une étiolite dans la neige. Retournez à L'Engelure et faites part à Krile des derniers événements.",
       "ja": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
-      "jaMacro": "謎めいた男がいたあたりで、色のくすんだ小さな結晶を見つけた。<br>どうやら魔晶片のようだ……。<br>さっそく、このことを「クルル」に報告しよう。",
+      "de": "Du findest einen matten Stein, der einem Maginit gleicht, aber für die Magia-Tafel anscheinend nicht zu gebrauchen ist. Berichte Krile von deiner Entdeckung.",
       "conversation": "custom/005/CtsErkEureka2EventConfluence3_00501",
       "seq": 0,
       "speakerKind": "system",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/037/LucKtz108_03746",
@@ -8,10 +8,10 @@
       "gameKey": "quest/037/LucKtz108_03746#TEXT_LUCKTZ108_03746_SYSTEM_000_000",
       "en": "<italic(1)>Weapon Fragment Data 2<italic(0)> archived.",
       "hash": "A09C7FCE8EC5458A",
-      "macro": "<italic(1)>Weapon Fragment Data 2<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé la “2e archive d'arme”.",
       "ja": "「武器の破片に残された記録2」を入手した。",
+      "de": "Du hast den zweiten Teil der Archive einer gebrochenen Waffe gefunden.",
       "conversation": "quest/037/LucKtz108_03746",
       "seq": 0,
       "speakerKind": "system",

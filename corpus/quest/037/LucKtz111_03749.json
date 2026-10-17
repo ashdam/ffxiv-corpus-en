@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/037/LucKtz111_03749",
@@ -8,10 +8,10 @@
       "gameKey": "quest/037/LucKtz111_03749#TEXT_LUCKTZ111_03749_SYSTEM_000_000",
       "en": "<italic(1)>Tattered Flyer<italic(0)> archived.",
       "hash": "6568662595E55F7C",
-      "macro": "<italic(1)>Tattered Flyer<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé un “prospectus abîmé”.",
       "ja": "「擦り切れたチラシ」を入手した。",
+      "de": "Du hast ein zerfetztes Flugblatt gefunden.",
       "conversation": "quest/037/LucKtz111_03749",
       "seq": 0,
       "speakerKind": "system",

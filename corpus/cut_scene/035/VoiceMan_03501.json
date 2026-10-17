@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "cut_scene/035/VoiceMan_03501",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Il y a déjà eu trop de sacrifices inutiles.<br>Nous devons saisir cette opportunité pour en finir une bonne fois pour toutes avec Zurvan<nbsp>!",
       "ja": "託された想い 無駄にはできないわ<br>みんな 鬼神「ズルワーン」を倒して お願い！",
-      "frMacro": "Il y a déjà eu trop de sacrifices inutiles.<br>Nous devons saisir cette opportunité pour en finir une bonne fois pour toutes avec Zurvan<nbsp>!",
-      "jaMacro": "託された想い 無駄にはできないわ<br>みんな 鬼神「ズルワーン」を倒して お願い！",
+      "de": "Es ist genug der Opfer. Nun liegt es bei euch! Zurvan muss aufgehalten werden!",
       "conversation": "cut_scene/035/VoiceMan_03501",
       "seq": 0,
       "speaker": "KRILE",

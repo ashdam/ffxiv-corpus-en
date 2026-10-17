@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "quest/039/LucKtz305_03934",
@@ -8,10 +8,10 @@
       "gameKey": "quest/039/LucKtz305_03934#TEXT_LUCKTZ305_03934_SYSTEM_000",
       "en": "<italic(1)>Saved Machine Lifeform Data 1<italic(0)> archived.",
       "hash": "EEF3328659D3CF8A",
-      "macro": "<italic(1)>Saved Machine Lifeform Data 1<italic(0)> archived.",
       "unresolved": false,
       "fr": "Vous avez trouvé la “1re partie des données d'une forme de vie mécanique”.",
       "ja": "「保存された機械生命体のデータ1」を入手した。",
+      "de": "Du hast den ersten Teil des Datenspeichers eines Maschinenwesens gefunden.",
       "conversation": "quest/039/LucKtz305_03934",
       "seq": 0,
       "speakerKind": "system",

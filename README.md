@@ -1,7 +1,7 @@
 # ffxiv-corpus-en
 
-The English text of Final Fantasy XIV, one row per line the game shows, with the game's own French
-and Japanese beside it. Extracted from the game's Excel sheets and regenerated after every patch.
+The English text of Final Fantasy XIV, one row per line the game shows, with the game's own French,
+Japanese and German beside it. Extracted from the game's Excel sheets and regenerated after every patch.
 
 Every language pack mirrors this layout so a translation of a row lives at the same path, under the
 same `gameKey`, in `ffxiv-language-pack-<language>/corpus/`.
@@ -25,7 +25,7 @@ glossary/bnpcname-override.json         reviewed battle NPC genders, keyed by ga
 glossary/enpcresident-override.json     reviewed resident NPC genders, keyed by gameKey
 glossary/excluded-rows.json             reviewed rows omitted from every language corpus
 versions/<gameVersion>.json             what each patch added, rewrote and retired
-docs/                                   macros, sheets and the glossary files of a language pack
+docs/                                   sheets and the glossary files of a language pack
 ```
 ## File structure example
 
@@ -33,23 +33,26 @@ docs/                                   macros, sheets and the glossary files of
 
 ```json
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "conversation": "DefaultTalk",
   "entries": [
     {
       "gameKey": "DefaultTalk#590415.20",
-      "en": "I'm the hired captain of the Orion. She's a fine vessel, true, but a hired captain can love his ship only as much as a paid bride can love her betrothed.",
+      "en": "I'm the hired captain of the <italic(1)>Orion<italic(0)>. She's a fine vessel, true, but a hired captain can love his ship only as much as a paid bride can love her betrothed.",
       "hash": "E38048F1B03D2DD9",
-      "macro": "I'm the hired captain of the <italic(1)>Orion<italic(0)>. She's a fine vessel, true, but a hired captain can love his ship only as much as a paid bride can love her betrothed.",
       "unresolved": false,
       "fr": "Salut moussaillon. Je suis Ahldskyf, le capitaine de l'Orion. Cela fait maintenant dix ans que je suis dans le métier, ce qui fait de moi un vrai loup de mer.",
-      "ja": "俺は、外洋交易船「オライオン号」の船長アルドスキフ。\r\n雇われ船長を続けて、早うんじゅうねん……\r\nもう雇われ船長としては、ベテランといえるな。",
+      "ja": "俺は、外洋交易船「オライオン号」の船長アルドスキフ。<br>雇われ船長を続けて、早うんじゅうねん……<br>もう雇われ船長としては、ベテランといえるな。",
+      "de": "Schiff ahoi, Landratte. Ich bin Ahldskyf, Kapitän des Handelsschiffs <italic(1)>Orion<italic(0)>. Tja, Kapitän darf ich mich nennen, aber leider gehört der Kahn nicht mir sondern der Handelsgesellschaft, für die ich arbeite.",
+      "conversation": "DefaultTalk#590415",
+      "seq": 20,
       "speaker": "Ahldskyf",
       "speakerKind": "character",
       "speakerGender": "male",
-      "kind": "ambient"
+      "kind": "ambient",
+      "sheet": "DefaultTalk"
     }
   ]
 }
@@ -58,14 +61,18 @@ docs/                                   macros, sheets and the glossary files of
 | Field | |
 |---|---|
 | `gameKey` | The sheet row: conversation path, `#`, row label. The key every translation is joined on. |
-| `en`, `fr`, `ja` | The line as the game ships it in each language, macros stripped. |
-| `macro`, `frMacro`, `jaMacro` | The same line with its game macros: `<italic(1)>`, `<if(...)>`, `<br>`. Present only when the line has any. The text to translate is `macro` when it exists, with every macro copied verbatim. |
+| `en`, `fr`, `ja`, `de` | Effective text with all SeString markup and all branches preserved. Missing references are omitted. |
 | `hash` | Fingerprint of `gameKey` and the English. A translation carries it, so a later patch can tell whether the line it was written against is still the line the game ships. |
-| `unresolved` | `true` when a macro needs a value only the game calculates, such as the player's name. |
+| `unresolved` | `true` when the English text uses event-local numeric parameters such as `lnum1`. Preserve all markup and branches. |
 | `speaker`, `speakerKind`, `speakerGender` | Who says it. See below. |
 | `gender` | Resolved gender for `ENpcResident` and `BNpcName`: `male`, `female`, `unknown` or `n/a`. |
 | `kind` | What the row is. See below. |
 | `questId`, `questName`, `section`, `category` | On quest rows: where the line sits in the journal. |
+
+Use [Dalamud SeString documentation](https://dalamud.dev/plugin-development/sestring/) for `<...>` markup.
+Keep player commands such as `/nombre_comando` unchanged. Consult French, Japanese and German
+for gender, number and form of address. Use context and the target glossary; noun gender can differ
+between languages. Never evaluate or flatten a reference to store it.
 
 ## Speakers
 

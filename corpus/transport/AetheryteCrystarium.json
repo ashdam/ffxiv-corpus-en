@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "transport/AetheryteCrystarium",
@@ -11,6 +11,7 @@
       "unresolved": false,
       "fr": "Cet imposant cristal ressemble comme deux gouttes d'eau aux éthérites de votre monde...",
       "ja": "こちらの世界のエーテライトだろうか……。",
+      "de": "Dieses Gebilde ist offensichtlich ein Ätheryt<nbsp>...",
       "conversation": "transport/AetheryteCrystarium",
       "seq": 0,
       "speaker": "STOP",

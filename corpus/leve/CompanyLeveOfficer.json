@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "leve/CompanyLeveOfficer",
@@ -11,7 +11,7 @@
       "unresolved": false,
       "fr": "Hu hu<nbsp>! La 3.0 c'est trop fuuuuuuuuuuuun<nbsp>!!!",
       "ja": "ふーふー",
-      "frMacro": "Hu hu<nbsp>! La 3.0 c'est trop fuuuuuuuuuuuun<nbsp>!!!",
+      "de": "ふーふー",
       "conversation": "leve/CompanyLeveOfficer",
       "seq": 0,
       "speaker": "HELLO",

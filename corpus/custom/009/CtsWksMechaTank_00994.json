@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sourceLanguage": "en",
   "gameVersion": "2026.10.06.0000.0000",
   "conversation": "custom/009/CtsWksMechaTank_00994",
@@ -11,8 +11,7 @@
       "unresolved": false,
       "fr": "Il suffit de s'approcher d'un réservoir pour s'approvisionner au<->to<->ma<->ti<->que<->ment en formule de croissance spéciale<nbsp>!",
       "ja": "特製のグロースフォーミュラが注入されたタンクだ。<br>接近すると対象者へ自動的に錬金剤を補充する。",
-      "frMacro": "Il suffit de s'approcher d'un réservoir pour s'approvisionner au<->to<->ma<->ti<->que<->ment en formule de croissance spéciale<nbsp>!",
-      "jaMacro": "特製のグロースフォーミュラが注入されたタンクだ。<br>接近すると対象者へ自動的に錬金剤を補充する。",
+      "de": "Ein Tank voller Wachstumsmittel. Automatisches Auffüllen, sobald du dich in der Nähe befindest.",
       "conversation": "custom/009/CtsWksMechaTank_00994",
       "seq": 0,
       "speaker": "ACTOR",
