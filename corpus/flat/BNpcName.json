@@ -125008,7 +125008,7 @@
       "conversation": "BNpcName#4421",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -125022,7 +125022,7 @@
       "conversation": "BNpcName#4421",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -169926,7 +169926,7 @@
       "conversation": "BNpcName#5983",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -169940,7 +169940,7 @@
       "conversation": "BNpcName#5983",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -189340,7 +189340,7 @@
       "conversation": "BNpcName#6655",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -189354,7 +189354,7 @@
       "conversation": "BNpcName#6655",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -193138,7 +193138,7 @@
       "conversation": "BNpcName#6786",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -193152,7 +193152,7 @@
       "conversation": "BNpcName#6786",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -193167,7 +193167,7 @@
       "conversation": "BNpcName#6787",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -193181,7 +193181,7 @@
       "conversation": "BNpcName#6787",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -250716,7 +250716,7 @@
       "conversation": "BNpcName#8783",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -250730,7 +250730,7 @@
       "conversation": "BNpcName#8783",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -270523,7 +270523,7 @@
       "conversation": "BNpcName#9466",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -270537,7 +270537,7 @@
       "conversation": "BNpcName#9466",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "male",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -270987,7 +270987,7 @@
       "conversation": "BNpcName#9482",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -271001,7 +271001,7 @@
       "conversation": "BNpcName#9482",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -292135,7 +292135,7 @@
       "conversation": "BNpcName#10222",
       "seq": 0,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -292149,7 +292149,7 @@
       "conversation": "BNpcName#10222",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -311014,7 +311014,7 @@
       "conversation": "BNpcName#10874",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
@@ -311072,7 +311072,7 @@
       "conversation": "BNpcName#10876",
       "seq": 2,
       "speakerKind": "unknown",
-      "gender": "unknown",
+      "gender": "female",
       "kind": "ambient",
       "sheet": "BNpcName"
     },
