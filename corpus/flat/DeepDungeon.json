@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "DeepDungeon",
+  "entries": [
+    {
+      "gameKey": "DeepDungeon#1",
+      "en": "the Palace of the Dead",
+      "hash": "B0B7FDD39F27DD02",
+      "unresolved": false,
+      "fr": "Palais des morts",
+      "ja": "死者の宮殿",
+      "de": "Palast der Toten",
+      "conversation": "DeepDungeon#1",
+      "seq": 35,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DeepDungeon"
+    },
+    {
+      "gameKey": "DeepDungeon#2",
+      "en": "Heaven-on-High",
+      "hash": "1E9158879FD022BD",
+      "unresolved": false,
+      "fr": "Pilier des Cieux",
+      "ja": "アメノミハシラ",
+      "de": "Himmelssäule",
+      "conversation": "DeepDungeon#2",
+      "seq": 35,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DeepDungeon"
+    },
+    {
+      "gameKey": "DeepDungeon#3",
+      "en": "Eureka Orthos",
+      "hash": "0DCC74B7FB160D82",
+      "unresolved": false,
+      "fr": "Eurêka Orthos",
+      "ja": "オルト・エウレカ",
+      "de": "Eureka Orthos",
+      "conversation": "DeepDungeon#3",
+      "seq": 35,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DeepDungeon"
+    },
+    {
+      "gameKey": "DeepDungeon#4",
+      "en": "Pilgrim's Traverse",
+      "hash": "6AF00F1176D284ED",
+      "unresolved": false,
+      "fr": "Sanctuaire des pèlerins",
+      "ja": "ピルグリム・トラバース",
+      "de": "Pilgers Pfad",
+      "conversation": "DeepDungeon#4",
+      "seq": 35,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DeepDungeon"
+    }
+  ]
+}
