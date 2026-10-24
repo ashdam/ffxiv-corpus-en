@@ -25,8 +25,12 @@ glossary/bnpcname-gender-override.json  reviewed battle NPC genders, keyed by NP
 glossary/enpcresident-override.json     reviewed resident NPC genders, keyed by gameKey
 glossary/excluded-rows.json             reviewed rows omitted from every language corpus
 versions/<gameVersion>.json             what each patch added, rewrote and retired
-docs/                                   sheets and the glossary files of a language pack
+docs/                                   sheets, glossaries, and language-pack assets
 ```
+
+Language packs can also contain translated textures and interface layout changes. See
+[Textures and ULD layouts](docs/pack-assets.md) for paths, formats, and PackBuilder commands.
+
 ## File structure example
 
 `corpus/flat/DefaultTalk.json`, one entry:
