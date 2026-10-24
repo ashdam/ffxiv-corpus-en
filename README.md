@@ -14,6 +14,7 @@ corpus/
   cut_scene/<bucket>/VoiceMan_<id>.json one file per voiced cutscene
   custom/<bucket>/<name>_<id>.json      the "Ask about..." menus and other scripted talk
   flat/<Sheet>.json                     one file per flat sheet: DefaultTalk, NpcYell, Addon, Item...
+  ui/banners.json                      English banner labels and original TEX hashes, one entry per line
   warp/ transport/ raid/ content/ dungeon/ opening/ shop/ leve/ guild_order/ story/ system/
                                         small keyed families, one file per sheet
 glossary/characters.json               every named NPC, en/fr/ja, from the game's own sheets
@@ -29,7 +30,7 @@ docs/                                   sheets, glossaries, and language-pack as
 ```
 
 Language packs can also contain translated textures and interface layout changes. See
-[Textures and ULD layouts](docs/pack-assets.md) for paths, formats, and PackBuilder commands.
+[Banner translations and UI layouts](docs/banner-translations-and-ui-layouts.md) for paths, formats, and PackBuilder commands.
 
 ## File structure example
 
@@ -66,7 +67,7 @@ Language packs can also contain translated textures and interface layout changes
 |---|---|
 | `gameKey` | The sheet row: conversation path, `#`, row label. The key every translation is joined on. |
 | `en`, `fr`, `ja`, `de` | Effective text with all SeString markup and all branches preserved. Missing references are omitted. |
-| `hash` | Fingerprint of `gameKey` and the English. A translation carries it, so a later patch can tell whether the line it was written against is still the line the game ships. |
+| `hash` | Text rows: fingerprint of `gameKey` and English. Banner rows: fingerprint of the original normal and HD TEX files. Translations carry the source hash to detect changed originals. |
 | `unresolved` | `true` when the English text uses event-local numeric parameters such as `lnum1`. Preserve all markup and branches. |
 | `speaker`, `speakerKind`, `speakerGender` | Who says it. See below. |
 | `gender` | Resolved gender for `ENpcResident` and `BNpcName`: `male`, `female`, `unknown` or `n/a`. |

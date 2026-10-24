@@ -2,62 +2,28 @@
   "_comment": [
     "Each row needs gameKey and the existing corpus hash; each group needs why.",
     "Matching hashes exclude the row. Source sync moves changed rows to the corpus and removes their exclusions.",
-    "Copy hashes from the corpus when excluding reviewed content. Do not use a separate hash calculation."
+    "Copy hashes from the corpus when excluding reviewed content. Do not use a separate hash calculation.",
+    "Group placeholders, development content and text marked as not for translation together."
   ],
-
   "exclusion_groups": [
     {
-      "why": "Exclude the internal subtitle placeholder. French and Japanese contain only a crying stage direction.",
+      "why": "Placeholders, development content and text marked as not for translation.",
       "rows": [
-        { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00180_NANAMOULNAMO", "hash": "3E4E415A202673EE" }
-      ]
-    },
-    {
-      "why": "Exclude the internal Echo scene instruction. The reference languages contain a stage instruction, not character dialogue.",
-      "rows": [
-        { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_030", "hash": "54CCC43429215735" }
-      ]
-    },
-    {
-      "why": "Keep the original lobby symbol and dynamic value. This row is identical in all reference languages and needs no translation.",
-      "rows": [
-        { "gameKey": "Lobby#1168.3", "hash": "4F3C1D73133BAC2F" }
-      ]
-    },
-    {
-      "why": "Exclude an ARR sequence sentinel and an incomplete instruction with no named objective in the reference languages.",
-      "rows": [
+        { "gameKey": "NotebookDivision#40", "hash": "CDBD155512EF77BD" },
+        { "gameKey": "NotebookDivision#1062", "hash": "79D578DA105DCF31" },
+        { "gameKey": "NotebookDivision#1066", "hash": "3F8F52F0C876E78F" },
+        { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00180_NANAMOULNAMO", "hash": "3E4E415A202673EE" },
+        { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_030", "hash": "54CCC43429215735" },
         { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_SEQ_02", "hash": "6DE10080CDFA0F70" },
-        { "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_TODO_00", "hash": "E35B7D0F98C9D7A7" }
-      ]
-    },
-    {
-      "why": "Exclude shops marked as tests or development content in the reference languages.",
-      "rows": [
+        { "gameKey": "quest/005/ManSea201_00526#TEXT_MANSEA201_00526_TODO_00", "hash": "E35B7D0F98C9D7A7" },
         { "gameKey": "SpecialShop#1769474", "hash": "E83BBDC12618D032" },
         { "gameKey": "SpecialShop#1769475", "hash": "AADF35DF401D35C9" },
-        { "gameKey": "SpecialShop#1769524", "hash": "8A2CE4260EDF682E" }
-      ]
-    },
-    {
-      "why": "Exclude provisional balloon identifiers with no dialogue in any reference language.",
-      "rows": [
+        { "gameKey": "SpecialShop#1769524", "hash": "8A2CE4260EDF682E" },
         { "gameKey": "Balloon#2593", "hash": "A2C1E1E150F1005D" },
         { "gameKey": "Balloon#2594", "hash": "B4558825392D3443" },
         { "gameKey": "Balloon#2595", "hash": "390E2530B964F43C" },
         { "gameKey": "Balloon#2596", "hash": "ACF51DFE7429B211" },
-        { "gameKey": "Balloon#2597", "hash": "B95AD0FFA3A36CFF" }
-      ]
-    },
-    {
-      "why": "Exclude the masked error reserved for the Chinese client.",
-      "rows": [
-        { "gameKey": "Error#12002", "hash": "9ED8E31CEABEE578" }
-      ]
-    },
-    {
-      "why": "Exclude dialogue fields with literal zero in English, including rows with French or Japanese reference text.",
-      "rows": [
+        { "gameKey": "Balloon#2597", "hash": "B95AD0FFA3A36CFF" },
         { "gameKey": "DefaultTalk#589825.20", "hash": "7A98DD73C61083B9" },
         { "gameKey": "DefaultTalk#589833.21", "hash": "DE8B82C4C6D0B9C1" },
         { "gameKey": "DefaultTalk#589833.22", "hash": "78DE28BED8E4D2E8" },
@@ -467,12 +433,7 @@
         { "gameKey": "NpcYell#972", "hash": "A5D6E0117AFB48C6" },
         { "gameKey": "NpcYell#973", "hash": "0C92FB2B06E9F8AB" },
         { "gameKey": "NpcYell#974", "hash": "61591F5FE734235F" },
-        { "gameKey": "NpcYell#975", "hash": "57D5781DEA63CFDC" }
-      ]
-    },
-    {
-      "why": "Exclude Triple Triad plural fields with zero in English and Japanese; only the French reference has plural text.",
-      "rows": [
+        { "gameKey": "NpcYell#975", "hash": "57D5781DEA63CFDC" },
         { "gameKey": "TripleTriadCard#1.2", "hash": "F49E0F0587A67E5C" },
         { "gameKey": "TripleTriadCard#2.2", "hash": "4AE17F92EDCDAA20" },
         { "gameKey": "TripleTriadCard#3.2", "hash": "E4515BC2DF4FDA07" },
@@ -944,12 +905,7 @@
         { "gameKey": "TripleTriadCard#472.2", "hash": "69F895CFCCEF1214" },
         { "gameKey": "TripleTriadCard#473.2", "hash": "728D1AA7B13E2A23" },
         { "gameKey": "TripleTriadCard#474.2", "hash": "2E71DA4A9B32AB8C" },
-        { "gameKey": "TripleTriadCard#475.2", "hash": "D114DC03C6D92B4F" }
-      ]
-    },
-    {
-      "why": "Exclude provisional FATE dialogue marked with the Japanese temporary label.",
-      "rows": [
+        { "gameKey": "TripleTriadCard#475.2", "hash": "D114DC03C6D92B4F" },
         { "gameKey": "FateEvent#27.56", "hash": "831F0BBC8FA093B3" },
         { "gameKey": "FateEvent#27.57", "hash": "3207724919E6AE0E" },
         { "gameKey": "FateEvent#27.58", "hash": "E185C8DD7321C50A" },
@@ -959,22 +915,12 @@
         { "gameKey": "FateEvent#28.60", "hash": "6CF7F630DF2BFFC9" },
         { "gameKey": "FateEvent#28.62", "hash": "9EB5C64A011AEE0C" },
         { "gameKey": "FateEvent#29.56", "hash": "FFD5C3D4705562B1" },
-        { "gameKey": "FateEvent#30.56", "hash": "CDE33FAFB3AF671C" }
-      ]
-    },
-    {
-      "why": "Exclude the FATE test dialogue and its test response options.",
-      "rows": [
+        { "gameKey": "FateEvent#30.56", "hash": "CDE33FAFB3AF671C" },
         { "gameKey": "FateEvent#215.56", "hash": "1D9F56AE5ABEF11A" },
         { "gameKey": "FateEvent#215.57", "hash": "6BBCF7A6359BE7C6" },
         { "gameKey": "FateEvent#215.58", "hash": "F8CD25F5E50EBF97" },
         { "gameKey": "FateEvent#215.60", "hash": "AF4C6B43FC097EBC" },
-        { "gameKey": "FateEvent#215.62", "hash": "34C6E4D8F943CEE0" }
-      ]
-    },
-    {
-      "why": "Exclude internal FATE delivery state labels.",
-      "rows": [
+        { "gameKey": "FateEvent#215.62", "hash": "34C6E4D8F943CEE0" },
         { "gameKey": "FateEvent#532.56", "hash": "DD4B8D9244F711A2" },
         { "gameKey": "FateEvent#533.56", "hash": "206C568C1C564434" },
         { "gameKey": "FateEvent#533.60", "hash": "C8E7FC062067A8F1" },
@@ -982,12 +928,7 @@
         { "gameKey": "FateEvent#534.56", "hash": "CEB183FD745A1001" },
         { "gameKey": "FateEvent#535.56", "hash": "15E04351424FDB98" },
         { "gameKey": "FateEvent#535.60", "hash": "71DABAF2205B8834" },
-        { "gameKey": "FateEvent#535.62", "hash": "E47C70435E4906A7" }
-      ]
-    },
-    {
-      "why": "Exclude literal English zeros with no reference text other than zero.",
-      "rows": [
+        { "gameKey": "FateEvent#535.62", "hash": "E47C70435E4906A7" },
         { "gameKey": "ContentFinderConditionTransient#151", "hash": "B4224D3E3283B9B0" },
         { "gameKey": "ContentFinderConditionTransient#152", "hash": "1D96F5972C9E3704" },
         { "gameKey": "ContentFinderConditionTransient#153", "hash": "F56884B190E132DC" },
@@ -21179,186 +21120,14 @@
         { "gameKey": "custom/008/JobRelMandervilleQuestSelect_00816#TEXT_JOBRELMANDERVILLEQUESTSELECT_00816_TALK_ACTOR", "hash": "04E34B274482DE54" },
         { "gameKey": "custom/008/RegSeaPvpCommendationCrystalShop_00839#TEXT_REGSEAPVPCOMMENDATIONCRYSTALSHOP_00839_TALK_ACTOR", "hash": "CF62D200C4BAACB4" },
         { "gameKey": "custom/009/CtsMkdWepUiView_00981#TEXT_CTSMKDWEPUIVIEW_00981_TALK_ACTOR", "hash": "8C02E5A8F87A2D3D" },
-        { "gameKey": "custom/009/CtsWksElevator_00969#TEXT_CTSWKSELEVATOR_00969_TALK_ACTOR", "hash": "F81B78EF3512F70D" }
-      ]
-    },
-    {
-      "why": "Exclude entries without complete reference language coverage.",
-      "rows": [
-        { "gameKey": "Addon#102679", "hash": "5D002462982877F3" },
-        { "gameKey": "Addon#102680", "hash": "4F61681358129D1B" },
-        { "gameKey": "Addon#102681", "hash": "2E37FD6769EED73E" },
-        { "gameKey": "Addon#102682", "hash": "615259525F7D8BFC" },
-        { "gameKey": "Addon#11802", "hash": "7AB4E2B4861D7C45" },
-        { "gameKey": "Addon#12816", "hash": "821ABCE513325FF5" },
-        { "gameKey": "Addon#12873", "hash": "EBC746DA3D4848AF" },
-        { "gameKey": "Addon#12966", "hash": "1B53BF01716B7C94" },
-        { "gameKey": "Addon#15018", "hash": "14FD8340D86037FC" },
-        { "gameKey": "Addon#15132", "hash": "21CB6019BAE5CF77" },
-        { "gameKey": "Addon#15268", "hash": "92F7A35467BDE7E8" },
-        { "gameKey": "Addon#15976", "hash": "BCEF48264DF90077" },
-        { "gameKey": "Addon#16034", "hash": "4021E678AC81419F" },
-        { "gameKey": "Addon#16237", "hash": "FF3600D1A79B4020" },
-        { "gameKey": "Addon#16238", "hash": "20414C2FAD1A60DB" },
-        { "gameKey": "Addon#16618", "hash": "E09A009CB0695F21" },
-        { "gameKey": "Addon#16619", "hash": "C07FF582C6A801DC" },
-        { "gameKey": "Addon#16920", "hash": "2D94E53EC2199771" },
-        { "gameKey": "Addon#2082", "hash": "567B610B149AE7D1" },
-        { "gameKey": "Addon#2083", "hash": "241F58DD708975B7" },
-        { "gameKey": "Addon#2284", "hash": "D64381C864898918" },
-        { "gameKey": "Addon#2652", "hash": "5BC5CBAEFEEF1D48" },
-        { "gameKey": "Addon#3451", "hash": "7AA492790F5563D4" },
-        { "gameKey": "Addon#3541", "hash": "DE720D0C21822231" },
-        { "gameKey": "Addon#3911", "hash": "3F5772C544F14C73" },
-        { "gameKey": "Addon#4704", "hash": "2FFE007E5E8B0CFB" },
-        { "gameKey": "Addon#4761", "hash": "7982D11BEE9169FA" },
-        { "gameKey": "Addon#5248", "hash": "765B659F680F103E" },
-        { "gameKey": "Addon#5249", "hash": "0C94A07692CF37E4" },
-        { "gameKey": "Addon#5250", "hash": "30800F76A5E36873" },
-        { "gameKey": "Addon#5251", "hash": "97D9C632D3521228" },
-        { "gameKey": "Addon#5252", "hash": "17415B69FAB615E6" },
-        { "gameKey": "Addon#5253", "hash": "61B96CD4E9644E0B" },
-        { "gameKey": "Addon#5254", "hash": "6CD3A4E2C3F25E48" },
-        { "gameKey": "Addon#5255", "hash": "1BC3A7072B7E1910" },
-        { "gameKey": "Addon#5256", "hash": "FA7754CB14C40459" },
-        { "gameKey": "Addon#5257", "hash": "658FC31B48835CC5" },
-        { "gameKey": "Addon#5455", "hash": "4615DCA318DCF484" },
-        { "gameKey": "Addon#6550", "hash": "49373A6029BFCD97" },
-        { "gameKey": "Addon#8144", "hash": "C81D1BBF4C665358" },
-        { "gameKey": "Addon#8146", "hash": "292166DFD79E2D93" },
-        { "gameKey": "Addon#8314", "hash": "FB7D7E0964E72864" },
-        { "gameKey": "Addon#9457", "hash": "31ADB45AC491B01D" },
-        { "gameKey": "Addon#9867", "hash": "D9FDFEDA6F13F568" },
-        { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87" },
-        { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR", "hash": "724955F0AF9ABC43" },
-        { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE", "hash": "932EFB3276A41258" },
-        { "gameKey": "DefaultTalk#591691.21", "hash": "5A940958636EC805" },
-        { "gameKey": "Description#3604485.4", "hash": "A549EFF6572BE6C6" },
-        { "gameKey": "InstanceContentTextData#30518", "hash": "1D41C64B8FC7AEF2" },
-        { "gameKey": "InstanceContentTextData#30811", "hash": "58F97E8117C079C6" },
-        { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044" },
-        { "gameKey": "quest/002/ClsGla250_00264#TEXT_CLSGLA250_00264_Q1_000_170", "hash": "B2CD24DB2A858858" },
-        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_02", "hash": "7131A168C2326ACC" },
-        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_03", "hash": "679A55FB27F9A091" },
-        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_04", "hash": "D2CA77B263648147" },
-        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_05", "hash": "91F10963DD8F1912" },
-        { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_00", "hash": "5C9266D4D9CFA336" },
-        { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_01", "hash": "638779503AE0873E" },
-        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_01", "hash": "90A7F19724FB4986" },
-        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_02", "hash": "F9F9298A8BAEA93F" },
-        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_03", "hash": "B3BD2D5DDAC0849B" },
-        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_04", "hash": "9A7795171105EDE7" },
-        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_05", "hash": "5C5A07EA4CDE3CA2" },
-        { "gameKey": "Warp#131158.11", "hash": "B0A67245A70F074B" },
-        { "gameKey": "Warp#131160.11", "hash": "4CDE93A3E72B14BB" },
-        { "gameKey": "Warp#131252.10", "hash": "B7A4BBBF1C5794A7" },
-        { "gameKey": "Warp#131253.10", "hash": "CB4E9C42CA7846CA" }
-      ]
-    },
-    {
-      "why": "Exclude these rows because the English game text is the literal zero, despite text in French and Japanese.",
-      "rows": [
+        { "gameKey": "custom/009/CtsWksElevator_00969#TEXT_CTSWKSELEVATOR_00969_TALK_ACTOR", "hash": "F81B78EF3512F70D" },
         { "gameKey": "DefaultTalk#590040.21", "hash": "9F15686C0DA4B096" },
         { "gameKey": "DefaultTalk#590102.20", "hash": "AF8AFF2537363838" },
         { "gameKey": "DefaultTalk#590102.21", "hash": "6EBFFCD1697D16BA" },
         { "gameKey": "DefaultTalk#590102.22", "hash": "58785B5AC2BE6EF4" },
-        { "gameKey": "NpcYell#2", "hash": "0B44224520578A50" }
-      ]
-    },
-    {
-      "why": "Exclude voice entries whose French source contains only a space.",
-      "rows": [
-        { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001980_KRILE", "hash": "F545EE2EBC47CC74" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_000260_FAKEGODBEAST", "hash": "4754BAB916643428" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_000270_FAKEGODBEAST", "hash": "2CC4E403107AE5FD" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001160_HANNISHOLDWOMANA", "hash": "C6AE2ED69D476236" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001210_HANNISHBOYA", "hash": "C37043D0D459B960" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001230_HANNISHBOYA", "hash": "04527B46DB34FFC5" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002250_MATSYA", "hash": "4949D057E771EAD8" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002310_MATSYA", "hash": "0EA56DB008D34331" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002330_MATSYA", "hash": "CAEB84AFC3EA4946" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002370_MATSYA", "hash": "397087B66C3632E8" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002450_ESTINIEN", "hash": "8017137D1E17E852" },
-        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002650_HANNISHBOYB", "hash": "0305B00BD15846C4" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000020_REFUGEEMAN", "hash": "997459D4CBE5C3DA" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000110_ESTINIEN", "hash": "A24250FB2421580F" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000135_ESTINIEN", "hash": "C1CE6455C0EB148E" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000160_ALPHINAUD", "hash": "826CC90F4054F6A3" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000530_ALISAIE", "hash": "5966A293F489D0ED" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000540_ALISAIE", "hash": "4B4D9B4BE8689F6D" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_001650_LIVINGWAY", "hash": "A03BDEF1C60E96B3" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005190_SICARD", "hash": "547272CDD8314001" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005200_EMMANELLAIN", "hash": "9EE8011D7B6D8F37" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005210_HANCOCK", "hash": "CC3914650609A4F2" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005220_SOROBAN", "hash": "D1061B4F60B21C9D" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005230_ERENVILLE", "hash": "54E5079B60337A82" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005240_CID", "hash": "3F70B3824B884453" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005250_HOARYBOULDER", "hash": "31B9F0FD1481D67B" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005260_NIDHANA", "hash": "ED50E20B4B748E03" },
-        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_006470_HYDAELYN", "hash": "4EB3B4C03F9BD7F5" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_000110_THANCRED", "hash": "05A93F2E2232D1A4" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_000140_THANCRED", "hash": "C026D68A616BD070" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_003480_ESTINIEN", "hash": "29BE582506F303DD" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005380_ALPHINAUD", "hash": "A363B910D9D6DFDD" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005660_ALPHINAUD", "hash": "563BBC8E2207BE14" },
-        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_007260_ALISAIE", "hash": "0C50A7DA225300D7" }
-      ]
-    },
-    {
-      "why": "Exclude these currency and equipment descriptions with incomplete source language coverage from translation.",
-      "rows": [
-        { "gameKey": "Item#1.8", "hash": "F7DEFE49ACB57125" },
-        { "gameKey": "Item#32.8", "hash": "5B24CDDB4062FF2E" },
-        { "gameKey": "Item#33.8", "hash": "111EFBE2DBE2E31A" },
-        { "gameKey": "Item#8669.8", "hash": "3C6FC76337C79BEC" },
-        { "gameKey": "Item#8670.8", "hash": "28812D0401159F8A" },
-        { "gameKey": "Item#8671.8", "hash": "030A772C5F192855" },
-        { "gameKey": "Item#8672.8", "hash": "6792DF611A1F1341" },
-        { "gameKey": "Item#8673.8", "hash": "CDC03A0EC9EB80A6" },
-        { "gameKey": "Item#8674.8", "hash": "F7511EF0834E167F" },
-        { "gameKey": "Item#8675.8", "hash": "00514B85882BA6B4" },
-        { "gameKey": "Item#8676.8", "hash": "252D0F70C4169F7C" },
-        { "gameKey": "Item#8677.8", "hash": "A5AF2303D0F141DD" },
-        { "gameKey": "Item#8678.8", "hash": "81EC42BD0E9885EF" },
-        { "gameKey": "Item#8679.8", "hash": "ADD50E626877B193" },
-        { "gameKey": "Item#8680.8", "hash": "5DB3C119B8FD8E13" },
-        { "gameKey": "Item#8681.8", "hash": "E7F8DA068278E8A4" },
-        { "gameKey": "Item#8682.8", "hash": "198DCD922E84C9B3" },
-        { "gameKey": "Item#8683.8", "hash": "47F486A7E0E02D89" },
-        { "gameKey": "Item#8684.8", "hash": "479C4B6DE476E50E" },
-        { "gameKey": "Item#8685.8", "hash": "F9CF974751C22AF8" },
-        { "gameKey": "Item#8686.8", "hash": "35535D389930C498" },
-        { "gameKey": "Item#8687.8", "hash": "53345DC00ED27026" },
-        { "gameKey": "Item#8688.8", "hash": "73D48C3977EB6654" },
-        { "gameKey": "Item#8689.8", "hash": "632A3EAFD3D58AC0" },
-        { "gameKey": "Item#8690.8", "hash": "133B3B348CFEF7A3" },
-        { "gameKey": "Item#8691.8", "hash": "F40F2E13FD69E03E" },
-        { "gameKey": "Item#8692.8", "hash": "06145398AF09B9FB" },
-        { "gameKey": "Item#10009.8", "hash": "6427A6986EFDA202" },
-        { "gameKey": "Item#10010.8", "hash": "2FF0CA208CA8BA63" },
-        { "gameKey": "Item#10011.8", "hash": "E1643EF30B9C270C" },
-        { "gameKey": "Item#10012.8", "hash": "AC69A3AA9E06C86B" },
-        { "gameKey": "Item#10013.8", "hash": "2ED5674E44C080E9" },
-        { "gameKey": "Item#13251.8", "hash": "E609ECB6DE723A15" },
-        { "gameKey": "Item#13252.8", "hash": "D98CC1225352B8FF" },
-        { "gameKey": "Item#13253.8", "hash": "CEFFDE799FA8EBCC" },
-        { "gameKey": "Item#13254.8", "hash": "77C5E451FFB3FD78" },
-        { "gameKey": "Item#13255.8", "hash": "1BBB3E107BDB9927" }
-      ]
-    },
-    {
-      "why": "Internal instruction to prepare text for equipment effects; all language columns contain the same Japanese instruction.",
-      "rows": [ { "gameKey": "Addon#17614", "hash": "61CA76EF6B8B9258" } ]
-    },
-    {
-      "why": "Internal voice output label. The Japanese text explicitly says that no translation is required.",
-      "rows": [
-        { "gameKey": "cut_scene/075/VoiceMan_07505#TEXT_VOICEMAN_07505_010000_ALL", "hash": "3A150C8C9CBDC74E" }
-      ]
-    },
-    {
-      "why": "Internal test quests for sequences, actors, and combat. Do not translate these test instructions.",
-      "rows": [
+        { "gameKey": "NpcYell#2", "hash": "0B44224520578A50" },
+        { "gameKey": "Addon#17614", "hash": "61CA76EF6B8B9258" },
+        { "gameKey": "cut_scene/075/VoiceMan_07505#TEXT_VOICEMAN_07505_010000_ALL", "hash": "3A150C8C9CBDC74E" },
         { "gameKey": "quest/006/TstPln905_00659#TEXT_TSTPLN905_00659_TODO_00", "hash": "6303896C85203D66" },
         { "gameKey": "quest/006/TstPln905_00659#TEXT_TSTPLN905_00659_TODO_01", "hash": "DB1B549B8C7C5612" },
         { "gameKey": "quest/006/TstPln905_00659#TEXT_TSTPLN905_00659_TODO_02", "hash": "F0EA632CBDF3EBC2" },
@@ -21585,40 +21354,15 @@
         { "gameKey": "quest/015/TstPln931_01547#TEXT_TSTPLN931_01547_SYSTEM_103", "hash": "686854F4A89E8FDC" },
         { "gameKey": "quest/015/TstPln931_01547#TEXT_TSTPLN931_01547_ACTOR_A_070", "hash": "DAC128DAE5305D84" },
         { "gameKey": "quest/021/TstPln104_02148#TEXT_TSTPLN104_02148_TODO_00", "hash": "7783F7B5DE58292B" },
-        { "gameKey": "quest/021/TstPln104_02148#TEXT_TSTPLN104_02148_TODO_01", "hash": "55A06F9D22CFBD89" }
-      ]
-    },
-    {
-      "why": "Opening quest templates: internal scene labels, an incomplete objective, and a numeric sentinel; confirmed in French and Japanese.",
-      "rows": [
+        { "gameKey": "quest/021/TstPln104_02148#TEXT_TSTPLN104_02148_TODO_01", "hash": "55A06F9D22CFBD89" },
         { "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_SEQ_00", "hash": "133EA320DCCE06DA" },
         { "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_SEQ_01", "hash": "56AAE9016FF52368" },
         { "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_TODO_00", "hash": "AF52D06186E6B81C" },
-        { "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_SEQ_02", "hash": "0D92DE2625126E5C" }
-      ]
-    },
-    {
-      "why": "Balloon: scene labels, all three columns identical, no colon or id so the pattern misses them.",
-      "rows": [
+        { "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_SEQ_02", "hash": "0D92DE2625126E5C" },
         { "gameKey": "Balloon#4307", "hash": "E590E1B9CE9640D6", "note": "●仮設定 — \"provisional setting\"" },
-        { "gameKey": "Balloon#5381", "hash": "8072F47E4FE2BA09", "note": "●バトル前２B — \"before battle 2B\", a NieR raid cue" }
-      ]
-    },
-    {
-      "why": "CustomTalk menu label: ●妖怪メダル交換(たぶん翻訳不要) — \"Yo-kai medal exchange (probably no translation needed)\". The parenthetical is the localiser's own note, left in the string and identical in all three columns, so this is the rare case where the row SAYS it is a leaving. Its two neighbours in the same sheet — ●ここの天気は？ and ●鑑定する — are NOT excluded and are translated: they are ordinary Japanese that English never localised, which is a different class entirely and one the spec is explicit about.",
-      "rows": [
-        { "gameKey": "CustomTalk#721244.64", "hash": "C81644A7A7C01DFC" }
-      ]
-    },
-    {
-      "why": "●イースター：00924_01：ラニエット — \"Easter : 00924_01 : Laniette\". This one HAS the colons and an id, so it looks like the pattern's own shape, and it still escapes: AssetIdToken requires a letter-led token and 00924_01 is all digits. Widening that regex to accept a bare numeric run would start matching real dialogue that quotes a number, so the row comes here instead.",
-      "rows": [
-        { "gameKey": "Balloon#8405", "hash": "E8A1EDA2912F7672" }
-      ]
-    },
-    {
-      "why": "PublicContentTextData: an Odin fight's TIMELINE. These say WHEN a line plays, not what is said. Note the three gaps: #2110, #2111 and #2113 sit inside the range and ARE real barks, which is exactly why this is a list and not a range.",
-      "rows": [
+        { "gameKey": "Balloon#5381", "hash": "8072F47E4FE2BA09", "note": "●バトル前２B — \"before battle 2B\", a NieR raid cue" },
+        { "gameKey": "CustomTalk#721244.64", "hash": "C81644A7A7C01DFC" },
+        { "gameKey": "Balloon#8405", "hash": "E8A1EDA2912F7672" },
         { "gameKey": "PublicContentTextData#2101", "hash": "A88D69A9825CE6D7", "note": "●死亡時 — \"on death\"" },
         { "gameKey": "PublicContentTextData#2102", "hash": "AB85C57845B9D98E", "note": "●外周ダメージ床発生 — \"outer damage floor appears\"" },
         { "gameKey": "PublicContentTextData#2103", "hash": "EA9E49BB11828AD0", "note": "●グングニル投擲 — \"Gungnir throw\"" },
@@ -21630,12 +21374,7 @@
         { "gameKey": "PublicContentTextData#2109", "hash": "3FBB4107CF0A36B1", "note": "●真・斬鉄剣詠唱が中断 — true Zantetsuken, cast interrupted" },
         { "gameKey": "PublicContentTextData#2112", "hash": "4F83DE7953E3E943", "note": "●半面斬鉄剣準備（本気モード）— same, \"serious mode\"" },
         { "gameKey": "PublicContentTextData#2114", "hash": "F8D1B42DAB67C7A4", "note": "●真・斬鉄剣発動直前（要求DPS高）— same, high DPS check" },
-        { "gameKey": "PublicContentTextData#2115", "hash": "75A60502CEA728A2", "note": "●真・斬鉄剣詠唱が中断（要求DPS高）— same, high DPS check" }
-      ]
-    },
-    {
-      "why": "The character sheet's status-resistance panel. Deprecated: the sheet still carries the strings and the client no longer draws the panel, so nothing here can ever reach a screen.",
-      "rows": [
+        { "gameKey": "PublicContentTextData#2115", "hash": "75A60502CEA728A2", "note": "●真・斬鉄剣詠唱が中断（要求DPS高）— same, high DPS check" },
         { "gameKey": "Addon#102500", "hash": "7D0ECE4BBAC7362F", "note": "Resistances" },
         { "gameKey": "Addon#102501", "hash": "F11EA5F2E1E67FDB", "note": "Status Resistances" },
         { "gameKey": "Addon#102502", "hash": "55FB5AB6F02A3234", "note": "Slow Resistance" },
@@ -21647,20 +21386,10 @@
         { "gameKey": "Addon#102508", "hash": "DE6A7824A0AA5712", "note": "Stun Resistance" },
         { "gameKey": "Addon#102509", "hash": "246B7FF9CC68D5AF", "note": "Sleep Resistance" },
         { "gameKey": "Addon#102510", "hash": "A1D461D5E13EA800", "note": "Bind Resistance" },
-        { "gameKey": "Addon#102511", "hash": "9D16BEB4CEC6C55D", "note": "Heavy Resistance" }
-      ]
-    },
-    {
-      "why": "ARR quest rows, all 17 read in all three languages on 7 August 2026 before being listed. Five translators met them across two batches, left them blank as the spec says, and reported them; until now every merge named their six files INCOMPLETE and every session had to be told to ignore it.  The English column says outright that the row is not in use.",
-      "rows": [
+        { "gameKey": "Addon#102511", "hash": "9D16BEB4CEC6C55D", "note": "Heavy Resistance" },
         { "gameKey": "quest/000/ManFst002_00085#TEXT_MANFST002_00085_TALK_SCENE00000_105", "hash": "B035E76F44C4187D", "note": "\"empty\" in en, fr and ja" },
         { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00002_000", "hash": "56F818EFB53292C8", "note": "\"Kweh! Or it would be, if this tag was being used.\"" },
-        { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00007_000", "hash": "FACA8DAAE5149014", "note": "\"Sup, unused tag.\"" }
-      ]
-    },
-    {
-      "why": "\"Textless\", against 空ラベル / 空 / 削除 — empty label, empty, deleted.",
-      "rows": [
+        { "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00007_000", "hash": "FACA8DAAE5149014", "note": "\"Sup, unused tag.\"" },
         { "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SDHODJBI_000_51", "hash": "514F4C95FFDEA4C5" },
         { "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SDHODJBI_000_53", "hash": "6E527A84B86E46C4" },
         { "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SDHODJBI_000_31", "hash": "CB8EAAA8506950A1" },
@@ -21672,19 +21401,9 @@
         { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_BHIRDRAEG_000_11", "hash": "077377E057CDC1C7" },
         { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_BHIRDRAEG_000_12", "hash": "33A4E6F0B342EFFC" },
         { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_BHIRDRAEG_000_13", "hash": "5F35AA21C690A522" },
-        { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_BHIRDRAEG_000_14", "hash": "F19F7136FFDB7B7C" }
-      ]
-    },
-    {
-      "why": "Placeholders the English never had written for it: a commented-out objective and a \"Dammy\" notice. Both carry the real Japanese objective text in fr and ja, which is the tell — the English column is the one that was never filled in.",
-      "rows": [
+        { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_BHIRDRAEG_000_14", "hash": "F19F7136FFDB7B7C" },
         { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_DUMMYTODO_000_010", "hash": "3E5167A3C52F4A9D", "note": "\"//Use stuff and kill things.\"" },
-        { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SYSTEM_000_000", "hash": "4A26CB4A99CCE71F", "note": "\"Dammy: You get four antelope horns!\"" }
-      ]
-    },
-    {
-      "why": "The same thing again, found by the batch of 7 August 2026 and read in all three languages before being listed. The tell is identical: the English is a note to the developer, in the imperative and usually in parentheses, while the Japanese holds the internal design note — 「（若いアラミゴ人を倒す）」, 「ハウケタの屋敷を攻略」. The speaker is DUMMY or ENPC.",
-      "rows": [
+        { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SYSTEM_000_000", "hash": "4A26CB4A99CCE71F", "note": "\"Dammy: You get four antelope horns!\"" },
         { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_ENPC_000_030", "hash": "FBB9C5E69AE5FADB", "note": "\"Dammy: Find Gallien, defeat mob.\"" },
         { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_DUMMY_000_030", "hash": "05A8A21AE75BEE94", "note": "\"(Defeat Ala Mhigan youths.)\"" },
         { "gameKey": "quest/007/GaiUsa709_00782#TEXT_GAIUSA709_00782_DUMMY_000_040", "hash": "BFD4770AA9C02476", "note": "\"(Map of Zanr'ak)\"" },
@@ -21694,18 +21413,8 @@
         { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_DUMMY_000_020", "hash": "CFA7E7B128961C75", "note": "\"(Pick up fragments.)\"" },
         { "gameKey": "quest/007/GaiUsa904_00799#TEXT_GAIUSA904_00799_DUMMY_000_015", "hash": "9E28A125F92DBEC2", "note": "\"(Retrieve body, fight monster...)\"" },
         { "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_DUMMY_000_010", "hash": "6170025A28752887", "note": "\"(Touch gate, gain access)\"" },
-        { "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_DUMMY_000_020", "hash": "39CC953985CFF1A0", "note": "\"(Raid the hell out of Haukke Manor)\"" }
-      ]
-    },
-    {
-      "why": "Not a stage direction but the same class: the English column is the writer asking whether the row is even live. The Japanese is a design note whose own quoted item name is still empty.",
-      "rows": [
-        { "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_SYSTEM_000_000", "hash": "4D3458FB48ACC090", "note": "\"? tag ID says system, but no message pops as of 8/05\"" }
-      ]
-    },
-    {
-      "why": "Batch of 7 August 2026, same reading in all three languages before listing. Two shapes recur and are worth knowing by sight: `//:` opens a note to the developer, and the bare production abbreviations `(QIB)`, `(Lcut)` and `(Ncut)` are camera and battle cues that no NPC ever says. Note GaiUsc406 and GaiUsc601 repeat one line across five and eight rows — the sheet reserves a row per scene step and the writer filled them all with the same note.",
-      "rows": [
+        { "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_DUMMY_000_020", "hash": "39CC953985CFF1A0", "note": "\"(Raid the hell out of Haukke Manor)\"" },
+        { "gameKey": "quest/009/GaiUsc105_00956#TEXT_GAIUSC105_00956_SYSTEM_000_000", "hash": "4D3458FB48ACC090", "note": "\"? tag ID says system, but no message pops as of 8/05\"" },
         { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SYSTEM_000_000", "hash": "82CA433C41F603E7", "note": "\"? tag ID says system but not showing as of 8/05\"" },
         { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_DUMMY_000_010", "hash": "A53E520F467DEA6C", "note": "\"//: /lookout for footprints.\"" },
         { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_DUMMY_000_011", "hash": "E9BA00A284030E7C" },
@@ -21728,12 +21437,7 @@
         { "gameKey": "quest/010/GaiUsc604_01004#TEXT_GAIUSC604_01004_DUMMY_000_061", "hash": "60B7F836B7BF9006", "note": "\"(Lcut)\"" },
         { "gameKey": "quest/010/GaiUsc604_01004#TEXT_GAIUSC604_01004_DUMMY_000_062", "hash": "1A7B1CAD85B0A0E1", "note": "\"(QIB)\"" },
         { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_BIGGS_000_141", "hash": "7787DAAD565FCACF", "note": "\"QIB\"" },
-        { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_BIGGS_000_142", "hash": "333B66D1636D18B1", "note": "\"(Ncut after battle)\"" }
-      ]
-    },
-    {
-      "why": "The 13 LogMessage rows whose English column is Japanese, listed 12 August 2026. They are a hand list and not a regex ON PURPOSE: the markers here are 予備 («spare»), （仮） («provisional») and 削除 («deleted»), and PlaceholderJapanese is also run against the ja and fr columns of every row in the corpus, so teaching it those three characters would start deleting real Japanese prose that happens to contain them. Two of these say outright what they are — （※予備。翻訳不要）, «spare, no translation needed».  NOT every Japanese-looking LogMessage row: the 17 others in this sheet whose English renders as « .» are the delivery and summoning messages, real text hidden inside a branch, and they stay in and are translated from the French.",
-      "rows": [
+        { "gameKey": "quest/010/GaiUsc605_01005#TEXT_GAIUSC605_01005_BIGGS_000_142", "hash": "333B66D1636D18B1", "note": "\"(Ncut after battle)\"" },
         { "gameKey": "LogMessage#876", "hash": "6E14ACAC3A65B70A", "note": "（※予備。翻訳不要）" },
         { "gameKey": "LogMessage#894", "hash": "5F693600D84155D2", "note": "（※予備。翻訳不要）" },
         { "gameKey": "LogMessage#2540", "hash": "B8395D227E4FC8A6", "note": "削除（DUNGEON_Z2R1_MSG_01）を使用してください — deleted, use X" },
@@ -21746,12 +21450,7 @@
         { "gameKey": "LogMessage#9229", "hash": "D18C4C7131BF6667", "note": "●予備" },
         { "gameKey": "LogMessage#9230", "hash": "835EC2C1B5817E13", "note": "●予備" },
         { "gameKey": "LogMessage#9231", "hash": "7F094E164F508ED0", "note": "●予備" },
-        { "gameKey": "LogMessage#9239", "hash": "F0FC3D8C6C6EDC60", "note": "●予備" }
-      ]
-    },
-    {
-      "why": "TstPlnCmpFCCounter_00035 and TstPrgTest_00001, 68 rows: the game's own test scaffolding, left in the sheets. Tst is the file-name prefix for it exactly as Cmn and Reg are for real content, and it is a CLOSED SET — those two conversations and no others. Their English column is Japanese throughout, and TstPrgTest says what it is: シナリオテキストテスト１, «scenario text test 1», followed by シナリオテキストテスト2sdfsd, which is a hand resting on the keyboard. Listed by key and not by prefix, because a prefix rule is the kind that deletes real dialogue the day someone ships a quest that happens to start with those three letters.",
-      "rows": [
+        { "gameKey": "LogMessage#9239", "hash": "F0FC3D8C6C6EDC60", "note": "●予備" },
         { "gameKey": "custom/000/TstPlnCmpFCCounter_00035#TEXT_TSTPLNCMPFCCOUNTER_00035_FCINFO_000_1", "hash": "22974053C4268EBB" },
         { "gameKey": "custom/000/TstPlnCmpFCCounter_00035#TEXT_TSTPLNCMPFCCOUNTER_00035_FCINFO_Q1_000_1", "hash": "57EEA1D60E4FF96C" },
         { "gameKey": "custom/000/TstPlnCmpFCCounter_00035#TEXT_TSTPLNCMPFCCOUNTER_00035_FCINFO_A1_000_1", "hash": "859CCCC281CE360A" },
@@ -21819,28 +21518,13 @@
         { "gameKey": "custom/000/TstPrgTest_00001#TEXT_TSTPRGTEST_00001_COUNT_4", "hash": "F457F4049AADFE9F" },
         { "gameKey": "custom/000/TstPrgTest_00001#TEXT_TSTPRGTEST_00001_COUNT_3", "hash": "96117797C08A58F4" },
         { "gameKey": "custom/000/TstPrgTest_00001#TEXT_TSTPRGTEST_00001_COUNT_2", "hash": "27F49F2AB6B7F98B" },
-        { "gameKey": "custom/000/TstPrgTest_00001#TEXT_TSTPRGTEST_00001_COUNT_1", "hash": "EE25920B687402B6" }
-      ]
-    },
-    {
-      "why": "The remaining four せーりーふー rows — «diaaalogue», a slot marker with nothing in it. The fifth went out with the svc-02 batch.",
-      "rows": [
+        { "gameKey": "custom/000/TstPrgTest_00001#TEXT_TSTPRGTEST_00001_COUNT_1", "hash": "EE25920B687402B6" },
         { "gameKey": "custom/001/CmnRadBahamutEventTerritory_00164#TEXT_CMNRADBAHAMUTEVENTTERRITORY_00164_TALK_ACTOR", "hash": "609B13020F69FDA9" },
         { "gameKey": "custom/001/CmnDefHousingCraftFacility_00152#TEXT_CMNDEFHOUSINGCRAFTFACILITY_00152_TALK_ACTOR", "hash": "2EAB6C477AFE7658" },
         { "gameKey": "custom/001/CmnDefHousingObject_00141#TEXT_CMNDEFHOUSINGOBJECT_00141_TALK_ACTOR", "hash": "7A135FD14C221D08" },
-        { "gameKey": "custom/001/CmnDefUltimaWeaponNormalOpener_00137#TEXT_CMNDEFULTIMAWEAPONNORMALOPENER_00137_TALK_ACTOR", "hash": "99D6EE1CA9658082" }
-      ]
-    },
-    {
-      "why": "Two more from the svc-02 chunk, both reported rather than guessed at.",
-      "rows": [
+        { "gameKey": "custom/001/CmnDefUltimaWeaponNormalOpener_00137#TEXT_CMNDEFULTIMAWEAPONNORMALOPENER_00137_TALK_ACTOR", "hash": "99D6EE1CA9658082" },
         { "gameKey": "custom/000/ComDefCompanyChest_00099#TEXT_COMDEFCOMPANYCHEST_00099_TALK_ACTOR", "hash": "8A8DC9BD19D12169", "note": "せーりーふー — «diaaalogue», a slot marker" },
-        { "gameKey": "custom/000/ComDefFreeCompany_00076#TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_65", "hash": "9F6E3D7C71D37995", "note": "（仮）未実装項目 — provisional, not implemented" }
-      ]
-    },
-    {
-      "why": "RegFstHowToAutoAttack_00027, all 14 rows: a CustomTalk widget test left in the sheets. The English column is Japanese and says so outright — «カスタムトークテストです。このページ以降、 ウィジェットの可変テストになります。», «this is a CustomTalk test; from this page on it is a widget variability test» — and the French and Japanese columns are the same characters. Found by the svc-04 translator, who reported them rather than inventing Spanish for a test page.",
-      "rows": [
+        { "gameKey": "custom/000/ComDefFreeCompany_00076#TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_65", "hash": "9F6E3D7C71D37995", "note": "（仮）未実装項目 — provisional, not implemented" },
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00000", "hash": "897DACF4805F8D7D" },
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00001", "hash": "901C7FDEC4F6AFA2" },
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00002", "hash": "A94721970BFD5E50" },
@@ -21854,12 +21538,7 @@
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00007A3", "hash": "167FA4F71F7A9115" },
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00007A4", "hash": "FE421863493BA603" },
         { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00007A5", "hash": "4EBCFDB065409958" },
-        { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00007A6", "hash": "CF4B18FDE9676C0C" }
-      ]
-    },
-    {
-      "why": "EVERY ROW A REALM REBORN HAD LEFT, 12 August 2026, read in all three languages first. The block sat at 99% with these 57 as the whole remainder, and not one of them is a line: the French and Japanese say so outright — 空 (empty), 空ラベル (empty label), 削除ラベル (deleted label), （カット）, （削除）, 待機＆討伐仮 («wait and kill, provisional») — or they hold the designer's own working note, complete with `pop`, `eobj` and raw <sheet(BNpcName,…)> ids, while the English column carries its `//:` summary of the same note.  GaiUsa908_00803 is the one to look at twice: its French reads as ordinary French («Inspecter 3 constructions endommagées») because the French team translated the note. The English is still «//: inspect scaffolding, kill monster» and the Japanese is still a note, which is the same shape as ClsTan005_00051 above and settles it the same way.",
-      "rows": [
+        { "gameKey": "custom/000/RegFstHowToAutoAttack_00027#TEXT_REGFSTHOWTOAUTOATTACK_00027_SCENE00007A6", "hash": "CF4B18FDE9676C0C" },
         { "gameKey": "quest/000/ClsTan006_00061#TEXT_CLSTAN006_00061_CAMILLAIN_000_43", "hash": "A9ABCE997E254E71", "note": "Not to be, this tag." },
         { "gameKey": "quest/000/ClsTan006_00061#TEXT_CLSTAN006_00061_CAMILLAIN_000_44", "hash": "6F2FF29FEC3A7B1B", "note": "Not to be, this tag." },
         { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SINGINGSTORMCLOUD000_0", "hash": "17B6B55C3BFCF442", "note": "blank" },
@@ -21916,38 +21595,169 @@
         { "gameKey": "quest/010/GaiUsc802_01026#TEXT_GAIUSC802_01026_DUMMY_000_032", "hash": "255FA2490DD2F8AC", "note": "Carry supplies" },
         { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_NOTRECOVER_000_001", "hash": "D1BD16A2B5C5DDAF", "note": "（カット）" },
         { "gameKey": "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_015", "hash": "75CD9900953CF5CF", "note": "（削除）" },
-        { "gameKey": "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_016", "hash": "ADDE6B0AA4BE2ADC", "note": "（削除）" }
-      ]
-    },
-    {
-      "why": "A source-control marker pasted into a quest objective, and the only row in the corpus that carries one: \"#SourceRevision[19242]Aye, these are our stolen muskets.\" Its three siblings TODO_00 to TODO_02 are ordinary objectives with French; this one has neither French nor Japanese, and its text is a line of dialogue rather than an instruction. A merge leaving.",
-      "rows": [
-        { "gameKey": "quest/020/ClsMin502_02080#TEXT_CLSMIN502_02080_TODO_03", "hash": "0295BF3155CA4A77" }
-      ]
-    },
-    {
-      "why": "シュポシェのヒント（仮） — \"Shuposhe's hint (provisional)\", identical in all three columns. The （仮） is the writer saying so, which is the same self-declaring shape that already put CustomTalk#721244.64 on this list. One row; no pattern, because （仮） elsewhere sits inside real text.",
-      "rows": [
-        { "gameKey": "GimmickBill#1", "hash": "E1436A4B6D8B1985" }
-      ]
-    },
-    {
-      "why": "Exclude the internal EventItem language marker; it is not a key item name.",
-      "rows": [
-        { "gameKey": "EventItem#2000000.0", "hash": "F51FC4C5CE98B481" }
-      ]
-    },
-    {
-      "why": "Exclude the internal harpoon markers shared by all reference languages.",
-      "rows": [
+        { "gameKey": "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_016", "hash": "ADDE6B0AA4BE2ADC", "note": "（削除）" },
+        { "gameKey": "quest/020/ClsMin502_02080#TEXT_CLSMIN502_02080_TODO_03", "hash": "0295BF3155CA4A77" },
+        { "gameKey": "GimmickBill#1", "hash": "E1436A4B6D8B1985" },
+        { "gameKey": "EventItem#2000000.0", "hash": "F51FC4C5CE98B481" },
         { "gameKey": "GatheringType#4", "hash": "9767173A3AC44F29" },
-        { "gameKey": "GatheringType#5", "hash": "7F0373C4911CC0C0" }
+        { "gameKey": "GatheringType#5", "hash": "7F0373C4911CC0C0" },
+        { "gameKey": "WeeklyBingoText#0", "hash": "B6184D5A96B1FE85" }
       ]
     },
     {
-      "why": "Exclude the internal weekly bingo dummy label. French marks it as a test and Japanese marks it as a dummy.",
+      "why": "Symbols and dynamic values.",
       "rows": [
-        { "gameKey": "WeeklyBingoText#0", "hash": "B6184D5A96B1FE85" }
+        { "gameKey": "Lobby#1168.3", "hash": "4F3C1D73133BAC2F" }
+      ]
+    },
+    {
+      "why": "Regional client content.",
+      "rows": [
+        { "gameKey": "Error#12002", "hash": "9ED8E31CEABEE578" }
+      ]
+    },
+    {
+      "why": "Incomplete reference-language coverage.",
+      "rows": [
+        { "gameKey": "Addon#102679", "hash": "5D002462982877F3" },
+        { "gameKey": "Addon#102680", "hash": "4F61681358129D1B" },
+        { "gameKey": "Addon#102681", "hash": "2E37FD6769EED73E" },
+        { "gameKey": "Addon#102682", "hash": "615259525F7D8BFC" },
+        { "gameKey": "Addon#11802", "hash": "7AB4E2B4861D7C45" },
+        { "gameKey": "Addon#12816", "hash": "821ABCE513325FF5" },
+        { "gameKey": "Addon#12873", "hash": "EBC746DA3D4848AF" },
+        { "gameKey": "Addon#12966", "hash": "1B53BF01716B7C94" },
+        { "gameKey": "Addon#15018", "hash": "14FD8340D86037FC" },
+        { "gameKey": "Addon#15132", "hash": "21CB6019BAE5CF77" },
+        { "gameKey": "Addon#15268", "hash": "92F7A35467BDE7E8" },
+        { "gameKey": "Addon#15976", "hash": "BCEF48264DF90077" },
+        { "gameKey": "Addon#16034", "hash": "4021E678AC81419F" },
+        { "gameKey": "Addon#16237", "hash": "FF3600D1A79B4020" },
+        { "gameKey": "Addon#16238", "hash": "20414C2FAD1A60DB" },
+        { "gameKey": "Addon#16618", "hash": "E09A009CB0695F21" },
+        { "gameKey": "Addon#16619", "hash": "C07FF582C6A801DC" },
+        { "gameKey": "Addon#16920", "hash": "2D94E53EC2199771" },
+        { "gameKey": "Addon#2082", "hash": "567B610B149AE7D1" },
+        { "gameKey": "Addon#2083", "hash": "241F58DD708975B7" },
+        { "gameKey": "Addon#2284", "hash": "D64381C864898918" },
+        { "gameKey": "Addon#2652", "hash": "5BC5CBAEFEEF1D48" },
+        { "gameKey": "Addon#3451", "hash": "7AA492790F5563D4" },
+        { "gameKey": "Addon#3541", "hash": "DE720D0C21822231" },
+        { "gameKey": "Addon#3911", "hash": "3F5772C544F14C73" },
+        { "gameKey": "Addon#4704", "hash": "2FFE007E5E8B0CFB" },
+        { "gameKey": "Addon#4761", "hash": "7982D11BEE9169FA" },
+        { "gameKey": "Addon#5248", "hash": "765B659F680F103E" },
+        { "gameKey": "Addon#5249", "hash": "0C94A07692CF37E4" },
+        { "gameKey": "Addon#5250", "hash": "30800F76A5E36873" },
+        { "gameKey": "Addon#5251", "hash": "97D9C632D3521228" },
+        { "gameKey": "Addon#5252", "hash": "17415B69FAB615E6" },
+        { "gameKey": "Addon#5253", "hash": "61B96CD4E9644E0B" },
+        { "gameKey": "Addon#5254", "hash": "6CD3A4E2C3F25E48" },
+        { "gameKey": "Addon#5255", "hash": "1BC3A7072B7E1910" },
+        { "gameKey": "Addon#5256", "hash": "FA7754CB14C40459" },
+        { "gameKey": "Addon#5257", "hash": "658FC31B48835CC5" },
+        { "gameKey": "Addon#5455", "hash": "4615DCA318DCF484" },
+        { "gameKey": "Addon#6550", "hash": "49373A6029BFCD97" },
+        { "gameKey": "Addon#8144", "hash": "C81D1BBF4C665358" },
+        { "gameKey": "Addon#8146", "hash": "292166DFD79E2D93" },
+        { "gameKey": "Addon#8314", "hash": "FB7D7E0964E72864" },
+        { "gameKey": "Addon#9457", "hash": "31ADB45AC491B01D" },
+        { "gameKey": "Addon#9867", "hash": "D9FDFEDA6F13F568" },
+        { "gameKey": "Balloon#8018", "hash": "748A906D8F222F87" },
+        { "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR", "hash": "724955F0AF9ABC43" },
+        { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE", "hash": "932EFB3276A41258" },
+        { "gameKey": "DefaultTalk#591691.21", "hash": "5A940958636EC805" },
+        { "gameKey": "Description#3604485.4", "hash": "A549EFF6572BE6C6" },
+        { "gameKey": "InstanceContentTextData#30518", "hash": "1D41C64B8FC7AEF2" },
+        { "gameKey": "InstanceContentTextData#30811", "hash": "58F97E8117C079C6" },
+        { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044" },
+        { "gameKey": "quest/002/ClsGla250_00264#TEXT_CLSGLA250_00264_Q1_000_170", "hash": "B2CD24DB2A858858" },
+        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_02", "hash": "7131A168C2326ACC" },
+        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_03", "hash": "679A55FB27F9A091" },
+        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_04", "hash": "D2CA77B263648147" },
+        { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_05", "hash": "91F10963DD8F1912" },
+        { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_00", "hash": "5C9266D4D9CFA336" },
+        { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_01", "hash": "638779503AE0873E" },
+        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_01", "hash": "90A7F19724FB4986" },
+        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_02", "hash": "F9F9298A8BAEA93F" },
+        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_03", "hash": "B3BD2D5DDAC0849B" },
+        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_04", "hash": "9A7795171105EDE7" },
+        { "gameKey": "quest/027/StmBdz610_02788#TEXT_STMBDZ610_02788_SEQ_05", "hash": "5C5A07EA4CDE3CA2" },
+        { "gameKey": "Warp#131158.11", "hash": "B0A67245A70F074B" },
+        { "gameKey": "Warp#131160.11", "hash": "4CDE93A3E72B14BB" },
+        { "gameKey": "Warp#131252.10", "hash": "B7A4BBBF1C5794A7" },
+        { "gameKey": "Warp#131253.10", "hash": "CB4E9C42CA7846CA" },
+        { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001980_KRILE", "hash": "F545EE2EBC47CC74" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_000260_FAKEGODBEAST", "hash": "4754BAB916643428" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_000270_FAKEGODBEAST", "hash": "2CC4E403107AE5FD" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001160_HANNISHOLDWOMANA", "hash": "C6AE2ED69D476236" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001210_HANNISHBOYA", "hash": "C37043D0D459B960" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001230_HANNISHBOYA", "hash": "04527B46DB34FFC5" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002250_MATSYA", "hash": "4949D057E771EAD8" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002310_MATSYA", "hash": "0EA56DB008D34331" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002330_MATSYA", "hash": "CAEB84AFC3EA4946" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002370_MATSYA", "hash": "397087B66C3632E8" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002450_ESTINIEN", "hash": "8017137D1E17E852" },
+        { "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002650_HANNISHBOYB", "hash": "0305B00BD15846C4" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000020_REFUGEEMAN", "hash": "997459D4CBE5C3DA" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000110_ESTINIEN", "hash": "A24250FB2421580F" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000135_ESTINIEN", "hash": "C1CE6455C0EB148E" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000160_ALPHINAUD", "hash": "826CC90F4054F6A3" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000530_ALISAIE", "hash": "5966A293F489D0ED" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_000540_ALISAIE", "hash": "4B4D9B4BE8689F6D" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_001650_LIVINGWAY", "hash": "A03BDEF1C60E96B3" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005190_SICARD", "hash": "547272CDD8314001" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005200_EMMANELLAIN", "hash": "9EE8011D7B6D8F37" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005210_HANCOCK", "hash": "CC3914650609A4F2" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005220_SOROBAN", "hash": "D1061B4F60B21C9D" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005230_ERENVILLE", "hash": "54E5079B60337A82" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005240_CID", "hash": "3F70B3824B884453" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005250_HOARYBOULDER", "hash": "31B9F0FD1481D67B" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_005260_NIDHANA", "hash": "ED50E20B4B748E03" },
+        { "gameKey": "cut_scene/060/VoiceMan_06005#TEXT_VOICEMAN_06005_006470_HYDAELYN", "hash": "4EB3B4C03F9BD7F5" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_000110_THANCRED", "hash": "05A93F2E2232D1A4" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_000140_THANCRED", "hash": "C026D68A616BD070" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_003480_ESTINIEN", "hash": "29BE582506F303DD" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005380_ALPHINAUD", "hash": "A363B910D9D6DFDD" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_005660_ALPHINAUD", "hash": "563BBC8E2207BE14" },
+        { "gameKey": "cut_scene/060/VoiceMan_06006#TEXT_VOICEMAN_06006_007260_ALISAIE", "hash": "0C50A7DA225300D7" },
+        { "gameKey": "Item#1.8", "hash": "F7DEFE49ACB57125" },
+        { "gameKey": "Item#32.8", "hash": "5B24CDDB4062FF2E" },
+        { "gameKey": "Item#33.8", "hash": "111EFBE2DBE2E31A" },
+        { "gameKey": "Item#8669.8", "hash": "3C6FC76337C79BEC" },
+        { "gameKey": "Item#8670.8", "hash": "28812D0401159F8A" },
+        { "gameKey": "Item#8671.8", "hash": "030A772C5F192855" },
+        { "gameKey": "Item#8672.8", "hash": "6792DF611A1F1341" },
+        { "gameKey": "Item#8673.8", "hash": "CDC03A0EC9EB80A6" },
+        { "gameKey": "Item#8674.8", "hash": "F7511EF0834E167F" },
+        { "gameKey": "Item#8675.8", "hash": "00514B85882BA6B4" },
+        { "gameKey": "Item#8676.8", "hash": "252D0F70C4169F7C" },
+        { "gameKey": "Item#8677.8", "hash": "A5AF2303D0F141DD" },
+        { "gameKey": "Item#8678.8", "hash": "81EC42BD0E9885EF" },
+        { "gameKey": "Item#8679.8", "hash": "ADD50E626877B193" },
+        { "gameKey": "Item#8680.8", "hash": "5DB3C119B8FD8E13" },
+        { "gameKey": "Item#8681.8", "hash": "E7F8DA068278E8A4" },
+        { "gameKey": "Item#8682.8", "hash": "198DCD922E84C9B3" },
+        { "gameKey": "Item#8683.8", "hash": "47F486A7E0E02D89" },
+        { "gameKey": "Item#8684.8", "hash": "479C4B6DE476E50E" },
+        { "gameKey": "Item#8685.8", "hash": "F9CF974751C22AF8" },
+        { "gameKey": "Item#8686.8", "hash": "35535D389930C498" },
+        { "gameKey": "Item#8687.8", "hash": "53345DC00ED27026" },
+        { "gameKey": "Item#8688.8", "hash": "73D48C3977EB6654" },
+        { "gameKey": "Item#8689.8", "hash": "632A3EAFD3D58AC0" },
+        { "gameKey": "Item#8690.8", "hash": "133B3B348CFEF7A3" },
+        { "gameKey": "Item#8691.8", "hash": "F40F2E13FD69E03E" },
+        { "gameKey": "Item#8692.8", "hash": "06145398AF09B9FB" },
+        { "gameKey": "Item#10009.8", "hash": "6427A6986EFDA202" },
+        { "gameKey": "Item#10010.8", "hash": "2FF0CA208CA8BA63" },
+        { "gameKey": "Item#10011.8", "hash": "E1643EF30B9C270C" },
+        { "gameKey": "Item#10012.8", "hash": "AC69A3AA9E06C86B" },
+        { "gameKey": "Item#10013.8", "hash": "2ED5674E44C080E9" },
+        { "gameKey": "Item#13251.8", "hash": "E609ECB6DE723A15" },
+        { "gameKey": "Item#13252.8", "hash": "D98CC1225352B8FF" },
+        { "gameKey": "Item#13253.8", "hash": "CEFFDE799FA8EBCC" },
+        { "gameKey": "Item#13254.8", "hash": "77C5E451FFB3FD78" },
+        { "gameKey": "Item#13255.8", "hash": "1BBB3E107BDB9927" }
       ]
     }
   ]
