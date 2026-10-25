@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "BgcArmyActionTransient",
+  "entries": [
+    {
+      "gameKey": "BgcArmyActionTransient#1",
+      "en": "Orders squadron to engage the enemy.<br>Can only be executed while on a <colortype(506)><edgecolortype(507)>command mission<edgecolortype(0)><colortype(0)>.",
+      "hash": "E0FA3F8E5578B066",
+      "unresolved": false,
+      "fr": "Ordonne aux membres d'escouade d'engager le combat.<br>* Utilisable uniquement en cours d'incursion d'escouade",
+      "ja": "小隊員たちに戦闘を開始するように号令を発する。<br>※攻略任務中のみ実行可能",
+      "de": "Befiehlt den Soldaten deines Kommandos, den anvisierten Gegner anzugreifen.<br>※ Nur während laufenden Operationen verfügbar.",
+      "conversation": "BgcArmyActionTransient#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyActionTransient"
+    },
+    {
+      "gameKey": "BgcArmyActionTransient#2",
+      "en": "Orders squadron to disengage the enemy and fall back.<br>Can only be executed while on a <colortype(506)><edgecolortype(507)>command mission<edgecolortype(0)><colortype(0)>.",
+      "hash": "B37C5A49A69E5EBD",
+      "unresolved": false,
+      "fr": "Ordonne aux membres d'escouade d'effectuer un repli temporaire.<br>* Utilisable uniquement en cours d'incursion d'escouade",
+      "ja": "小隊員たちに一時撤退するように号令を発する。<br>※攻略任務中のみ実行可能",
+      "de": "Befiehlt den Soldaten deines Kommandos, sich vor<->über<->gehend zurückzuziehen.<br>※ Nur während laufenden Operationen verfügbar.",
+      "conversation": "BgcArmyActionTransient#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyActionTransient"
+    },
+    {
+      "gameKey": "BgcArmyActionTransient#3",
+      "en": "Orders squadron to re-engage the enemy.<br>Can only be executed while on a <colortype(506)><edgecolortype(507)>command mission<edgecolortype(0)><colortype(0)>.",
+      "hash": "573E1B117C6CD9C9",
+      "unresolved": false,
+      "fr": "Ordonne aux membres d'escouade de mettre fin au repli temporaire.<br>* Utilisable uniquement en cours d'incursion d'escouade",
+      "ja": "小隊員たちに一時撤退を解除するように号令を発する。<br>※攻略任務中のみ実行可能",
+      "de": "Befiehlt den Soldaten deines Kommandos, den vor<->über<->gehenden Rückzug zu beenden.<br>※ Nur während laufenden Operationen verfügbar.",
+      "conversation": "BgcArmyActionTransient#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyActionTransient"
+    },
+    {
+      "gameKey": "BgcArmyActionTransient#4",
+      "en": "Orders squadron to execute a limit break on a single target. Also increases damage dealt by party members within a 20-yalm range.<br>Can only be executed while on a <colortype(506)><edgecolortype(507)>command mission<edgecolortype(0)><colortype(0)>, limit gauge is at level 1, and all three squadron members are conscious.",
+      "hash": "6E4AFBE216E88B78",
+      "unresolved": false,
+      "fr": "Inflige d'importants dégâts à un ennemi.<br>Augmente les dégâts infligés par les membres d'escouade dans un rayon de 20y.<br><colortype(506)><edgecolortype(507)>Condition<nbsp>:<edgecolortype(0)><colortype(0)> tous les membres d'escouades doivent être en vie.<br>* Transcendance de niveau 1. Utilisable uniquement en cours d'incursion d'escouade.",
+      "ja": "敵単体に大ダメージを与える。<br>さらに範囲内のパーティメンバー全員の与ダメージを上昇させる。（範囲：20m）<br><colortype(504)><edgecolortype(505)>発動条件：<edgecolortype(0)><colortype(0)>小隊員3名全員が生存状態<br>※リミットブレイクレベル1専用アクション、攻略任務中のみ実行可能",
+      "de": "Verbraucht eine Stufe des Limitrausch-Balkens und fügt einem Gegner großen Schaden zu. Außerdem wird der ausgeteilte Schaden von Grup<->pen<->mit<->gliedern im Wir<->kungs<->be<->reich erhöht.<br>Bedingung: Alle vier Truppmitglieder sind kampffähig.<br>Radius: 20y<br>※ Nur während laufenden Operationen verfügbar.",
+      "conversation": "BgcArmyActionTransient#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyActionTransient"
+    },
+    {
+      "gameKey": "BgcArmyActionTransient#5",
+      "en": "Displays Order Hotbar.<br>Can only be executed while on a <colortype(506)><edgecolortype(507)>command mission<edgecolortype(0)><colortype(0)>.",
+      "hash": "98C810A1205679B8",
+      "unresolved": false,
+      "fr": "Affiche la barre de raccourcis des ordres.<br>* Utilisable uniquement en cours d'incursion d'escouade",
+      "ja": "号令ホットバーを表示する。<br>※攻略任務中のみ実行可能",
+      "de": "Zeigt die Kommandoliste mit allen Befehlen an.<br>※ Nur während laufenden Operationen verfügbar.",
+      "conversation": "BgcArmyActionTransient#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyActionTransient"
+    }
+  ]
+}

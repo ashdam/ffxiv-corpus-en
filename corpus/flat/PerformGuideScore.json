@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "PerformGuideScore",
+  "entries": [
+    {
+      "gameKey": "PerformGuideScore#1",
+      "en": "A World Apart",
+      "hash": "498EBC56A9E4ABC4",
+      "unresolved": false,
+      "fr": "A World Apart",
+      "ja": "そして世界へ",
+      "de": "A World Apart",
+      "conversation": "PerformGuideScore#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PerformGuideScore"
+    },
+    {
+      "gameKey": "PerformGuideScore#2",
+      "en": "Wailers and Waterwheels",
+      "hash": "933F3E42B524BBAF",
+      "unresolved": false,
+      "fr": "Wailers And Waterwheels",
+      "ja": "水車の調べ",
+      "de": "Wailers And Waterwheels",
+      "conversation": "PerformGuideScore#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PerformGuideScore"
+    },
+    {
+      "gameKey": "PerformGuideScore#3",
+      "en": "Night in the Brume",
+      "hash": "A4E36F75532304B0",
+      "unresolved": false,
+      "fr": "Night in the Brume",
+      "ja": "雲霧街の夜霧 ～イシュガルド下層：夜～",
+      "de": "Night in the Brume",
+      "conversation": "PerformGuideScore#3",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PerformGuideScore"
+    },
+    {
+      "gameKey": "PerformGuideScore#6",
+      "en": "Eternal Wind",
+      "hash": "E3DCFBD6192557E1",
+      "unresolved": false,
+      "fr": "Eternal Wind",
+      "ja": "悠久の風 ～新生～",
+      "de": "Eternal Wind",
+      "conversation": "PerformGuideScore#6",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PerformGuideScore"
+    },
+    {
+      "gameKey": "PerformGuideScore#7",
+      "en": "The Mushroomery",
+      "hash": "5F92A98952C4D02B",
+      "unresolved": false,
+      "fr": "The Mushroomery",
+      "ja": "マトーヤの洞窟 ～蒼天～",
+      "de": "The Mushroomery",
+      "conversation": "PerformGuideScore#7",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PerformGuideScore"
+    }
+  ]
+}

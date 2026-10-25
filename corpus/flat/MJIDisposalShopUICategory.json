@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "MJIDisposalShopUICategory",
+  "entries": [
+    {
+      "gameKey": "MJIDisposalShopUICategory#0",
+      "en": "Materials",
+      "hash": "4190E2FFA5607392",
+      "unresolved": false,
+      "fr": "Matériaux",
+      "ja": "開拓素材",
+      "de": "Material",
+      "conversation": "MJIDisposalShopUICategory#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MJIDisposalShopUICategory"
+    },
+    {
+      "gameKey": "MJIDisposalShopUICategory#1",
+      "en": "Rare Materials",
+      "hash": "873FB0193E6C068C",
+      "unresolved": false,
+      "fr": "Raretés",
+      "ja": "希少開拓素材",
+      "de": "Seltene Funde",
+      "conversation": "MJIDisposalShopUICategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MJIDisposalShopUICategory"
+    },
+    {
+      "gameKey": "MJIDisposalShopUICategory#2",
+      "en": "Produce",
+      "hash": "DBD1FDC56C191036",
+      "unresolved": false,
+      "fr": "Cultures",
+      "ja": "開拓作物",
+      "de": "Feldfrüchte",
+      "conversation": "MJIDisposalShopUICategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MJIDisposalShopUICategory"
+    },
+    {
+      "gameKey": "MJIDisposalShopUICategory#3",
+      "en": "Leavings",
+      "hash": "5B98214571100EB5",
+      "unresolved": false,
+      "fr": "Ressources animalières",
+      "ja": "畜産素材",
+      "de": "Weideprodukte",
+      "conversation": "MJIDisposalShopUICategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MJIDisposalShopUICategory"
+    }
+  ]
+}

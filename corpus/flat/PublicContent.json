@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "PublicContent",
+  "entries": [
+    {
+      "gameKey": "PublicContent#1",
+      "en": "the Ceremony of Eternal Bonding",
+      "hash": "FD83053825EE16E1",
+      "unresolved": false,
+      "fr": "La cérémonie du lien éternel",
+      "ja": "エターナルセレモニー",
+      "de": "Der Ritus des Ewigen Bundes",
+      "conversation": "PublicContent#1",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PublicContent"
+    }
+  ]
+}

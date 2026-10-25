@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "HWDCrafterSupplyTerm",
+  "entries": [
+    {
+      "gameKey": "HWDCrafterSupplyTerm#1",
+      "en": "First Restoration Phase",
+      "hash": "AA4EEE0F300CDBE2",
+      "unresolved": false,
+      "fr": "Première phase de reconstruction",
+      "ja": "第一次復興事業計画向け納品",
+      "de": "Lieferungen für das erste Großprojekt",
+      "conversation": "HWDCrafterSupplyTerm#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDCrafterSupplyTerm"
+    },
+    {
+      "gameKey": "HWDCrafterSupplyTerm#2",
+      "en": "Second Restoration Phase",
+      "hash": "F45BF95C08215CD9",
+      "unresolved": false,
+      "fr": "Deuxième phase de reconstruction",
+      "ja": "第二次復興事業計画向け納品",
+      "de": "Lieferungen für das zweite Großprojekt",
+      "conversation": "HWDCrafterSupplyTerm#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDCrafterSupplyTerm"
+    },
+    {
+      "gameKey": "HWDCrafterSupplyTerm#3",
+      "en": "Third Restoration Phase",
+      "hash": "70B4A0761CCB2D82",
+      "unresolved": false,
+      "fr": "Troisième phase de reconstruction",
+      "ja": "第三次復興事業計画向け納品",
+      "de": "Lieferungen für das dritte Großprojekt",
+      "conversation": "HWDCrafterSupplyTerm#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDCrafterSupplyTerm"
+    },
+    {
+      "gameKey": "HWDCrafterSupplyTerm#4",
+      "en": "Fourth Restoration Phase",
+      "hash": "006CB7CF92EFC594",
+      "unresolved": false,
+      "fr": "Quatrième phase de reconstruction",
+      "ja": "第四次復興事業計画向け納品",
+      "de": "Lieferungen für das vierte Großprojekt",
+      "conversation": "HWDCrafterSupplyTerm#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDCrafterSupplyTerm"
+    }
+  ]
+}

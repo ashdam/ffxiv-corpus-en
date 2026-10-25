@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "HWDInfoBoardBackNumber",
+  "entries": [
+    {
+      "gameKey": "HWDInfoBoardBackNumber#0",
+      "en": "First Restoration Phase",
+      "hash": "D28E82E022F868A9",
+      "unresolved": false,
+      "fr": "Première phase des travaux",
+      "ja": "第一次復興事業計画",
+      "de": "Erstes Großprojekt",
+      "conversation": "HWDInfoBoardBackNumber#0",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardBackNumber"
+    },
+    {
+      "gameKey": "HWDInfoBoardBackNumber#1",
+      "en": "Second Restoration Phase",
+      "hash": "A27A72E5A67543F2",
+      "unresolved": false,
+      "fr": "Deuxième phase des travaux",
+      "ja": "第二次復興事業計画",
+      "de": "Zweites Großprojekt",
+      "conversation": "HWDInfoBoardBackNumber#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardBackNumber"
+    },
+    {
+      "gameKey": "HWDInfoBoardBackNumber#2",
+      "en": "Third Restoration Phase",
+      "hash": "63126CCFC9F4111C",
+      "unresolved": false,
+      "fr": "Troisième phase des travaux",
+      "ja": "第三次復興事業計画",
+      "de": "Drittes Großprojekt",
+      "conversation": "HWDInfoBoardBackNumber#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardBackNumber"
+    },
+    {
+      "gameKey": "HWDInfoBoardBackNumber#3",
+      "en": "Fourth Restoration Phase",
+      "hash": "3B23BB56CE9BA7AC",
+      "unresolved": false,
+      "fr": "Quatrième phase des travaux",
+      "ja": "第四次復興事業計画",
+      "de": "Viertes Großprojekt",
+      "conversation": "HWDInfoBoardBackNumber#3",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardBackNumber"
+    }
+  ]
+}

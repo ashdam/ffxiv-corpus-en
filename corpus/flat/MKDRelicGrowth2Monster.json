@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "MKDRelicGrowth2Monster",
+  "entries": [
+    {
+      "gameKey": "MKDRelicGrowth2Monster#0",
+      "en": "I cannot access my power...\nNeed hands... Need feet.",
+      "hash": "655ED7CF47C78717",
+      "unresolved": false,
+      "fr": "Cette forme est insuffisante pour que j'exprime mon pouvoir... J'avais des mains... et des pieds...",
+      "ja": "これでは、チカラ、うまく出せナイ……。\n余、手と足、あったヨ……。",
+      "de": "Ich kann nicht auf meine Kräfte zugreifen ...\nIch brauche Hände ... und Füße.",
+      "conversation": "MKDRelicGrowth2Monster#0",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDRelicGrowth2Monster"
+    },
+    {
+      "gameKey": "MKDRelicGrowth2Monster#1",
+      "en": "My real form is...smarter, statelier.\nMake the vessel so!",
+      "hash": "0425EE69AF589FB8",
+      "unresolved": false,
+      "fr": "J'étais plus sage... plus intelligent... Offre-moi un corps digne de mon immense pouvoir magique !",
+      "ja": "余は賢明にして、偉大であル！\n強大な魔力、秘めたカンジで頼むヨ！",
+      "de": "Meine wahre Form ist ... klüger, würdevoller.\nGestalte das Gefäß so!",
+      "conversation": "MKDRelicGrowth2Monster#1",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDRelicGrowth2Monster"
+    },
+    {
+      "gameKey": "MKDRelicGrowth2Monster#2",
+      "en": "Take care when crafting my vessel.\nI wish not to face my underlings with an unseemly visage!",
+      "hash": "BFDD28A50D9AE087",
+      "unresolved": false,
+      "fr": "J'étais belle à tomber et personne ne résistait à mon charme ! Hors de question de me montrer sous un visage aussi hideux !",
+      "ja": "当然だが、顔の造形にはこだわる余。\nブサイクな顔に仕上げタら、\n眷属たちが黙っておらんからナ！",
+      "de": "Lasse Sorgfalt walten beim Herstellen des Gefäßes.\nIch möchte meinen Untergebenen nicht mit einem ungebührlichen Antlitz gegenübertreten!",
+      "conversation": "MKDRelicGrowth2Monster#2",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDRelicGrowth2Monster"
+    },
+    {
+      "gameKey": "MKDRelicGrowth2Monster#3",
+      "en": "I once channeled the aether of vanquished foes into a brilliant orb. To unleash my power, you must utilize a similar sphere for the vessel!",
+      "hash": "F0EE92D21B3A52B4",
+      "unresolved": false,
+      "fr": "J'étais en possession d'un orbe, débordant de l'éther des âmes que j'avais dévorées au fil des millénaires... Sans une relique similaire, mes pouvoirs resteront bridés !",
+      "ja": "余は喰らっタ妖異の魂を、\nすべて「霊玉」に集約しておル。\nそれなくして、力は発揮できナイ。\nゆえに、霊玉を模した球体を、\nあわせて作ルが良いヨ！",
+      "de": "Ich habe einst den Äther bezwungener Gegner in einer strahlenden Sphäre gelagert. Um meine Kräfte zu entfesseln, musst du eine ähnliche Sphäre für das Gefäß nutzen!",
+      "conversation": "MKDRelicGrowth2Monster#3",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDRelicGrowth2Monster"
+    }
+  ]
+}

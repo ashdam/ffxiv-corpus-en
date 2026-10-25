@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "ExVersion",
+  "entries": [
+    {
+      "gameKey": "ExVersion#0",
+      "en": "A Realm Reborn",
+      "hash": "E32A67DF49CF48E7",
+      "unresolved": false,
+      "fr": "A Realm Reborn",
+      "ja": "新生エオルゼア",
+      "de": "A Realm Reborn",
+      "conversation": "ExVersion#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    },
+    {
+      "gameKey": "ExVersion#1",
+      "en": "Heavensward",
+      "hash": "681065CACE8EE7B9",
+      "unresolved": false,
+      "fr": "Heavensward",
+      "ja": "蒼天のイシュガルド",
+      "de": "Heavensward",
+      "conversation": "ExVersion#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    },
+    {
+      "gameKey": "ExVersion#2",
+      "en": "Stormblood",
+      "hash": "F8AFB0B8DB5D2931",
+      "unresolved": false,
+      "fr": "Stormblood",
+      "ja": "紅蓮のリベレーター",
+      "de": "Stormblood",
+      "conversation": "ExVersion#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    },
+    {
+      "gameKey": "ExVersion#3",
+      "en": "Shadowbringers",
+      "hash": "10FE4672A1FCEB4E",
+      "unresolved": false,
+      "fr": "Shadowbringers",
+      "ja": "漆黒のヴィランズ",
+      "de": "Shadowbringers",
+      "conversation": "ExVersion#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    },
+    {
+      "gameKey": "ExVersion#4",
+      "en": "Endwalker",
+      "hash": "012242BC045E8805",
+      "unresolved": false,
+      "fr": "Endwalker",
+      "ja": "暁月のフィナーレ",
+      "de": "Endwalker",
+      "conversation": "ExVersion#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    },
+    {
+      "gameKey": "ExVersion#5",
+      "en": "Dawntrail",
+      "hash": "898362DE5BBB28EB",
+      "unresolved": false,
+      "fr": "Dawntrail",
+      "ja": "黄金のレガシー",
+      "de": "Dawntrail",
+      "conversation": "ExVersion#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ExVersion"
+    }
+  ]
+}

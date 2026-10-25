@@ -21759,6 +21759,17 @@
         { "gameKey": "Item#13254.8", "hash": "77C5E451FFB3FD78" },
         { "gameKey": "Item#13255.8", "hash": "1BBB3E107BDB9927" }
       ]
+    },
+    {
+      "why": "Invalid row values and internal format labels.",
+      "rows": [
+        { "gameKey": "ChocoboTaxiStand#1179678", "hash": "7D7475F000BF865B" },
+        { "gameKey": "Omikuji#0.5", "hash": "B48451CA46E32731" },
+        { "gameKey": "Omikuji#0.6", "hash": "211843AD0045DD1A" },
+        { "gameKey": "OmikujiGuidance#0.1", "hash": "300F74C00F35B467" },
+        { "gameKey": "OmikujiGuidance#0.2", "hash": "17BDCE6BB92E18B7" },
+        { "gameKey": "LogKind#0", "hash": "93C9F98F703646E3" }
+      ]
     }
   ]
 }

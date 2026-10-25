@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "GcArmyExpeditionType",
+  "entries": [
+    {
+      "gameKey": "GcArmyExpeditionType#1",
+      "en": "Trainee Mission",
+      "hash": "356A5AF6460D3F20",
+      "unresolved": false,
+      "fr": "Missions simples",
+      "ja": "簡易任務",
+      "de": "Gefahrlose Einsätze",
+      "conversation": "GcArmyExpeditionType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GcArmyExpeditionType"
+    },
+    {
+      "gameKey": "GcArmyExpeditionType#2",
+      "en": "Routine Mission",
+      "hash": "9D9DE9C2D881EE2A",
+      "unresolved": false,
+      "fr": "Missions normales",
+      "ja": "通常任務",
+      "de": "Gewöhnliche Einsätze",
+      "conversation": "GcArmyExpeditionType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GcArmyExpeditionType"
+    },
+    {
+      "gameKey": "GcArmyExpeditionType#3",
+      "en": "Priority Mission",
+      "hash": "89F863ED51CFB12D",
+      "unresolved": false,
+      "fr": "Missions spéciales",
+      "ja": "特殊任務",
+      "de": "Riskante Einsätze",
+      "conversation": "GcArmyExpeditionType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GcArmyExpeditionType"
+    }
+  ]
+}

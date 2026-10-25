@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "SubmarineSpecCategory",
+  "entries": [
+    {
+      "gameKey": "SubmarineSpecCategory#0",
+      "en": "surveillance levels",
+      "hash": "E143F29A833FE9BC",
+      "unresolved": false,
+      "fr": "Capacité d'exploration",
+      "ja": "探査性能",
+      "de": "Detektion",
+      "conversation": "SubmarineSpecCategory#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SubmarineSpecCategory"
+    },
+    {
+      "gameKey": "SubmarineSpecCategory#1",
+      "en": "retrieval levels",
+      "hash": "9A1FED2CA23C3B8B",
+      "unresolved": false,
+      "fr": "Capacité de prélèvement",
+      "ja": "収集性能",
+      "de": "Effizienz",
+      "conversation": "SubmarineSpecCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SubmarineSpecCategory"
+    },
+    {
+      "gameKey": "SubmarineSpecCategory#2",
+      "en": "speed",
+      "hash": "36024D9AE50E3D61",
+      "unresolved": false,
+      "fr": "Vitesse de croisière",
+      "ja": "巡航速度",
+      "de": "Geschwindigkeit",
+      "conversation": "SubmarineSpecCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SubmarineSpecCategory"
+    },
+    {
+      "gameKey": "SubmarineSpecCategory#3",
+      "en": "range",
+      "hash": "74439E8932C64B3A",
+      "unresolved": false,
+      "fr": "Distance franchissable",
+      "ja": "航続距離",
+      "de": "Reichweite",
+      "conversation": "SubmarineSpecCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SubmarineSpecCategory"
+    },
+    {
+      "gameKey": "SubmarineSpecCategory#4",
+      "en": "guardian favor",
+      "hash": "9BE0F2C281E255E3",
+      "unresolved": false,
+      "fr": "Faveur marine",
+      "ja": "運",
+      "de": "Gunst der Tiefe",
+      "conversation": "SubmarineSpecCategory#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "SubmarineSpecCategory"
+    }
+  ]
+}

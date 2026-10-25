@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "HWDInfoBoardArticleType",
+  "entries": [
+    {
+      "gameKey": "HWDInfoBoardArticleType#1",
+      "en": "トピックス",
+      "hash": "B991B840062C6DCA",
+      "unresolved": false,
+      "fr": "トピックス",
+      "ja": "トピックス",
+      "de": "トピックス",
+      "conversation": "HWDInfoBoardArticleType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardArticleType"
+    },
+    {
+      "gameKey": "HWDInfoBoardArticleType#2",
+      "en": "Announcements",
+      "hash": "F35628F7C4C01B7D",
+      "unresolved": false,
+      "fr": "Annonces",
+      "ja": "お知らせ",
+      "de": "Kundgaben",
+      "conversation": "HWDInfoBoardArticleType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardArticleType"
+    },
+    {
+      "gameKey": "HWDInfoBoardArticleType#3",
+      "en": "Information",
+      "hash": "8EB0FF7FD7232433",
+      "unresolved": false,
+      "fr": "Informations",
+      "ja": "案内",
+      "de": "Direktiven",
+      "conversation": "HWDInfoBoardArticleType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDInfoBoardArticleType"
+    }
+  ]
+}

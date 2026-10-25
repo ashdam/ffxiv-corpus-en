@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "WorldPhysicalDC",
+  "entries": [
+    {
+      "gameKey": "WorldPhysicalDC#1",
+      "en": "Japan",
+      "hash": "F45E0B294FA3AC9B",
+      "unresolved": false,
+      "fr": "Japon",
+      "ja": "Japan",
+      "de": "Japan",
+      "conversation": "WorldPhysicalDC#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WorldPhysicalDC"
+    },
+    {
+      "gameKey": "WorldPhysicalDC#2",
+      "en": "North America",
+      "hash": "E16FA62585C62EC6",
+      "unresolved": false,
+      "fr": "Amérique du nord",
+      "ja": "North America",
+      "de": "Nordamerika",
+      "conversation": "WorldPhysicalDC#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WorldPhysicalDC"
+    },
+    {
+      "gameKey": "WorldPhysicalDC#3",
+      "en": "Europe",
+      "hash": "1035E7BA6CE76F84",
+      "unresolved": false,
+      "fr": "Europe",
+      "ja": "Europe",
+      "de": "Europa",
+      "conversation": "WorldPhysicalDC#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WorldPhysicalDC"
+    },
+    {
+      "gameKey": "WorldPhysicalDC#4",
+      "en": "Oceania",
+      "hash": "D9AF24E096FF7589",
+      "unresolved": false,
+      "fr": "Océanie",
+      "ja": "Oceania",
+      "de": "Ozeanien",
+      "conversation": "WorldPhysicalDC#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WorldPhysicalDC"
+    },
+    {
+      "gameKey": "WorldPhysicalDC#5",
+      "en": "NA Cloud Data Center (Beta)",
+      "hash": "0D336FBEADE97742",
+      "unresolved": false,
+      "fr": "Amérique du nord (cloud/beta)",
+      "ja": "NA Cloud Data Center (Beta)",
+      "de": "Nordamerika (Cloud/Beta)",
+      "conversation": "WorldPhysicalDC#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WorldPhysicalDC"
+    }
+  ]
+}
