@@ -137,7 +137,7 @@ English slot. Keep the original path, ID and canvas dimensions.
 
 | Requirement | Value |
 |---|---|
-| Supported translated image folders | `120000/en`, `121000/en`, `122000/en`, `123000/en`, `124000/en`, `127000/en`, `128000/en` |
+| Supported translated image folders | `120000/en`, `121000/en`, `122000/en`, `123000/en`, `124000/en`, `126000/en`, `127000/en`, `128000/en`, `129000/en`, `180000/en`, `181000/en` |
 | Filenames | `<id>.tex` and `<id>_hr1.tex`; the ID starts with the folder's first three digits |
 | Pixel format | Uncompressed BGRA, TEX format `0x1450` |
 | HD size | Twice the normal width and height |
