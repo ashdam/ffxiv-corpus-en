@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "EurekaMagiciteItemType",
+  "entries": [
+    {
+      "gameKey": "EurekaMagiciteItemType#1",
+      "en": "Offensive",
+      "hash": "B8D84A27EC351024",
+      "unresolved": false,
+      "fr": "Attaquant",
+      "ja": "攻勢",
+      "de": "Angreifer",
+      "conversation": "EurekaMagiciteItemType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    },
+    {
+      "gameKey": "EurekaMagiciteItemType#2",
+      "en": "Protective",
+      "hash": "08CCE576C46A631C",
+      "unresolved": false,
+      "fr": "Défenseur",
+      "ja": "守勢",
+      "de": "Verteidiger",
+      "conversation": "EurekaMagiciteItemType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    },
+    {
+      "gameKey": "EurekaMagiciteItemType#3",
+      "en": "Curative",
+      "hash": "7DD89BACA3F02AD6",
+      "unresolved": false,
+      "fr": "Soigneur",
+      "ja": "治癒",
+      "de": "Heiler",
+      "conversation": "EurekaMagiciteItemType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    },
+    {
+      "gameKey": "EurekaMagiciteItemType#4",
+      "en": "Tactical",
+      "hash": "567F9D3F77835914",
+      "unresolved": false,
+      "fr": "Éclaireur",
+      "ja": "斥候",
+      "de": "Späher",
+      "conversation": "EurekaMagiciteItemType#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    },
+    {
+      "gameKey": "EurekaMagiciteItemType#5",
+      "en": "Inimical",
+      "hash": "2528205BC982BA44",
+      "unresolved": false,
+      "fr": "Sapeur",
+      "ja": "妨害",
+      "de": "Störer",
+      "conversation": "EurekaMagiciteItemType#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    },
+    {
+      "gameKey": "EurekaMagiciteItemType#6",
+      "en": "Mitigative",
+      "hash": "B74538C5AC3DDFFE",
+      "unresolved": false,
+      "fr": "Auxiliaire",
+      "ja": "支援",
+      "de": "Unterstützer",
+      "conversation": "EurekaMagiciteItemType#6",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EurekaMagiciteItemType"
+    }
+  ]
+}

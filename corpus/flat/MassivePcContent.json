@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "MassivePcContent",
+  "entries": [
+    {
+      "gameKey": "MassivePcContent#1",
+      "en": "Cosmic Exploration",
+      "hash": "595BCC322A51B581",
+      "unresolved": false,
+      "fr": "Exploration cosmique",
+      "ja": "コスモエクスプローラー",
+      "de": "Kosmo-Erkundung",
+      "conversation": "MassivePcContent#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MassivePcContent"
+    },
+    {
+      "gameKey": "MassivePcContent#2",
+      "en": "Cosmic Exploration",
+      "hash": "75FCC4E3381AACEC",
+      "unresolved": false,
+      "fr": "Exploration cosmique",
+      "ja": "コスモエクスプローラー",
+      "de": "Kosmo-Erkundung",
+      "conversation": "MassivePcContent#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MassivePcContent"
+    },
+    {
+      "gameKey": "MassivePcContent#5",
+      "en": "Cosmic Exploration",
+      "hash": "EC41F70EAA70EFDD",
+      "unresolved": false,
+      "fr": "Exploration cosmique",
+      "ja": "コスモエクスプローラー",
+      "de": "Kosmo-Erkundung",
+      "conversation": "MassivePcContent#5",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MassivePcContent"
+    },
+    {
+      "gameKey": "MassivePcContent#6",
+      "en": "Cosmic Exploration",
+      "hash": "FF8DC47C66BE91E6",
+      "unresolved": false,
+      "fr": "Exploration cosmique",
+      "ja": "コスモエクスプローラー",
+      "de": "Kosmo-Erkundung",
+      "conversation": "MassivePcContent#6",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MassivePcContent"
+    }
+  ]
+}

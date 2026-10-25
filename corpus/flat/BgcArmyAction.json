@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "BgcArmyAction",
+  "entries": [
+    {
+      "gameKey": "BgcArmyAction#1",
+      "en": "Engage",
+      "hash": "750A91F53B3CC231",
+      "unresolved": false,
+      "fr": "Ordre : engager le combat",
+      "ja": "号令：戦闘開始",
+      "de": "Befehl: Angriff",
+      "conversation": "BgcArmyAction#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyAction"
+    },
+    {
+      "gameKey": "BgcArmyAction#2",
+      "en": "Disengage",
+      "hash": "F8A6242A825A808E",
+      "unresolved": false,
+      "fr": "Ordre : repli temporaire",
+      "ja": "号令：一時撤退",
+      "de": "Befehl: Rückzug",
+      "conversation": "BgcArmyAction#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyAction"
+    },
+    {
+      "gameKey": "BgcArmyAction#3",
+      "en": "Re-engage",
+      "hash": "43A8951F248E68B8",
+      "unresolved": false,
+      "fr": "Ordre : fin de repli",
+      "ja": "号令：撤退解除",
+      "de": "Befehl: Rückzug beenden",
+      "conversation": "BgcArmyAction#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyAction"
+    },
+    {
+      "gameKey": "BgcArmyAction#4",
+      "en": "Execute Limit Break",
+      "hash": "2D88460FF9F7DA6A",
+      "unresolved": false,
+      "fr": "Ordre : Transcendance",
+      "ja": "号令：リミットブレイク",
+      "de": "Befehl: Limitrausch",
+      "conversation": "BgcArmyAction#4",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyAction"
+    },
+    {
+      "gameKey": "BgcArmyAction#5",
+      "en": "Display Order Hotbar",
+      "hash": "4F1D6C218A2D3906",
+      "unresolved": false,
+      "fr": "Ordre : barre d'ordres",
+      "ja": "号令ホットバー",
+      "de": "Befehlsleiste",
+      "conversation": "BgcArmyAction#5",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BgcArmyAction"
+    }
+  ]
+}

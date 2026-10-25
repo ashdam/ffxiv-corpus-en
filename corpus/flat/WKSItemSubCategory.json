@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "WKSItemSubCategory",
+  "entries": [
+    {
+      "gameKey": "WKSItemSubCategory#1",
+      "en": "Raw Materials (Stellar Missions)",
+      "hash": "9DD612A4EB878886",
+      "unresolved": false,
+      "fr": "Ressource (missions cosmiques)",
+      "ja": "ミッション採集物",
+      "de": "Sammelbares (Stellarmissionen)",
+      "conversation": "WKSItemSubCategory#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    },
+    {
+      "gameKey": "WKSItemSubCategory#2",
+      "en": "Seafood (Stellar Missions)",
+      "hash": "74F6AB0D1E2973F4",
+      "unresolved": false,
+      "fr": "Produit de la pêche (missions cosmiques)",
+      "ja": "ミッション水産物",
+      "de": "Fischbares (Stellarmissionen)",
+      "conversation": "WKSItemSubCategory#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    },
+    {
+      "gameKey": "WKSItemSubCategory#3",
+      "en": "Crafting Materials (Stellar Missions)",
+      "hash": "1F9F8596CCF5E371",
+      "unresolved": false,
+      "fr": "Matériau de synthèse (missions cosmiques)",
+      "ja": "ミッション製作素材",
+      "de": "Materialien (Stellarmissionen)",
+      "conversation": "WKSItemSubCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    },
+    {
+      "gameKey": "WKSItemSubCategory#4",
+      "en": "Handicrafts (Stellar Missions)",
+      "hash": "E08551B46CD241F7",
+      "unresolved": false,
+      "fr": "Produit finalisé (missions cosmiques)",
+      "ja": "ミッション完成品",
+      "de": "Endprodukte (Stellarmissionen)",
+      "conversation": "WKSItemSubCategory#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    },
+    {
+      "gameKey": "WKSItemSubCategory#5",
+      "en": "Bait (Stellar Missions)",
+      "hash": "AC2F2D7F40DAB8DC",
+      "unresolved": false,
+      "fr": "Appât de pêche (missions cosmiques)",
+      "ja": "ミッション用釣り餌",
+      "de": "Köder (Stellarmissionen)",
+      "conversation": "WKSItemSubCategory#5",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    },
+    {
+      "gameKey": "WKSItemSubCategory#7",
+      "en": "Items (Mech Ops)",
+      "hash": "ACDA9401BE96A103",
+      "unresolved": false,
+      "fr": "Objet (interventions mécaniques)",
+      "ja": "メカオぺレーションアイテム",
+      "de": "Gegenstände (Mecha-Einsatz)",
+      "conversation": "WKSItemSubCategory#7",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "WKSItemSubCategory"
+    }
+  ]
+}

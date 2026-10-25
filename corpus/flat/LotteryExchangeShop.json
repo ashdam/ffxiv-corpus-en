@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "LotteryExchangeShop",
+  "entries": [
+    {
+      "gameKey": "LotteryExchangeShop#3407874",
+      "en": "Open Lockbox",
+      "hash": "2055C8D76FCD62F0",
+      "unresolved": false,
+      "fr": "Déverrouillage",
+      "ja": "ロックボックスの鑑定",
+      "de": "Aufschließen",
+      "conversation": "LotteryExchangeShop#3407874",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "LotteryExchangeShop"
+    }
+  ]
+}

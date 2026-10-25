@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "CompanionMove",
+  "entries": [
+    {
+      "gameKey": "CompanionMove#1",
+      "en": "Obedient",
+      "hash": "BA758F77F32DEEFA",
+      "unresolved": false,
+      "fr": "Poursuite",
+      "ja": "追従",
+      "de": "Folgt nach",
+      "conversation": "CompanionMove#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionMove"
+    },
+    {
+      "gameKey": "CompanionMove#2",
+      "en": "Independent",
+      "hash": "F0025181028AE4AF",
+      "unresolved": false,
+      "fr": "Autonome",
+      "ja": "自律",
+      "de": "Unabhängig",
+      "conversation": "CompanionMove#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionMove"
+    },
+    {
+      "gameKey": "CompanionMove#3",
+      "en": "Stationary",
+      "hash": "ADC57ABC08603406",
+      "unresolved": false,
+      "fr": "Statique",
+      "ja": "静止",
+      "de": "Stationär",
+      "conversation": "CompanionMove#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionMove"
+    }
+  ]
+}

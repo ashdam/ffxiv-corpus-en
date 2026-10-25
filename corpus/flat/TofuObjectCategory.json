@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "TofuObjectCategory",
+  "entries": [
+    {
+      "gameKey": "TofuObjectCategory#1",
+      "en": "Field",
+      "hash": "3789E4A81389BC04",
+      "unresolved": false,
+      "fr": "Terrains",
+      "ja": "フィールド",
+      "de": "Gelände",
+      "conversation": "TofuObjectCategory#1",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    },
+    {
+      "gameKey": "TofuObjectCategory#2",
+      "en": "Class/Job",
+      "hash": "01AF4C4FBAB7DEF4",
+      "unresolved": false,
+      "fr": "Classes/Jobs",
+      "ja": "クラス/ジョブ",
+      "de": "Klassen & Jobs",
+      "conversation": "TofuObjectCategory#2",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    },
+    {
+      "gameKey": "TofuObjectCategory#3",
+      "en": "Icon/Marker",
+      "hash": "1C6BFEE5E4709C6A",
+      "unresolved": false,
+      "fr": "Icones/Marques",
+      "ja": "アイコン/マーカー",
+      "de": "Icons & Markierungen",
+      "conversation": "TofuObjectCategory#3",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    },
+    {
+      "gameKey": "TofuObjectCategory#4",
+      "en": "Signs/Symbols",
+      "hash": "399C2413F6736338",
+      "unresolved": false,
+      "fr": "Formes/Symboles",
+      "ja": "図形/記号",
+      "de": "Zeichen & Symbole",
+      "conversation": "TofuObjectCategory#4",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    },
+    {
+      "gameKey": "TofuObjectCategory#5",
+      "en": "グループ",
+      "hash": "8C4063786641FF36",
+      "unresolved": false,
+      "fr": "グループ",
+      "ja": "グループ",
+      "de": "グループ",
+      "conversation": "TofuObjectCategory#5",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    },
+    {
+      "gameKey": "TofuObjectCategory#6",
+      "en": "Attack Types",
+      "hash": "FCDA969DBF0B14F3",
+      "unresolved": false,
+      "fr": "Aires d'effet",
+      "ja": "攻撃範囲",
+      "de": "Attacken & Effekte",
+      "conversation": "TofuObjectCategory#6",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuObjectCategory"
+    }
+  ]
+}

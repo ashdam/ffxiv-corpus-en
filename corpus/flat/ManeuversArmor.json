@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "ManeuversArmor",
+  "entries": [
+    {
+      "gameKey": "ManeuversArmor#0.10",
+      "en": "Cruise Chaser",
+      "hash": "2110A32C3B4CA095",
+      "unresolved": false,
+      "fr": "Croiseur-chasseur",
+      "ja": "クルーズチェイサー",
+      "de": "Chaser",
+      "conversation": "ManeuversArmor#0",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    },
+    {
+      "gameKey": "ManeuversArmor#0.11",
+      "en": "A next-generation machina fitted with an anti-gravity engine. Gliding into battle, its Spin Crusher devastates thick plate while its Laser Sword and Hawk Blaster make short work of infantry. It forsakes defense in favor of mobility, and its transforming ability has been removed for ease of manufacture.",
+      "hash": "01FAD4D00E7D3A82",
+      "unresolved": false,
+      "fr": "Cette machine de guerre nouvelle génération se déplace dans les airs grâce à un moteur anti-pesanteur. En plus de son système d'écrasement tournoyant par<->ti<->cu<->liè<->rement efficace contre les appareils blindés, elle dispose d'un canon faucon et d'épées laser pour attaquer les fantassins. Bien que léger et très maniable, le croiseur-chasseur est peu résistant. Son système de transformation a été retiré pour faciliter une production en série.",
+      "ja": "反重力機関で浮行する最新鋭の次世代型機工兵器。<br>機工兵器の装甲を粉砕するスピンクラッシャーに加え<br>対歩兵用のスウォードやホークブラスターを備える。<br>軽量で機動力が高い反面、耐久力は低め。<br>なお、生産性を優先し可変機構は排除されている。",
+      "de": "Eine Antigrav-Kriegsmaschine der nächsten Generation. Der Rotorbrecher pulverisiert die Panzerung anderer Kriegsmaschinen, während die Waffen Laserschwert und Jagdfalke mit dem Fußvolk aufräumen. Um die Flugfähigkeit zu optimieren, musste ein leichtes Chassis<br>verbaut werden, was die<br>Belastbarkeit senkt.",
+      "conversation": "ManeuversArmor#0",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    },
+    {
+      "gameKey": "ManeuversArmor#1.10",
+      "en": "Oppressor",
+      "hash": "6B9CD43FCCAE8C00",
+      "unresolved": false,
+      "fr": "Oppresseur",
+      "ja": "オプレッサー",
+      "de": "Unterdrücker",
+      "conversation": "ManeuversArmor#1",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    },
+    {
+      "gameKey": "ManeuversArmor#1.11",
+      "en": "A hulking machina engineered for siege warfare, it excels at wreaking havoc upon structures. While an army of these can bring down towers and cores with fearsome ease, their heavy armor renders them slow and unwieldy, and they struggle to deal with infantry and other machina.",
+      "hash": "2004D4B22B0B53E1",
+      "unresolved": false,
+      "fr": "Cette arme de guerre lourde a été développée afin d'attaquer les forteresses, démontrant un grand pouvoir de destruction contre les tours et cœurs. Ses créateurs ont toutefois été prompts à remarquer que l'oppresseur est handicapé par son blindage pesant et est désavantagé en cas de combat contre des fantassins ou des appareils légers.",
+      "ja": "要塞攻略用に開発された重機工兵器。<br>タワーやコアといった敵施設の破壊能力に長ける。<br>オプレッサー量産の暁には、敵コアなぞあっという<br>間に叩けること間違いなし。ただし、重装甲ゆえに<br>鈍重で、歩兵や機工兵器との戦闘は苦手とする。",
+      "de": "Eine auf den Gebäudeabriss spezialisierte Kriegsmaschine, deren wuchtige Attacken gegnerische Türme und Kerne in kürzester Zeit zu Schutt verwandelt. Im Kampf gegen Fußvolk und andere Kampf<->maschinen ist der Unterdrücker durch seine langsame Ge<->schwindig<->keit im Nachteil.",
+      "conversation": "ManeuversArmor#1",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    },
+    {
+      "gameKey": "ManeuversArmor#2.10",
+      "en": "Brute Justice",
+      "hash": "2C9A4BEA01BBEBFC",
+      "unresolved": false,
+      "fr": "Justicier",
+      "ja": "ブルートジャスティス",
+      "de": "Brutalus",
+      "conversation": "ManeuversArmor#2",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    },
+    {
+      "gameKey": "ManeuversArmor#2.11",
+      "en": "Boasting unrivaled power, Brute Justice rules the battlefield with its Flarethrower and Mega Beam while laying waste to structures with its Double Rocket Punch. In order to minimize manufacturing costs, this particular model cannot merge and separate. Such is the way of mass production.",
+      "hash": "7A26003DAC200624",
+      "unresolved": false,
+      "fr": "Le justicier est l'arme de guerre ultime, bénéficiant d'une puissance de feu sans égale sur le champ de bataille. Équipé d'un lance-brasiers et d'un mégarayon, il peut carboniser les ennemis, et son double coup de roquette peut venir à bout des tours et des cœurs aisément. Pour réduire les coûts de production, le système de séparation des éléments qui le composent a dû être désactivé.",
+      "ja": "圧倒的なパワーで戦場を蹂躙する最終機工兵器。<br>大火炎放射とメガビームで、敵を焼き払い<br>ダブルロケットパンチでタワーやコアを粉砕する。<br>ちなみに、生産コストの観点から分離合体機構が<br>削除されているが、量産機とはそういうものである。",
+      "de": "Mit seiner zerstörerischen Kraft beherrscht der Brutalus das Schlachtfeld. Sein Großflammenwerfer und Megastrahl sind bei allen Gegnern gefürchtet, und der Doppelraketenschlag bringt Türme wie<br>Kerne zum Wanken.",
+      "conversation": "ManeuversArmor#2",
+      "seq": 11,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ManeuversArmor"
+    }
+  ]
+}

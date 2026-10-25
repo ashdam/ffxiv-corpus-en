@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "HWDGathereInspectTerm",
+  "entries": [
+    {
+      "gameKey": "HWDGathereInspectTerm#1",
+      "en": "First Restoration Phase",
+      "hash": "4F3AD4317B5A3025",
+      "unresolved": false,
+      "fr": "Première phase de reconstruction",
+      "ja": "第一次復興事業計画",
+      "de": "Erstes Großprojekt des Wiederaufbaus",
+      "conversation": "HWDGathereInspectTerm#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDGathereInspectTerm"
+    },
+    {
+      "gameKey": "HWDGathereInspectTerm#2",
+      "en": "Second Restoration Phase",
+      "hash": "F5B92DDD50F2C68D",
+      "unresolved": false,
+      "fr": "Deuxième phase de reconstruction",
+      "ja": "第ニ次復興事業計画",
+      "de": "Zweites Großprojekt des Wiederaufbaus",
+      "conversation": "HWDGathereInspectTerm#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDGathereInspectTerm"
+    },
+    {
+      "gameKey": "HWDGathereInspectTerm#3",
+      "en": "Third Restoration Phase",
+      "hash": "97D4A303ADF971E0",
+      "unresolved": false,
+      "fr": "Troisième phase de reconstruction",
+      "ja": "第三次復興事業計画",
+      "de": "Drittes Großprojekt des Wiederaufbaus",
+      "conversation": "HWDGathereInspectTerm#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDGathereInspectTerm"
+    },
+    {
+      "gameKey": "HWDGathereInspectTerm#4",
+      "en": "Fourth Restoration Phase",
+      "hash": "EC6238A349FB5C72",
+      "unresolved": false,
+      "fr": "Quatrième phase de reconstruction",
+      "ja": "第四次復興事業計画",
+      "de": "Viertes Großprojekt des Wiederaufbaus",
+      "conversation": "HWDGathereInspectTerm#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "HWDGathereInspectTerm"
+    }
+  ]
+}

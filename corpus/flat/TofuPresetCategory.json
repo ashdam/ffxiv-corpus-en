@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "TofuPresetCategory",
+  "entries": [
+    {
+      "gameKey": "TofuPresetCategory#1",
+      "en": "Field Type",
+      "hash": "481EF6EF83E3476A",
+      "unresolved": false,
+      "fr": "Type de terrain",
+      "ja": "フィールド形状",
+      "de": "Geländetyp",
+      "conversation": "TofuPresetCategory#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuPresetCategory"
+    },
+    {
+      "gameKey": "TofuPresetCategory#2",
+      "en": "Enemy Type",
+      "hash": "EE4BADBBFE490060",
+      "unresolved": false,
+      "fr": "Type d'ennemi",
+      "ja": "敵の種類",
+      "de": "Gegnertyp",
+      "conversation": "TofuPresetCategory#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuPresetCategory"
+    },
+    {
+      "gameKey": "TofuPresetCategory#3",
+      "en": "Party Positioning",
+      "hash": "B7043541730B6046",
+      "unresolved": false,
+      "fr": "Configuration de l'équipe",
+      "ja": "パーティ配置",
+      "de": "Gruppenpositionierung",
+      "conversation": "TofuPresetCategory#3",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuPresetCategory"
+    },
+    {
+      "gameKey": "TofuPresetCategory#4",
+      "en": "Waymarks",
+      "hash": "A576ED288A9D9F20",
+      "unresolved": false,
+      "fr": "Marques au sol",
+      "ja": "フィールドマーカー",
+      "de": "Geländemarkierungen",
+      "conversation": "TofuPresetCategory#4",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "TofuPresetCategory"
+    }
+  ]
+}

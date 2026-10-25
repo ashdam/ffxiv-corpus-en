@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "AirshipExplorationParamType",
+  "entries": [
+    {
+      "gameKey": "AirshipExplorationParamType#0",
+      "en": "surveillance levels",
+      "hash": "46C78470CBB798DC",
+      "unresolved": false,
+      "fr": "Capacité d'exploration",
+      "ja": "探査性能",
+      "de": "Detektion",
+      "conversation": "AirshipExplorationParamType#0",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AirshipExplorationParamType"
+    },
+    {
+      "gameKey": "AirshipExplorationParamType#1",
+      "en": "retrieval levels",
+      "hash": "23381401842BCC87",
+      "unresolved": false,
+      "fr": "Capacité de prélèvement",
+      "ja": "収集性能",
+      "de": "Effizienz",
+      "conversation": "AirshipExplorationParamType#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AirshipExplorationParamType"
+    },
+    {
+      "gameKey": "AirshipExplorationParamType#2",
+      "en": "speed",
+      "hash": "C85DBE534C715BF7",
+      "unresolved": false,
+      "fr": "Vitesse de croisière",
+      "ja": "巡航速度",
+      "de": "Geschwindigkeit",
+      "conversation": "AirshipExplorationParamType#2",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AirshipExplorationParamType"
+    },
+    {
+      "gameKey": "AirshipExplorationParamType#3",
+      "en": "range",
+      "hash": "0B1C29066A2621F0",
+      "unresolved": false,
+      "fr": "Distance franchissable",
+      "ja": "航続距離",
+      "de": "Reichweite",
+      "conversation": "AirshipExplorationParamType#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AirshipExplorationParamType"
+    },
+    {
+      "gameKey": "AirshipExplorationParamType#4",
+      "en": "guardian favor",
+      "hash": "4DE98F0C8040F079",
+      "unresolved": false,
+      "fr": "Faveur céleste",
+      "ja": "運",
+      "de": "Himmlische Gunst",
+      "conversation": "AirshipExplorationParamType#4",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "AirshipExplorationParamType"
+    }
+  ]
+}
