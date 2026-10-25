@@ -565,20 +565,6 @@
       "sheet": "NotebookDivision"
     },
     {
-      "gameKey": "NotebookDivision#40",
-      "en": "[翻訳不要] レベル区分終端",
-      "hash": "CDBD155512EF77BD",
-      "unresolved": false,
-      "fr": "[翻訳不要] レベル区分終端",
-      "ja": "[翻訳不要] レベル区分終端",
-      "de": "[翻訳不要] レベル区分終端",
-      "conversation": "NotebookDivision#40",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "NotebookDivision"
-    },
-    {
       "gameKey": "NotebookDivision#1000",
       "en": "Master Recipes (1)",
       "hash": "3165E96CBA02E257",
@@ -1405,20 +1391,6 @@
       "sheet": "NotebookDivision"
     },
     {
-      "gameKey": "NotebookDivision#1062",
-      "en": "[翻訳不要] 検索対象外カテゴリ",
-      "hash": "79D578DA105DCF31",
-      "unresolved": false,
-      "fr": "[翻訳不要] 検索対象外カテゴリ",
-      "ja": "[翻訳不要] 検索対象外カテゴリ",
-      "de": "[翻訳不要] 検索対象外カテゴリ",
-      "conversation": "NotebookDivision#1062",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "NotebookDivision"
-    },
-    {
       "gameKey": "NotebookDivision#1063",
       "en": "Nitowikwe",
       "hash": "382D6643467241C6",
@@ -1455,20 +1427,6 @@
       "ja": "ヨカフイ族",
       "de": "Aufträge der Yok Huy",
       "conversation": "NotebookDivision#1065",
-      "seq": 0,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "NotebookDivision"
-    },
-    {
-      "gameKey": "NotebookDivision#1066",
-      "en": "[翻訳不要] 検索対象外カテゴリ",
-      "hash": "3F8F52F0C876E78F",
-      "unresolved": false,
-      "fr": "[翻訳不要] 検索対象外カテゴリ",
-      "ja": "[翻訳不要] 検索対象外カテゴリ",
-      "de": "[翻訳不要] 検索対象外カテゴリ",
-      "conversation": "NotebookDivision#1066",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
