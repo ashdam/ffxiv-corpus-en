@@ -927,6 +927,19 @@
       "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/002/CmnDefHousingBuddyStable_00201"
+    },
+    {
+      "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE",
+      "en": "Select a topic.",
+      "hash": "932EFB3276A41258",
+      "unresolved": false,
+      "conversation": "custom/002/CmnDefHousingBuddyStable_00201",
+      "seq": 0,
+      "speaker": "NONE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/002/CmnDefHousingBuddyStable_00201"
     }
   ]
 }

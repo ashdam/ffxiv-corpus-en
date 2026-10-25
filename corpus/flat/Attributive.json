@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 3,
+  "sourceLanguage": "en",
+  "gameVersion": "2026.10.16.0000.0000",
+  "conversation": "Attributive",
+  "entries": [
+    {
+      "gameKey": "Attributive#1.0",
+      "en": "その",
+      "hash": "A0B6909B6222A901",
+      "unresolved": false,
+      "fr": "その",
+      "ja": "その",
+      "de": "その",
+      "conversation": "Attributive#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#1.1",
+      "en": "それらの",
+      "hash": "2C8202628E5A4FCF",
+      "unresolved": false,
+      "fr": "それらの",
+      "ja": "それらの",
+      "de": "それらの",
+      "conversation": "Attributive#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#1.2",
+      "en": "a ",
+      "hash": "725CEE8F59F170A0",
+      "unresolved": false,
+      "conversation": "Attributive#1",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#1.5",
+      "en": "an ",
+      "hash": "DD6BCB80B7DFC9D7",
+      "unresolved": false,
+      "conversation": "Attributive#1",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#2.1",
+      "en": "あれらの",
+      "hash": "105211FF51CF01C8",
+      "unresolved": false,
+      "fr": "あれらの",
+      "ja": "あれらの",
+      "de": "あれらの",
+      "conversation": "Attributive#2",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#2.2",
+      "en": "the ",
+      "hash": "77D13F80F95DD5CA",
+      "unresolved": false,
+      "conversation": "Attributive#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#2.3",
+      "en": "the ",
+      "hash": "652EDA984F9CD1FB",
+      "unresolved": false,
+      "conversation": "Attributive#2",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#2.5",
+      "en": "the ",
+      "hash": "25028DA4CB2AB5B3",
+      "unresolved": false,
+      "conversation": "Attributive#2",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#2.6",
+      "en": "the ",
+      "hash": "7DC78D33BA36EEAD",
+      "unresolved": false,
+      "conversation": "Attributive#2",
+      "seq": 6,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    },
+    {
+      "gameKey": "Attributive#3.1",
+      "en": "これらの",
+      "hash": "78547E03B279FCC0",
+      "unresolved": false,
+      "fr": "これらの",
+      "ja": "これらの",
+      "de": "これらの",
+      "conversation": "Attributive#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Attributive"
+    }
+  ]
+}
