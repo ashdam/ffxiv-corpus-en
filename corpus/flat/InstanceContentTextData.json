@@ -143552,6 +143552,32 @@
       "kind": "ambient",
       "sheet": "InstanceContentTextData",
       "scope": "territory/1339"
+    },
+    {
+      "gameKey": "InstanceContentTextData#30518",
+      "en": "Pathetic! Do the ironmen seek to slow us with these obstructions!?",
+      "hash": "1D41C64B8FC7AEF2",
+      "unresolved": false,
+      "fr": "Ha ha<nbsp>! Rien de tel qu'un peu difficulté pour pimenter les combats<nbsp>! Attention à ne pas toucher les obstacles<nbsp>!",
+      "de": "Ha, so gefällt's mir! Dass sich niemand die Köpfe stößt!",
+      "conversation": "InstanceContentTextData#30518",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
+      "gameKey": "InstanceContentTextData#30811",
+      "en": "For altruism and selfishness both were its carriers.",
+      "hash": "58F97E8117C079C6",
+      "unresolved": false,
+      "fr": "Le mal se transmettait à travers les intentions, bonnes ou mauvaises...",
+      "de": "Was man auch tat, im Guten wie im Bösen, nährte die Krankheit.",
+      "conversation": "InstanceContentTextData#30811",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
     }
   ]
 }

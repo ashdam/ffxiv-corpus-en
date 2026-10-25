@@ -130441,6 +130441,18 @@
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Balloon"
+    },
+    {
+      "gameKey": "Balloon#8018",
+      "en": "Almost there. Let's get this over with!",
+      "hash": "748A906D8F222F87",
+      "unresolved": false,
+      "de": "Es kann losgehen, Beeilung!",
+      "conversation": "Balloon#8018",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Balloon"
     }
   ]
 }

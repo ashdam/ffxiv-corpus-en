@@ -67,6 +67,19 @@
       "speakerGender": "unknown",
       "kind": "dialogue",
       "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
+    },
+    {
+      "gameKey": "custom/001/CmnDefHousingPersonalRoomExit_00179#TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR",
+      "en": "What would you like to do?",
+      "hash": "724955F0AF9ABC43",
+      "unresolved": false,
+      "conversation": "custom/001/CmnDefHousingPersonalRoomExit_00179",
+      "seq": 0,
+      "speaker": "ACTOR",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/001/CmnDefHousingPersonalRoomExit_00179"
     }
   ]
 }
