@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "_comment": [
+    "Sheets match without case; a trailing slash selects a family. UI catalogs are not Excel sheets.",
+    "Descriptions are optional English text. Gubal finds translations and screenshots by node ID path.",
+    "inventoryGroupBy lists inventory-only levels. rowId is the numeric ID after #, before an optional text-column suffix."
+  ],
+  "inventory": {
+    "_comment": [
+      "Quest expansion comes only from quest metadata; other content stays global. Missing or conflicting links remain unassigned.",
+      "Rules use first-match order. Each when value is a case-insensitive regular expression; all fields must match. Rules with the same id share one group."
+    ],
+    "questMetadata": {
+      "source": "corpus/quest/",
+      "sourceKey": "questRowId",
+      "fields": [
+        "questRowId",
+        "expansion",
+        "section",
+        "category",
+        "genre",
+        "eventIconType"
+      ],
+      "targets": [
+        {
+          "sheets": ["quest/"],
+          "key": "questRowId"
+        },
+        {
+          "sheets": ["quest"],
+          "key": "rowId"
+        }
+      ],
+      "onMissing": "unassigned",
+      "onConflict": "unassigned"
+    },
+    "questType": {
+      "requires": "questMetadata",
+      "rules": [
+        {
+          "id": "main-scenario",
+          "name": "Main scenario",
+          "when": {
+            "section": "^Main Scenario"
+          }
+        },
+        {
+          "id": "class-job",
+          "name": "Class and job quests",
+          "when": {
+            "section": "^Class & Job"
+          }
+        },
+        {
+          "id": "allied-societies",
+          "name": "Allied societies",
+          "when": {
+            "section": "^Allied Society"
+          }
+        },
+        {
+          "id": "chronicles",
+          "name": "Chronicles of a New Era",
+          "when": {
+            "section": "^Chronicles of a New Era$"
+          }
+        },
+        {
+          "id": "relic-weapons",
+          "name": "Relic weapons",
+          "when": {
+            "section": "^Sidequests$",
+            "genre": "^(?:Zodiac Weapons|Anima Weapons|The Forbidden Land, Eureka|Resistance Weapons|Manderville Weapons|Phantom Weapons)$"
+          }
+        },
+        {
+          "id": "relic-weapons",
+          "name": "Relic weapons",
+          "when": {
+            "section": "^Sidequests$",
+            "category": "Weapon Enhancement"
+          }
+        },
+        {
+          "id": "sidequests-blue",
+          "name": "Side quests, blue",
+          "when": {
+            "section": "^Sidequests$",
+            "eventIconType": "^(?:8|10)$"
+          }
+        },
+        {
+          "id": "sidequests-yellow",
+          "name": "Side quests, yellow",
+          "when": {
+            "section": "^Sidequests$",
+            "eventIconType": "^1$"
+          }
+        },
+        {
+          "id": "sidequests-other",
+          "name": "Side quests, other markers",
+          "when": {
+            "section": "^Sidequests$"
+          }
+        },
+        {
+          "id": "seasonal",
+          "name": "Seasonal events",
+          "when": {
+            "category": "^Seasonal Events$"
+          }
+        },
+        {
+          "id": "collaborations",
+          "name": "Collaboration quests",
+          "when": {
+            "genre": "^Collaboration Quests$"
+          }
+        },
+        {
+          "id": "unfiled",
+          "name": "Not listed in the journal",
+          "when": {
+            "section": "^$"
+          }
+        },
+        {
+          "id": "special",
+          "name": "Other special quests",
+          "when": {
+            "section": "^Other Quests$"
+          }
+        }
+      ],
+      "onNoMatch": "unassigned"
+    },
+    "itemMetadata": {
+      "sheets": ["item"],
+      "key": "conversation",
+      "fields": {
+        "itemCategory": "metadata.uiCategory.name",
+        "itemSearchCategory": "metadata.searchCategory.name"
+      },
+      "onMissing": "unassigned",
+      "onConflict": "unassigned"
+    }
+  },
+  "children": [
+    {
+      "id": "story",
+      "name": "Quests",
+      "description": "Quest dialogue, objectives, titles and cutscene subtitles.",
+      "children": [
+        {
+          "id": "questtext",
+          "name": "MSQ and Quest dialogs and objectives",
+          "description": "Quest conversations, journal entries and objectives.",
+          "sheets": ["snipe", "snipetalk", "snipetalkname", "mjiprogress"],
+          "inventoryGroupBy": ["sheet"],
+          "children": [
+            {
+              "id": "quests",
+              "name": "Quest dialogue and objectives",
+              "description": "Quest dialogue, journal entries and objectives, grouped by verified quest metadata.",
+              "sheets": ["quest/"],
+              "inventoryGroupBy": ["expansion", "questType", "category", "genre"]
+            },
+            {
+              "id": "opening",
+              "name": "Opening scenes",
+              "description": "Opening scenes for the starting cities.",
+              "sheets": ["opening/"],
+              "inventoryGroupBy": ["sheet"]
+            }
+          ]
+        },
+        {
+          "id": "questnames",
+          "name": "Quest names",
+          "description": "Translates only the quest titles (in the tracker, the journal and the Unending Journey).",
+          "sheets": ["legacyquest"],
+          "inventoryGroupBy": ["sheet"],
+          "children": [
+            {
+              "id": "quest-titles",
+              "name": "Quest titles",
+              "description": "Quest titles linked to quest metadata by quest row ID.",
+              "sheets": ["quest"],
+              "inventoryGroupBy": ["expansion", "questType", "category", "genre"]
+            },
+            {
+              "id": "journal-titles",
+              "name": "Journal titles without quest linkage",
+              "description": "Unending Journey and journal titles without a verified quest metadata link.",
+              "sheets": ["completejournal"],
+              "inventoryGroupBy": ["sheet"]
+            }
+          ]
+        },
+        {
+          "id": "cutscenes",
+          "name": "Cutscene subtitles",
+          "description": "Subtitle lines at the bottom of the screen during voiced cutscenes.",
+          "sheets": ["cut_scene/"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "Dialogue and world lore",
+      "description": "Conversations, speech balloons and readable objects.",
+      "children": [
+        {
+          "id": "talk",
+          "name": "Ambient conversations and shouts",
+          "description": "NPC dialogue outside quests, speech balloons and shouts, including combat shouts. NPC service conversations are under Interface menus.",
+          "sheets": ["defaulttalk", "balloon", "npcyell", "ykw", "animaweapon5spirittalkparam", "animaweaponfuitalkparam", "mkdrelicgrowth2monster"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "objects",
+          "name": "Objects and information in the world",
+          "description": "What a mechanism or lever tells you when used, plus documents, letters, signs and puzzle hints.",
+          "sheets": ["gimmicktalk", "gimmickbill"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "name": "Place names",
+      "description": "Names shown on maps and inside instances.",
+      "children": [
+        {
+          "id": "placenames",
+          "name": "Place names",
+          "description": "Names of regions, zones and locations on maps and inside dungeons and other instances.",
+          "sheets": ["placename", "chocobotaxistand", "town", "mjiname"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "names",
+      "name": "Floating names",
+      "description": "Names shown on characters and objects.",
+      "children": [
+        {
+          "id": "nonbattlenpcnames",
+          "name": "Non-battle NPC names",
+          "description": "Names and titles of story characters, merchants and other NPCs used for story events and interaction.",
+          "sheets": ["enpcresident"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "battlenpcnames",
+          "name": "Battle NPC names",
+          "description": "Names of monsters, bosses and other combat NPCs, including allies and training dummies.",
+          "sheets": ["bnpcname"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "targetnames",
+          "name": "Creatures and interactable objects",
+          "description": "Names of pets, aetherytes, gathering points and objects you can select. Travel menus are under Interface menus.",
+          "sheets": ["pet", "aetheryte", "eobjname", "gatheringpointname", "petmirage"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "charactertitles",
+          "name": "Character and player titles",
+          "description": "Character and player titles, including their gender forms.",
+          "sheets": ["title"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "combat",
+      "name": "Character",
+      "description": "Jobs, actions, traits, status effects and character attributes.",
+      "children": [
+        {
+          "id": "jobs",
+          "name": "Class and job names",
+          "description": "Class and job names throughout the game, including combat jobs, Disciples of the Hand and Disciples of the Land.",
+          "sheets": ["classjob", "classjobcategory"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "actions",
+          "name": "Actions",
+          "description": "Action names, descriptions, categories and Blue Magic Spellbook entries. Includes actions stored in shared crafting and gathering sheets.",
+          "sheets": ["action", "actiontransient", "actioncategory", "actioncomboroute", "actioncomboroutetransient", "aozactiontransient", "buddyaction", "generalaction", "petaction"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "traits",
+          "name": "Traits",
+          "description": "Trait names and descriptions.",
+          "sheets": ["trait", "traittransient"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "status",
+          "name": "Status effects",
+          "description": "Status effect names and descriptions, including free company actions.",
+          "sheets": ["status", "companyaction"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "attributes",
+          "name": "Character attributes",
+          "description": "Names and descriptions of character attributes throughout the game, such as Strength and Critical Hit. This setting affects all uses of these attributes, not only combat.",
+          "sheets": ["baseparam"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "craftinggathering",
+      "name": "Crafting and gathering",
+      "description": "Crafting, gathering, fishing, deliveries and shared development activities.",
+      "children": [
+        {
+          "id": "actions",
+          "name": "Actions",
+          "description": "Crafting action names and descriptions. Actions stored in shared sheets remain under Character.",
+          "sheets": ["craftaction"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "menus",
+          "name": "Crafting and gathering menus",
+          "description": "Crafting disciplines, gathering types, gathering bonuses and recipe book categories.",
+          "sheets": ["crafttype", "gatheringtype", "gatheringcondition", "gatheringpointbonustype", "recipesubcategory", "secretrecipebook"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "deliveries",
+          "name": "Collectables and deliveries",
+          "description": "Collectable exchanges and delivery requirements for the Crystalline Mean, Studium and Wachumeqimeqi.",
+          "sheets": ["collectablesshop", "collectablesshopitemgroup", "bankacraftworks", "hugecraftworksnpc", "sharlayancraftworks"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "logs",
+          "name": "Gathering logs and fishing",
+          "description": "Gathering log categories, fish descriptions and fishing messages.",
+          "sheets": ["gatheringsubcategory", "fishparameter", "fishingspot", "spearfishingitem", "spearfishingecology", "spearfishingcombotarget"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "oceanfishing",
+          "name": "Ocean Fishing",
+          "description": "Ocean Fishing routes, objectives and score bonuses.",
+          "sheets": ["ikdcontentbonus", "ikdplayermissioncondition", "ikdroute"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "restoration",
+          "name": "Ishgardian Restoration",
+          "description": "Ishgardian Restoration announcements, supply phases and information board articles.",
+          "sheets": ["hwdannounce", "hwdcraftersupplyterm", "hwddevlevelwebtext", "hwdgathereinspectterm", "hwdinfoboardarticle", "hwdinfoboardarticletransient", "hwdinfoboardarticletype", "hwdinfoboardbacknumber"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "cosmic",
+          "name": "Cosmic Exploration",
+          "description": "Cosmic Exploration missions, tools, progress and system messages.",
+          "sheets": ["massivepccontent", "wksachievement", "wkscosmotoolname", "wksdevgrade", "wksemergencyinfotext", "wksfatecontrol", "wksitemsubcategory", "wksmechaeventdata", "wksmissiontext", "wksmissionunit", "wksnextplanetguidance", "wkspioneeringtrailstring", "wksplanetselect", "wkspraiseui", "wkstext"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "items",
+      "name": "Items",
+      "description": "Item names and descriptions, including quest items and special activity items.",
+      "children": [
+        {
+          "id": "items",
+          "name": "Items",
+          "description": "Item names and descriptions, including quest items, Eureka items, chocobo race items and Beastmaster items.",
+          "sheets": ["item", "eventitem", "eventitemhelp", "eventitemcategory", "itemspecialbonus", "eurekaaetheritem", "chocoboraceitem", "xbmitem", "xbmitemtype", "itemseries"],
+          "inventoryGroupBy": ["sheet", "itemCategory"]
+        },
+        {
+          "id": "deepdungeons",
+          "name": "Deep dungeons",
+          "description": "Deep Dungeon items, equipment, demiclones and magicite.",
+          "sheets": ["deepdungeonmagicstone", "deepdungeonitem", "deepdungeonequipment", "deepdungeondemiclone"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "duties",
+      "name": "Duties and field operations",
+      "description": "Duty objectives, dialogue and special combat systems.",
+      "children": [
+        {
+          "id": "dutytext",
+          "name": "Duty dialogue and objectives",
+          "description": "Dialogue, announcements and objectives in duties, FATEs and field operations, plus Variant Dungeon route choices.",
+          "sheets": ["instancecontenttextdata", "contenttalk", "publiccontenttextdata", "massivepccontenttextdata", "partycontenttextdata", "vvdvoteroutelabel", "dungeon/", "fateevent", "guildorder", "levestring", "dynamiceventsinglebattle"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "dutyfinder",
+          "name": "Duty names and descriptions",
+          "description": "Duty Finder entries and names and descriptions of roulettes, levequests, FATEs and critical engagements. Entry NPC menus are under Interface menus.",
+          "sheets": ["contentfindercondition", "contentfinderconditiontransient", "contentroulette", "leve", "fate", "dynamicevent", "dynamiceventenemytype", "deepdungeon", "leveclient", "dpschallenge"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "deepdungeons",
+          "name": "Deep Dungeon effects",
+          "description": "Deep Dungeon floor effects and special mechanic effects.",
+          "sheets": ["deepdungeonflooreffectui", "deepdungeon4gimmickeffecttransient"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "fieldsystems",
+          "name": "Field operation jobs and actions",
+          "description": "Phantom jobs and traits in the Occult Crescent, and lost action categories in Bozja.",
+          "sheets": ["mkdsupportjob", "mkdtrait", "myctemporaryitemuicategory"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "guides",
+      "name": "Tutorials and guides",
+      "description": "Help pages and explanations of game systems.",
+      "children": [
+        {
+          "id": "guides",
+          "name": "Tutorials and game manuals",
+          "description": "Active Help, job gauge guides and built-in manuals for combat, housing, minigames and exploration.",
+          "sheets": ["howto", "howtopage", "howtocategory", "eventtutorial", "eventtutorialpage", "contentstutorial", "contentstutorialpage", "multiplehelpstring", "multiplehelp", "descriptionstring", "description", "descriptionstandalonetransient", "guidepagestring", "guidetitle"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "name": "Interface menus",
+      "description": "Title screen, main menus, windows and NPC services.",
+      "children": [
+        {
+          "id": "lobby",
+          "name": "Lobby",
+          "description": "Title screen, character selection and character creation.",
+          "sheets": ["lobby", "charamakename", "race", "tribe", "guardiandeity", "exversion", "worldphysicaldc", "worldregiongroup"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "mainmenus",
+          "name": "Main menus",
+          "description": "Main menu entries and categories.",
+          "sheets": ["maincommand", "maincommandcategory"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "emotes",
+          "name": "Emotes",
+          "description": "Emote names, descriptions and categories in the emote menu. This setting does not affect commands typed in chat.",
+          "sheets": ["emote", "emotecategory"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "interface",
+          "name": "Other interface menus and NPC services",
+          "description": "Buttons, settings, shops, retainers, free companies, housing, gathering, travel and duty entry menus. Includes NPC topic menus and their dialogue and lore answers because each sheet is switched as a whole.",
+          "sheets": ["addon", "mcguffinuidata", "csbonustextdata", "contenttype", "gimmickyesno", "eventaction", "specialshop", "gilshop", "disposalshop", "disposalshopfiltertype", "fccshop", "inclusionshop", "inclusionshopwelcomtext", "gcshopitemcategory", "itemsearchcategory", "itemuicategory", "cabinetsubcategory", "journalcategory", "journalgenre", "journalsection", "leveassignmenttype", "notebookdivision", "questredochapteruicategory", "classjobactionuicategory", "contentuicategory", "onlinestatus", "circleactivity", "fcchestname", "fchierarchy", "fcprofile", "fcreputation", "fcrights", "gcrankgridaniafemaletext", "gcrankgridaniamaletext", "gcranklimsafemaletext", "gcranklimsamaletext", "gcrankuldahfemaletext", "gcrankuldahmaletext", "housingappeal", "housingmateauthority", "housingmerchantpose", "housingplacement", "housingunplacement", "furniturecatalogcategory", "yardcatalogcategory", "companycraftdraftcategory", "companycraftmanufactorystate", "companycrafttype", "orchestrioncategory", "playersearchlocation", "playersearchsublocation", "weather", "stain", "topicselect", "inclusionshopcategory", "treasure", "shop/", "retainertaskrandom", "custom/", "customtalk", "raid/", "content/", "guild_order/", "leve/", "guildleveassignmenttalk", "transport/", "warp/", "warp", "system/", "story/", "grandcompany", "aquariumwater", "fcactivity", "fcactivitycategory", "fcauthority", "fcauthoritycategory", "mateauthoritycategory", "platform", "pointmenustring", "warplogic", "addontransient", "attributive", "beastreputationrank", "beasttribe", "configkey", "craftlevetalk", "eventpathmove", "eventsituationicontooltip", "extracommand", "fittingshopcategory", "fittingshopitemset", "guildleveassignment", "halloweennpcselect", "housingemploymentnpcrace", "housingpreset", "housingrenovation", "hud", "lotteryexchangeshop", "opencontentcandidatename", "pointmenu", "questredochapterui", "questredochapteruitab", "tomestoneconvert", "valentionsweetsmaterial", "valentionsweetsrecipe", "webguidance", "weddingbgm", "buddyequip", "questrewardother", "omikuji", "omikujiguidance", "dawnmemberuiparam", "publiccontent", "aozscore", "contentgauge", "qte", "eurekamagiciteitemtype", "animaweapon5param", "animaweapon5patterngroup", "mkdrelicgrowth2category", "mkdrelicgrowth2contentlist", "relic6magicite", "colosseummatchrank", "maneuversarmor", "pvpranktransient", "mjicraftworksobjecttheme", "mjidisposalshopuicategory", "mjihudmode", "mjiitemcategory", "mjitext", "airshipexplorationlog", "airshipexplorationparamtype", "airshipexplorationpoint", "companycraftdraft", "submarineexploration", "submarineexplorationlog", "submarinemap", "submarinespeccategory", "bgcarmyaction", "bgcarmyactiontransient", "gcarmycandidatecategory", "gcarmyexpedition", "gcarmyexpeditiontrait", "gcarmyexpeditiontraitcond", "gcarmyexpeditiontype", "gcarmytraining", "fieldmarker", "marker", "tofubg", "tofueditparam", "tofuobject", "tofuobjectcategory", "tofupreset", "tofupresetcategory", "creditcast", "creditlisttext"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "chat",
+      "name": "Chat and system messages",
+      "description": "Chat messages, the auto-translate dictionary, text commands, notifications and errors.",
+      "children": [
+        {
+          "id": "log",
+          "name": "Chat and system messages",
+          "description": "Combat messages, emotes, invitations, system notices, connection errors and the auto-translate dictionary.",
+          "sheets": ["logmessage", "error", "completion", "chatbubbletype", "logfilter", "logkind", "quickchat", "quickchattransient", "xpvpgroupactivity"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "textcommands",
+          "name": "Text commands",
+          "description": "System and emote commands typed in chat.",
+          "sheets": ["textcommand"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "name": "Other",
+      "description": "Minigames, Beastmaster content, achievements, logs and codex entries.",
+      "children": [
+        {
+          "id": "goldsaucer",
+          "name": "Gold Saucer and minigames",
+          "description": "Text for GATEs, arcade games, chocobo racing, Triple Triad cards, Lord of Verminion and Doman Mahjong.",
+          "sheets": ["goldsaucertextdata", "goldsaucerarcademachine", "rideshootingtextdata", "gfateclimbing", "gfatestelth", "emjaddon", "fgsaddon", "chocoboraceability", "chocoboracechallenge", "racingchocobonamecategory", "racingchocoboparam", "minionrace", "minionrules", "minionskilltype", "minionstage", "tripletriadcard", "tripletriadcardtype", "tripletriadcompetition", "tripletriadrule", "goldsaucertalk", "emjcostumedata", "emjvoicenpc", "fashioncheckthemecategory", "fashioncheckweeklytheme", "ktgtypewordtextdata", "minigameturnbreakaction", "minigameturnbreakstatus", "racingchocoboname"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "beastmaster",
+          "name": "Beastmaster and the Crucible",
+          "description": "Beast descriptions, action properties and score objectives.",
+          "sheets": ["xbmactioneffecttype", "xbmactiontarget", "xbmelement", "xbmpet", "xbmscorebonus", "xbmscorerank"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "achievements",
+          "name": "Achievements",
+          "description": "Achievement names, descriptions and categories.",
+          "sheets": ["achievementkind", "achievement", "achievementcategory"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "logs",
+          "name": "Logs",
+          "description": "Sightseeing Log, Challenge Log, Wondrous Tails, relic book categories and Phantom Weapon objectives, Bozja Field Record, Occult Record and Variant Dungeon records.",
+          "sheets": ["adventure", "contentsnote", "contentsnotecategory", "weeklybingotext", "notebookdivisioncategory", "relicnotecategory", "phantomweaponextododetailtxt", "mycwarresultnotebook", "mkdlore", "vvdnotebookcontents", "vvdnotebookseries", "monsternote", "phantomweaponextodo"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "lore",
+          "name": "Codex",
+          "description": "Unending Codex entries.",
+          "sheets": ["akatsukinotestring"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    },
+    {
+      "id": "collections",
+      "name": "Collections and customization",
+      "description": "Mounts, minions, accessories, portraits, Group Pose, music and performance.",
+      "children": [
+        {
+          "id": "mounts",
+          "name": "Mounts",
+          "description": "Mount names, descriptions and summoning text.",
+          "sheets": ["mount", "mounttransient"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "minions",
+          "name": "Minions",
+          "description": "Minion names, descriptions and behavior labels.",
+          "sheets": ["companion", "companionmove", "companiontransient"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "fashionaccessories",
+          "name": "Fashion accessories and facewear",
+          "description": "Fashion accessory and facewear names, styles and descriptions.",
+          "sheets": ["glasses", "glassesstyle", "ornament", "ornamenttransient"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "portraits",
+          "name": "Adventurer plates and portraits",
+          "description": "Adventurer plate and portrait backgrounds, frames, decorations, poses and design categories.",
+          "sheets": ["bannerbg", "bannerdecoration", "bannerdesignpreset", "bannerframe", "bannerobtainhinttype", "bannertimeline", "characardbase", "characarddecoration", "characarddesigncategory", "characarddesignpreset", "characardheader", "characardplaystyle"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "grouppose",
+          "name": "Group Pose",
+          "description": "Group Pose filters, effects, frames, stamps and colors.",
+          "sheets": ["colorfilter", "eventvfx", "groupposeframe", "groupposestamp", "groupposestampcategory", "groupposestampfontcolor"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "orchestrion",
+          "name": "Orchestrion",
+          "description": "Music titles and acquisition hints for orchestrion rolls.",
+          "sheets": ["orchestrion"],
+          "inventoryGroupBy": ["sheet"]
+        },
+        {
+          "id": "performance",
+          "name": "Performance",
+          "description": "Performance instruments, techniques and music guides.",
+          "sheets": ["perform", "performguidescore", "performtransient"],
+          "inventoryGroupBy": ["sheet"]
+        }
+      ]
+    }
+  ]
+}
