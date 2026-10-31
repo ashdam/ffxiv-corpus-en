@@ -6,7 +6,8 @@ Japanese and German beside it. Extracted from the game's Excel sheets and regene
 Every language pack mirrors this layout so a translation of a row lives at the same path, under the
 same `gameKey`, in `ffxiv-language-pack-<language>/corpus/`.
 
-`config/extracted-sheets-columns.json` defines the sheets and text columns to extract.
+`config/extraction.json` defines the sheets and text columns to extract.
+It is shared configuration, not a translation file; do not copy it into language packs.
 
 ## Folder layout
 
@@ -15,24 +16,24 @@ corpus/
   quest/<bucket>/<questId>.json         one file per quest
   cut_scene/<bucket>/VoiceMan_<id>.json one file per voiced cutscene
   custom/<bucket>/<name>_<id>.json      the "Ask about..." menus and other scripted talk
-  flat/<Sheet>.json                     one file per flat sheet: DefaultTalk, NpcYell, Addon, Item...
+  flat/<Sheet>.json                     one file per flat sheet: DefaultTalk, NpcYell, Addon, Item, PlaceName...
   ui/banners.json                      English banner labels and original TEX hashes, one entry per line
   warp/ transport/ raid/ content/ dungeon/ opening/ shop/ leve/ guild_order/ story/ system/
                                         small keyed families, one file per sheet
-glossary/characters.json               every named NPC, en/fr/ja, from the game's own sheets
-glossary/npc-names.json                confirmed NPC proper names, en/fr/ja, for spelling checks
-glossary/places.json                   every place name, en/fr/ja
-glossary/tribes.json                   the beast tribes, en/fr/ja
-glossary/gender-overrides.json         speaker genders the NPC sheets get wrong; an input to the extraction
-glossary/bnpcname-gender-override.json  reviewed battle NPC genders, keyed by NPC row
-glossary/enpcresident-override.json     reviewed resident NPC genders, keyed by gameKey
-glossary/excluded-rows.json             reviewed rows omitted from every language corpus
+metadata/proper-names-auto.json         proper names extracted automatically from the game
+metadata/proper-names-manual.json       reviewed proper names absent from the automatic catalog
+metadata/peoples-manual.json           additional peoples, races, tribes and clans
+config/gender-overrides.json          character, NPC-row and dialogue-row gender overrides
+config/excluded-rows.json             reviewed rows omitted from every language corpus
 versions/<gameVersion>.json             what each patch added, rewrote and retired
 docs/                                   sheets, glossaries, and language-pack assets
 ```
 
 Language packs can also contain translated textures and interface layout changes. See
 [Banner translations and UI layouts](docs/banner-translations-and-ui-layouts.md) for paths, formats, and PackBuilder commands.
+
+See [Shared configuration](config/config.md) for extraction settings, gender overrides and source exclusions.
+See [Shared metadata](metadata/metadata.md) for common game data. Language-specific decisions belong in each pack.
 
 ## File structure example
 
@@ -104,26 +105,7 @@ between languages. Never evaluate or flatten a reference to store it.
 `speakerGender` is `male`, `female` or `unknown`, from the game's NPC sheets. Grammatical agreement
 in a translation depends on it; the English text alone cannot tell.
 
-`gender` uses linked humanoid model data. The matching key in `bnpcname-gender-override.json` or
-`enpcresident-override.json` takes priority. Missing or conflicting evidence remains `unknown`;
-`n/a` requires a reviewed override that confirms sex does not apply.
-
-Battle NPC keys identify the NPC row and apply to all name columns. Resident NPC keys retain the
-text column. `why` must state the evidence. Edit the override and extract the sheet to update `gender`.
-
-```json
-{ "overrides": { "BNpcName#511": { "gender": "n/a", "why": "EN: barricade; FR: barricade; JA: バリケード. An inanimate barrier." } } }
-```
-
-`glossary/gender-overrides.json` corrects the sheet where the game's own dialogue contradicts it:
-
-```json
-{ "overrides": { "STARKWOAD": { "gender": "female", "why": "the lines, in two languages, that show it" } } }
-```
-
-The key is the speaker token with only letters and digits, upper case. The value is `male`, `female`
-or `unknown`, which forces neutral phrasing. An entry needs the game text quoted in at least two
-languages in `why`.
+`gender` uses linked humanoid model data and the [shared gender overrides](config/config.md#gender-overridesjson).
 
 ## Row kinds
 
@@ -134,31 +116,6 @@ languages in `why`.
 | `seq` | Journal text for a quest step. Never in the Talk window. |
 | `todo` | A quest objective line. Never in the Talk window. |
 | `system` | A system message inside a quest script. |
-
-## Proper nouns
-
-`glossary/characters.json`, `glossary/places.json` and `glossary/tribes.json` have the same shape.
-Generated from the game's own sheets, so they are regenerated with the corpus and never edited.
-
-```json
-{
-  "sourceLanguage": "en",
-  "gameVersion": "2026.08.11.0000.0000",
-  "terms": [
-    { "en": "A'aba Tia", "fr": "A'aba Tia", "ja": "ア・アバ・ティア", "protect": true, "note": "Flame Private" },
-    { "en": "A Faraway Place", "fr": "Ville lointaine", "ja": "とある街", "protect": false }
-  ]
-}
-```
-
-| Field | |
-|---|---|
-| `en`, `fr`, `ja` | The name as the game ships it in each language. `fr` or `ja` is absent when that language has no row. |
-| `protect` | Whether the French form equals the English form, or French is absent. This is a source hint; the language pack's explicit translation takes precedence. |
-| `note` | Characters only, when the sheet has it: the title shown under the name, `Flame Private`, `Merchant & Mender`. |
-
-One entry per English name in each file. `characters.json` comes from the NPC sheet,
-`places.json` from the place-name sheet. `tribes.json` contains every nonempty beast-tribe label.
 
 ## A patch
 
