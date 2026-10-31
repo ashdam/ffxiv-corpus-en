@@ -33,6 +33,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#1.1",
+      "en": "GLA",
+      "hash": "683228BFF7039BFF",
+      "unresolved": false,
+      "fr": "GLA",
+      "ja": "GLA",
+      "de": "GLA",
+      "conversation": "ClassJob#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#1.30",
       "en": "Gladiator",
       "hash": "7881123446FD7179",
@@ -56,6 +70,20 @@
       "de": "Faustkämpfer",
       "conversation": "ClassJob#2",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#2.1",
+      "en": "PGL",
+      "hash": "570F6D4C82E2E1BD",
+      "unresolved": false,
+      "fr": "PGL",
+      "ja": "PGL",
+      "de": "FST",
+      "conversation": "ClassJob#2",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -89,6 +117,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#3.1",
+      "en": "MRD",
+      "hash": "288530C19F77CE98",
+      "unresolved": false,
+      "fr": "MRD",
+      "ja": "MRD",
+      "de": "MAR",
+      "conversation": "ClassJob#3",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#3.30",
       "en": "Marauder",
       "hash": "90E9798208648C9B",
@@ -112,6 +154,20 @@
       "de": "Pikenier",
       "conversation": "ClassJob#4",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#4.1",
+      "en": "LNC",
+      "hash": "35EAD87883787623",
+      "unresolved": false,
+      "fr": "HAS",
+      "ja": "LNC",
+      "de": "PIK",
+      "conversation": "ClassJob#4",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -145,6 +201,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#5.1",
+      "en": "ARC",
+      "hash": "AF89D15398CC0624",
+      "unresolved": false,
+      "fr": "ARC",
+      "ja": "ARC",
+      "de": "WDL",
+      "conversation": "ClassJob#5",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#5.30",
       "en": "Archer",
       "hash": "CA3BEF9E23A501D4",
@@ -168,6 +238,20 @@
       "de": "Druide",
       "conversation": "ClassJob#6",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#6.1",
+      "en": "CNJ",
+      "hash": "B43786D811AB268B",
+      "unresolved": false,
+      "fr": "ÉLM",
+      "ja": "CNJ",
+      "de": "DRU",
+      "conversation": "ClassJob#6",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -201,6 +285,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#7.1",
+      "en": "THM",
+      "hash": "C712FAB267B37629",
+      "unresolved": false,
+      "fr": "OCC",
+      "ja": "THM",
+      "de": "THM",
+      "conversation": "ClassJob#7",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#7.30",
       "en": "Thaumaturge",
       "hash": "C33185C3CC723220",
@@ -224,6 +322,20 @@
       "de": "Zimmerer",
       "conversation": "ClassJob#8",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#8.1",
+      "en": "CRP",
+      "hash": "C7D3E4AADD70163B",
+      "unresolved": false,
+      "fr": "MEN",
+      "ja": "CRP",
+      "de": "ZMR",
+      "conversation": "ClassJob#8",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -257,6 +369,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#9.1",
+      "en": "BSM",
+      "hash": "7A62235A435CAE60",
+      "unresolved": false,
+      "fr": "FRG",
+      "ja": "BSM",
+      "de": "GRS",
+      "conversation": "ClassJob#9",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#9.30",
       "en": "Blacksmith",
       "hash": "AF889534C5B2B129",
@@ -280,6 +406,20 @@
       "de": "Plattner",
       "conversation": "ClassJob#10",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#10.1",
+      "en": "ARM",
+      "hash": "21BC36D9CCEBB303",
+      "unresolved": false,
+      "fr": "ARM",
+      "ja": "ARM",
+      "de": "PLA",
+      "conversation": "ClassJob#10",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -313,6 +453,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#11.1",
+      "en": "GSM",
+      "hash": "B327CE20276298E3",
+      "unresolved": false,
+      "fr": "ORF",
+      "ja": "GSM",
+      "de": "GLD",
+      "conversation": "ClassJob#11",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#11.30",
       "en": "Goldsmith",
       "hash": "884F73FE07EA3BE9",
@@ -336,6 +490,20 @@
       "de": "Gerber",
       "conversation": "ClassJob#12",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#12.1",
+      "en": "LTW",
+      "hash": "EBC5ED2B1896CC2E",
+      "unresolved": false,
+      "fr": "TAN",
+      "ja": "LTW",
+      "de": "GER",
+      "conversation": "ClassJob#12",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -369,6 +537,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#13.1",
+      "en": "WVR",
+      "hash": "CC18452C3BCE8C78",
+      "unresolved": false,
+      "fr": "COU",
+      "ja": "WVR",
+      "de": "WEB",
+      "conversation": "ClassJob#13",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#13.30",
       "en": "Weaver",
       "hash": "16700AF42CBA2DDA",
@@ -392,6 +574,20 @@
       "de": "Alchemist",
       "conversation": "ClassJob#14",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#14.1",
+      "en": "ALC",
+      "hash": "012603E75469CA4B",
+      "unresolved": false,
+      "fr": "ALC",
+      "ja": "ALC",
+      "de": "ALC",
+      "conversation": "ClassJob#14",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -425,6 +621,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#15.1",
+      "en": "CUL",
+      "hash": "45666B7E61984235",
+      "unresolved": false,
+      "fr": "CUI",
+      "ja": "CUL",
+      "de": "GRM",
+      "conversation": "ClassJob#15",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#15.30",
       "en": "Culinarian",
       "hash": "97DD6CCC0FFDF98B",
@@ -448,6 +658,20 @@
       "de": "Minenarbeiter",
       "conversation": "ClassJob#16",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#16.1",
+      "en": "MIN",
+      "hash": "0F9CB84AE9B183DB",
+      "unresolved": false,
+      "fr": "MIN",
+      "ja": "MIN",
+      "de": "MIN",
+      "conversation": "ClassJob#16",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -481,6 +705,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#17.1",
+      "en": "BTN",
+      "hash": "E04623EC6612B668",
+      "unresolved": false,
+      "fr": "BTN",
+      "ja": "BTN",
+      "de": "GÄR",
+      "conversation": "ClassJob#17",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#17.30",
       "en": "Botanist",
       "hash": "34C68D1D47BE30DE",
@@ -504,6 +742,20 @@
       "de": "Fischer",
       "conversation": "ClassJob#18",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#18.1",
+      "en": "FSH",
+      "hash": "33AE2EE5C826F203",
+      "unresolved": false,
+      "fr": "PÊC",
+      "ja": "FSH",
+      "de": "FIS",
+      "conversation": "ClassJob#18",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -537,6 +789,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#19.1",
+      "en": "PLD",
+      "hash": "16E1752785B9704D",
+      "unresolved": false,
+      "fr": "PLD",
+      "ja": "PLD",
+      "de": "PLD",
+      "conversation": "ClassJob#19",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#19.30",
       "en": "Paladin",
       "hash": "99E76929F049BAA1",
@@ -560,6 +826,20 @@
       "de": "Mönch",
       "conversation": "ClassJob#20",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#20.1",
+      "en": "MNK",
+      "hash": "AFDCA5227CFF26EA",
+      "unresolved": false,
+      "fr": "MOI",
+      "ja": "MNK",
+      "de": "MÖN",
+      "conversation": "ClassJob#20",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -593,6 +873,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#21.1",
+      "en": "WAR",
+      "hash": "E6515E5BA32ADE2A",
+      "unresolved": false,
+      "fr": "GUE",
+      "ja": "WAR",
+      "de": "KRG",
+      "conversation": "ClassJob#21",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#21.30",
       "en": "Warrior",
       "hash": "1D05B1D0F7AC231C",
@@ -616,6 +910,20 @@
       "de": "Dragoon",
       "conversation": "ClassJob#22",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#22.1",
+      "en": "DRG",
+      "hash": "E04BC0A960C5E38E",
+      "unresolved": false,
+      "fr": "DRG",
+      "ja": "DRG",
+      "de": "DRG",
+      "conversation": "ClassJob#22",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -649,6 +957,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#23.1",
+      "en": "BRD",
+      "hash": "30B9AF068CBCA04F",
+      "unresolved": false,
+      "fr": "BRD",
+      "ja": "BRD",
+      "de": "BRD",
+      "conversation": "ClassJob#23",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#23.30",
       "en": "Bard",
       "hash": "A78992A151AF74A7",
@@ -672,6 +994,20 @@
       "de": "Weißmagier",
       "conversation": "ClassJob#24",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#24.1",
+      "en": "WHM",
+      "hash": "BF70AF1D5436F9A8",
+      "unresolved": false,
+      "fr": "MBL",
+      "ja": "WHM",
+      "de": "WMA",
+      "conversation": "ClassJob#24",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -705,6 +1041,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#25.1",
+      "en": "BLM",
+      "hash": "4FABD381A1218071",
+      "unresolved": false,
+      "fr": "MNO",
+      "ja": "BLM",
+      "de": "SMA",
+      "conversation": "ClassJob#25",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#25.30",
       "en": "Black Mage",
       "hash": "5890EB0DF3ACF507",
@@ -728,6 +1078,20 @@
       "de": "Hermetiker",
       "conversation": "ClassJob#26",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#26.1",
+      "en": "ACN",
+      "hash": "1C1677F361846069",
+      "unresolved": false,
+      "fr": "ACN",
+      "ja": "ACN",
+      "de": "HRT",
+      "conversation": "ClassJob#26",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -761,6 +1125,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#27.1",
+      "en": "SMN",
+      "hash": "2752E8DFFECE4A1C",
+      "unresolved": false,
+      "fr": "INV",
+      "ja": "SMN",
+      "de": "BSW",
+      "conversation": "ClassJob#27",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#27.30",
       "en": "Summoner",
       "hash": "F8B80AA19989B6BC",
@@ -784,6 +1162,20 @@
       "de": "Gelehrter",
       "conversation": "ClassJob#28",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#28.1",
+      "en": "SCH",
+      "hash": "7A4E04ABC66E11CD",
+      "unresolved": false,
+      "fr": "ÉRU",
+      "ja": "SCH",
+      "de": "GLT",
+      "conversation": "ClassJob#28",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -817,6 +1209,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#29.1",
+      "en": "ROG",
+      "hash": "4C672297648017AA",
+      "unresolved": false,
+      "fr": "SUR",
+      "ja": "ROG",
+      "de": "SCH",
+      "conversation": "ClassJob#29",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#29.30",
       "en": "Rogue",
       "hash": "0FB74D5025748895",
@@ -840,6 +1246,20 @@
       "de": "Ninja",
       "conversation": "ClassJob#30",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#30.1",
+      "en": "NIN",
+      "hash": "FD7F9B0E4D6E1FD9",
+      "unresolved": false,
+      "fr": "NIN",
+      "ja": "NIN",
+      "de": "NIN",
+      "conversation": "ClassJob#30",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -873,6 +1293,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#31.1",
+      "en": "MCH",
+      "hash": "35E6ED664D8FC28E",
+      "unresolved": false,
+      "fr": "MCH",
+      "ja": "MCH",
+      "de": "MCH",
+      "conversation": "ClassJob#31",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#31.30",
       "en": "Machinist",
       "hash": "7D96A03465EEA0F3",
@@ -896,6 +1330,20 @@
       "de": "Dunkelritter",
       "conversation": "ClassJob#32",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#32.1",
+      "en": "DRK",
+      "hash": "5619BD812662B333",
+      "unresolved": false,
+      "fr": "CHN",
+      "ja": "DRK",
+      "de": "DKR",
+      "conversation": "ClassJob#32",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -929,6 +1377,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#33.1",
+      "en": "AST",
+      "hash": "AE09ED737088CAE5",
+      "unresolved": false,
+      "fr": "AST",
+      "ja": "AST",
+      "de": "AST",
+      "conversation": "ClassJob#33",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#33.30",
       "en": "Astrologian",
       "hash": "CF2845322B711D4A",
@@ -952,6 +1414,20 @@
       "de": "Samurai",
       "conversation": "ClassJob#34",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#34.1",
+      "en": "SAM",
+      "hash": "806DF33B0DD69EC0",
+      "unresolved": false,
+      "fr": "SAM",
+      "ja": "SAM",
+      "de": "SAM",
+      "conversation": "ClassJob#34",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -985,6 +1461,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#35.1",
+      "en": "RDM",
+      "hash": "1A3AA21F8441A10B",
+      "unresolved": false,
+      "fr": "MRG",
+      "ja": "RDM",
+      "de": "RMA",
+      "conversation": "ClassJob#35",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#35.30",
       "en": "Red Mage",
       "hash": "B5155633B1D6951E",
@@ -1008,6 +1498,20 @@
       "de": "Blaumagier",
       "conversation": "ClassJob#36",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#36.1",
+      "en": "BLU",
+      "hash": "370C581C165B1586",
+      "unresolved": false,
+      "fr": "MBU",
+      "ja": "BLU",
+      "de": "BMA",
+      "conversation": "ClassJob#36",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -1041,6 +1545,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#37.1",
+      "en": "GNB",
+      "hash": "23E019BB2EBAD410",
+      "unresolved": false,
+      "fr": "PSB",
+      "ja": "GNB",
+      "de": "REV",
+      "conversation": "ClassJob#37",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#37.30",
       "en": "Gunbreaker",
       "hash": "5BC9451B0DACBB29",
@@ -1064,6 +1582,20 @@
       "de": "Tänzer",
       "conversation": "ClassJob#38",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#38.1",
+      "en": "DNC",
+      "hash": "67573518C22F7EE0",
+      "unresolved": false,
+      "fr": "DNS",
+      "ja": "DNC",
+      "de": "TÄN",
+      "conversation": "ClassJob#38",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -1097,6 +1629,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#39.1",
+      "en": "RPR",
+      "hash": "7979C67A7E82D3E2",
+      "unresolved": false,
+      "fr": "FCH",
+      "ja": "RPR",
+      "de": "SNT",
+      "conversation": "ClassJob#39",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#39.30",
       "en": "Reaper",
       "hash": "2CD413DAD9C542F9",
@@ -1120,6 +1666,20 @@
       "de": "Weiser",
       "conversation": "ClassJob#40",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#40.1",
+      "en": "SGE",
+      "hash": "DA168AF0388E8363",
+      "unresolved": false,
+      "fr": "SAG",
+      "ja": "SGE",
+      "de": "WEI",
+      "conversation": "ClassJob#40",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
@@ -1153,6 +1713,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#41.1",
+      "en": "VPR",
+      "hash": "D258DF0A7C7BA02C",
+      "unresolved": false,
+      "fr": "VPR",
+      "ja": "VPR",
+      "de": "VPR",
+      "conversation": "ClassJob#41",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#41.30",
       "en": "Viper",
       "hash": "4E694DE18922C456",
@@ -1181,6 +1755,20 @@
       "sheet": "ClassJob"
     },
     {
+      "gameKey": "ClassJob#42.1",
+      "en": "PCT",
+      "hash": "70536806F0214840",
+      "unresolved": false,
+      "fr": "PIC",
+      "ja": "PCT",
+      "de": "PKT",
+      "conversation": "ClassJob#42",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
       "gameKey": "ClassJob#42.30",
       "en": "Pictomancer",
       "hash": "0C956615AB9AA189",
@@ -1204,6 +1792,20 @@
       "de": "Bestienbändiger",
       "conversation": "ClassJob#43",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJob"
+    },
+    {
+      "gameKey": "ClassJob#43.1",
+      "en": "BST",
+      "hash": "F67131C594AC6B3C",
+      "unresolved": false,
+      "fr": "DRE",
+      "ja": "BST",
+      "de": "BST",
+      "conversation": "ClassJob#43",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJob"
