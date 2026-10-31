@@ -6,8 +6,10 @@ Japanese and German beside it. Extracted from the game's Excel sheets and regene
 Every language pack mirrors this layout so a translation of a row lives at the same path, under the
 same `gameKey`, in `ffxiv-language-pack-<language>/corpus/`.
 
-`corpus/extracted-sheets-columns.json` lists extracted sheets and approved text columns for PackBuilder.
-CorpusExtractor generates it during source sync. It is metadata, not a translation file; do not copy it into language packs.
+`corpus/extracted-sheets-columns.json` defines the sheets and text columns to extract.
+CorpusExtractor, CorpusValidator and PackBuilder read this definition. Edit it before extracting new
+sheets or columns. Source sync validates the game headers and updates its game version without
+changing the selection. Keep this shared definition in corpus-en; do not copy it into language packs.
 
 ## Folder layout
 
