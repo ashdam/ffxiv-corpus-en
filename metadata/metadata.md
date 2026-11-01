@@ -70,6 +70,24 @@ Separate words and parts are not spelling exceptions.
    If a valid name still receives a spelling warning, check dictionary loading and the exact
    spelling before adding another exception. Use validator reviews for sentence-specific false positives.
 
+### Names, aliases and titles criteria
+
+Include attested personal names, full names, individual aliases, named deities and named creatures.
+A character can be named only in dialogue, an item description or official game material;
+a visible NPC row is not required. A name used for a legendary character can also qualify.
+
+| Include | Exclude |
+|---|---|
+| `Charlemend de Durendaire`, the personal name. | `Count de Durendaire`, the title without a personal name. |
+| `the Griffin`, an alias used as the character's name. | `the Golden Fox`, a description of the named spirit Kinko. |
+| `Gajasimha`, a named deity. | `the Word of the Mother`, Minfilia's role as Hydaelyn's speaker. |
+
+A title attached to a personal name can remain when the complete form is attested in the source.
+Keep an attested full name even if the catalog already contains its shorter personal name.
+Copy each complete source form, including `the` when present. Do not invent article variants.
+Neither an initial capital nor an NPC name field alone proves that a label is a proper name.
+Catalog membership does not require the English name to remain in a translation; pack decisions take precedence.
+
 ## peoples-manual.json
 
 Names of peoples, races, tribes and clans not present in the `BeastTribe`, `Race` or `Tribe`
