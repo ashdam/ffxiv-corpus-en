@@ -1718,8 +1718,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka4Krile_00545#TEXT_CTSERKEUREKA4KRILE_00545_EUREKAPERSON_000_482",
-      "en": "Our enemy standeth before us, bearing light most vile. Strike <if(gnum4,her,him)> down, my champion.",
-      "hash": "7DA32D9A23592B04",
+      "en": "(-Eureka-)Our enemy standeth before us, bearing light most vile. Strike <if(gnum4,her,him)> down, my champion.",
+      "hash": "868BD9B275025197",
       "unresolved": false,
       "fr": "(-Interface d'Eurêka-)Maître... <if(gnum4,La porteuse,Le porteur)> de cette odieuse Lumière est arrivé<if(gnum4,e,)> jusqu'ici... Il est temps d'en finir...",
       "ja": "(-創神エウレカの端末-)我が主……我が担い手よ……。<br>忌々しき光を宿す者が……ここまで来たぞ……。<br>さあ、今こそ……決着をつけるのだ……。",
@@ -1798,8 +1798,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka4Krile_00545#TEXT_CTSERKEUREKA4KRILE_00545_EUREKAPERSON_000_487",
-      "en": "Thou wouldst betray me? Wicked mortal!",
-      "hash": "6A9741AB4403A475",
+      "en": "(-Eureka-)Thou wouldst betray me? Wicked mortal!",
+      "hash": "25F2D02258C10D12",
       "unresolved": false,
       "fr": "(-Interface d'Eurêka-)Pure folie... Alors tu décides de me trahir, d'arpenter la voie du mal...<nbsp>?",
       "ja": "(-創神エウレカの端末-)愚か……我を謀り……悪を為すか……。",
@@ -1958,8 +1958,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka4Krile_00545#TEXT_CTSERKEUREKA4KRILE_00545_EUREKAYOUNGG_000_501",
-      "en": "In the absence of an avatar, its master might command it to forge more weapons than the aether it harbors. This is true.",
-      "hash": "4A6E847C5BDBE106",
+      "en": "(-Galuf-)In the absence of an avatar, its master might command it to forge more weapons than the aether it harbors. This is true.",
+      "hash": "090521A0FE22D1D5",
       "unresolved": false,
       "fr": "(-Galuf-)C'est vrai. Si son maître lui demande de créer quelque chose qui surpasse ses propres capacités, et que son interface n'est pas là pour l'assister, ça peut marcher.",
       "ja": "(-若き日のガラフ-)主となった者が限界以上の創造を行わせる方法だな。<br>エーテルの操作を司る人型端末が存在しない現状なら、<br>たしかに可能ではある。",
@@ -2022,8 +2022,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka4Krile_00545#TEXT_CTSERKEUREKA4KRILE_00545_EUREKAYOUNGG_000_505",
-      "en": "As those who unearthed the being... If my life can set things to rights, gladly would I render it up. Yet therein lies the problem.",
-      "hash": "5661D8699E14F567",
+      "en": "(-Galuf-)As those who unearthed the being... If my life can set things to rights, gladly would I render it up. Yet therein lies the problem.",
+      "hash": "4B4444A051602E7C",
       "unresolved": false,
       "fr": "(-Galuf-)Nous avons notre part de res<->pon<->sa<->bi<->li<->té parce que nous avons eu la malchance de tomber dessus... Pour ma part, je suis prêt à l'assumer, mais là n'est vraiment pas le problème.",
       "ja": "(-若き日のガラフ-)創神エウレカを発見してしまった責任か……。<br>命を懸けて、それを果たすことに異論はない。<br>だが、そういうことではないのだろう？",

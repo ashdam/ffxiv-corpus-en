@@ -734,8 +734,8 @@
     },
     {
       "gameKey": "quest/029/JobDrg700_02914#TEXT_JOBDRG700_02914_ESTINIEN_000_031",
-      "en": "'Tis good to see you again, Warrior of Light.",
-      "hash": "1A8CE4067F8956E9",
+      "en": "(-???-)'Tis good to see you again, Warrior of Light.",
+      "hash": "FF820B5151426397",
       "unresolved": false,
       "fr": "(-???-)Vous arrivez trop tard.",
       "ja": "(-？？？？-)残念だが、もう遅いぞ……。",

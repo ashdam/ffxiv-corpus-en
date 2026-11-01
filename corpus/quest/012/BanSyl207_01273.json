@@ -610,8 +610,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_030",
-      "en": "The forest is no place for walking ones. Begone!",
-      "hash": "165F229376F6D082",
+      "en": "(-Hostile Sylph-)The forest is no place for walking ones. Begone!",
+      "hash": "63216A876AE684B5",
       "unresolved": false,
       "fr": "(-Dénaturé-)Attends un peu, que fais-tu dans cette région<nbsp>!<br>Pars tout de suite avant que je te donne une correction<nbsp>!",
       "ja": "(-悪い子シルフ-)ちょっと、コラコラコラッ！<br>何やってるでふっち！<br>ヨソ者はシッシッシッ、でふっち！",
@@ -634,8 +634,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_031",
-      "en": "Hm? Clear-water is no more!? \\<sigh> Back to the spring for this one...",
-      "hash": "84EB0F07B0889E67",
+      "en": "(-Hostile Sylph-)Hm? Clear-water is no more!? \\<sigh> Back to the spring for this one...",
+      "hash": "8EB46C61A46FA89F",
       "unresolved": false,
       "fr": "(-Dénaturé-)Je ne comprends pas<nbsp>!<br>Mon eau était juste là<nbsp>!",
       "ja": "(-悪い子シルフ-)ややっ、いつの間に！<br>大事な水が無いでふっち！<br>また汲みにいかないとでふっち～。",

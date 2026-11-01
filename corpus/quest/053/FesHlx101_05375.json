@@ -1185,8 +1185,8 @@
     },
     {
       "gameKey": "quest/053/FesHlx101_05375#TEXT_FESHLX101_05375_VISITORA05375_000_054",
-      "en": "Aaaaaah! P-Please, make it stop!",
-      "hash": "CC4E28E1464F4D6C",
+      "en": "(-Distant Screaming-)Aaaaaah! P-Please, make it stop!",
+      "hash": "042D7AB62A668417",
       "unresolved": false,
       "fr": "(-Hurlement d'homme-)AAAAAAH<nbsp>!!! N-non<nbsp>!! Arrêtez, je vous en prie<nbsp>!",
       "ja": "(-男性の悲鳴-)うわああああああ！！！<br>か、勘弁してくれぇー！！！！！！",
@@ -1879,8 +1879,8 @@
     },
     {
       "gameKey": "quest/053/FesHlx101_05375#TEXT_FESHLX101_05375_PUMPKIN_000_105",
-      "en": "Heh heh... At an impasse, are we? Return to me, child, and I shall offer my aid.",
-      "hash": "5E993B617D87850F",
+      "en": "(-Pumpkin's Whispers-)Heh heh... At an impasse, are we? Return to me, child, and I shall offer my aid.",
+      "hash": "9975BD15D486E4B8",
       "unresolved": false,
       "fr": "(-Voix de la femme à tête de citrouille-)Hi hi hi... On dirait que j'avais vu juste. Reviens donc me voir, je pense avoir une solution à vos soucis.",
       "ja": "(-パンプキンヘッドの女の声-)クス……クスクス……やっぱり、お困りのようね？<br>一度戻ってきてもらえれば、<br>何か手助けができるかもしれないわ……。",

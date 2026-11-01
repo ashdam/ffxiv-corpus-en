@@ -628,8 +628,8 @@
     },
     {
       "gameKey": "quest/011/GaiUsd014_01197#TEXT_GAIUSD014_01197_ASCIANSWORD_000_020",
-      "en": "<colortype(547)>Ifrit was reborn with the strength of a thousand raging infernos, and yet you vanquished him. I can offer you naught but praise, Bringer of Light.<colortype(0)>",
-      "hash": "4C1878D5E2FF83E1",
+      "en": "(-???-)<colortype(547)>Ifrit was reborn with the strength of a thousand raging infernos, and yet you vanquished him. I can offer you naught but praise, Bringer of Light.<colortype(0)>",
+      "hash": "0B391DC693D3E252",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Malgré le pouvoir accru de ses flammes, Ifrit n'a pas fait long feu.<br>Tu es vraiment fascinant<if(gnum4,e,)>, protégé<if(gnum4,e,)> du Cristal.<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>あそこまで力をつけた焔神を、葬ったというのか……。<br>実に見事……としか言いようがないな、光の使徒よ。<colortype(0)>",
@@ -654,8 +654,8 @@
     },
     {
       "gameKey": "quest/011/GaiUsd014_01197#TEXT_GAIUSD014_01197_ASCIANSCEPTER_000_021",
-      "en": "<colortype(547)>Ever prepared for confrontation. Good. Those instincts serve us as well as they serve you.<colortype(0)>",
-      "hash": "D507032A7B90F9A2",
+      "en": "(-???-)<colortype(547)>Ever prepared for confrontation. Good. Those instincts serve us as well as they serve you.<colortype(0)>",
+      "hash": "A38DD38EC322342A",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Oui, la façon dont tu t'es battu<if(gnum4,e,)> était parfaite.<br>C'est exactement ce dont nous avions besoin.<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>いい反応だねエ、その意気でせいぜいあがいてヨ。<br>今となっては、その方がボクたちにとって好都合だからネ。<colortype(0)>",
@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/011/GaiUsd014_01197#TEXT_GAIUSD014_01197_ASCIANSWORD_000_025",
-      "en": "<colortype(547)>We have learned much. The destiny we seek draws closer...ever closer...<colortype(0)>",
-      "hash": "30F3AAD3DFF2B838",
+      "en": "(-Ascian-)<colortype(547)>We have learned much. The destiny we seek draws closer...ever closer...<colortype(0)>",
+      "hash": "5013C335E5A5FD75",
       "unresolved": false,
       "fr": "(-Asciens-)<colortype(547)>Il nous servira lorsque le temps sera venu...<br>Pour rendre à cette planète son <italic(1)>véritable visage<italic(0)>.<colortype(0)>",
       "ja": "(-アシエンたち-)<colortype(547)>その力、利用させてもらうとしよう。<br>この星が「真の姿」を取り戻すために……。<colortype(0)>",
@@ -784,8 +784,8 @@
     },
     {
       "gameKey": "quest/011/GaiUsd014_01197#TEXT_GAIUSD014_01197_ASCIANSWORD_100_025",
-      "en": "<colortype(547)>How much longer can you stem the tide of Darkness, Bringer of Light? How well will you fare against the next god to reawaken? Hm hm hm...<colortype(0)>",
-      "hash": "11E1B668236B2A8C",
+      "en": "(-Ascian-)<colortype(547)>How much longer can you stem the tide of Darkness, Bringer of Light? How well will you fare against the next god to reawaken? Hm hm hm...<colortype(0)>",
+      "hash": "27EB984786D6CB91",
       "unresolved": false,
       "fr": "(-Asciens-)<colortype(547)>Combien de temps seras-tu encore capable de résister aux ténèbres, Protégé<if(gnum4,e,)> de la Lumière<nbsp>?<br>... Hé hé hé. Nous avons hâte de te voir affronter les adversaires qui vont bientôt s'éveiller.<colortype(0)>",
       "ja": "(-アシエンたち-)<colortype(547)>いつまで闇に抗い続けることができるカナ。<br>……フフフ、この先に「覚醒」する神が楽しみだヨ。<colortype(0)>",

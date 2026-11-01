@@ -716,8 +716,8 @@
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_019",
-      "en": "Your enthusiasm is truly heartwarming, Antecedent. Given our embarrassing wealth of allies, I trust it will not inconvenience you unduly if I absent myself for a time?",
-      "hash": "D8E34FE288DDD136",
+      "en": "(-???-)Your enthusiasm is truly heartwarming, Antecedent. Given our embarrassing wealth of allies, I trust it will not inconvenience you unduly if I absent myself for a time?",
+      "hash": "BE565EAB669E59D1",
       "unresolved": false,
       "fr": "(-???-)Quel enthousiasme<nbsp>! Et moi qui craignais que les récents troubles provoqués par les Sylphes n'aient eu raison de ta motivation. Du coup, je pense que tu ne verras aucun inconvénient à ce que je m'absente pendant quelque temps.",
       "ja": "(-？？？？-)素晴らしい意気込みだ。<br>この分なら、私がしばらく席を空けても、<br>なんら問題はなさそうだな。",
@@ -1054,8 +1054,8 @@
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_024",
-      "en": "What's all this commotion, then?",
-      "hash": "C9DBFA2302C28B3B",
+      "en": "(-???-)What's all this commotion, then?",
+      "hash": "04C595280F082189",
       "unresolved": false,
       "fr": "(-???-)C'est quoi, tout ce tapage<nbsp>?",
       "ja": "(-？？？？-)おや、ずいぶん賑やかですね。",
@@ -1730,8 +1730,8 @@
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YDA_000_076",
-      "en": "Hello! You haven't begun yet, have you?",
-      "hash": "7A948B7728329CA0",
+      "en": "(-???-)Hello! You haven't begun yet, have you?",
+      "hash": "3D8B4D758CD4E309",
       "unresolved": false,
       "fr": "(-???-)Salut les amis<nbsp>! J'espère qu'on arrive pas trop tard<nbsp>!?",
       "ja": "(-？？？？-)おーい、みんなーっ！",

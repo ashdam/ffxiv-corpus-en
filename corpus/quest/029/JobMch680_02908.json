@@ -368,8 +368,8 @@
     },
     {
       "gameKey": "quest/029/JobMch680_02908#TEXT_JOBMCH680_02908_ROSTNSTHAL_000_001",
-      "en": "<italic(1)>Mystery solved. I took a good look at Naldiq & Vymelli's stock, and the firearm's one of theirs.<italic(0)>",
-      "hash": "6781FEF8A9BBF897",
+      "en": "(-Letter from Rostnsthal-)<italic(1)>Mystery solved. I took a good look at Naldiq & Vymelli's stock, and the firearm's one of theirs.<italic(0)>",
+      "hash": "21044751EB377556",
       "unresolved": false,
       "fr": "(-Lettre de Rostnsthal-)Je sais enfin d'où viennent les armes des bandits<nbsp>! Elles sortent des ateliers de la célèbre société limséenne Naldiq et Vymelli<nbsp>!",
       "ja": "(-ロスティンスタルの手紙-)例の野盗が持っていた銃の出所がわかった。<br>製造元は、ナルディク＆ヴィメリー社。<br>つまり、リムサ・ロミンサ製だ。",
@@ -394,8 +394,8 @@
     },
     {
       "gameKey": "quest/029/JobMch680_02908#TEXT_JOBMCH680_02908_ROSTNSTHAL_000_002",
-      "en": "<italic(1)>Limsa has some bloody strict regulations on the export of firearms, so our bandit chief must've had a back-alley supplier.<italic(0)>",
-      "hash": "006A3C8AAD4C68CD",
+      "en": "(-Letter from Rostnsthal-)<italic(1)>Limsa has some bloody strict regulations on the export of firearms, so our bandit chief must've had a back-alley supplier.<italic(0)>",
+      "hash": "9B9642B4F3A49B05",
       "unresolved": false,
       "fr": "(-Lettre de Rostnsthal-)Mais l'exportation d'armes étant très strictement réglementée à Limsa Lominsa, je ne vois pas comment ces types auraient pu les faire passer légalement à Ishgard. Un complice les a forcément aidés...",
       "ja": "(-ロスティンスタルの手紙-)リムサ・ロミンサでは銃の輸出を規制している以上、<br>あの野盗が正規の手段で手に入れたとは思えん。<br>裏の伝手があったはずだ。",
@@ -420,8 +420,8 @@
     },
     {
       "gameKey": "quest/029/JobMch680_02908#TEXT_JOBMCH680_02908_ROSTNSTHAL_000_003",
-      "en": "<italic(1)>Get your arse to Limsa Lominsa, and we'll find out who put that weapon in our thief's hands. I'll be at the aetheryte on the lower decks.<br><br>Rostnsthal<italic(0)>",
-      "hash": "F62EED845B657836",
+      "en": "(-Letter from Rostnsthal-)<italic(1)>Get your arse to Limsa Lominsa, and we'll find out who put that weapon in our thief's hands. I'll be at the aetheryte on the lower decks.<br><br>Rostnsthal<italic(0)>",
+      "hash": "941F9381ED0611C1",
       "unresolved": false,
       "fr": "(-Lettre de Rostnsthal-)Je compte bien remonter cette piste, et je ne serais pas contre un petit coup de main. Je t'attendrai à Limsa Lominsa<nbsp>!",
       "ja": "(-ロスティンスタルの手紙-)俺はこれから、そのルートを洗い出すつもりだ。<br><split(<string(gstr1)>, ,1)>、お前の力を貸してくれ。<br>リムサ・ロミンサで待つ。",

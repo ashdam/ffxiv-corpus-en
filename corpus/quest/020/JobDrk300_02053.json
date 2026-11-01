@@ -462,8 +462,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_036",
-      "en": "...I've been waiting for you to open your eyes.",
-      "hash": "592F06B163466D9F",
+      "en": "(-???-)...I've been waiting for you to open your eyes.",
+      "hash": "6D4F15AE96E9769F",
       "unresolved": false,
       "fr": "(-???-)... Enfin, tu ouvres les yeux.",
       "ja": "(-？？？？-)僕のこと、わかるんだね……。",
@@ -488,8 +488,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_FRAY_000_037",
-      "en": "You all right? You were moaning in your sleep and sweating buckets besides.",
-      "hash": "4B226C34F75CCF08",
+      "en": "(-???-)You all right? You were moaning in your sleep and sweating buckets besides.",
+      "hash": "A197454C513EB15B",
       "unresolved": false,
       "fr": "(-???-)Tu vas bien<nbsp>? Tu gémissais pendant ton sommeil, tout en suant à grosses gouttes.",
       "ja": "(-？？？？-)…………いえ。<br>気がついたようで何よりです。<br>外傷はないようですが、苦しそうに呻いていたので……。",
@@ -618,8 +618,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk300_02053#TEXT_JOBDRK300_02053_SCREAM_000_042",
-      "en": "Please, someone─<italic(1)>anyone<italic(0)>!",
-      "hash": "46D49E2CCA88CF60",
+      "en": "(-???-)Please, someone─<italic(1)>anyone<italic(0)>!",
+      "hash": "BE9FB7798955F789",
       "unresolved": false,
       "fr": "(-???-)Quelqu'un, à l'aide<nbsp>!!!",
       "ja": "(-老婆の悲鳴-)きゃあああっ！<br>だ、誰か、お助けをッ……！",

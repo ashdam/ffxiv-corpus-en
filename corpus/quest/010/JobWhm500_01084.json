@@ -618,8 +618,8 @@
     },
     {
       "gameKey": "quest/010/JobWhm500_01084#TEXT_JOBWHM500_01084_ATOWACANT_000_025",
-      "en": "Stand strong, <split(<string(gstr1)>, ,1)>! Are you going to let some overgrown shrub ruffle your feathers?",
-      "hash": "211B346D797E520C",
+      "en": "(-???-)Stand strong, <split(<string(gstr1)>, ,1)>! Are you going to let some overgrown shrub ruffle your feathers?",
+      "hash": "456BB0A6C4217489",
       "unresolved": false,
       "fr": "(-???-)Qu'est-ce que vous fabriquez à rester là bouche bée<nbsp>! Bougez-vous, <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-？？？？-)何をぼやっとしておる！<br>しゃっきりせんか、<split(<string(gstr1)>, ,1)>！！",
@@ -644,8 +644,8 @@
     },
     {
       "gameKey": "quest/010/JobWhm500_01084#TEXT_JOBWHM500_01084_ATOWACANT_000_026",
-      "en": "And the two of you! Don't you have a ritual to perform?",
-      "hash": "27DD9CED1133AC75",
+      "en": "(-???-)And the two of you! Don't you have a ritual to perform?",
+      "hash": "67FC75D9624852B7",
       "unresolved": false,
       "fr": "(-???-)C'est le moment d'entamer le rite<nbsp>!",
       "ja": "(-？？？？-)「鎮撫の儀」はこれからじゃぞ、お前たち！",

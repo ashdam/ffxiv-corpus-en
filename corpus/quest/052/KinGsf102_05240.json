@@ -1442,8 +1442,8 @@
     },
     {
       "gameKey": "quest/052/KinGsf102_05240#TEXT_KINGSF102_05240_ZAWPYA_000_215",
-      "en": "<split(<string(gstr1)>, ,1)>! Nitowikwe!",
-      "hash": "BE242966116B1C2E",
+      "en": "(-Zawpya-)<split(<string(gstr1)>, ,1)>! Nitowikwe!",
+      "hash": "12EB1BC98A75A74E",
       "unresolved": false,
       "fr": "(-Voix de Zawpya-)Ohééé<nbsp>! Nitowikwe<nbsp>! <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-ダーピャの声-)おーい！<br>ニトウィケさん、<split(<string(gstr1)>, ,1)>！",

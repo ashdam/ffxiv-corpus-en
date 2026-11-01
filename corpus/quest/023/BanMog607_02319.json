@@ -507,8 +507,8 @@
     },
     {
       "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_WYVERN02319_100_021",
-      "en": "There was one more that you would have me bellow my magicks upon, yes?",
-      "hash": "7EFDED10669347C4",
+      "en": "(-Whei Ahf-)There was one more that you would have me bellow my magicks upon, yes?",
+      "hash": "F343EEFC4737FE75",
       "unresolved": false,
       "fr": "(-Whei Ahf-)Voilà qui est fait. Il y a un autre endroit où vous vouliez aller, si je ne m'abuse<nbsp>?",
       "ja": "(-ウェイ・アフ-)問題なく、クリスタルを活性化させることができました。<br>次へ参りましょう。",
@@ -582,8 +582,8 @@
     },
     {
       "gameKey": "quest/023/BanMog607_02319#TEXT_BANMOG607_02319_WYVERN02319_100_031",
-      "en": "And with that, it would seem my work here is done. I am glad to have been of some help to you, <if(gnum4,daughter,son)> of man. Now let us return.",
-      "hash": "94FF095DFDD7FF63",
+      "en": "(-Whei Ahf-)And with that, it would seem my work here is done. I am glad to have been of some help to you, <if(gnum4,daughter,son)> of man. Now let us return.",
+      "hash": "FE9D148FF9C80CF0",
       "unresolved": false,
       "fr": "(-Whei Ahf-)J'ai fait ce que vous m'aviez demandé. Mon travail est à présent terminé.<br>Rentrons à Bahrr Lehs...",
       "ja": "(-ウェイ・アフ-)これで、目的のクリスタルを活性化させることができたようですね。<br>さて、帰るといたしましょう。",

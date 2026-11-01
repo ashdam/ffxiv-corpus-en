@@ -640,8 +640,8 @@
     },
     {
       "gameKey": "quest/021/FesSum201_02136#TEXT_FESSUM201_02136_HAERMAGA_000_030",
-      "en": "In times of desperate need, we hope for a hero. We look to the heavens and pray that someone, somewhere, is watching over us. Well, my friend, you need look no further!",
-      "hash": "8B30CDFE57F72145",
+      "en": "(-???-)In times of desperate need, we hope for a hero. We look to the heavens and pray that someone, somewhere, is watching over us. Well, my friend, you need look no further!",
+      "hash": "BDE55E1F2A62CC47",
       "unresolved": false,
       "fr": "(-Voix grave et profonde-)Lorsque les méchants veulent empêcher le ciel d'être bleu et les oiseaux de chanter, qui n'écoute que son amour de la vie pour combattre le mal et le jour et la nuit, afin que les hommes puissent tous vivre en liberté<nbsp>?",
       "ja": "(-響き渡る野太い声-)巨大な炎獣迫るとき、みなの希望を守るため、<br>戦士の炎、心に宿し、炎も怖れず立ち向かう！",
@@ -665,8 +665,8 @@
     },
     {
       "gameKey": "quest/021/FesSum201_02136#TEXT_FESSUM201_02136_HAERMAGA_000_031",
-      "en": "The Go Go Posing Rangers are here, and we implore you, Warrior of Light, to stand with us against the blazing summer heat!",
-      "hash": "49A69969677CF9F1",
+      "en": "(-???-)The Go Go Posing Rangers are here, and we implore you, Warrior of Light, to stand with us against the blazing summer heat!",
+      "hash": "6898B88F58EF3DAD",
       "unresolved": false,
       "fr": "(-Voix grave et profonde-)Nous<nbsp>! Et notre noble cause a besoin de toi, Guerri<if(gnum4,ère,er)> de la Lumière.<br>Bombattants... en avant<nbsp>!",
       "ja": "(-響き渡る野太い声-)古の英雄「光の戦士」よ……我らに力を！<br>ファーイト\u3000ファイヤー！！",

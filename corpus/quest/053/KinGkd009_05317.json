@@ -952,8 +952,8 @@
     },
     {
       "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_IRIS_000_207",
-      "en": "The very wisdom of mankind in crystalline form. Forbidden knowledge so potent as to threaten the star itself.",
-      "hash": "F4AFDE64B7D37856",
+      "en": "(-???-)The very wisdom of mankind in crystalline form. Forbidden knowledge so potent as to threaten the star itself.",
+      "hash": "2C7F52C50098BCF5",
       "unresolved": false,
       "fr": "(-???-)... La somme des con<->nais<->san<->ces de l'humanité. La cristallisation d'un savoir interdit, susceptible d'anéantir la planète tout entière.",
       "ja": "(-？？？？-)ヒトが生み出した叡智の結晶……。<br>それは、世界を滅びに導く禁断の知識でもある……。",
@@ -1440,8 +1440,8 @@
     },
     {
       "gameKey": "quest/053/KinGkd009_05317#TEXT_KINGKD009_05317_OFANGEIM_000_223",
-      "en": "What? Are ye sure!?",
-      "hash": "419CB062B4C06C05",
+      "en": "(-Ofangeim-)What? Are ye sure!?",
+      "hash": "E984B534B2DA3DC2",
       "unresolved": false,
       "fr": "(-Voix d'Ofangeim-)Quoi, vraiment<nbsp>!?",
       "ja": "(-オファンゲイムの声-)なに、それは本当か！？",

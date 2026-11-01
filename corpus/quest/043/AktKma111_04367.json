@@ -384,8 +384,8 @@
     },
     {
       "gameKey": "quest/043/AktKma111_04367#TEXT_AKTKMA111_04367_AMELIANCE_000_023",
-      "en": "Alphinaud...? Alisaie...? It <italic(1)>is<italic(0)> you!",
-      "hash": "AFDC8DBB9D970328",
+      "en": "(-???-)Alphinaud...? Alisaie...? It <italic(1)>is<italic(0)> you!",
+      "hash": "65BC362FF5BE27BA",
       "unresolved": false,
       "fr": "(-???-)Mes chéris, comme vous m'avez manqué<nbsp>!",
       "ja": "(-？？？？-)ふたりとも……？<br>よかった、無事だったのね！",
@@ -410,8 +410,8 @@
     },
     {
       "gameKey": "quest/043/AktKma111_04367#TEXT_AKTKMA111_04367_AMELIANCE_000_024",
-      "en": "When I heard you'd been dragged before the Forum, I came as swiftly as I could. I am so very glad they allowed you to stay...",
-      "hash": "EF2430BD2A3BF28F",
+      "en": "(-???-)When I heard you'd been dragged before the Forum, I came as swiftly as I could. I am so very glad they allowed you to stay...",
+      "hash": "42E4AA6E24EB6E27",
       "unresolved": false,
       "fr": "(-???-)Je suis partie de la maison dès que j'ai su que vous aviez été convoqués par le Conseil. Heu<->reu<->se<->ment, vous êtes toujours là<nbsp>!",
       "ja": "(-？？？？-)あなたたちが査問会にかけられると聞いたものだから、<br>びっくりして、飛んできたのよ。<br>何事もなくって、本当によかった……。",

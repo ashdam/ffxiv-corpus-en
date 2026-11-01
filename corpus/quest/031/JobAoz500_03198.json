@@ -352,8 +352,8 @@
     },
     {
       "gameKey": "quest/031/JobAoz500_03198#TEXT_JOBAOZ500_03198_NEWWORLDBOY_000_004",
-      "en": "Martyn! I've been looking everywhere for you!",
-      "hash": "D7B88E43DA9266AF",
+      "en": "(-Young Man-)Martyn! I've been looking everywhere for you!",
+      "hash": "8AF4CE141DDE19FA",
       "unresolved": false,
       "fr": "(-Voix de jeune garçon-)Martyn<nbsp>!",
       "ja": "(-少年の声-)マーティン、やっと見つけた！",
@@ -1132,8 +1132,8 @@
     },
     {
       "gameKey": "quest/031/JobAoz500_03198#TEXT_JOBAOZ500_03198_ROYSE_000_034",
-      "en": "Darlings, darlings! There's no need to squabble!",
-      "hash": "FA9085AD96B077C2",
+      "en": "(-Familiar Voice-)Darlings, darlings! There's no need to squabble!",
+      "hash": "14772CB7EBD31930",
       "unresolved": false,
       "fr": "(-Voix de Royse-)Eh bien, les garçons, quel charivari<nbsp>! Au lieu de vous chamailler comme des enfants, pourquoi ne pas régler votre différend comme des hommes, des vrais<nbsp>?",
       "ja": "(-ロイスの声-)その決着、ウチの闘技場で決めない……？",

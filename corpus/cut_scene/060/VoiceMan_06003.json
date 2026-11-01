@@ -1558,8 +1558,8 @@
     },
     {
       "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_001010_MATSYA",
-      "en": "Y-Your Excellency! I bring grave news!",
-      "hash": "B8E909B91A7A8302",
+      "en": "(-???-)Y-Your Excellency! I bring grave news!",
+      "hash": "AB06A7C747B3B2FD",
       "unresolved": false,
       "fr": "(-???-)Où est le satrape<nbsp>!? Votre Excellence<nbsp>! Votre Excellence<nbsp>! C'est terrible<nbsp>!",
       "ja": "(-？？？？-)太守様……！<br>たた、た、たいへんだす！",
@@ -3126,8 +3126,8 @@
     },
     {
       "gameKey": "cut_scene/060/VoiceMan_06003#TEXT_VOICEMAN_06003_002050_HYDAELYN",
-      "en": "In darkness seek joy. Surrender not to sadness, and see beyond despair. Walk free, and bear the light for others to follow.",
-      "hash": "1DB6A4911E5095EA",
+      "en": "(-Hydaelyn-)In darkness seek joy. Surrender not to sadness, and see beyond despair. Walk free, and bear the light for others to follow.",
+      "hash": "94900A2F9779114B",
       "unresolved": false,
       "fr": "(-Hydaelyn-)Plonge au plus profond des Ténèbres, et trouves-y ton bonheur propre. Regarde le désespoir en face, et fraye-toi un chemin à travers les larmes de la tristesse... Ce n'est qu'alors, en allant de l'avant sans jamais faillir, que tu révéleras son véritable éclat...",
       "ja": "(-ハイデリン-)暗闇のうちに、歓びを探すのです。<br>絶望に目を凝らし、哀しみを掻き分け、<br>前へと歩み続けた者だけが、その真なる輝きを得る……。",

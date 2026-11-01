@@ -598,8 +598,8 @@
     },
     {
       "gameKey": "quest/011/GaiUsd201_01199#TEXT_GAIUSD201_01199_CID_000_013",
-      "en": "<split(<string(gstr1)>, ,1)>!? I <italic(1)>thought<italic(0)> it was you!",
-      "hash": "F3234A87BF9842C0",
+      "en": "(-???-)<split(<string(gstr1)>, ,1)>!? I <italic(1)>thought<italic(0)> it was you!",
+      "hash": "1DF0CCB7C1794F33",
       "unresolved": false,
       "fr": "(-???-)<split(<string(gstr1)>, ,1)><nbsp>!? Je me disais bien que cette silhouette m'était familière.",
       "ja": "(-？？？？-)……おい、まさか<split(<string(gstr1)>, ,1)>なのか？",

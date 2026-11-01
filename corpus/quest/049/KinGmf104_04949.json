@@ -628,8 +628,8 @@
     },
     {
       "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_012",
-      "en": "Looking for someone, are you?",
-      "hash": "9C66128E3812B772",
+      "en": "(-???-)Looking for someone, are you?",
+      "hash": "E264A241D2D07A84",
       "unresolved": false,
       "fr": "(-Voix féminine familière-)Vous cherchez quelqu'un<nbsp>?",
       "ja": "(-聞き覚えのある声-)誰か探してるのかい？",
@@ -706,8 +706,8 @@
     },
     {
       "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_015",
-      "en": "Hello, everyone. You made it here, as I knew you would.",
-      "hash": "3B02BEA0FFAFD10A",
+      "en": "(-???-)Hello, everyone. You made it here, as I knew you would.",
+      "hash": "398FCEBD0120B837",
       "unresolved": false,
       "fr": "(-Viéra à la voix familière-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)> tout le monde<nbsp>! Je savais bien que vous arriveriez jusqu'ici.",
       "ja": "(-聞き覚えのある声-)久しぶり……ってほどでもないか。<br>あんたたちなら来てくれるって信じてたよ。",

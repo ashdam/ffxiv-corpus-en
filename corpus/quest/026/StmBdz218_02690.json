@@ -834,8 +834,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz218_02690#TEXT_STMBDZ218_02690_SUZUME_000_021",
-      "en": "Yes, sir!",
-      "hash": "7935FDC7AEBB530A",
+      "en": "(-Suzume and Hansaku-)Yes, sir!",
+      "hash": "A56F47951B7F1CBB",
       "unresolved": false,
       "fr": "(-Suzume et Hansaku-)À vos ordres<nbsp>!",
       "ja": "(-スズメとハンサク-)合点承知！！",
@@ -1480,8 +1480,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz218_02690#TEXT_STMBDZ218_02690_SUZUME_000_061",
-      "en": "Yes, sir!",
-      "hash": "E2B5DE4DFD6F0BA8",
+      "en": "(-Suzume and Hansaku-)Yes, sir!",
+      "hash": "8C8EE1E3821E9804",
       "unresolved": false,
       "fr": "(-Suzume et Hansaku-)Oui, Chef<nbsp>!",
       "ja": "(-スズメとハンサク-)はいッ！",
@@ -1558,8 +1558,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz218_02690#TEXT_STMBDZ218_02690_KIKIMO_000_064",
-      "en": "I hope that does not mean you intend to renege on our deal?",
-      "hash": "98F124995B3001DB",
+      "en": "(-Firm Voice-)I hope that does not mean you intend to renege on our deal?",
+      "hash": "5535384E3E023555",
       "unresolved": false,
       "fr": "(-Voix féminine-)On parle de moi<nbsp>?",
       "ja": "(-呼びかける声-)誰が、取引をご破算にするですって？",

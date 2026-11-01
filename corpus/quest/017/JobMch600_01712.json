@@ -760,8 +760,8 @@
     },
     {
       "gameKey": "quest/017/JobMch600_01712#TEXT_JOBMCH600_01712_ROSTNSTHAL_000_022",
-      "en": "For Ishgard!",
-      "hash": "E73A56296D14BD0A",
+      "en": "(-Machinists-)For Ishgard!",
+      "hash": "7E5C8616DD601DA2",
       "unresolved": false,
       "fr": "(-Les machinistes-)Hourra<nbsp>!",
       "ja": "(-工房の機工士たち-)うおーーーー！！",
@@ -968,8 +968,8 @@
     },
     {
       "gameKey": "quest/017/JobMch600_01712#TEXT_JOBMCH600_01712_OBSERVER01712_000_033",
-      "en": "Should the machinists of the Skysteel Manufactory satisfy the conditions of this trial by combat─either through victory or valorous death─then shall your innocence be proven and your honor redeemed. Should you choose to flee, however... I trust I need not elaborate further?",
-      "hash": "21EB581C39E1415E",
+      "en": "(-Ishgardian Priest-)Should the machinists of the Skysteel Manufactory satisfy the conditions of this trial by combat─either through victory or valorous death─then shall your innocence be proven and your honor redeemed. Should you choose to flee, however... I trust I need not elaborate further?",
+      "hash": "C47F452082E72537",
       "unresolved": false,
       "fr": "(-Prêtre de La Voûte-)Nous observerons le combat depuis une position stratégique. Si vous vous battez avec courage, jusqu'à la mort s'il le faut, alors nous saurons que vous n'êtes pas les éléments perturbateurs que l'on vous accuse d'être. Par contre, vous imaginez ce qu'il se passera si vous fuyez le combat...",
       "ja": "(-教皇庁の司祭-)「スカイスチール機工房」のみなさんが命がけで戦えば、<br>例え死したとしても、不穏分子ではないと証明されましょう。<br>ただし、無様に逃げ出せば……おわかりですね？",
@@ -994,8 +994,8 @@
     },
     {
       "gameKey": "quest/017/JobMch600_01712#TEXT_JOBMCH600_01712_OBSERVER01712_000_034",
-      "en": "We shall oversee proceedings from on high, that I might judge thine actions evenly and with uninterrupted view. May justice be served.",
-      "hash": "E96730A109C785FA",
+      "en": "(-Ishgardian Priest-)We shall oversee proceedings from on high, that I might judge thine actions evenly and with uninterrupted view. May justice be served.",
+      "hash": "1C840C99AD0C059B",
       "unresolved": false,
       "fr": "(-Prêtre de La Voûte-)Sachez bien que même si vous ne nous verrez pas, nous serons à l'affût de vos moindres faits et gestes, afin de vous juger en toute impartialité. Bien, à vous de nous impressionner maintenant<nbsp>!",
       "ja": "(-教皇庁の司祭-)我々は、安全な場所から見守らせていただきます。<br>すべてを見届け、公正な判断を下すために……。<br>それでは、健闘を期待しています。",

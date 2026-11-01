@@ -1620,8 +1620,8 @@
     },
     {
       "gameKey": "quest/014/ChrHdb304_01441#TEXT_CHRHDB304_01441_HILDIBRAND_000_311",
-      "en": "My sun and stars! Yes, yes─a thousand times yes! I am yours, and shall be forevermore!",
-      "hash": "A134A0AF704BA09A",
+      "en": "(-Hildibella-)My sun and stars! Yes, yes─a thousand times yes! I am yours, and shall be forevermore!",
+      "hash": "10D8A0AFBCD5B102",
       "unresolved": false,
       "fr": "(-Hildibrand-)Mon chériiii<nbsp>! Je suis la célèbre, l'unique, la vraie Arabellaaaa<nbsp>!!",
       "ja": "(-アラビィブランド-)ダーリン、お待たせしましたな！<br>アラベラが到着しましたぞ！！",
@@ -1906,8 +1906,8 @@
     },
     {
       "gameKey": "quest/014/ChrHdb304_01441#TEXT_CHRHDB304_01441_ELLIE_000_322",
-      "en": "...And anyone <italic(1)>else<italic(0)> with half their wits about them!",
-      "hash": "348F93ADE8A69A39",
+      "en": "(-Ellie-)...And anyone <italic(1)>else<italic(0)> with half their wits about them!",
+      "hash": "73A9A83705400217",
       "unresolved": false,
       "fr": "(-Tout le monde-)... Si c'était le cas, on serait tous coupables<nbsp>!!!",
       "ja": "(-全員-)……誰だって気づくわ！！！！！！！！！！",

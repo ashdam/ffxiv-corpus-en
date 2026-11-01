@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_ASCIANSWORD_000_300",
-      "en": "<colortype(547)>Darkness has taken root within these halls...<colortype(0)>",
-      "hash": "CA05D0D8382F027D",
+      "en": "(-???-)<colortype(547)>Darkness has taken root within these halls...<colortype(0)>",
+      "hash": "74A9BD5E64EF5A2E",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Les ténèbres emplissent chaque recoin de ce manoir...<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>……この屋敷は、闇で満たされている。<colortype(0)>",
@@ -502,8 +502,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_ASCIANSCEPTER_000_301",
-      "en": "<colortype(547)>...Sprung from the most unlikely of seeds.<colortype(0)>",
-      "hash": "E27FB45B05796874",
+      "en": "(-???-)<colortype(547)>...Sprung from the most unlikely of seeds.<colortype(0)>",
+      "hash": "77D626FD3C4A2B02",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Qui aurait cru que les quelques gouttes éparses que nous avons versées se transformeraient en une mer déchaînée...<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>ボクたちが少し手を貸すだけで、<br>ここまでの闇に育て上げることができるとはネ。<colortype(0)>",
@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsa906_00801#TEXT_GAIUSA906_00801_ASCIANSWORD_100_301",
-      "en": "<colortype(547)>One cannot help but admire the irrepressible spirit that quickened it to life.<colortype(0)>",
-      "hash": "20ED794FD2E61BF9",
+      "en": "(-???-)<colortype(547)>One cannot help but admire the irrepressible spirit that quickened it to life.<colortype(0)>",
+      "hash": "3EFF2C71B2AD47C3",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Je suis admiratif devant une telle animosité.<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>屋敷の女主は、余程、強い執念があったようだ。<br>……その想いに感服するよ。<colortype(0)>",

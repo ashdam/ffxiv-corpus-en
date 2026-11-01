@@ -2720,8 +2720,8 @@
     },
     {
       "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173",
-      "en": "Hm...? You're Eorzea's champion, aren't you? <string(gstr1)>.",
-      "hash": "7FC74BD2D3D6D87B",
+      "en": "(-Ist Legion Soldier-)Hm...? You're Eorzea's champion, aren't you? <string(gstr1)>.",
+      "hash": "5CBBEB1B43C8DF8D",
       "unresolved": false,
       "fr": "(-Soldat de la 1re légion-)Hm...<nbsp>? Vous êtes <split(<string(gstr1)>, ,1)>, c'est ça<nbsp>?",
       "ja": "(-第I軍団の軍団兵-)あれ……？<br>あんた、<split(<string(gstr1)>, ,1)>だよな？",
@@ -2746,8 +2746,8 @@
     },
     {
       "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174",
-      "en": "Oh, I never introduced myself, did I...?",
-      "hash": "68C2C220A31E4451",
+      "en": "(-Ist Legion Soldier-)Oh, I never introduced myself, did I...?",
+      "hash": "EAD1DCC64BB4AA3D",
       "unresolved": false,
       "fr": "(-Soldat de la 1re légion-)Ah, je ne me suis jamais présenté.",
       "ja": "(-第I軍団の軍団兵-)ああ悪い、自己紹介はしたことなかったか……。",
@@ -7678,8 +7678,8 @@
     },
     {
       "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_OMEGA_000_549",
-      "en": "\\<blip> Swiftly, Alpha! The road is long and we have barely begun our journey!",
-      "hash": "A56160AA3B4887CC",
+      "en": "(-Omega-)\\<blip> Swiftly, Alpha! The road is long and we have barely begun our journey!",
+      "hash": "51611FD6EF62BEA2",
       "unresolved": false,
       "fr": "(-Oméga-)Dépêche-toi, Alpha<nbsp>! La route est encore longue et notre voyage ne fait que commencer<nbsp>!",
       "ja": "(-オメガの声-)ガガ……アルファ、遅れないように！<br>作戦はもう始まっているのですよ。",

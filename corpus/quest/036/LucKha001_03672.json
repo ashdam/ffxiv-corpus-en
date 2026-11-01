@@ -724,8 +724,8 @@
     },
     {
       "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_FRANCEL_000_026",
-      "en": "Well, <italic(1)>I<italic(0)> do─and I believe the permit can be overlooked in <if(gnum4,her,his)> case.",
-      "hash": "4FB81AFD23074D73",
+      "en": "(-???-)Well, <italic(1)>I<italic(0)> do─and I believe the permit can be overlooked in <if(gnum4,her,his)> case.",
+      "hash": "96670751DDF56EF6",
       "unresolved": false,
       "fr": "(-???-)Qui pourrait rêver meilleur renfort que <split(<string(gstr1)>, ,1)><nbsp>? Inutile de dire que pour <if(gnum4,elle,lui)>, nous allons faire une exception à la règle.",
       "ja": "(-？？？？-)<if(gnum4,彼女,彼)>が我らの事業に参加してくれるのなら、<br>それほどありがたい話はない。<br>無論、査証など必要ないよ。",
@@ -3186,8 +3186,8 @@
     },
     {
       "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_136",
-      "en": "Have I come at a bad time?",
-      "hash": "C2BC87B5C1CE92EC",
+      "en": "(-???-)Have I come at a bad time?",
+      "hash": "7C4F73C92E44A03B",
       "unresolved": false,
       "fr": "(-???-)On dirait que je n'ai pas choisi le meilleur moment pour m'annoncer...",
       "ja": "(-？？？？-)おや、なにやら折の悪い時に、お邪魔しましたかな？",
@@ -3698,8 +3698,8 @@
     },
     {
       "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_AUGEBERT_000_151",
-      "en": "You done talkin', Francel? 'Cause I'm itchin' to meet your hero friend.",
-      "hash": "737DB6EF20BD1AB1",
+      "en": "(-???-)You done talkin', Francel? 'Cause I'm itchin' to meet your hero friend.",
+      "hash": "29698A071E4FF28C",
       "unresolved": false,
       "fr": "(-???-)Salut, Francel. Si ta discussion de la plus haute importance est terminée, ça te dérangerait de me présenter à <if(gnum4,cette fameuse héroïne,ce fameux héros)><nbsp>?",
       "ja": "(-？？？？-)どうも、フランセル坊ちゃん。<br>お偉方の話は終わりましたかい？<br>それなら、そこの英雄さんを紹介しちゃくれませんかね？",

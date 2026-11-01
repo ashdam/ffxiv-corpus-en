@@ -412,8 +412,8 @@
     },
     {
       "gameKey": "quest/030/StmBdc102_03023#TEXT_STMBDC102_03023_PAWNBROKER03023_000_032",
-      "en": "The craftsmanship is exquisite, is it not? And you will be pleased to know that the pledge has just expired.",
-      "hash": "D2D989D1F0A2623F",
+      "en": "(-Master of Shofuku Shichiten-)The craftsmanship is exquisite, is it not? And you will be pleased to know that the pledge has just expired.",
+      "hash": "CAA76B4917A19D3E",
       "unresolved": false,
       "fr": "(-Patron de Shofuku Shichiten-)Il est magnifique, n'est-ce pas<nbsp>? Vu que son pro<->prié<->taire n'est pas venu le racheter avant l'échéance prévue, je peux vous le revendre im<->mé<->dia<->te<->ment si vous le désirez.",
       "ja": "(-「招福質店」の主-)かなりの業物でございましょう？<br>流質期限は過ぎておりますから、すぐにでもお売りできます。",
@@ -438,8 +438,8 @@
     },
     {
       "gameKey": "quest/030/StmBdc102_03023#TEXT_STMBDC102_03023_PAWNBROKER03023_000_033",
-      "en": "I should be glad to sell it to you...assuming you have the coin. This is no ordinary weapon, you understand, and it is priced accordingly. But if you are serious, I suggest you act quickly, as several noted collectors have already expressed an interest.",
-      "hash": "A6D072F74E9F2E55",
+      "en": "(-Master of Shofuku Shichiten-)I should be glad to sell it to you...assuming you have the coin. This is no ordinary weapon, you understand, and it is priced accordingly. But if you are serious, I suggest you act quickly, as several noted collectors have already expressed an interest.",
+      "hash": "DD835F6A1B9FF184",
       "unresolved": false,
       "fr": "(-Patron de Shofuku Shichiten-)Je vous préviens, son prix va peut-être vous paraître un brin élevé. Mais pour un katana d'exception comme celui-ci, croyez-moi, c'est une affaire en or.",
       "ja": "(-「招福質店」の主-)ですが、お値段の方も、それ相応となりまして……。<br>それだけに、まだ購入に名乗りを上げたお客様はおりませんが、<br>よければ、「特別価格」をご提案させていただきますよ？",
@@ -692,8 +692,8 @@
     },
     {
       "gameKey": "quest/030/StmBdc102_03023#TEXT_STMBDC102_03023_PAWNBROKER03023_000_059",
-      "en": "It's settled, then! You have made a wise choice, my friend─such pieces are few and far between! Now, if you would be so good as to come this way, I shall prepare the necessary papers.",
-      "hash": "2FA15885C0F2B2C5",
+      "en": "(-Master of Shofuku Shichiten-)It's settled, then! You have made a wise choice, my friend─such pieces are few and far between! Now, if you would be so good as to come this way, I shall prepare the necessary papers.",
+      "hash": "55A8E8210C01C36D",
       "unresolved": false,
       "fr": "(-Patron de Shofuku Shichiten-)Ah, on dirait que nous avons trouvé un accord<nbsp>! Parfait, je vous ramène les documents nécessaires, ne bougez pas.",
       "ja": "(-「招福質店」の主-)どうやら決まったようですね。<br>それでは早速、購入手続きの方を……。",
@@ -744,8 +744,8 @@
     },
     {
       "gameKey": "quest/030/StmBdc102_03023#TEXT_STMBDC102_03023_PAWNBROKER03023_000_065",
-      "en": "A friend of yours, you say? I see. <italic(1)>Well then<italic(0)>, I suppose there can be no harm in telling you. No sooner had I provided him with the requested sum than his pretty young companion began clamoring for dango. I duly recommended those served at the Umineko Teahouse, and thither did they set off.",
-      "hash": "23DC57F584A6EBBC",
+      "en": "(-Master of Shofuku Shichiten-)A friend of yours, you say? I see. <italic(1)>Well then<italic(0)>, I suppose there can be no harm in telling you. No sooner had I provided him with the requested sum than his pretty young companion began clamoring for dango. I duly recommended those served at the Umineko Teahouse, and thither did they set off.",
+      "hash": "635710AD53B27CD2",
       "unresolved": false,
       "fr": "(-Patron de Shofuku Shichiten-)Ah, c'est donc ça... Dans ce cas, je peux vous renseigner sans problème. La jeune femme qui l'ac<->com<->pa<->gnait a insisté pour prendre le goûter, alors ils se sont tous deux dirigés vers la maison de thé Umineko.",
       "ja": "(-「招福質店」の主-)そういうことでしたら、お客様の話をしても問題ないでしょう。<br>たしか、付き添っていたご婦人に団子をねだられて、<br>その足で「ウミネコ茶屋」に向かっていかれましたよ。",

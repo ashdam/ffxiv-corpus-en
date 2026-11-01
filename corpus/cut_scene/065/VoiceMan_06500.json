@@ -3814,8 +3814,8 @@
     },
     {
       "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_002610_AZDAJA",
-      "en": "Oh, Vrtra... There thou art...",
-      "hash": "AA766E46A1EBC57E",
+      "en": "(-Azdaja-)Oh, Vrtra... There thou art...",
+      "hash": "E133A7F69A407A74",
       "unresolved": false,
       "fr": "(-Voix d'Azdaja-)Aah... Vrtra... Tu es venu me chercher...",
       "ja": "(-アジュダヤの声-)ああ……ヴリトラ……そこにいるのね……",
@@ -3830,8 +3830,8 @@
     },
     {
       "gameKey": "cut_scene/065/VoiceMan_06500#TEXT_VOICEMAN_06500_002620_AZDAJA",
-      "en": "I am coming, Brother... I am coming...",
-      "hash": "D1D0A076ED474219",
+      "en": "(-Azdaja-)I am coming, Brother... I am coming...",
+      "hash": "F3518A3F64E5AD39",
       "unresolved": false,
       "fr": "(-Voix d'Azdaja-)J'arrive... Rentrons à la maison<nbsp>!",
       "ja": "(-アジュダヤの声-)帰るわ……私……あなたのもとへ……！",

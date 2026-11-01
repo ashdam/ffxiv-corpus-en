@@ -298,8 +298,8 @@
     },
     {
       "gameKey": "quest/014/FesEst007_01420#TEXT_FESEST007_01420_AUGUSTINIEL_000_002",
-      "en": "It may yet be proven true, my dear Miss Aliapoh!",
-      "hash": "16701FE76A456DCD",
+      "en": "(-???-)It may yet be proven true, my dear Miss Aliapoh!",
+      "hash": "2C6B18C918361B09",
       "unresolved": false,
       "fr": "(-???-)Ne baissez pas les bras, il y a encore de l'espoir<nbsp>!",
       "ja": "(-？？？？-)諦めるのはまだ早いぜ、ベイベー！",
@@ -1804,8 +1804,8 @@
     },
     {
       "gameKey": "quest/014/FesEst007_01420#TEXT_FESEST007_01420_JIHLIALIAPOH_000_067",
-      "en": "May the Archons of old watch over this newcome <if(gnum4,heroine,hero)>, that the realm may someday know peace.",
-      "hash": "6C87099B9F986B6E",
+      "en": "(-Jihli Aliapoh-)May the Archons of old watch over this newcome <if(gnum4,heroine,hero)>, that the realm may someday know peace.",
+      "hash": "EFF5CDE4E150D038",
       "unresolved": false,
       "fr": "(-Tous-)C'est la grande fête des œufs<nbsp>!<br>Noirs, blancs, jaunes ou bleus...<br>Tout le monde se prend au jeu de la chasse aux Prœufs.♪",
       "ja": "(-みんな-)エグ、エグ、エグル、エッグルルルゥ～ッ♪<br>みんなで、いっしょに集めましょう！<br>飾りタマゴを集めましょう！",

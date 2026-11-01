@@ -480,8 +480,8 @@
     },
     {
       "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_BLACKMARKETEER00364_000_030",
-      "en": "I don't understand! Wh-What's this all about!?",
-      "hash": "4AB82A3D15397FBF",
+      "en": "(-???-)I don't understand! Wh-What's this all about!?",
+      "hash": "A328C6A5F4FB63A5",
       "unresolved": false,
       "fr": "(-Contrebandier-)Hein<nbsp>? Mais qu'est-ce que... Non<nbsp>! NON<nbsp>!!",
       "ja": "(-闇商人らしき男の声-)お前たち、いったい、これはどういうことだ！？<br>ク、クソ……！",
@@ -506,8 +506,8 @@
     },
     {
       "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_BLACKMARKETEER00364_000_031",
-      "en": "Graaagh!",
-      "hash": "2E54DD46241B96A8",
+      "en": "(-???-)Graaagh!",
+      "hash": "495C57E08970E66E",
       "unresolved": false,
       "fr": "(-Contrebandier-)Aaaarrgh<nbsp>!!",
       "ja": "(-闇商人らしき男の声-)ぐあああああああっ！！",

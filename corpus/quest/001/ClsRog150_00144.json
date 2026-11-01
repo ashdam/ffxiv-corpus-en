@@ -2110,8 +2110,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog150_00144#TEXT_CLSROG150_00144_YELLOWJACKET00144_000_127",
-      "en": "Oi! The storeroom door's been forced open! Some thievin' sod's been at the ale!",
-      "hash": "90B88462CA608778",
+      "en": "(-Angry Shout-)Oi! The storeroom door's been forced open! Some thievin' sod's been at the ale!",
+      "hash": "701D5012D5026713",
       "unresolved": false,
       "fr": "(-Voix de casaque jaune-)Branle-bas de combat<nbsp>!! Quelqu'un est entré dans l'entrepôt et y a volé de la bière<nbsp>!",
       "ja": "(-警備兵の叫び声-)おい、倉庫のカギが開いてるぞッ！<br>誰かがエールを盗みやがった！",

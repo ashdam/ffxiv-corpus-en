@@ -1598,8 +1598,8 @@
     },
     {
       "gameKey": "quest/005/ManFst404_00519#TEXT_MANFST404_00519_GARUDA_000_051",
-      "en": "Who dares intrude upon my sanctuary!?",
-      "hash": "D24A401CD536FF67",
+      "en": "(-???-)Who dares intrude upon my sanctuary!?",
+      "hash": "63A1FAAC8A495BCD",
       "unresolved": false,
       "fr": "(-???-)Insolents<nbsp>!! Vous avez détruit le mur de Gigameth<nbsp>!?",
       "ja": "(-？？？？-)こしゃくなッ……！<br>わたくしの「ギガメスの大風壁」を突破しおるとはッ……。",
@@ -1624,8 +1624,8 @@
     },
     {
       "gameKey": "quest/005/ManFst404_00519#TEXT_MANFST404_00519_GARUDA_000_052",
-      "en": "Your insolence shall not go unpunished, landwalkers!",
-      "hash": "3868E2219BE34E27",
+      "en": "(-???-)Your insolence shall not go unpunished, landwalkers!",
+      "hash": "9826DA6CA656116D",
       "unresolved": false,
       "fr": "(-???-)Maudites vermines... Vous oubliez qui vous êtes<nbsp>!!",
       "ja": "(-？？？？-)愚かなクソ虫めがッ！<br>クソ虫にはクソ虫のッ、分限があることも忘れたかッ！！",
@@ -3132,8 +3132,8 @@
     },
     {
       "gameKey": "quest/005/ManFst404_00519#TEXT_MANFST404_00519_600620_AMALJAA",
-      "en": "O Lord of the Inferno! Almighty Ifrit! Grant us succor in our hour of need!",
-      "hash": "275574C1E4480729",
+      "en": "(-Amalj'aa-)O Lord of the Inferno! Almighty Ifrit! Grant us succor in our hour of need!",
+      "hash": "757E79853810C1D4",
       "unresolved": false,
       "fr": "Aaaaarrgh<nbsp>! Un dernier souhait, nous avons<nbsp>! Pour nous sauver, descends<nbsp>! Ô Ifrit<nbsp>!",
       "ja": "ガァァァァッ！<br>死中求活ッ……降りたまえよ……。<br>焔神イフリートォォッ！！",
@@ -3158,8 +3158,8 @@
     },
     {
       "gameKey": "quest/005/ManFst404_00519#TEXT_MANFST404_00519_600630_KOBOLD",
-      "en": "Save us, Titan, Lord of Crags! Ah, it hurts us so, the pain, the pain...",
-      "hash": "D8DA2D83882657E8",
+      "en": "(-Kobolds-)Save us, Titan, Lord of Crags! Ah, it hurts us so, the pain, the pain...",
+      "hash": "FF848EB4A6C31A3A",
       "unresolved": false,
       "fr": "Arrêtez, arrêtez<nbsp>! Vous nous faites mal<nbsp>! Viens nous sauver Titan, nous sauver<nbsp>!",
       "ja": "いたーい\u3000やめーて……。<br>タイタンさーま\u3000たすーけて……。<br>たすーけ……。",

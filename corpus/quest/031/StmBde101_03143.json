@@ -734,8 +734,8 @@
     },
     {
       "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_RIOL_000_028",
-      "en": "...Thancred!? What's going on, man?",
-      "hash": "911A0BEE9137E7AC",
+      "en": "(-???-)...Thancred!? What's going on, man?",
+      "hash": "4EFDF4C5D9D0EF1E",
       "unresolved": false,
       "fr": "(-???-)Quoi<nbsp>!? Répète-moi ça, Thancred<nbsp>!",
       "ja": "(-？？？？-)……なに？\u3000本当か、サンクレッド！！",
@@ -1202,8 +1202,8 @@
     },
     {
       "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_ENCLAVEMINER03143_000_141",
-      "en": "Thank you, my lady. You are most kind.",
-      "hash": "C24AD68C6AD807AE",
+      "en": "(-Doman Miner-)Thank you, my lady. You are most kind.",
+      "hash": "BD5AB2752A9CBFBA",
       "unresolved": false,
       "fr": "(-Ouvrier de l'enclave-)Entendu, je vous préviens dès que je vois un de ces cristaux. Si vous voulez bien m'excuser, j'ai encore pas mal de boulot...",
       "ja": "(-ドマ町人地の山師-)承知いたしました、同じ結晶が出てきたらお伝えします。<br>では……。",

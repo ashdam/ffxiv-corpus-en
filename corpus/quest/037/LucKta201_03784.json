@@ -766,8 +766,8 @@
     },
     {
       "gameKey": "quest/037/LucKta201_03784#TEXT_LUCKTA201_03784_ANOGG_000_080",
-      "en": "Yes!",
-      "hash": "009E3BDFC43BC13E",
+      "en": "(-Anogg and Konogg-)Yes!",
+      "hash": "2BECC945F3F7B2EC",
       "unresolved": false,
       "fr": "(-Anogg et Konogg-)C'est pas moi qu'ai commencé...",
       "ja": "(-アノッグとコノッグ-)え……そんな正論言われても……。",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/037/LucKta201_03784#TEXT_LUCKTA201_03784_ANOGG_000_081",
-      "en": "Why not both?",
-      "hash": "80D4589ED24308CA",
+      "en": "(-Anogg and Konogg-)Why not both?",
+      "hash": "A7846771E7879C4F",
       "unresolved": false,
       "fr": "(-Anogg et Konogg-)V-vous êtes pas <if(gnum4,sérieuse,sérieux)>, là<nbsp>!?",
       "ja": "(-アノッグとコノッグ-)え……そんな極端なこと言われても……。",

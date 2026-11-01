@@ -1148,8 +1148,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz002_04580#TEXT_AKTKBZ002_04580_PRICKLYRETURNEE_000_050",
-      "en": "Help! Someone help! They...they've turned!",
-      "hash": "E9686835A0DD13D5",
+      "en": "(-Shrill Cry-)Help! Someone help! They...they've turned!",
+      "hash": "9F51131F3F1BD81B",
       "unresolved": false,
       "fr": "(-Rapatrié grincheux-)Aaah<nbsp>! Un monstre<nbsp>!",
       "ja": "(-帰還者の叫び声-)ば、バケモノだーーー！",
@@ -1512,8 +1512,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz002_04580#TEXT_AKTKBZ002_04580_NERVA_000_082",
-      "en": "...Empire...no more. Never again...rise...ashes.",
-      "hash": "4797D3C4BF208A34",
+      "en": "(-Radio-)...Empire...no more. Never again...rise...ashes.",
+      "hash": "17CE27D77B8197E2",
       "unresolved": false,
       "fr": "(-Radio magitek-)L'Emp*prshh*... est *prshh*ombé... et jam*prshh*... il ne ren*prshh*... de ses cen*prshh*...",
       "ja": "(-ラジオが拾った声-)テイ、コ……ハ……ホロビ……ッタ……<br>……ウ、ニドト……サイケン、サレ……コト……ナイ……",
@@ -1894,8 +1894,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz002_04580#TEXT_AKTKBZ002_04580_NERVA_000_093",
-      "en": "...Empire...no more. Never again...rise...ashes.",
-      "hash": "C76ED3A8034EC295",
+      "en": "(-Radio-)...Empire...no more. Never again...rise...ashes.",
+      "hash": "B0B0603B20B35820",
       "unresolved": false,
       "fr": "(-Radio magitek-)L'Emp*prshh*... est *prshh*ombé... et jam*prshh*... il ne ren*prshh*... de ses cen*prshh*...",
       "ja": "(-ラジオが拾った声-)テイ、コ……ハ……ホロビ……ッタ……<br>……ウ、ニドト……サイケン、サレ……コト……ナイ……",
@@ -1972,8 +1972,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz002_04580#TEXT_AKTKBZ002_04580_NERVA_100_095",
-      "en": "...Glory...everlasting... Garlemald.",
-      "hash": "510E854E1432FCF8",
+      "en": "(-Radio-)...Glory...everlasting... Garlemald.",
+      "hash": "534EECAA13BCD355",
       "unresolved": false,
       "fr": "(-Radio magitek-)Longue v*prshh*... à l'Empire, no*prshh*... patrie *prshh*...rnelle.",
       "ja": "(-ラジオが拾った声-)エイ、エン……ハンエ……ワガ、ソコク、ニ……",

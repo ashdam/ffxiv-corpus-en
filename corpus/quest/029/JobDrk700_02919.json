@@ -2164,8 +2164,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_FRAY_000_409",
-      "en": "Serve... Save... Slave... Slay... I've sins aplenty, aye, but regrets? Not so much.",
-      "hash": "B116432C3B6D661B",
+      "en": "(-???-)Serve... Save... Slave... Slay... I've sins aplenty, aye, but regrets? Not so much.",
+      "hash": "9806121BB4BD31E2",
       "unresolved": false,
       "fr": "(-???-)Quiconque lutte pour un idéal n'a pas peur de la solitude. Lorsque des choix doivent être faits, on est parfois obligé de laisser les autres pour aller de l'avant.",
       "ja": "(-？？？？-)……確かに、前に進もうとする人は孤独です。<br>その足を動かせるのは、いつだって自分だけだ。",
@@ -2190,8 +2190,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_FRAY_000_410",
-      "en": "And if <if(gnum4,she,he)> wouldn't listen to me, the embodiment of good sense and pragmatism, then what hope could you possibly have?",
-      "hash": "72336FB1C99DDA68",
+      "en": "(-???-)And if <if(gnum4,she,he)> wouldn't listen to me, the embodiment of good sense and pragmatism, then what hope could you possibly have?",
+      "hash": "E9D835606635F53E",
       "unresolved": false,
       "fr": "(-???-)Mais par leurs paroles, ces personnes qu'on rencontre sur notre route nous donnent aussi la force d'avancer. Elles sont autant de mains tendues qu'il y a d'obstacles à franchir...",
       "ja": "(-？？？？-)けれど……<br>傍らを通りすぎる人の言葉が、顔を上げさせると。<br>誰かが差し伸べた手が、崩れかけた体を支えると……。",
@@ -2216,8 +2216,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_FRAY_000_411",
-      "en": "A house divided cannot stand, you know. This childish rebellion ends now.",
-      "hash": "0FFE9D4AF955E2DD",
+      "en": "(-???-)A house divided cannot stand, you know. This childish rebellion ends now.",
+      "hash": "BFD7A26D41ED32DF",
       "unresolved": false,
       "fr": "(-???-)Et ça, personne ne le sait mieux que <split(<string(gstr1)>, ,1)>. C'est grâce à tous ces miracles de l'ordinaire qu'on peut poursuivre notre route et aspirer à un jour réaliser nos rêves.",
       "ja": "(-？？？？-)そんなありふれた奇跡に押されて進むのだと、<br><if(gnum4,彼女,彼)>はもう、自身に示したんですよ。",
@@ -3178,8 +3178,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_EDMONT_000_480",
-      "en": "Hm? What troubles you, <if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,2)>?",
-      "hash": "B88BDC7E6C93C39B",
+      "en": "(-???-)Hm? What troubles you, <if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,2)>?",
+      "hash": "588615B63BEC445E",
       "unresolved": false,
       "fr": "(-???-)Tiens donc, qu'est-ce qui vous amène ici<nbsp>?",
       "ja": "(-？？？？-)おや……。<br>そんなところで、どうされましたかな？",

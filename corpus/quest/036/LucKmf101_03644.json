@@ -1088,8 +1088,8 @@
     },
     {
       "gameKey": "quest/036/LucKmf101_03644#TEXT_LUCKMF101_03644_GLYNARD_000_078",
-      "en": "That sounds like a challenge that <italic(1)>he<italic(0)> would enjoy.",
-      "hash": "B0373097C0BF6F8D",
+      "en": "(-???-)That sounds like a challenge that <italic(1)>he<italic(0)> would enjoy.",
+      "hash": "FF2E5196BDD283C8",
       "unresolved": false,
       "fr": "(-???-)C'est tout à fait un boulot pour <italic(1)>lui<italic(0)>, ça<nbsp>!",
       "ja": "(-？？？？-)そういうのは、「あいつ」の得意分野じゃないか？",

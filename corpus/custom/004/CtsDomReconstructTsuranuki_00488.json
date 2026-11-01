@@ -670,8 +670,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconstructTsuranuki_00488#TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SMITH00488_000_122",
-      "en": "Kawanami's lot? We saw to it already. Should be out front!",
-      "hash": "9AEE906DD6A354B9",
+      "en": "(-Earnest Smith-)Kawanami's lot? We saw to it already. Should be out front!",
+      "hash": "D2EEA7359B7BCF2A",
       "unresolved": false,
       "fr": "(-Jeune forgeron-)Ah, celle de madame Kawanami<nbsp>? Je l'ai déjà réparée, elle doit être quelque part devant, normalement<nbsp>!",
       "ja": "(-鉄打ちの青年-)ああ、カワナミさんちの！<br>あれなら直して、表にまわしときましたよ。",
@@ -686,8 +686,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconstructTsuranuki_00488#TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SMITH00488_000_123",
-      "en": "Have you seen a pack of knife blades, by the way? Seven, just sharpened. I can't seem to find them anywhere...",
-      "hash": "C78D09D6140226A4",
+      "en": "(-Earnest Smith-)Have you seen a pack of knife blades, by the way? Seven, just sharpened. I can't seem to find them anywhere...",
+      "hash": "3C7C5A44CDFDE766",
       "unresolved": false,
       "fr": "(-Jeune forgeron-)Au fait, Chef<nbsp>! Vous sauriez pas où sont passés les couteaux de cuisine<nbsp>? Y en avait sept, on avait fini de les aiguiser<nbsp>!",
       "ja": "(-鉄打ちの青年-)ところで、研ぎまでおわった包丁が7本あったはずなんですけど、<br>さっきから見当たらなくて……。",

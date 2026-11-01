@@ -888,8 +888,8 @@
     },
     {
       "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_BOX_000_046",
-      "en": "...",
-      "hash": "9319CDCAAFCE1489",
+      "en": "(-Conspicuous Crates-)...",
+      "hash": "096A5D018B4112E7",
       "unresolved": false,
       "fr": "(-Caisse suspecte-)...",
       "ja": "(-暑苦しい木箱-)…………。",
@@ -1512,8 +1512,8 @@
     },
     {
       "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_ELLIE_000_130",
-      "en": "Those thefts were carried out by a single individual, you imbecile.",
-      "hash": "A7E112F3C02E029C",
+      "en": "(-???-)Those thefts were carried out by a single individual, you imbecile.",
+      "hash": "4A58B222A3B3E596",
       "unresolved": false,
       "fr": "(-???-)Ces pauvres fous n'ont rien à voir avec les vols en question. Leur <italic(1)>modus operandi<italic(0)> ne correspond absolument pas aux témoignages recueillis.",
       "ja": "(-？？？？-)いいえ、彼らは無関係よ。<br>盗難の手口が、噂の武器怪盗とはまるで違う……。",
@@ -1538,8 +1538,8 @@
     },
     {
       "gameKey": "quest/012/ChrHdb103_01206#TEXT_CHRHDB103_01206_ELLIE_000_131",
-      "en": "Lest you've forgotten, the culprit is a <italic(1)>duelist<italic(0)>─he only claims his victims' weapons after defeating them in single combat. If your powers of observation are as great as you claim, you should have deduced that those buffoons in boxes were incapable of such.",
-      "hash": "A4595B581B0716A1",
+      "en": "(-Well-informed Woman-)Lest you've forgotten, the culprit is a <italic(1)>duelist<italic(0)>─he only claims his victims' weapons after defeating them in single combat. If your powers of observation are as great as you claim, you should have deduced that those buffoons in boxes were incapable of such.",
+      "hash": "517B68641026622B",
       "unresolved": false,
       "fr": "(-Femme inconnue-)Le voleur défie toujours les victimes en combat singulier, et si elles perdent, il en profite pour leur dérober leur arme. Il les considère pro<->ba<->ble<->ment comme des sortes de trophées.",
       "ja": "(-見知らぬ女性-)武器怪盗は、まず武器を奪う相手に「戦い」を挑むの。<br>それで、勝負に勝ったら、その証として武器を奪う……。<br>今回の事件とは、完全に別物よ。",

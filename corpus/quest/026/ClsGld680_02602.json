@@ -1664,8 +1664,8 @@
     },
     {
       "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_PAPASHAN_000_362",
-      "en": "To come and see this orchestrion fairly every day... You truly are taken by it, Lady Lilira.",
-      "hash": "185145E4C3B2B681",
+      "en": "(-Papashan-esque Man-)To come and see this orchestrion fairly every day... You truly are taken by it, Lady Lilira.",
+      "hash": "F195B1FC9AA431F9",
       "unresolved": false,
       "fr": "(-Garde au visage familier-)Dame Lilira, cet orchestrion semble piquer encore et toujours plus votre curiosité. Vous le regardez fixement à chaque fois que nous passons devant...",
       "ja": "(-見覚えのある付き人-)また、そのオーケストリオンの前でお悩みですか。<br>リリラお嬢様……。",
@@ -1690,8 +1690,8 @@
     },
     {
       "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_NANAMOULNAMO_000_363",
-      "en": "Oh, it is perfect in all ways...save for its size. Would that it were small enough to fit in my bedchamber. \\<sigh> Does an elegant and compact orchestrion not exist?",
-      "hash": "66820FE52D4893C7",
+      "en": "(-Nanamo-esque Maiden-)Oh, it is perfect in all ways...save for its size. Would that it were small enough to fit in my bedchamber. \\<sigh> Does an elegant and compact orchestrion not exist?",
+      "hash": "6D480ABE5DE3FAF5",
       "unresolved": false,
       "fr": "(-Jeune femme au visage familier-)Il s'agit d'un objet absolument remarquable, et nou... <italic(1)>je<italic(0)> me disais que si ma chambre avait été plus grande, peut-être aurais-je pu l'y déposer. Je ne parviens malheureusement pas à en trouver un d'aussi bonne qualité qui occupe moins d'espace...<br>Je crains également d'être trop petite pour pouvoir accéder à ses touches.",
       "ja": "(-見覚えのあるお嬢様-)とてもよい品だが、わら……わたくしの寝室には、大きさがな。<br>もう少し小さくて、可憐な品はないものか……。",
@@ -1716,8 +1716,8 @@
     },
     {
       "gameKey": "quest/026/ClsGld680_02602#TEXT_CLSGLD680_02602_PAPASHAN_000_364",
-      "en": "Such an item would suit my lady very well indeed, but I fear it will prove elusive to find even in our great city.",
-      "hash": "AB8307E69C482366",
+      "en": "(-Papashan-esque Man-)Such an item would suit my lady very well indeed, but I fear it will prove elusive to find even in our great city.",
+      "hash": "924AFE3B92390A2B",
       "unresolved": false,
       "fr": "(-Garde au visage familier-)Dame Lilira, le problème n'est de toute évidence pas votre taille. Vous êtes en tout point parfaite. Poursuivons notre promenade, peut-être trouverons-nous un magasin proposant des orchestrions plus petits et d'aussi bonne facture.",
       "ja": "(-見覚えのある付き人-)お嬢様のような、可愛らしいお姿のオーケストリオン……<br>かようなわがままに応えうる品が、ウルダハにありますかな？",

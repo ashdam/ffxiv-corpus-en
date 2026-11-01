@@ -534,8 +534,8 @@
     },
     {
       "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_ARCADIAOWNER_000_202",
-      "en": "I'm pleased to see I was not mistaken about you.  ",
-      "hash": "C9EEF56DC05DF2A6",
+      "en": "(-Familiar Voice-)I'm pleased to see I was not mistaken about you.  ",
+      "hash": "6974CE0C7684B60B",
       "unresolved": false,
       "fr": "(-Voix rauque-)Excellent<nbsp>! Je ne m'étais donc pas trompé sur ton compte...",
       "ja": "(-低くかすれた声-)見事だった。<br>やはり、私の見立ては間違っていなかったようだ……。",
@@ -1386,8 +1386,8 @@
     },
     {
       "gameKey": "quest/054/KinGra305_05439#TEXT_KINGRA305_05439_THEHOWLINGBLADE_000_234",
-      "en": "Eutrope...",
-      "hash": "E2E8118239E8D1C7",
+      "en": "(-Retsarra-)Eutrope...",
+      "hash": "0A51B56CCF1C0501",
       "unresolved": false,
       "fr": "(-Retsarra-)Eutrope...",
       "ja": "(-レザラ-)ユトロープ……。",

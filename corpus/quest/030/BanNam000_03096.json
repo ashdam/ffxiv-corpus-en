@@ -414,8 +414,8 @@
     },
     {
       "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOSHIN_000_004",
-      "en": "You there! Wait, wait!",
-      "hash": "8E0FB0E398EF06A4",
+      "en": "(-Namazu Voice-)You there! Wait, wait!",
+      "hash": "DC8ED25DB935B430",
       "unresolved": false,
       "fr": "(-Voix de Namazu-)Hé... Hé lààà<nbsp>! Attendez un peu<nbsp>!",
       "ja": "(-ナマズオの声-)ち、ちょっと、待ってほしいっぺよ！",
@@ -622,8 +622,8 @@
     },
     {
       "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOSHIN_000_021",
-      "en": "I...am returned...",
-      "hash": "8CF1B947A24FAD4A",
+      "en": "(-Floundering Namazu-)I...am returned...",
+      "hash": "4D6EAC520B1F9D44",
       "unresolved": false,
       "fr": "(-Namazu affaibli-)Gyorei... C'est moi...",
       "ja": "(-行き倒れのナマズオ-)た、ただいま……っぺよ……。",
@@ -986,8 +986,8 @@
     },
     {
       "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_KOFUINSEIGETSU_000_035",
-      "en": "...Hasten not to judge, for profound truth may lie in even visions of the night.",
-      "hash": "9170BB6A1CB24E1D",
+      "en": "(-Intellectual-sounding Voice-)...Hasten not to judge, for profound truth may lie in even visions of the night.",
+      "hash": "6B17F2A349A5A752",
       "unresolved": false,
       "fr": "(-Voix solennelle-)Bien hâtives sont les conclusions que vous tirez...",
       "ja": "(-理知的な声-)そう考えるのは、早計というものだよ……。",
@@ -1298,8 +1298,8 @@
     },
     {
       "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOSHIN_000_047",
-      "en": "Thanks in advance!",
-      "hash": "A515D0D9DBCA8BEF",
+      "en": "(-All Three Namazu-)Thanks in advance!",
+      "hash": "371BB9B55813EF51",
       "unresolved": false,
       "fr": "(-Tous en cœur-)<if(gnum4,Aventurière,Aventurier)>, nous nous en remettons à vous<nbsp>!!!",
       "ja": "(-三匹のナマズオ-)よろしくお願いするっぺな！",

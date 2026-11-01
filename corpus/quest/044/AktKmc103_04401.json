@@ -386,8 +386,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc103_04401#TEXT_AKTKMC103_04401_SINGINGWAY_000_041",
-      "en": "The leader of the crew? Not me, I'm afraid. Singingway's the name!",
-      "hash": "7272249671A103EA",
+      "en": "(-Singingway-)The leader of the crew? Not me, I'm afraid. Singingway's the name!",
+      "hash": "87AFDE89AC0F29EA",
       "unresolved": false,
       "fr": "... Non, je ne suis pas la chef de l'équipage. Moi, c'est Singingway<nbsp>!",
       "ja": "……ここのリーダーかって？<br>いいや違うね、オレはシンギングウェイ！",
@@ -412,8 +412,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc103_04401#TEXT_AKTKMC103_04401_SINGINGWAY_000_042",
-      "en": "I'm in charge of the construction and maintenance of the atmospheric circulation system. Only the crispest, cleanest air for the people of Etheirys─and that's a promise!",
-      "hash": "B23C0F072C4858BD",
+      "en": "(-Singingway-)I'm in charge of the construction and maintenance of the atmospheric circulation system. Only the crispest, cleanest air for the people of Etheirys─and that's a promise!",
+      "hash": "ADB30A38EFC4BC6F",
       "unresolved": false,
       "fr": "(-Singingway-)Je m'occupe de la con<->struc<->tion et de l'entretien du système de régénération d'air. C'est un élément in<->dis<->pen<->sa<->ble pour que les habitants d'Ætherys puissent respirer à l'intérieur du vaisseau<nbsp>!",
       "ja": "役割は「大気維持システム」の構築とメンテナンス！<br>アーテリスの生命でも快適に過ごせる空気を作ってるんだ。<br>さ、仕事仕事！",
@@ -464,8 +464,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc103_04401#TEXT_AKTKMC103_04401_SLEEPINGWAY_000_051",
-      "en": "Sleepingway... My job is...is... Hmm. Perhaps I'd better ask...",
-      "hash": "4E71CCD51775DE2B",
+      "en": "(-Sleepingway-)Sleepingway... My job is...is... Hmm. Perhaps I'd better ask...",
+      "hash": "4F5D76B659B1F2D7",
       "unresolved": false,
       "fr": "(-Sleepingway-)Mon truc à moi... c'est... (somnole)",
       "ja": "おいらは、スリーピングウェイ……。<br>仕事は…………なんだっけ……ふぁぁ……。",

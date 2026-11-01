@@ -4772,8 +4772,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MALACHITE_110_138",
-      "en": "When I arrived, I found no body. Only a pile of dust, which the wind quickly scattered.",
-      "hash": "7D18F5B3774D3AEB",
+      "en": "(-Malachite-)When I arrived, I found no body. Only a pile of dust, which the wind quickly scattered.",
+      "hash": "7B3EEFB427135FAF",
       "unresolved": false,
       "fr": "(-Malachite-)Mais aucune trace de la dépouille. Tout ce qui restait sur les lieux du crime, c'était un tas de poussière qui s'est lit<->té<->ra<->le<->ment dispersé aux quatre vents sous mes yeux.",
       "ja": "(-マラカイト-)肝心のご遺体が消えていたんです。<br>私が見たのは、襲撃現場に積もった塵だけ……。<br>それも風に吹かれて、散ってしまいました。",
@@ -4798,8 +4798,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MALACHITE_120_138",
-      "en": "Confused, I questioned the residents, but none knew what had become of it.",
-      "hash": "26C0B49273BD15F5",
+      "en": "(-Malachite-)Confused, I questioned the residents, but none knew what had become of it.",
+      "hash": "624B49C27EB988A1",
       "unresolved": false,
       "fr": "(-Malachite-)Bien sûr, j'ai questionné les villageois. Mais personne n'a su me dire où se trouvait le corps.",
       "ja": "(-マラカイト-)住民たちに話を聞いてみても、<br>誰ひとりとして、ご遺体の行方を知らなくて……。",
@@ -4902,8 +4902,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_142",
-      "en": "<split(<string(gstr1)>, ,1)>, we need your help! I've lost control over the soldiers in the residential area. They might be trying to hurt people again.",
-      "hash": "DA9F201F85149AB5",
+      "en": "(-Gulool Ja-)<split(<string(gstr1)>, ,1)>, we need your help! I've lost control over the soldiers in the residential area. They might be trying to hurt people again.",
+      "hash": "2522FE8FCC043354",
       "unresolved": false,
       "fr": "(-Voix de Gulool Ja-)<split(<string(gstr1)>, ,1)>, il y a urgence<nbsp>! J'ai perdu le contrôle des sentinelles mécaniques des divisions résidentielles... Elles pourraient à leur tour devenir violentes, ja<nbsp>!",
       "ja": "(-グルージャ-)大変だよ！<br>居住殻周辺の機械兵の制御権が乗っ取られたんだ……<br>もしかしたら、また暴走させられているかもしれない。",
@@ -4928,8 +4928,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_143",
-      "en": "Oblivion members are on their way now, but are you close enough to join them?",
-      "hash": "A5A80E1BFC697B04",
+      "en": "(-Gulool Ja-)Oblivion members are on their way now, but are you close enough to join them?",
+      "hash": "7C62FA4192191298",
       "unresolved": false,
       "fr": "(-Voix de Gulool Ja-)Des membres d'Oblivion ont déjà été envoyés sur place. Vous pensez pouvoir les rejoindre, les autres et toi<nbsp>? ",
       "ja": "(-グルージャ-)オブリビオンのみんなにも向かってもらってるんだけど、<br><split(<string(gstr1)>, ,1)>たちも行けそう……！？",

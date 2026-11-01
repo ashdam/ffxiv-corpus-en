@@ -736,8 +736,8 @@
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WAOUD_000_064",
-      "en": "Might you be Rowena? My dear, I understand you've acquired a crozier of Allagan design. As a collector of such antiquities, I had hoped to make you an offer.",
-      "hash": "033F1283BC34334C",
+      "en": "(-???-)Might you be Rowena? My dear, I understand you've acquired a crozier of Allagan design. As a collector of such antiquities, I had hoped to make you an offer.",
+      "hash": "3D5197560709AB9E",
       "unresolved": false,
       "fr": "(-???-)Excusez-moi, je cherche l'échoppe de Rowena. On m'a dit que je pourrai y trouver un crosseron allagois...",
       "ja": "(-？？？？-)失礼……ロウェナ商会とやらは此処か？<br>「<sheet(EventItem,2001706,0)>」が入荷したとの噂を耳にし、<br>買い求めに参った……。",
@@ -788,8 +788,8 @@
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WAOUD_000_066",
-      "en": "What a pity... I had the <italic(1)>perfect<italic(0)> place for it. Well, thank you anyway.",
-      "hash": "776764BCB5C03CE6",
+      "en": "(-???-)What a pity... I had the <italic(1)>perfect<italic(0)> place for it. Well, thank you anyway.",
+      "hash": "3065A04B12EF68E6",
       "unresolved": false,
       "fr": "(-???-)Ah... Tant pis, je ferai sans... Merci quand même.",
       "ja": "(-？？？？-)そうか……では、ほかの品を試すか。<br>……邪魔をした。",

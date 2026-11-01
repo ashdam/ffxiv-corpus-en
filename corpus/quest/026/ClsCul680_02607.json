@@ -1164,8 +1164,8 @@
     },
     {
       "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_DELLEMMONT_000_041",
-      "en": "Well, well, fancy seeing you here, <split(<string(gstr1)>, ,1)>. Ah, the mere sight of you brings back the memory of your most succulent okeanis.",
-      "hash": "B4016EFDDF8CC622",
+      "en": "(-???-)Well, well, fancy seeing you here, <split(<string(gstr1)>, ,1)>. Ah, the mere sight of you brings back the memory of your most succulent okeanis.",
+      "hash": "933A8468B532CEF8",
       "unresolved": false,
       "fr": "(-???-)Palsambleu<nbsp>! <string(gstr1)><nbsp>! Ah, vous revoir ainsi me rappelle au délicieux souvenir de votre océanide panée<nbsp>!",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,1)>さん、こんなところで再会できるとは……。<br>あああ、あなたの顔を見るだけで、<br>口の中に、あのシュニッツェルの味が思い出されます。",

@@ -224,8 +224,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_GILGAMESH_000_001",
-      "en": "This man is no mere goldsmith. You speak of him as one would of a great warrior.",
-      "hash": "CD73C8069A13A6DA",
+      "en": "(-Flamboyant Oaf-)This man is no mere goldsmith. You speak of him as one would of a great warrior.",
+      "hash": "E88B9E69F8D198AE",
       "unresolved": false,
       "fr": "(-Géant à la tenue orientale-)... Balèze<nbsp>? Il est vraiment si fort<nbsp>?",
       "ja": "(-東方風の男-)最強……。<br>そいつは、強いのか？",
@@ -354,8 +354,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_GILGAMESH_000_005",
-      "en": "Aye, that he does! And I do so enjoy the company of dangerous men...",
-      "hash": "067E14152ED23CE1",
+      "en": "(-Flamboyant Oaf-)Aye, that he does! And I do so enjoy the company of dangerous men...",
+      "hash": "F57DD4BE40F77B20",
       "unresolved": false,
       "fr": "(-Géant à la tenue orientale-)Cette histoire m'intrigue<nbsp>! C'est décidé, je vous accompagne. Je suis responsable de la perte de votre vase, après tout, et je veux voir de mes propres yeux cet orfèvre si puissant.",
       "ja": "(-東方風の男-)…………よし、オレもついていこう！<br>壺を割っちまった責任もあるし、<br>その「最強」っていう彫金師にも会ってみてぇからな。",
@@ -612,8 +612,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_NASHUMHAKARACCA_000_021",
-      "en": "I don't think it's been dead long. Maybe whoever did it is still around?",
-      "hash": "FAAA191C4E63DA29",
+      "en": "(-Nashu Mhakaracca-)I don't think it's been dead long. Maybe whoever did it is still around?",
+      "hash": "FD4CBBEDAFE1676C",
       "unresolved": false,
       "fr": "(-Nashu Mhakaracca-)Le sang est encore frais, ce monstrrre a été tué récemment.",
       "ja": "(-ナシュ・マカラッカ-)まだ、血痕が乾いていません～。<br>死んでから、それほど時間が経っていなさそうですね～！",
@@ -688,8 +688,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_GILGAMESH_000_041",
-      "en": "A single blow to the head. Impressive.",
-      "hash": "92F898CA56940CBB",
+      "en": "(-Gilgamesh-)A single blow to the head. Impressive.",
+      "hash": "0DD9BAFF78716079",
       "unresolved": false,
       "fr": "(-Gilgamesh-)Un coup unique et précis dans le cerveau... Le guerrier qui a vaincu ce monstre est un combattant ex<->cep<->tion<->nel.",
       "ja": "(-ギルガメッシュ-)脳天を一撃……か。<br>こいつぁ、なかなかの手だれだな。",

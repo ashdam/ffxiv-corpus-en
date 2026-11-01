@@ -1308,8 +1308,8 @@
     },
     {
       "gameKey": "quest/029/BanKjn004_02976#TEXT_BANKJN004_02976_HIRUMAKI_000_054",
-      "en": "Incompetent, the lot of them. I suppose I'll have to handle this myself.",
-      "hash": "A2A8F9A6E877D2D3",
+      "en": "(-Dreadfully Familiar Voice-)Incompetent, the lot of them. I suppose I'll have to handle this myself.",
+      "hash": "4B6A5EE2741E5499",
       "unresolved": false,
       "fr": "(-Voix sévère-)Tsk, il faut tout faire soi-même iciiii... C'est la dernière fois que je fais confiance à cette bande d'incapaaaables<nbsp>!",
       "ja": "(-残忍そうな声-)役立たずどもが……しくじりおったかァー！<br>無能、無能、無能がァー！",
@@ -1874,8 +1874,8 @@
     },
     {
       "gameKey": "quest/029/BanKjn004_02976#TEXT_BANKJN004_02976_KABUTO_000_074",
-      "en": "You needn't worry. All that matters is you are safe. What's more, we recovered the armor.",
-      "hash": "D42C94B4F2347D61",
+      "en": "(-Familiar Voice-)You needn't worry. All that matters is you are safe. What's more, we recovered the armor.",
+      "hash": "10758DC6E537AF78",
       "unresolved": false,
       "fr": "(-Voix de Kabuto-)Mademoiselle Shihoumi, vous n'avez rien à vous reprocheeeer. Les employés de Kokajiya sont sains et saufs, c'est le principaaaal. J'ai même rapporté l'armure de samouraï que les Rouges espéraient nous voleeeer.",
       "ja": "(-カブトの声-)ツクモのことは、心配無用……。<br>小鍛冶屋の皆が無事であり、なにより……。<br>甲冑も無事に取り戻せたぁ……！",
@@ -2284,8 +2284,8 @@
     },
     {
       "gameKey": "quest/029/BanKjn004_02976#TEXT_BANKJN004_02976_BUNCHIN_000_094",
-      "en": "Kabuto! I heard from the others. How could you let them take Tsukumo away from you!?",
-      "hash": "0AF773F8FF6FEDC8",
+      "en": "(-Angry Voice-)Kabuto! I heard from the others. How could you let them take Tsukumo away from you!?",
+      "hash": "58052A33291C7B8A",
       "unresolved": false,
       "fr": "(-Voix courroucée-)Qu'est-ce que j'apprends, Kabutoooo<nbsp>? Alors comme ça, tu as laissé les Rouges te prendre le vénérable Tsukumoooo<nbsp>? Qu'as-tu à dire pour ta défeeeense<nbsp>?",
       "ja": "(-怒っている声-)カブト、紅甲羅の策略により、<br>ツクモ様が奪われたそうじゃなぁ～！？",

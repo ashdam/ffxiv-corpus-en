@@ -444,8 +444,8 @@
     },
     {
       "gameKey": "quest/038/LucKsa002_03835#TEXT_LUCKSA002_03835_BAISHAEN_000_060",
-      "en": "That we should play host to the liberator of Doma <italic(1)>and<italic(0)> Ala Mhigo <if(gnum4,herself,himself)>. I did not think you could be persuaded to help us.",
-      "hash": "F9FB0BCE00EF931D",
+      "en": "(-???-)That we should play host to the liberator of Doma <italic(1)>and<italic(0)> Ala Mhigo <if(gnum4,herself,himself)>. I did not think you could be persuaded to help us.",
+      "hash": "1DD12100F74EFEE5",
       "unresolved": false,
       "fr": "(-Résistant bozjien-)<if(gnum4,La libératrice,Le libérateur)> de Doma et d'Ala Mhigo en personne<nbsp>! Votre réputation vous précède. C'est un honneur de vous recevoir, bienvenue en Bozja.",
       "ja": "(-？？？？-)ドマ・アラミゴの解放者殿よ。<br><if(gnum4,貴女様,貴方様)>の名声はこの辺境にまで届いておりますぞ。<br>今回はボズヤまでご足労いただき深く感謝申し上げる。",
@@ -496,8 +496,8 @@
     },
     {
       "gameKey": "quest/038/LucKsa002_03835#TEXT_LUCKSA002_03835_GEROLT_000_062",
-      "en": "Bloody hells, man! Ye won't inspire much confidence speakin' like that!",
-      "hash": "13CA82181C52A98A",
+      "en": "(-???-)Bloody hells, man! Ye won't inspire much confidence speakin' like that!",
+      "hash": "1F7C43BD2EE77BB7",
       "unresolved": false,
       "fr": "(-???-)Bah ça va<nbsp>! Pour ce qui est de l'accueil en tout cas, on a vu pire<nbsp>!",
       "ja": "(-？？？？-)おいおい、朴念仁ってぇのはヨォ、<br>無口で愛想のないヤツのことを意味すンだぜ！<br>アンタほど口の回る御仁をそうは言わネェよ！\u3000ナァ！",

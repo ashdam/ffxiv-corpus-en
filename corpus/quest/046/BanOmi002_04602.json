@@ -722,8 +722,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi002_04602#TEXT_BANOMI002_04602_GREBULOFFB_000_016",
-      "en": "\\<sigh>",
-      "hash": "1E6137FDCBB97146",
+      "en": "(-Nostalgic Grebuloff-)\\<sigh>",
+      "hash": "23166C4AFAE5646B",
       "unresolved": false,
       "fr": "(-Grébuloff mé<->lan<->co<->li<->que-) Ouuuh... (sanglote)",
       "ja": "(-追憶するグレビュオフ-)はぁ……………………。",
@@ -800,8 +800,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi002_04602#TEXT_BANOMI002_04602_GREBULOFFB_000_021",
-      "en": "Oh, I hope you won't take this personally. It's a perfectly lovely salad, only...",
-      "hash": "80BA941E2552B981",
+      "en": "(-Nostalgic Grebuloff-)Oh, I hope you won't take this personally. It's a perfectly lovely salad, only...",
+      "hash": "E4DBB986E9B6DC49",
       "unresolved": false,
       "fr": "(-Grébuloff mé<->lan<->co<->li<->que-)Ouuuh... Toutes nos excuses... Ces légumes frais ont l'air délicieux, mais...",
       "ja": "(-追憶するグレビュオフ-)はぁ……すまないね、せっかくの食事なのに……。<br>新鮮な野菜というのは実に嬉しいんだけど……。",
@@ -2536,8 +2536,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi002_04602#TEXT_BANOMI002_04602_GREBULOFFA_000_128",
-      "en": "An invigorating flavor, as if I've waded in and accidentally swallowed a lungful!",
-      "hash": "B2039719DA270AC1",
+      "en": "(-Emotional Grebuloff-)An invigorating flavor, as if I've waded in and accidentally swallowed a lungful!",
+      "hash": "D2A8DF1DDD4EDA4B",
       "unresolved": false,
       "fr": "(-Grébuloff nostalgique-)Exactement<nbsp>! Quel plaisir pour les papilles et les narines... Je me sens revivre<nbsp>!",
       "ja": "(-望郷するグレビュオフ-)ええ、まるでそのままだわ！<br>この身を流れる血潮のように、確かに親しんできた香り……！",
@@ -2562,8 +2562,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi002_04602#TEXT_BANOMI002_04602_GREBULOFFA_000_129",
-      "en": "...Ah, such fond memories! Even if they do sting a bit.",
-      "hash": "1D4792A4016E56E9",
+      "en": "(-Emotional Grebuloff-)...Ah, such fond memories! Even if they do sting a bit.",
+      "hash": "F29A615704B1F98C",
       "unresolved": false,
       "fr": "(-Grébuloff nostalgique-)Cette soupe me rappelle les océans de chez nous, d'un bleu si profond... C'est la première fois que notre planète apparaît si clairement dans mon esprit<nbsp>!",
       "ja": "(-望郷するグレビュオフ-)……今ならば、思い出せる気がするの。<br>かつての故郷を……深い海の美しさを！",

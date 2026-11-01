@@ -848,8 +848,8 @@
     },
     {
       "gameKey": "quest/005/ManFst401_00518#TEXT_MANFST401_00518_000160_CID",
-      "en": "Who...are you?",
-      "hash": "FC87001046CC0EBF",
+      "en": "(-Cid-)Who...are you?",
+      "hash": "B451165D2292FDCD",
       "unresolved": false,
       "fr": "(-Cid-)Mais... Mais qui es-tu<nbsp>?",
       "ja": "(-シド-)お前はいったい……。",
@@ -1186,8 +1186,8 @@
     },
     {
       "gameKey": "quest/005/ManFst401_00518#TEXT_MANFST401_00518_000290_CID",
-      "en": "I...I have...an airship?",
-      "hash": "F0B1C9961BFF08F0",
+      "en": "(-Cid-)I...I have...an airship?",
+      "hash": "4B7DEB6047F9C956",
       "unresolved": false,
       "fr": "(-Cid-)L'Entreprise...<nbsp>? Est-ce que ce serait...<nbsp>?",
       "ja": "(-シド-)……エンタープライズ……だと？<br>もしや、それは……？",
@@ -1264,8 +1264,8 @@
     },
     {
       "gameKey": "quest/005/ManFst401_00518#TEXT_MANFST401_00518_000320_CID",
-      "en": "A-An airship...? My airship...?",
-      "hash": "1F0272F620556CD8",
+      "en": "(-Cid-)A-An airship...? My airship...?",
+      "hash": "58E70EE6EAE9088C",
       "unresolved": false,
       "fr": "(-Cid-)Mon... aéronef<nbsp>? Aaah...",
       "ja": "(-シド-)俺の……飛空艇……。<br>……ああ……あ……。",
@@ -1290,8 +1290,8 @@
     },
     {
       "gameKey": "quest/005/ManFst401_00518#TEXT_MANFST401_00518_000330_CID",
-      "en": "W-Wait...",
-      "hash": "8B7C7995222F8CB5",
+      "en": "(-Cid-)W-Wait...",
+      "hash": "256BCF5486337C20",
       "unresolved": false,
       "fr": "(-Cid-)Attends...",
       "ja": "(-シド-)……少し、待ってくれ。",

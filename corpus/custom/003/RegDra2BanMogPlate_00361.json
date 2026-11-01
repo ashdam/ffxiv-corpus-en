@@ -48,8 +48,8 @@
     },
     {
       "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000",
-      "en": "<italic(1)>Unity and brotherhood, now and forevermore.<italic(0)>",
-      "hash": "A9745D4B084F1F68",
+      "en": "(-Engraved Tablet-)<italic(1)>Unity and brotherhood, now and forevermore.<italic(0)>",
+      "hash": "F568CC9296C54B8D",
       "unresolved": false,
       "fr": "(-L'Amitié des peuples-)“Nous gravons nos noms dans la pierre, en symbole de l'amitié passée, présente et future entre nos peuples.”",
       "ja": "(-「友情の証」の銘板-)過去と未来、ふたつの友情の証として、ここに名を刻む",
@@ -64,8 +64,8 @@
     },
     {
       "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000",
-      "en": "<italic(1)>Mogzin, <string(gstr1)><br>Tarresson de Dzemael, Ohl Deeh<br>Marinche de Faurechort, Moggon, Gullinbursti<italic(0)>",
-      "hash": "04B9A170DED00E81",
+      "en": "(-Engraved Tablet-)<italic(1)>Mogzin, <string(gstr1)><br>Tarresson de Dzemael, Ohl Deeh<br>Marinche de Faurechort, Moggon, Gullinbursti<italic(0)>",
+      "hash": "B0CDA9D7F7843288",
       "unresolved": false,
       "fr": "(-L'Amitié des peuples-)“Mogzin, <string(gstr1)>, Tarresson de Dzemael, Ohl Deeh, Marinche de Faurechort, Gullinbursti et Moggon.”",
       "ja": "(-「友情の証」の銘板-)モグジン\u3000<split(<string(gstr1)>, ,1)><br>タレソン\u3000オル・ディー<br>マランシュ・ド・フォールショル\u3000グリンブルスティ\u3000モグゴン",

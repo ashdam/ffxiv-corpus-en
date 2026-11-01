@@ -84,6 +84,8 @@ between languages. Never evaluate or flatten a reference to store it.
 
 ## Speakers
 
+Keep native `(-Name-)` labels and their conditions in `en`. The `speaker` metadata identifies the speaker; it does not replace the label required by the game.
+
 `speakerKind` says what the row's speaker token is. Only `character` rows carry `speaker` and
 `speakerGender`.
 

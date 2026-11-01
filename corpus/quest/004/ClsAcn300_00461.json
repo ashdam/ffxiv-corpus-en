@@ -850,8 +850,8 @@
     },
     {
       "gameKey": "quest/004/ClsAcn300_00461#TEXT_CLSACN300_00461_TALK_SCENE00003_000_42",
-      "en": "<italic(1)>Take the purse you received from Master Gegeruju, and hand it to the dancer Ealdgyth as she prepares to return home.<br><br>K'lyhia<italic(0)>",
-      "hash": "69DA92D5E414D135",
+      "en": "(-Message-)<italic(1)>Take the purse you received from Master Gegeruju, and hand it to the dancer Ealdgyth as she prepares to return home.<br><br>K'lyhia<italic(0)>",
+      "hash": "676DE0A6923387EC",
       "unresolved": false,
       "fr": "(-Message écrit sur le papier-)Remets la récompense du seigneur Gegeruju à la danseuse Ealdgyth, à son retour du travail.<br>                          K'lyhia",
       "ja": "(-紙片の内容-)ゲゲルジュから受け取ったものを<br>仕事帰りの踊り子「エルドギス」へ渡す。<br>ク・リヒャ",

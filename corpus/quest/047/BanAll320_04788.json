@@ -2962,8 +2962,8 @@
     },
     {
       "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_JAMMINGWAY_000_116",
-      "en": "On your mark... Get set...",
-      "hash": "9B9F931DF8964A50",
+      "en": "(-Jammingway and Ogul-)On your mark... Get set...",
+      "hash": "E8C061F2187D0E3C",
       "unresolved": false,
       "fr": "(-Jammingway et Ogul-)À vos marques... Prêts...",
       "ja": "(-ジャミングウェイとオグル-)レディ～……",
@@ -2988,8 +2988,8 @@
     },
     {
       "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_JAMMINGWAY_000_117",
-      "en": "GO!",
-      "hash": "350A729519C432BC",
+      "en": "(-Jammingway and Ogul-)GO!",
+      "hash": "C3B81A81CC3E58F2",
       "unresolved": false,
       "fr": "(-Jammingway et Ogul-)PARTEEEEEZ<nbsp>!!!",
       "ja": "(-ジャミングウェイとオグル-)ゴ～～～～ッ！",
@@ -3420,8 +3420,8 @@
     },
     {
       "gameKey": "quest/047/BanAll320_04788#TEXT_BANALL320_04788_SYSTEM_000_131",
-      "en": "\"Weren't you listening to my brilliant explanation, <split(<string(gstr1)>, ,1)>!? There's no way the batteries can sustain that much boosting!“",
-      "hash": "F185C83E489F0ABF",
+      "en": "(-Shrill Echo-)\"Weren't you listening to my brilliant explanation, <split(<string(gstr1)>, ,1)>!? There's no way the batteries can sustain that much boosting!“",
+      "hash": "82544669E74801D7",
       "unresolved": false,
       "fr": "Utiliser le mode surrégime trop longtemps risquerait de vider totalement les réserves d'énergie du bondisseur lunaire...",
       "ja": "ブースト全開では、とてもではないが最後まで、<br>エネルギーが保たないだろう。",

@@ -357,8 +357,8 @@
     },
     {
       "gameKey": "quest/046/FesXms801_04658#TEXT_FESXMS801_04658_LAURENSSEN_000_003",
-      "en": "It's no good, Celebrant. We will require the aid of an adventurer after all.",
-      "hash": "18915EC66A6E5E03",
+      "en": "(-Erudite Man-)It's no good, Celebrant. We will require the aid of an adventurer after all.",
+      "hash": "1E36E1A2E179F4FC",
       "unresolved": false,
       "fr": "(-Jeune Viéra-)Me revoilà, Madame Garanjy. Rien à faire, nous devons demander l’assistance d'un pro<->fes<->sion<->nel.",
       "ja": "(-ヴィエラ族の青年-)戻りましたよ、アム・ガランジさん。<br>やはり、冒険者の手を借りないとダメなようです。",
@@ -382,8 +382,8 @@
     },
     {
       "gameKey": "quest/046/FesXms801_04658#TEXT_FESXMS801_04658_LAURENSSEN_000_004",
-      "en": "Oh! Dare I say <if(gnum4,she,he)> <italic(1)>is<italic(0)> an adventurer, and you have already made the arrangements?",
-      "hash": "CD53679A6767ED18",
+      "en": "(-Erudite Man-)Oh! Dare I say <if(gnum4,she,he)> <italic(1)>is<italic(0)> an adventurer, and you have already made the arrangements?",
+      "hash": "8770A6039D6D1F68",
       "unresolved": false,
       "fr": "(-Jeune Viéra-)Oh<nbsp>! Vous m'avez devancé<nbsp>? Cette personne serait <if(gnum4,une aventurière,un aventurier)><nbsp>?",
       "ja": "(-ヴィエラ族の青年-)で、こちらの方はもしかして……。",

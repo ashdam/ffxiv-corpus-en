@@ -2900,8 +2900,8 @@
     },
     {
       "gameKey": "quest/005/FesEst103_00559#TEXT_FESEST103_00559_MOTTE_000_352",
-      "en": "HAPPY NAMEDAY!",
-      "hash": "BCC2D752E11A22ED",
+      "en": "(-All-)HAPPY NAMEDAY!",
+      "hash": "3EE674408A0B3007",
       "unresolved": false,
       "fr": "(-Les par<->ti<->ci<->pants-)Joyeux anniversaire<nbsp>!",
       "ja": "(-パーティー参加者たち-)おめでとう～！！",
@@ -3290,8 +3290,8 @@
     },
     {
       "gameKey": "quest/005/FesEst103_00559#TEXT_FESEST103_00559_BADERON_000_370",
-      "en": "'Ere, <if(gnum4,lass,lad)>─where d'ye think <italic(1)>you're<italic(0)> off to?",
-      "hash": "AC9C3AA390666AE7",
+      "en": "(-???-)'Ere, <if(gnum4,lass,lad)>─where d'ye think <italic(1)>you're<italic(0)> off to?",
+      "hash": "2B2758FB0D8DB222",
       "unresolved": false,
       "fr": "(-???-)Pas si vite, l'ami<if(gnum4,e,)><nbsp>!",
       "ja": "(-？？？？-)……おっと、まだ終わってねえぞ！",

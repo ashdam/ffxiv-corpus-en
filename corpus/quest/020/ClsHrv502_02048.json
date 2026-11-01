@@ -176,8 +176,8 @@
     },
     {
       "gameKey": "quest/020/ClsHrv502_02048#TEXT_CLSHRV502_02048_MUJIHMEWRILAH_000_001",
-      "en": "Fufucha, I'm baaack! Have you given any thought to my request?",
-      "hash": "17281783D5887298",
+      "en": "(-???-)Fufucha, I'm baaack! Have you given any thought to my request?",
+      "hash": "FFC6564BD33680E4",
       "unresolved": false,
       "fr": "(-???-)M'dame Fufucha, me rrrevoici<nbsp>! Alors, alors, vous avez réfléchi à ma proposition, dites<nbsp>!?",
       "ja": "(-？？？？-)フフチャさ～ん！\u3000お久しぶりで～す！<br>例の件、考えていただけましたでしょうかっ？",
@@ -202,8 +202,8 @@
     },
     {
       "gameKey": "quest/020/ClsHrv502_02048#TEXT_CLSHRV502_02048_MUJIHMEWRILAH_000_002",
-      "en": "Oh, I beg your pardon! I didn't know you had a guest! Judging by your attire, I take it you're a botanist as well?",
-      "hash": "83B79937920FF860",
+      "en": "(-Animated Maiden-)Oh, I beg your pardon! I didn't know you had a guest! Judging by your attire, I take it you're a botanist as well?",
+      "hash": "2396C701BE752164",
       "unresolved": false,
       "fr": "(-Jeune fille surexcitée-)Oh, mais je vois que vous êtes en pleine discussion<nbsp>! Toutes mes excuses<nbsp>!! Mais d'ailleurrrs... vous aussi, vous êtes botaniste<nbsp>!?",
       "ja": "(-活発な女性-)おおっと、先客とは失礼しました！<br>その出で立ち……あなたも園芸師さんですか？",
@@ -254,8 +254,8 @@
     },
     {
       "gameKey": "quest/020/ClsHrv502_02048#TEXT_CLSHRV502_02048_MUJIHMEWRILAH_000_004",
-      "en": "I won't make a burden of myself, I promise! I just need them to answer a few questions in their spare time. What about this adventurer here? <if(gnum4,She,He)> looks like a capable sort. ",
-      "hash": "0B57B33DA3053F2D",
+      "en": "(-Animated Maiden-)I won't make a burden of myself, I promise! I just need them to answer a few questions in their spare time. What about this adventurer here? <if(gnum4,She,He)> looks like a capable sort. ",
+      "hash": "287C996EDEC01673",
       "unresolved": false,
       "fr": "(-Jeune fille surexcitée-)Allez, soyez chic<nbsp>! Je peux noter vos réponses entre deux coups de hache sur un arbre mature intact<nbsp>! Et puis, vous dites que vous n'avez personne, mais cet<if(gnum4,te,)> aventuri<if(gnum4,ère,er)> m'a l'air assez expérimenté<if(gnum4,e,)><nbsp>! <if(gnum4,Elle,Il)> pourrait m'aider, non<nbsp>?",
       "ja": "(-活発な女性-)仕事の合間にでも、取材を受けてくだされば結構です！<br>希望に合う園芸師さんは、いないとのことですが……<br>こちらの冒険者さんなんて、かなり腕利きの雰囲気ですよ？",

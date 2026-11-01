@@ -1280,8 +1280,8 @@
     },
     {
       "gameKey": "quest/044/AktKme104_04422#TEXT_AKTKME104_04422_HERMES_000_097",
-      "en": "\\<grunt> No, no, I'm fine, if a little embarrassed...",
-      "hash": "382039932D8BB6CE",
+      "en": "(-Hermes-)\\<grunt> No, no, I'm fine, if a little embarrassed...",
+      "hash": "E393F3CF749E4646",
       "unresolved": false,
       "fr": "(-Hermès-)Tout va bien<nbsp>! Enfin, je crois... Je préférerais surtout être moins ridicule<nbsp>!",
       "ja": "(-ヘルメス-)ああ、大丈夫だ……見苦しいところを……すまない……。",
@@ -1306,8 +1306,8 @@
     },
     {
       "gameKey": "quest/044/AktKme104_04422#TEXT_AKTKME104_04422_HERMES_000_098",
-      "en": "\\<grunt> Yes, rest assured this is nothing new to me. I've ended up in far more compromising positions in the course of my work.",
-      "hash": "13AA9B8290D81AD1",
+      "en": "(-Hermes-)\\<grunt> Yes, rest assured this is nothing new to me. I've ended up in far more compromising positions in the course of my work.",
+      "hash": "A49181673FD59D2E",
       "unresolved": false,
       "fr": "(-Hermès-)Euh... Absolument, j'ai la situation bien en main<nbsp>!",
       "ja": "(-ヘルメス-)ああ、観測中にはありがちな事態だ……<br>どうにかしてみせよう……。",
@@ -1332,8 +1332,8 @@
     },
     {
       "gameKey": "quest/044/AktKme104_04422#TEXT_AKTKME104_04422_HERMES_000_099",
-      "en": "Now, for your own safety, please stand back...",
-      "hash": "6A1872CA5EE3CCEF",
+      "en": "(-Hermes-)Now, for your own safety, please stand back...",
+      "hash": "BB6AF284F0EB9C56",
       "unresolved": false,
       "fr": "(-Hermès-)Reculez-vous, s'il vous plaît<nbsp>! Après ce premier accident, il serait préférable que nous évitions d'en avoir un deuxième<nbsp>!",
       "ja": "(-ヘルメス-)ひとまず、少し離れていてほしい。<br>巻き込まないという……保証ができない……。",

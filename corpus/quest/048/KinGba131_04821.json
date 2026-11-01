@@ -324,8 +324,8 @@
     },
     {
       "gameKey": "quest/048/KinGba131_04821#TEXT_KINGBA131_04821_LOAZENIKWE_000_004",
-      "en": "<split(<string(gstr1)>, ,1)>, there you are!",
-      "hash": "2495493E82E99602",
+      "en": "(-Familiar Voice-)<split(<string(gstr1)>, ,1)>, there you are!",
+      "hash": "BD1DB879EE7F6E9C",
       "unresolved": false,
       "fr": "(-Voix familière-)<split(<string(gstr1)>, ,1)><nbsp>!!",
       "ja": "(-聞き覚えのある声-)あっ、<split(<string(gstr1)>, ,1)>！",

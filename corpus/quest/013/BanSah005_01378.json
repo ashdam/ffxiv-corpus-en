@@ -1306,8 +1306,8 @@
     },
     {
       "gameKey": "quest/013/BanSah005_01378#TEXT_BANSAH005_01378_SAHUAGIN01377_000_101",
-      "en": "Pshhh... Shhhilence, shhhorewalker! Try to eshhhcape, and I'll shhhlice gills into your neck! Maybe then you'll be able to breathe underwater! Pshhhahaha!",
-      "hash": "2FE6755EB91A7654",
+      "en": "(-Coral Trident Warrior-)Pshhh... Shhhilence, shhhorewalker! Try to eshhhcape, and I'll shhhlice gills into your neck! Maybe then you'll be able to breathe underwater! Pshhhahaha!",
+      "hash": "1A8F8115EF98D93B",
       "unresolved": false,
       "fr": "(-Guerrier des Tridents du corail-)Fsshhh, sssilence, sssans-branchies<nbsp>! Sssi tu essaies de t'échapper, je me ferai un plaisir de découper des ouïes dans ton cou. Peut-être que tu pourras alors ressspirer sssous l'eau, fsshhhahah<nbsp>!",
       "ja": "(-珊瑚の銛の兵士-)フスィーッ……黙れ、ヒレナシ！<br>妙なマネすると、首筋にパックリとエラを切りこむぞ！<br>貴様らは、水中で息すらできんのだろう？",
@@ -1356,8 +1356,8 @@
     },
     {
       "gameKey": "quest/013/BanSah005_01378#TEXT_BANSAH005_01378_SAHUAGIN01377_000_103",
-      "en": "You try my patience, finleshhh one! Continue your shhhquawking, and I'll drop you over the rail!",
-      "hash": "EA80EA887C38BC1B",
+      "en": "(-Coral Trident Warrior-)You try my patience, finleshhh one! Continue your shhhquawking, and I'll drop you over the rail!",
+      "hash": "C8D04CE4D931EB16",
       "unresolved": false,
       "fr": "(-Guerrier des Tridents du corail-)Ma patienccce a des limites<nbsp>! Continue à criailler et je te jetterai par-dessus bord<nbsp>!",
       "ja": "(-珊瑚の銛の兵士-)フスィーッ、うるさいヒレナシめ！<br>黙らんのなら、お望み通り海に沈めてやるぞ！",
@@ -1381,8 +1381,8 @@
     },
     {
       "gameKey": "quest/013/BanSah005_01378#TEXT_BANSAH005_01378_SAHUAGIN01377_000_104",
-      "en": "Pshhh! You!? But how...!?",
-      "hash": "1060385A2B2EDFC6",
+      "en": "(-Coral Trident Warrior-)Pshhh! You!? But how...!?",
+      "hash": "F3C2910A25C15F7B",
       "unresolved": false,
       "fr": "(-Guerrier des Tridents du corail-)Fsshhh<nbsp>! Toi<nbsp>!? Mais comment...<nbsp>!?",
       "ja": "(-珊瑚の銛の兵士-)フスィーッ！\u3000き、貴様は……っ！？",

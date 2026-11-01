@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/016/JobMch300_01696#TEXT_JOBMCH300_01696_JOYE_000_014",
-      "en": "I-I'm afraid he's gone for good this time, me lordship! ...Left a letter of resignation on your workbench, and all.",
-      "hash": "BEC0736615233897",
+      "en": "(-Anxious Voice-)I-I'm afraid he's gone for good this time, me lordship! ...Left a letter of resignation on your workbench, and all.",
+      "hash": "2E134757A7D4FD8C",
       "unresolved": false,
       "fr": "(-Voix d'une machiniste bouleversée-)Maître Stephanivien<nbsp>! C'est plus grave que d'habitude cette fois-ci. L'instructeur a laissé une lettre de démission sur son bureau<nbsp>!",
       "ja": "(-取り乱した様子の声-)そうもいかないようです、ぼっちゃま！！<br>今回の指南役の失踪は、いつもとは様子が違います。<br>工房の机の上に、いとまごいの置手紙がありました！",

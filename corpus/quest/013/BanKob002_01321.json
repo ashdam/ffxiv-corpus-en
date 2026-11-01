@@ -632,8 +632,8 @@
     },
     {
       "gameKey": "quest/013/BanKob002_01321#TEXT_BANKOB002_01321_KOBOLDGALA01321_000_021",
-      "en": "This place reeks─stinks, smells, reeks!",
-      "hash": "D618A779A090F502",
+      "en": "(-Comely Kobold Lass-)This place reeks─stinks, smells, reeks!",
+      "hash": "E21350EB123EEF38",
       "unresolved": false,
       "fr": "(-Koboldette coquette-)Ouah, mais qu'est-ce que c'est que ce taudis<nbsp>!? C'est sale, ça pue, oui, c'est sale et ça pue<nbsp>! Beurk<nbsp>!",
       "ja": "(-イケてるコボルド娘-)え～！\u3000何こ～こ！<br>キタナ～イ！\u3000クサ～イ！\u3000サイア～ク！",
@@ -657,8 +657,8 @@
     },
     {
       "gameKey": "quest/013/BanKob002_01321#TEXT_BANKOB002_01321_KOBOLDGALB01321_000_022",
-      "en": "You said you were takin' us to a steam bath! You're a big fat liar─a cheat, a fraud, a liar!",
-      "hash": "7035E151FDAD75F6",
+      "en": "(-Fetching Kobold Lass-)You said you were takin' us to a steam bath! You're a big fat liar─a cheat, a fraud, a liar!",
+      "hash": "9812DC620CBA622E",
       "unresolved": false,
       "fr": "(-Koboldette raffinée-)Vilain Zo Ga, tu nous as menti<nbsp>! Tu avais promis que nous irions nous baigner dans les sources chaudes près du cratère d'O'Ghomoro, tu l'avais promis<nbsp>!",
       "ja": "(-イカしたコボルド娘-)ゾ・ガさ～まの\u3000ウソツ～キ！<br>オ・ゴモロ山の火口坑道で<br>岩盤浴パーティーじゃ\u3000なかった～の？",
@@ -682,8 +682,8 @@
     },
     {
       "gameKey": "quest/013/BanKob002_01321#TEXT_BANKOB002_01321_ZOGA_000_023",
-      "en": "Stop your bloody squealing! Work before pleasure─or do you want to join the riffraff in their rotten trash heap? No, no, I thought not.",
-      "hash": "0BC002695E3F7879",
+      "en": "(-Swaggering Kobold-)Stop your bloody squealing! Work before pleasure─or do you want to join the riffraff in their rotten trash heap? No, no, I thought not.",
+      "hash": "589B3A18A5731A0D",
       "unresolved": false,
       "fr": "(-Kobold orgueilleux-)Taisez-vous donc, bande de pimbêches<nbsp>!<br>Je dois d'abord finir mon travail<nbsp>! Le boulot passe avant tout, ouais<nbsp>!",
       "ja": "(-偉そうなコボルド族-)うるせえぞー\u3000オマエらー。<br>先に仕事をー\u3000かたづけてー\u3000からーだァー！<br>オレ様は\u3000忙しいんだよォー！",

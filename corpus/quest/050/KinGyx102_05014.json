@@ -424,8 +424,8 @@
     },
     {
       "gameKey": "quest/050/KinGyx102_05014#TEXT_KINGYX102_05014_NOSTALGIA_000_010",
-      "en": "Aha! There you are, <split(<string(gstr1)>, ,1)>.",
-      "hash": "7DB9F5E68AE3F7F1",
+      "en": "(-???-)Aha! There you are, <split(<string(gstr1)>, ,1)>.",
+      "hash": "3CEDB53F2D27A360",
       "unresolved": false,
       "fr": "(-???-)Salut, <split(<string(gstr1)>, ,1)><nbsp>! Ravie de voir que vous avez bien suivi mes in<->struc<->tions<nbsp>!",
       "ja": "(-？？？？-)あっ、<split(<string(gstr1)>, ,1)>さん！<br>よかった、無事に合流できましたね！",

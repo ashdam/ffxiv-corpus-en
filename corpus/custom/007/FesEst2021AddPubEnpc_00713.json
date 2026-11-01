@@ -6,8 +6,8 @@
   "entries": [
     {
       "gameKey": "custom/007/FesEst2021AddPubEnpc_00713#TEXT_FESEST2021ADDPUBENPC_00713_KOFUINSEIGETSU_000_001",
-      "en": "<split(<string(gstr1)>, ,1)>, what an astounding coincidence! We have ventured across the seas to further educate ourselves in festival convention, and this “Hatching<-->tide” celebration is proving to be a veritable gold mine of new discoveries!",
-      "hash": "192975CC0C74B1DC",
+      "en": "(-Intellectual Voice from Head Height-)<split(<string(gstr1)>, ,1)>, what an astounding coincidence! We have ventured across the seas to further educate ourselves in festival convention, and this “Hatching<-->tide” celebration is proving to be a veritable gold mine of new discoveries!",
+      "hash": "4548B57854EBE69D",
       "unresolved": false,
       "fr": "(-Voix illuminée venant de la tête-)<split(<string(gstr1)>, ,1)><nbsp>! Quelle heureuse coïncidence<nbsp>! Je ne m'attendais pas à vous trouver ici. Vous connaissez mon attrait pour les festivals, alors je ne pouvais pas manquer celui-ci<nbsp>! Cette histoire de “chat sot peureux” est fascinante...",
       "ja": "(-上段から聞こえる理知的な声-)む、貴君もこの大祭に参加していようとは！<br>祭りへの理解を深めるべく、海を渡ってきたのだが、<br>この「えっぐはんと」なる大祭は、非常に興味深い……！",
@@ -22,8 +22,8 @@
     },
     {
       "gameKey": "custom/007/FesEst2021AddPubEnpc_00713#TEXT_FESEST2021ADDPUBENPC_00713_GYOREI_000_002",
-      "en": "Would you please calm down! We're going to topple over if you keep flapping your fins like some agitated guppy!",
-      "hash": "47909A6D234B4C2C",
+      "en": "(-Alarmed Voice from Chest Height-)Would you please calm down! We're going to topple over if you keep flapping your fins like some agitated guppy!",
+      "hash": "F68E93850F3EAF38",
       "unresolved": false,
       "fr": "(-Voix amicale venant du ventre-)G-Gyoshin<nbsp>! Calme-toi, enfin<nbsp>! Tu vas nous faire tomber à force de t'agiter comme un fou<nbsp>!",
       "ja": "(-中段から聞こえる優しげな声-)や、やめてっぺな！<br>そんなに興奮してヒレをばたつかせたら、<br>あたし、よろけて倒れてしまうっぺよ！",
@@ -38,8 +38,8 @@
     },
     {
       "gameKey": "custom/007/FesEst2021AddPubEnpc_00713#TEXT_FESEST2021ADDPUBENPC_00713_GYOSHIN_000_003",
-      "en": "This will be over soon, yes, yes? It's so hot in here, my scales are drying out... And carrying all this weight is making me dizzy.",
-      "hash": "C563A7689F7A32A5",
+      "en": "(-Complaining Voice from Groin Height-)This will be over soon, yes, yes? It's so hot in here, my scales are drying out... And carrying all this weight is making me dizzy.",
+      "hash": "3389212F81A499FD",
       "unresolved": false,
       "fr": "(-Voix ahurie venant des jambes-)Aah... Oyoyo... J'en peux plus... Il fait trop chaud ici... J'ai la peau toute desséchée... Vous êtes trop lourds, j'en ai plein les nageoires<nbsp>!",
       "ja": "(-下段から聞こえるマヌケな声-)う……うぺ……ぺぺぺっ。<br>この祭装束……暑くて、また干からびそうっぺよ……。<br>それに重いっぺな……。",
@@ -54,8 +54,8 @@
     },
     {
       "gameKey": "custom/007/FesEst2021AddPubEnpc_00713#TEXT_FESEST2021ADDPUBENPC_00713_KOFUINSEIGETSU_000_004",
-      "en": "Have you no shame!? <split(<string(gstr1)>, ,1)> must be appalled at your lack of fortitude! I shall have to assign you exercises from the <italic(1)>Mystique of the Perfect Physique<italic(0)> upon our return!",
-      "hash": "B067F2CF8AEE69AD",
+      "en": "(-Intellectual Voice from Head Height-)Have you no shame!? <split(<string(gstr1)>, ,1)> must be appalled at your lack of fortitude! I shall have to assign you exercises from the <italic(1)>Mystique of the Perfect Physique<italic(0)> upon our return!",
+      "hash": "7AE5535DB564738B",
       "unresolved": false,
       "fr": "(-Voix illuminée venant de la tête-)Un peu de tenue, Gyoshin<nbsp>! Tu ne vois pas que <split(<string(gstr1)>, ,1)> est là<nbsp>? Tu devrais jeter un œil aux exercices contenus dans le célèbre “Guide du parfait culturiste”, ça te ferait du bien<nbsp>!",
       "ja": "(-上段から聞こえる理知的な声-)ええい、<split(<string(gstr1)>, ,1)>君の前で、<br>よくもそんな弱音を吐けたものだな……！<br>名著『筋肉万能論』を読んで、身体を鍛えあげるがいい！",

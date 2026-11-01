@@ -308,8 +308,8 @@
     },
     {
       "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_ZANUHALI_000_023",
-      "en": "Ohokaliy!",
-      "hash": "250363B0AC5069B8",
+      "en": "(-Elderly Hanu Woman-)Ohokaliy!",
+      "hash": "1F293B73CB858181",
       "unresolved": false,
       "fr": "(-Hanu Hanu âgée-)OHOKALIY<nbsp>!",
       "ja": "(-年老いたハヌハヌ族の女性-)オフォカリー！",
@@ -1342,8 +1342,8 @@
     },
     {
       "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_091",
-      "en": "Hello, can you all hear me?",
-      "hash": "852DCD68A4D0FCD8",
+      "en": "(-Krile-)Hello, can you all hear me?",
+      "hash": "B05596AC6743E069",
       "unresolved": false,
       "fr": "(-Voix de Krile-)Allô<nbsp>? M'entendez-vous<nbsp>?",
       "ja": "(-クルル-)そっちの3人、聞こえる？",
@@ -1368,8 +1368,8 @@
     },
     {
       "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_KRILE_000_092",
-      "en": "I'm told they're ready to receive us now. Come to the large building in the south of the village!",
-      "hash": "17BF84CB814D7270",
+      "en": "(-Krile-)I'm told they're ready to receive us now. Come to the large building in the south of the village!",
+      "hash": "5ABC3D25B298C291",
       "unresolved": false,
       "fr": "(-Voix de Krile-)L'épreuve du rite de succession va bientôt commencer. Nous vous attendons dans le grand bâtiment au sud du village. Dépêchez-vous<nbsp>!",
       "ja": "(-クルル-)もうすぐ試練が始まるみたい。<br>村の南側にある大きな建物に来て！",
@@ -1394,8 +1394,8 @@
     },
     {
       "gameKey": "quest/048/KinGma107_04866#TEXT_KINGMA107_04866_WUKLAMAT_000_093",
-      "en": "On my way!",
-      "hash": "E5E5828715862638",
+      "en": "(-Wuk Lamat-)On my way!",
+      "hash": "0727C533C58B7DA8",
       "unresolved": false,
       "fr": "(-Voix de Wuk Lamat-)Enfin, on passe aux choses sérieuses<nbsp>!",
       "ja": "(-ウクラマト-)よっしゃ、わかったぜ！",

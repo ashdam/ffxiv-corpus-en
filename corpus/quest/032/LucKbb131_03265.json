@@ -2686,8 +2686,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb131_03265#TEXT_LUCKBB131_03265_VITUSQUOMESSALLA_000_114",
-      "en": "No. The old goat can wait.",
-      "hash": "FAAF780705F84BAA",
+      "en": "(-Commanding Officer-)No. The old goat can wait.",
+      "hash": "9CD27A8DDFA1F733",
       "unresolved": false,
       "fr": "(-Capitaine-)Attends. On va changer de cible.",
       "ja": "(-隊長と呼ばれた男-)待て……標的を変更する。",
@@ -2712,8 +2712,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb131_03265#TEXT_LUCKBB131_03265_VITUSQUOMESSALLA_000_115",
-      "en": "It's the prowling lion I want. Yes...your head will make a fine trophy.",
-      "hash": "5057179E99BB14BE",
+      "en": "(-Commanding Officer-)It's the prowling lion I want. Yes...your head will make a fine trophy.",
+      "hash": "DAFB9D5A57210434",
       "unresolved": false,
       "fr": "(-Capitaine-)Je crois que j'ai trouvé une bien meilleure proie. Appelle les autres, on va se redéployer.",
       "ja": "(-隊長と呼ばれた男-)もっといい獲物を見つけたのだ。<br>もはや、つまらん依頼などどうでもいい。<br>確実に仕留めるためにも、仕切り直すとしよう……。",

@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa004_03899#TEXT_BANDWA004_03899_XAMOTT_000_006",
-      "en": "You, boy! What the bloody hells do you think you're playin' at, consortin' with Goggs! Bunch of stinkin' scruffybeards, the lot of 'em!",
-      "hash": "8549B2406E0B5E5E",
+      "en": "(-???-)You, boy! What the bloody hells do you think you're playin' at, consortin' with Goggs! Bunch of stinkin' scruffybeards, the lot of 'em!",
+      "hash": "1D02D047B4AB6DAE",
       "unresolved": false,
       "fr": "(-???-)J'en reviens pas<nbsp>! Même de l'autre côté de la Fracture, il faut que je tombe sur ta vieille barbe en carton<nbsp>! Bouge de là, l'odeur de soufre de tes poils m'irrite les naseaux<nbsp>!",
       "ja": "(-？？？？-)ムキーーーッ！<br>こんなところに来てまで、ゴワゴワ髭のコグーに出くわすとはな！<br>あー、髭から硫黄臭が漂ってくるわ、クサいクサい！",
@@ -502,8 +502,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa004_03899#TEXT_BANDWA004_03899_GLAGG_000_007",
-      "en": "Watch your tongue, Xamott, or I'll pull it out with my pliers!",
-      "hash": "30DCCD0EC23DE11B",
+      "en": "(-???-)Watch your tongue, Xamott, or I'll pull it out with my pliers!",
+      "hash": "297B1A71D9BB9A5D",
       "unresolved": false,
       "fr": "(-???-)TOI, bouge de là<nbsp>! T'arrêtes pas de me coller depuis t'à l'heure<nbsp>! Tu veux me refiler tes poux de barbe ou quoi<nbsp>?",
       "ja": "(-？？？？-)そりゃこっちの台詞じゃ！<br>ザモットめ、さっきからワシの進行方向に居るんじゃなーい！<br>その軟弱な髭、見てるだけでフニャフニャ菌が移りそうじゃわい！",
@@ -1074,8 +1074,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa004_03899#TEXT_BANDWA004_03899_RONITT_000_029",
-      "en": "We will!",
-      "hash": "3CB88751CC660EA6",
+      "en": "(-Ronitt and Ozogg-)We will!",
+      "hash": "C40CA16C6EC150E4",
       "unresolved": false,
       "fr": "(-Ronitt et Ozogg-)Un peu qu'on en est capables<nbsp>!",
       "ja": "(-ロニットとオゾッグ-)できる！",
@@ -1126,8 +1126,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa004_03899#TEXT_BANDWA004_03899_RONITT_000_031",
-      "en": "Yes!",
-      "hash": "0B181E02D1C73433",
+      "en": "(-Ronitt and Ozogg-)Yes!",
+      "hash": "26F73318D217ADA1",
       "unresolved": false,
       "fr": "(-Ronitt et Ozogg-)Compris<nbsp>!",
       "ja": "(-ロニットとオゾッグ-)できる！！！",

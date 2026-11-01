@@ -70,8 +70,8 @@
     },
     {
       "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020",
-      "en": "Target in sight. Pin it down with a salvo of missiles!",
-      "hash": "CAE8C9E7C0219259",
+      "en": "(-Gaius-)Target in sight. Pin it down with a salvo of missiles!",
+      "hash": "AA5067C3DCB67C0B",
       "unresolved": false,
       "fr": "(-Voix de Gaius-)Notre cible est droit devant<nbsp>! Arrêtons-la avec une salve de missiles<nbsp>!",
       "ja": "(-ガイウスの声-)目標を確認した！<br>まずはミサイルで動きを止める！",
@@ -86,8 +86,8 @@
     },
     {
       "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020",
-      "en": "Threat detected, returning fire!",
-      "hash": "0F04076CB1F9C114",
+      "en": "(-Familiar Male Voice-)Threat detected, returning fire!",
+      "hash": "CA0E647091C961D0",
       "unresolved": false,
       "fr": "(-Voix familière d'un jeune homme-)Nouvelle menace détectée... Riposte engagée<nbsp>!",
       "ja": "(-聞き覚えのある青年の声-)新たな脅威を検知……迎撃行動に移る！",
@@ -102,8 +102,8 @@
     },
     {
       "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021",
-      "en": "The containment field won't hold!",
-      "hash": "5952AFD2D632E0FB",
+      "en": "(-Cid-)The containment field won't hold!",
+      "hash": "10D1697BCEF7E94A",
       "unresolved": false,
       "fr": "(-Voix de Cid-)Le système de capture ne fonctionne plus<nbsp>! L'Arme va s'écraser<nbsp>!",
       "ja": "(-シドの声-)チッ、拘束装置がイカれやがった！<br>ダイヤウェポンが墜落するぞ！",

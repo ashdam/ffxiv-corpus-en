@@ -1099,8 +1099,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx001_05227#TEXT_FESXMX001_05227_SAULINNE_000_066",
-      "en": "Excuse us!",
-      "hash": "D53353F1211A733A",
+      "en": "(-???-)Excuse us!",
+      "hash": "9CF45D4C39ED973C",
       "unresolved": false,
       "fr": "(-???-)E-excusez-nous<nbsp>!",
       "ja": "(-？？？？-)すいませーーーん！",
@@ -1224,8 +1224,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx001_05227#TEXT_FESXMX001_05227_TENNY_000_071",
-      "en": "We'd like to become little helpers and help them!",
-      "hash": "74CC7DE0326F862F",
+      "en": "(-Saulinne and Tenny-)We'd like to become little helpers and help them!",
+      "hash": "E31D2EF1103A22B5",
       "unresolved": false,
       "fr": "(-Saulinne et Tenny-)On voudrait devenir des disciples du saint pour aider les adultes<nbsp>!",
       "ja": "(-ソリーヌとテニー-)「聖人の従者」さまになって、大人の人のお手伝いがしたい！",

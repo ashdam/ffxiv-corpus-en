@@ -1716,8 +1716,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog250_00148#TEXT_CLSROG250_00148_JACKE_000_087",
-      "en": "We'll have to mill a few o' them bodyguards first, I reckon. Ye don't want to fight through a forest o' blades should ye get caught sneakin' about up on them narrow walkways.",
-      "hash": "60DEF9E7066BCA9C",
+      "en": "(-???-)We'll have to mill a few o' them bodyguards first, I reckon. Ye don't want to fight through a forest o' blades should ye get caught sneakin' about up on them narrow walkways.",
+      "hash": "C289FF3DEDE8EB1A",
       "unresolved": false,
       "fr": "(-???-)Dis-moi, V'kebbe, tu ne crois pas qu'il vaudrait mieux se débarrasser des gardes avant de tenter quoi que ce soit<nbsp>? Je ne sais pas si tu as remarqué, mais l'endroit de la transaction se trouve au bout d'une impasse. Si jamais vous vous faites repérer dans un lieu aussi étroit, vous n'aurez nulle part où fuir et je ne donne pas cher de votre peau.",
       "ja": "(-？？？？-)この状況だったら、まずは護衛の数を減らすべきだろ。<br>目的の広場は、海の上の袋小路……<br>かくれて近づくと、見つかったときのリスクが大きい。",
@@ -2340,8 +2340,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog250_00148#TEXT_CLSROG250_00148_MILALA_000_111",
-      "en": "An excellent point. One might doubt your quality of character were you to continue with these feeble fabrications.",
-      "hash": "6937134864F9E88E",
+      "en": "(-???-)An excellent point. One might doubt your quality of character were you to continue with these feeble fabrications.",
+      "hash": "04296AF75F291DDD",
       "unresolved": false,
       "fr": "(-???-)Je dois dire que votre petit numéro était loin d'être convaincant, Madame la marchande. Continuez comme ça et nous finirons par croire que ces boucles d'oreilles ne valent pas un clou en réalité<nbsp>!",
       "ja": "(-？？？？-)ええ、本当に……情けない弁明ですわね。<br>それ以上の虚勢は、品格が疑われるだけですわよ？",

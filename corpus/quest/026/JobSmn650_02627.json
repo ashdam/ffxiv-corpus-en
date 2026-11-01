@@ -1720,8 +1720,8 @@
     },
     {
       "gameKey": "quest/026/JobSmn650_02627#TEXT_JOBSMN650_02627_SUMMONINGSYSTEM_000_300",
-      "en": "Anomalous potential confirmed.<br>Commencing scan.",
-      "hash": "ADB1A6B4F32029AC",
+      "en": "(-???-)Anomalous potential confirmed.<br>Commencing scan.",
+      "hash": "6103522D3B0BFF95",
       "unresolved": false,
       "fr": "(-???-)La cible dispose de capacités hors norme.<br>Scanographie en cours...",
       "ja": "(-？？？？-)…………ターゲットを規格外の存在と認定。<br>走査、開始します。",
@@ -1746,8 +1746,8 @@
     },
     {
       "gameKey": "quest/026/JobSmn650_02627#TEXT_JOBSMN650_02627_SUMMONINGSYSTEM_000_301",
-      "en": "Latent aetherial capacity: immeasurable.<br>Standard parameters exceeded.<br>Reinitializing system.",
-      "hash": "43892B9704D97AA5",
+      "en": "(-???-)Latent aetherial capacity: immeasurable.<br>Standard parameters exceeded.<br>Reinitializing system.",
+      "hash": "255C3BEA08495F53",
       "unresolved": false,
       "fr": "(-???-)Potentiel éthéré incalculable...<br>Les valeurs prévues sont largement dépassées.<br>Réinitialisation du système. Réévaluation de la cible...",
       "ja": "(-？？？？-)潜在エーテル量…………計測不能。<br>想定単位を大幅に上回っています。<br>システム再起動、ターゲットに再コンタクト。",

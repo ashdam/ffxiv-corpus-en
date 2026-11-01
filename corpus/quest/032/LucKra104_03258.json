@@ -1584,8 +1584,8 @@
     },
     {
       "gameKey": "quest/032/LucKra104_03258#TEXT_LUCKRA104_03258_URIANGER_120_053",
-      "en": "Someone's got to do it, I suppose. I'll be praying for your success while I wait here, twiddling my thumbs.",
-      "hash": "837104A6067E9C66",
+      "en": "(-Thancred-)Someone's got to do it, I suppose. I'll be praying for your success while I wait here, twiddling my thumbs.",
+      "hash": "AAD629CE78D93531",
       "unresolved": false,
       "fr": "Allez-y, et soyez tranquilles. Je vous contacte si jamais j'ai du nouveau.",
       "ja": "……了解だ。<br>何か進展があったら、すぐに連絡を入れる。<br>「無の大地」再生の第一歩……必ず踏み出してくれ。",
@@ -2128,8 +2128,8 @@
     },
     {
       "gameKey": "quest/032/LucKra104_03258#TEXT_LUCKRA104_03258_THANCRED_000_108",
-      "en": "How goes it?",
-      "hash": "DCDA06816AAEDC21",
+      "en": "(-Thancred-)How goes it?",
+      "hash": "D4BC0D336397CDE8",
       "unresolved": false,
       "fr": "(-Voix de Thancred-)Salut, <split(<string(gstr1)>, ,1)>. Dis, vous avez terminé de votre côté<nbsp>?",
       "ja": "(-サンクレッドの声-)<split(<string(gstr1)>, ,1)>、聞こえるか。<br>……そっちは片付いたみたいだな。",
@@ -2154,8 +2154,8 @@
     },
     {
       "gameKey": "quest/032/LucKra104_03258#TEXT_LUCKRA104_03258_THANCRED_000_109",
-      "en": "If you've finished slaying your primal, or whatever it is, I suggest you get back here on the double. There's something you ought to see.",
-      "hash": "C9AA4BFCFFC5AEB8",
+      "en": "(-Thancred-)If you've finished slaying your primal, or whatever it is, I suggest you get back here on the double. There's something you ought to see.",
+      "hash": "847A2E50F05B3EAF",
       "unresolved": false,
       "fr": "(-Voix de Thancred-)Je me disais aussi. Revenez au campement dès que vous pourrez. Faut que vous voyiez quelque chose.",
       "ja": "(-サンクレッドの声-)なら、皆で拠点へ戻ってきてくれないか？<br>話……というか、見せたいものがある。",

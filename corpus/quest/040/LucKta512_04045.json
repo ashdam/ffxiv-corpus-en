@@ -75,8 +75,8 @@
     },
     {
       "gameKey": "quest/040/LucKta512_04045#TEXT_LUCKTA512_04045_GLAGG_000_004",
-      "en": "You there!",
-      "hash": "9C08CDB9BBF98786",
+      "en": "(-???-)You there!",
+      "hash": "91B0F594ABA029A1",
       "unresolved": false,
       "fr": "(-???-)Le porion et l'<if(gnum4,étrangère,étranger)>... toujours fourrés ensemble, vous deux<nbsp>!",
       "ja": "(-？？？？-)おや、そこにおるのは、親方と、旅の人ではないか……。",
@@ -322,8 +322,8 @@
     },
     {
       "gameKey": "quest/040/LucKta512_04045#TEXT_LUCKTA512_04045_VILLAGERB03954_000_012",
-      "en": "Excuse me...",
-      "hash": "3344BD94E14AD753",
+      "en": "(-???-)Excuse me...",
+      "hash": "7635AFCC2956D749",
       "unresolved": false,
       "fr": "(-???-)Psst. Je peux vous parler une minute<nbsp>?",
       "ja": "(-？？？？-)ちょっといいかな？",

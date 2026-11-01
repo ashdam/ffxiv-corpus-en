@@ -726,8 +726,8 @@
     },
     {
       "gameKey": "quest/048/KinGmb101_04880#TEXT_KINGMB101_04880_REDIROQ_000_083",
-      "en": "Pfff... Pfffkohhh... Welcome to Earthenshire! Do I have the pleasure of happygreeting the Third Promise and her retinue?",
-      "hash": "11E59C24DE2E632B",
+      "en": "(-Elderly Moblin Woman-)Pfff... Pfffkohhh... Welcome to Earthenshire! Do I have the pleasure of happygreeting the Third Promise and her retinue?",
+      "hash": "B4AD34E706954733",
       "unresolved": false,
       "fr": "(-Mobeline âgée-)Bssshh... Les étrangers sont les bienvenus à La Fournée<nbsp>! Rediroq présume qu'il s'agit de la princesse Wuk Lamat et de sa suite<nbsp>?",
       "ja": "(-年老いたモブリン族の女性-)フゴォ……フゴォ……<br>ようこそ\u3000いらっしゃい\u3000アースンシャイアへ！<br>あなたたち\u3000ウクラマト王女ご一行で\u3000間違いなし？",
@@ -960,8 +960,8 @@
     },
     {
       "gameKey": "quest/048/KinGmb101_04880#TEXT_KINGMB101_04880_PAPAWNI_000_092",
-      "en": "This is unacceptable. I was promised no distractions!",
-      "hash": "4D274D900568B73A",
+      "en": "(-Disappointed Artisan-)This is unacceptable. I was promised no distractions!",
+      "hash": "0FCEBEF577B5DA23",
       "unresolved": false,
       "fr": "(-Main-du-pot à l'air déprimé-)Ah, le bonheur que ç'aurait été de rester dans ce village, et de me consacrer pleinement à mon métier... La vie est injuste, parfois...",
       "ja": "(-落胆した様子の職人-)ここでなら、ずっとものづくりに没頭できると思っていたのに、<br>こんなことになるなんて……。",
@@ -986,8 +986,8 @@
     },
     {
       "gameKey": "quest/048/KinGmb101_04880#TEXT_KINGMB101_04880_PAPAWNI_000_093",
-      "en": "If this is the best they can offer, I should have never left Wachumeqimeqi...",
-      "hash": "C2EE2ECF0A22F9AD",
+      "en": "(-Disappointed Artisan-)If this is the best they can offer, I should have never left Wachumeqimeqi...",
+      "hash": "C78221C112267B46",
       "unresolved": false,
       "fr": "(-Main-du-pot à l'air déprimé-)Puisqu'on me refuse le bel environnement de travail qu'on m'avait vendu, il ne me reste plus qu'à retourner proposer mes services au bazar aux Mille Perles...",
       "ja": "(-落胆した様子の職人-)約束された環境が与えられないんじゃ、<br>また万貨街で雇ってもらうしかないか……。",

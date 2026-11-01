@@ -336,8 +336,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_ELOIN_000_022",
-      "en": "Is that so...? While your courage is commendable, I fear such a task is too dangerous for young ones.",
-      "hash": "A975C7DB7A969A00",
+      "en": "(-Eloin-)Is that so...? While your courage is commendable, I fear such a task is too dangerous for young ones.",
+      "hash": "A2FA3A52B5DAF023",
       "unresolved": false,
       "fr": "Ce que j'en pense, mon petit bout de chou, c'est que les enfants comme toi devraient rester bien au chaud à la maison jusqu'à ce qu'ils aient atteint l'âge de raison. Il s'agit de missions relativement dangereuses, au cas où tu ne serais pas au courant.",
       "ja": "申し訳ございません。<br>あなた方のような年端もいかぬ子どもたちには、<br>討伐依頼は危険がすぎるかと。",
@@ -544,8 +544,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_030",
-      "en": "Huzzah!",
-      "hash": "8D7B937073951857",
+      "en": "(-All-)Huzzah!",
+      "hash": "6EF8ADBF004321BC",
       "unresolved": false,
       "fr": "(-Julchiezain, Peyraquile et Lycelle-)DE LA VIAAAAANDE<nbsp>!??",
       "ja": "(-子どもたち-)肉だーーーー！！",
@@ -960,8 +960,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_074",
-      "en": "We did it!",
-      "hash": "36FB30DE3378EB17",
+      "en": "(-All-)We did it!",
+      "hash": "0D3305BF250C4E2C",
       "unresolved": false,
       "fr": "(-Julchiezain, Peyraquile et Lycelle-)ET VOILÀÀÀ<nbsp>!!",
       "ja": "(-子どもたち-)できたーーーー！",
@@ -986,8 +986,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JANTELLOT_000_075",
-      "en": "Eloin said that I was to collect from here... Do you mean to say you children made the items?",
-      "hash": "45909C00CD675B3E",
+      "en": "(-???-)Eloin said that I was to collect from here... Do you mean to say you children made the items?",
+      "hash": "84D746CE929E51A2",
       "unresolved": false,
       "fr": "(-???-)Eloin m'a dit que ma commande était prête, et que je la trouverais ici... C'est donc vous que je dois remercier<nbsp>?",
       "ja": "(-？？？？-)おいおい、神殿騎士団に頼んだ依頼の品……<br>受け取りの場所がここだと言われたんだが、<br>まさかお前たちが作ったのか？",

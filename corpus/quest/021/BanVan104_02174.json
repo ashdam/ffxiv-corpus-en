@@ -219,8 +219,8 @@
     },
     {
       "gameKey": "quest/021/BanVan104_02174#TEXT_BANVAN104_02174_GUARDVANU02174_000_010",
-      "en": "Stop, netherling thief!",
-      "hash": "12CDF43B3CF31C0F",
+      "en": "(-Vundu Warrior-)Stop, netherling thief!",
+      "hash": "67DE42378A94E1EC",
       "unresolved": false,
       "fr": "(-Guerrier vundu-)Au voleur<nbsp>!",
       "ja": "(-ブンド族の戦士-)ヒトの食料ドロボーめ！<br>脚に絡む蔦草の如く、逃がしはせん！",
@@ -244,8 +244,8 @@
     },
     {
       "gameKey": "quest/021/BanVan104_02174#TEXT_BANVAN104_02174_GUARDVANU02174_000_011",
-      "en": "Netherling steals Vundu food! Stop <if(gnum4,her,him)>!",
-      "hash": "3CBE8564AA06A376",
+      "en": "(-Vundu Warrior-)Netherling steals Vundu food! Stop <if(gnum4,her,him)>!",
+      "hash": "94A4F539CD1A2208",
       "unresolved": false,
       "fr": "(-Guerrier vundu-)Tu ne t'en tireras pas comme ça, humain<if(gnum4,e,)><nbsp>!",
       "ja": "(-ブンド族の戦士-)ヒトのドロボーだと！？<br>クッ、このまま逃がすわけにはいかん！",

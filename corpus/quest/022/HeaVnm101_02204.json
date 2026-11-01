@@ -662,8 +662,8 @@
     },
     {
       "gameKey": "quest/022/HeaVnm101_02204#TEXT_HEAVNM101_02204_LEOFARD_000_034",
-      "en": "So <italic(1)>you're<italic(0)> the scrags what've been draggin' our good name through the mud...",
-      "hash": "F684403E9376268F",
+      "en": "(-???-)So <italic(1)>you're<italic(0)> the scrags what've been draggin' our good name through the mud...",
+      "hash": "8612E380BB46CF20",
       "unresolved": false,
       "fr": "(-???-)Ah, ah<nbsp>! Je vous y prends, bande de petits saligauds<nbsp>!",
       "ja": "(-？？？？-)空賊の名を汚してやがる輩ってのは、貴様らか……。",
@@ -1150,8 +1150,8 @@
     },
     {
       "gameKey": "quest/022/HeaVnm101_02204#TEXT_HEAVNM101_02204_RADLIA_000_060",
-      "en": "...I come to you in person, and <italic(1)>still<italic(0)> you refuse my offer? Arrogant fool.",
-      "hash": "74E8CA4BCF5B42BD",
+      "en": "(-???-)...I come to you in person, and <italic(1)>still<italic(0)> you refuse my offer? Arrogant fool.",
+      "hash": "7699EC89C42FBD4A",
       "unresolved": false,
       "fr": "(-???-)C'est pas possible d'être aussi borné, ma parole<nbsp>!<nbsp>... Je viens en personne te proposer l'affaire du siècle et tu me refoules comme une malpropre<nbsp>!",
       "ja": "(-？？？？-)……頑固な男だね。<br>このアタイ自ら、話を持ちかけてるっていうのに。",

@@ -148,8 +148,8 @@
     },
     {
       "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_010",
-      "en": "Ah, there <if(gnum4,she,he)> is─<if(gnum4,she,he)> of strong-yet-tender fingers! Ever a sight for sore eyes─and knotted muscles─my friend.",
-      "hash": "19CF82EB2A38CEA3",
+      "en": "(-???-)Ah, there <if(gnum4,she,he)> is─<if(gnum4,she,he)> of strong-yet-tender fingers! Ever a sight for sore eyes─and knotted muscles─my friend.",
+      "hash": "FD1EF5FA6CDC3B2A",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho<nbsp>! Mon <if(gnum4,aventurière préférée,aventurier préféré)>, c'est toujours un plaisir de vous retrouver<nbsp>!",
       "ja": "(-？？？？-)ホーーウ！<br>ご無沙汰しておりますな、冒険者殿！",

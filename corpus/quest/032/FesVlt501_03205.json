@@ -602,8 +602,8 @@
     },
     {
       "gameKey": "quest/032/FesVlt501_03205#TEXT_FESVLT501_03205_SYSTEM_000_016",
-      "en": "<italic(1)>Be it familial or romantic, betwixt lifelong friends or serendipitous strangers, all love is to be celebrated! Join us in Mih Khetto's Amphitheatre and partake in the festivities!<italic(0)>",
-      "hash": "A3D2E07EADB16BD6",
+      "en": "(-Ceremony Invitation-)<italic(1)>Be it familial or romantic, betwixt lifelong friends or serendipitous strangers, all love is to be celebrated! Join us in Mih Khetto's Amphitheatre and partake in the festivities!<italic(0)>",
+      "hash": "40986BB86D755D39",
       "unresolved": false,
       "fr": "(-Invitation à la cérémonie-)«<nbsp>Les membres de la famille Valention sont là pour encourager l'expression de vos sentiments les plus positifs<nbsp>! Amitié, fraternité, camaraderie, amour familial ou passionnel et amours à venir... Au nom de tous ceux pour qui votre cœur bat la chamade, retrouvez-nous à l'amphithéâtre de Mih Khetto<nbsp>!<nbsp>»",
       "ja": "(-セレモニーの招待状-)「私たち愛の伝道師は、どんな愛も応援します☆<br>\u3000家族愛や友情、仲間意識、そしてこれから芽生える愛もっ！<br>\u3000ミィ・ケット野外音楽堂で、お待ちしています♪」",
@@ -1200,8 +1200,8 @@
     },
     {
       "gameKey": "quest/032/FesVlt501_03205#TEXT_FESVLT501_03205_TAGGY_000_054",
-      "en": "Ugh, that was horrible! How could we be so out of tune with each other!? I wish we'd never come!",
-      "hash": "ECA2093B46DB42ED",
+      "en": "(-???-)Ugh, that was horrible! How could we be so out of tune with each other!? I wish we'd never come!",
+      "hash": "6A25E64412D6F333",
       "unresolved": false,
       "fr": "(-???-)Alors là, je le crois pas<nbsp>! Pendant tout ce temps, on était totalement incompatibles, en fait<nbsp>!? Dire que ça devait être un jour spécial pour nous<nbsp>!! Tu parles d'un souvenir<nbsp>!",
       "ja": "(-？？？？-)もぉーーーー！\u3000信じられない！<br>あたしとあんたが、こんなに相性悪かったなんて！<br>最悪な記念になっちゃったじゃない！",

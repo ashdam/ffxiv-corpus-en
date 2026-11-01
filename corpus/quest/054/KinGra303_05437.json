@@ -506,8 +506,8 @@
     },
     {
       "gameKey": "quest/054/KinGra303_05437#TEXT_KINGRA303_05437_DEEPBLUE_000_101",
-      "en": "Hey there, kitty cat. We made ourselves at home while you were out.",
-      "hash": "DDA9443DADA1240A",
+      "en": "(-???-)Hey there, kitty cat. We made ourselves at home while you were out.",
+      "hash": "ABEF06A9F4C59745",
       "unresolved": false,
       "fr": "(-???-)Salut<nbsp>! On s'est installés en t'attendant...",
       "ja": "(-？？？？-)よう、邪魔してるぜ……。",
@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/054/KinGra303_05437#TEXT_KINGRA303_05437_DEEPBLUE_000_103",
-      "en": "We heard this was the unenhanced kook's haunt, so we decided to drop by to say hello.",
-      "hash": "44947FA532796D1C",
+      "en": "(-Smug Lad-)We heard this was the unenhanced kook's haunt, so we decided to drop by to say hello.",
+      "hash": "604E2EA76D591FA0",
       "unresolved": false,
       "fr": "(-Shetona prétentieux-)C'est bien le gymnase où s'entraîne le fameux challenger sans régulateur, non<nbsp>? On est simplement passés dire bonjour<nbsp>!",
       "ja": "(-狡猾そうなシャトナ族-)ここは生身の挑戦者が所属するジムだろ？<br>オレたちなりの挨拶にきたんだ。",

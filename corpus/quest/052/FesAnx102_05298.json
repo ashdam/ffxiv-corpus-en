@@ -2898,8 +2898,8 @@
     },
     {
       "gameKey": "quest/052/FesAnx102_05298#TEXT_FESANX102_05298_YOSHIDANAOKI_000_600",
-      "en": "Greetings, Warrior of Light.",
-      "hash": "6E142168AA69F8CD",
+      "en": "(-???-)Greetings, Warrior of Light.",
+      "hash": "7540841F763EC65B",
       "unresolved": false,
       "fr": "(-???-)Bienvenue à vous, <if(gnum4,Guerrière,Guerrier)> de la Lumière...",
       "ja": "(-？？？？-)ようこそ、光の戦士よ……。",
@@ -2924,8 +2924,8 @@
     },
     {
       "gameKey": "quest/052/FesAnx102_05298#TEXT_FESANX102_05298_YOSHIDANAOKI_000_602",
-      "en": "This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
-      "hash": "663C1478CF46069B",
+      "en": "(-???-)This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
+      "hash": "97249720258DAC87",
       "unresolved": false,
       "fr": "(-???-)Cette dimension existe en dehors de votre réalité. Est-ce un rêve<nbsp>? Ou peut-être une illusion, fruit de votre imagination<nbsp>? À moins que...",
       "ja": "(-？？？？-)ここは、現し世とは異なる世界……。<br>目にしているものはすべて、君の夢や幻かもしれないし、<br>そうじゃないかもしれない……。",

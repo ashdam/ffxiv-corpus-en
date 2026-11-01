@@ -707,8 +707,8 @@
     },
     {
       "gameKey": "quest/051/FesSux001_05182#TEXT_FESSUX001_05182_WOMANA05182_000_022",
-      "en": "M-M-MONSTER! AAAAAAAAAHH!",
-      "hash": "0A5469836C359CFF",
+      "en": "(-Woman's Voice-)M-M-MONSTER! AAAAAAAAAHH!",
+      "hash": "48D620FBDF577D21",
       "unresolved": false,
       "fr": "(-Cri de femme-)Aaah<nbsp>! Cette créature est devenue folle<nbsp>! À l'aide<nbsp>!!!",
       "ja": "(-女性の悲鳴-)キャーッ！\u3000ま、魔物が暴れてるわ！！",
@@ -1251,8 +1251,8 @@
     },
     {
       "gameKey": "quest/051/FesSux001_05182#TEXT_FESSUX001_05182_MEMEJA_000_066",
-      "en": "I am so, <italic(1)>so<italic(0)> sorry about this!",
-      "hash": "70C5594561FA78BF",
+      "en": "(-???-)I am so, <italic(1)>so<italic(0)> sorry about this!",
+      "hash": "FAAF5DC530745F56",
       "unresolved": false,
       "fr": "(-???-)Je... Je suis désolée<nbsp>!",
       "ja": "(-？？？？-)ご、ごめんなさ～～～～～い！！",

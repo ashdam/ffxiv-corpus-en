@@ -2608,8 +2608,8 @@
     },
     {
       "gameKey": "quest/038/LucKyw201_03895#TEXT_LUCKYW201_03895_RICON_000_208",
-      "en": "I can't afford to lose... It's all or nothing!",
-      "hash": "07ABBABF1AE33EA4",
+      "en": "(-Pilot of the Sapphire Weapon-)I can't afford to lose... It's all or nothing!",
+      "hash": "67D994C849F1763A",
       "unresolved": false,
       "fr": "(-Pilote de l'Arme Saphir-)Si je veux nous assurer la victoire... Je n'ai pas le choix<nbsp>!",
       "ja": "(-サファイアウェポンの操縦者の声-)僕たちが勝つためには……こうするしかないんだ！",
@@ -2634,8 +2634,8 @@
     },
     {
       "gameKey": "quest/038/LucKyw201_03895#TEXT_LUCKYW201_03895_RICON_100_208",
-      "en": "Activating Oversoul!",
-      "hash": "2A73DB6410CC9F65",
+      "en": "(-Pilot of the Sapphire Weapon-)Activating Oversoul!",
+      "hash": "825CEA9694D095AF",
       "unresolved": false,
       "fr": "(-Pilote de l'Arme Saphir-)Système d'auralithe factice, active le mode de superposition psychique<nbsp>!",
       "ja": "(-サファイアウェポンの操縦者の声-)疑似聖石システム！\u3000オーバーソウルモードで起動！",
@@ -2660,8 +2660,8 @@
     },
     {
       "gameKey": "quest/038/LucKyw201_03895#TEXT_LUCKYW201_03895_SYSTEM_200_209",
-      "en": "Hydrus combat sample ready.<br>Initiating organic core overwrite.",
-      "hash": "456EFEF13B4E34FB",
+      "en": "(-Synthetic Auracite System-)Hydrus combat sample ready.<br>Initiating organic core overwrite.",
+      "hash": "69C7BF38ECA6C8AE",
       "unresolved": false,
       "fr": "(-Système d'auralithe factice-)Données de combat, code<nbsp>: Regula van Hydrus... Préparation terminée.<br>Séquence de réécriture du cœur engagée.",
       "ja": "(-疑似聖石システム-)戦闘データ、コード「レグラ・ヴァン・ヒュドルス」……スタンバイ。<br>生体コアの「上書き」を開始します。",
@@ -3246,8 +3246,8 @@
     },
     {
       "gameKey": "quest/038/LucKyw201_03895#TEXT_LUCKYW201_03895_RICON_000_303",
-      "en": "Rex, I...",
-      "hash": "59AD15395061BC53",
+      "en": "(-???-)Rex, I...",
+      "hash": "7E4EA7111865209A",
       "unresolved": false,
       "fr": "(-???-)Rex, attends<nbsp>!",
       "ja": "(-？？？？-)待つんだ、レックス。",

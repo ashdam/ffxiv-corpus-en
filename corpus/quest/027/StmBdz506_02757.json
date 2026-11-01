@@ -256,8 +256,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTA02757_000_010",
-      "en": "Caught in Isari, you say? I might go and take a look later.",
-      "hash": "BE3E9B232C86E2C1",
+      "en": "(-Xaela Hunter-)Caught in Isari, you say? I might go and take a look later.",
+      "hash": "BED4A4765E137246",
       "unresolved": false,
       "fr": "(-Chasseur-)Tu viens de parler de poissons de mer séchés<nbsp>? Quelqu'un en vend ici<nbsp>? Ça peut m'intéresser, il se conserve longtemps. Je vais aller jeter un œil.",
       "ja": "(-狩人らしき男性-)へぇ……海の魚かぁ。<br>干物っていうくらいだから、保存が効くだろうし、<br>あとで店を覗いてみようかな。",
@@ -282,8 +282,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTB02757_000_011",
-      "en": "Have you ever had smoked fish from Isari before? I hear they're quite delectable.",
-      "hash": "C53DF16759341CED",
+      "en": "(-Xaela Shepherd-)Have you ever had smoked fish from Isari before? I hear they're quite delectable.",
+      "hash": "73EA031B2E87EF75",
       "unresolved": false,
       "fr": "(-Bergère-)Tu as entendu, mon amour<nbsp>? <if(gnum4,Elle,Il)> a parlé de poissons de mer séchés. Tu en as déjà mangé, toi<nbsp>?",
       "ja": "(-羊飼いらしき女性-)……ねえ、海魚の干物ですって。<br>あなた、食べたことある？",
@@ -308,8 +308,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTC02757_000_012",
-      "en": "I've only had them the once, but I will never forget it. One of the tastiest meals I've ever had for sure. If someone's selling it in Reunion then I'll be first in line to buy some.",
-      "hash": "E0A7AAFD025B12D0",
+      "en": "(-Xaela Shepherd-)I've only had them the once, but I will never forget it. One of the tastiest meals I've ever had for sure. If someone's selling it in Reunion then I'll be first in line to buy some.",
+      "hash": "67B176B883DBD9CB",
       "unresolved": false,
       "fr": "(-Berger-)Une seule fois, mais je m'en souviens encore. C'était délicieux. Par contre, je ne m'attendais pas à en trouver au Ralliement. Et si on allait trouver la personne qui en vend<nbsp>?",
       "ja": "(-羊飼いらしき男性-)一度だけあるけど、あれは、うまかったなぁ！<br>こんな場所で、売ってるとは思ってもなかったよ。<br>とりあえずお店に行ってみようか？",

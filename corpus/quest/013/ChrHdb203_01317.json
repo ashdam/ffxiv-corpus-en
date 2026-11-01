@@ -328,8 +328,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb203_01317#TEXT_CHRHDB203_01317_GODBERT_000_041",
-      "en": "Fancy yourself a Manderville man?♪<br>You would do what only a Manderville can?♪<br>Then lift your legs, and put up your hands,♪<br>Be a Mander-Mander-Manderville, man!♪",
-      "hash": "006E69FF7BF67317",
+      "en": "(-???-)Fancy yourself a Manderville man?♪<br>You would do what only a Manderville can?♪<br>Then lift your legs, and put up your hands,♪<br>Be a Mander-Mander-Manderville, man!♪",
+      "hash": "C681A999DF0868F2",
       "unresolved": false,
       "fr": "(-???-)Hooo<nbsp>! Je pensais avoir affaire à des aventuriers un peu trop curieux, mais si vous connaissez cette danse...",
       "ja": "(-？？？？-)……ホゥ！<br>ただの冒険者ならば、無視をするつもりでしたが……。<br>その舞を知っているとは……。",
@@ -380,8 +380,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb203_01317#TEXT_CHRHDB203_01317_GODBERT_000_043",
-      "en": "Ho ho ho! You have naught to fear from me, naught at all! The only accounts I came to settle were with the chimera.",
-      "hash": "83FF62AE8EE1857A",
+      "en": "(-???-)Ho ho ho! You have naught to fear from me, naught at all! The only accounts I came to settle were with the chimera.",
+      "hash": "B51D572345C36518",
       "unresolved": false,
       "fr": "(-???-)Ha ha ha<nbsp>! Ne vous inquiétez pas, je suis par<->fai<->te<->ment inoffensif<nbsp>!",
       "ja": "(-？？？？-)ハッハッハ！\u3000安心してください。<br>今のところ、あなた方への敵意はありませんぞ！",
@@ -1264,8 +1264,8 @@
     },
     {
       "gameKey": "quest/013/ChrHdb203_01317#TEXT_CHRHDB203_01317_GODBERT_000_113",
-      "en": "Gaudy trash?",
-      "hash": "67D77C2F39BDAA79",
+      "en": "(-???-)Gaudy trash?",
+      "hash": "2445E4F983A499BD",
       "unresolved": false,
       "fr": "(-???-)Un faux...<nbsp>?",
       "ja": "(-？？？？-)ホゥ、まがい物……？",

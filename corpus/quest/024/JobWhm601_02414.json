@@ -1202,8 +1202,8 @@
     },
     {
       "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_GATTY_000_051",
-      "en": "Ah!",
-      "hash": "8A3173A6DF7657B5",
+      "en": "(-Strange Child-)Ah!",
+      "hash": "6F7494920EDF2E10",
       "unresolved": false,
       "fr": "(-Jeune fille étrange-)Ah<nbsp>!",
       "ja": "(-異様な雰囲気の少女-)ッ！！",
@@ -1228,8 +1228,8 @@
     },
     {
       "gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_SANCHE_000_052",
-      "en": "What are you doing!? Come here, this instant!",
-      "hash": "1E4601AEF8616B0B",
+      "en": "(-Stern Huntress-)What are you doing!? Come here, this instant!",
+      "hash": "9EEFB988FC06593B",
       "unresolved": false,
       "fr": "(-Femme au ton maternel-)Que fais-tu<nbsp>!? Reviens ici tout de suite<nbsp>!",
       "ja": "(-母親らしき女性-)何をしてるの！？\u3000こっちに来なさい！",

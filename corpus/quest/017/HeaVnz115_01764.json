@@ -402,8 +402,8 @@
     },
     {
       "gameKey": "quest/017/HeaVnz115_01764#TEXT_HEAVNZ115_01764_SAINTRELMAUX_000_011",
-      "en": "I'm ever so sorry, <if(gnum4,madam,sir)>. Master Saintrelmaux has been having a bad day. He means no disrespect. We'd be more than happy to benefit from your assistance.",
-      "hash": "8E4069E1A7AC9ECD",
+      "en": "(-Saintrelmaux's Retainer-)I'm ever so sorry, <if(gnum4,madam,sir)>. Master Saintrelmaux has been having a bad day. He means no disrespect. We'd be more than happy to benefit from your assistance.",
+      "hash": "A82F60133FC1F574",
       "unresolved": false,
       "fr": "(-Second de Saintrelmaux-)Je suis vraiment confus... Mon maître est quelque peu de mauvaise humeur, mais il ne voulait pas vous manquer de respect. Nous serions ravis de bénéficier de votre aide.",
       "ja": "(-サントレルモの部下-)も、申し訳ありません、冒険者様！<br>サントレルモ様は、少々苛立っておりまして……。<br>どうかご協力をお願いいたします。",

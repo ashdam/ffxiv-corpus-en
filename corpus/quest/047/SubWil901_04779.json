@@ -1250,8 +1250,8 @@
     },
     {
       "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_041",
-      "en": "You're the ones who seek an interview? I must say, I wasn't expecting to see the champion of Eorzea... ",
-      "hash": "BA99347B4694F00F",
+      "en": "(-Flame Officer-)You're the ones who seek an interview? I must say, I wasn't expecting to see the champion of Eorzea... ",
+      "hash": "572F9FFDA4272040",
       "unresolved": false,
       "fr": "(-Lieutenant des Immortels-)Bien le bonjour\u00A0! C'est donc vous qui m'avez sollicité pour un témoignage au sujet de Louisoix\u00A0? Si je m'attendais à rencontrer <if(gnum4,l'héroïne,le héros)> d'Éorzéa...",
       "ja": "(-不滅隊の将校-)やあ、私に取材をしたいというのは君たちかな？<br>……まさか英雄殿がいるとは思わなかったが。",
@@ -1302,8 +1302,8 @@
     },
     {
       "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_043",
-      "en": "Come now, no need for the thanks. Like everyone, I hold Louisoix in the highest esteem.",
-      "hash": "45B11E9C893053DE",
+      "en": "(-Flame Officer-)Come now, no need for the thanks. Like everyone, I hold Louisoix in the highest esteem.",
+      "hash": "8F55F546619B76F6",
       "unresolved": false,
       "fr": "(-Lieutenant des Immortels-)Allons, mon brave garçon, tu peux laisser les formalités de côté. Au contraire, nous te sommes re<->con<->nais<->sants de te lancer dans un tel projet. Conserver par écrit un témoignage de notre sauveur à tous pour les générations futures ne peut être que bénéfique.",
       "ja": "(-不滅隊の将校-)いやいや、堅苦しい挨拶は抜きでよいとも。<br>恩人たるルイゾワ様について正しく綴ってくれるなら、<br>それは我々としてもありがたいことだ。",

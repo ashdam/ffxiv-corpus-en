@@ -202,8 +202,8 @@
     },
     {
       "gameKey": "quest/039/LucKra301_03975#TEXT_LUCKRA301_03975_GAIA_000_002",
-      "en": "Well, well. Fancy seeing you here.",
-      "hash": "50F35E74A876670D",
+      "en": "(-???-)Well, well. Fancy seeing you here.",
+      "hash": "4EB58B4F2A7D84E2",
       "unresolved": false,
       "fr": "Tiens, <split(<string(gstr1)>, ,1)> est là aussi. Bon timing<nbsp>!",
       "ja": "あら、<split(<string(gstr1)>, ,1)>もいるじゃない。",

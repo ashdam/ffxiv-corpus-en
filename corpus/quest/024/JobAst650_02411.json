@@ -1530,8 +1530,8 @@
     },
     {
       "gameKey": "quest/024/JobAst650_02411#TEXT_JOBAST650_02411_KYOKUHO_000_050",
-      "en": "I see someone has taken my spot. I may just have to slit <if(gnum4,her,his)> throat and toss <if(gnum4,her,his)> body to the tide.",
-      "hash": "81F6300B9DAC4676",
+      "en": "(-???-)I see someone has taken my spot. I may just have to slit <if(gnum4,her,his)> throat and toss <if(gnum4,her,his)> body to the tide.",
+      "hash": "00DF5DED2DFAF252",
       "unresolved": false,
       "fr": "(-Voix familière-)Ah, on dirait que quelqu'un a eu la même idée que moi ce soir. Il faudra que je vienne plus tôt la prochaine fois...",
       "ja": "(-久しぶりに聞く声-)おや～珍しいこともあるもんだ。<br>俺の特等席に、今宵は先客がいるらしい。",
@@ -2996,8 +2996,8 @@
     },
     {
       "gameKey": "quest/024/JobAst650_02411#TEXT_JOBAST650_02411_MURAKUMO_000_091",
-      "en": "Kyokuho! I was told there were spirits in the streets!",
-      "hash": "C9014CB143AA297A",
+      "en": "(-???-)Kyokuho! I was told there were spirits in the streets!",
+      "hash": "0F4E4BBCFF751E4B",
       "unresolved": false,
       "fr": "(-Voix apeurée-)Kyokuho<nbsp>!! Je viens d'apprendre que des esprits maléfiques avaient fait leur apparition en plein cœur de la ville<nbsp>! Tu n'as rien de cassé<nbsp>?",
       "ja": "(-慌てた声-)キョクホウ！！<br>悪霊が現れたと聞いたぞ！",

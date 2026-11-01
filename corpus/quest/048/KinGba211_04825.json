@@ -1562,8 +1562,8 @@
     },
     {
       "gameKey": "quest/048/KinGba211_04825#TEXT_KINGBA211_04825_ELLERETE_000_056",
-      "en": "Oh, me! Oh, my! Our spear-wielding friend is sharp of eye!",
-      "hash": "D948A27753199C38",
+      "en": "(-???-)Oh, me! Oh, my! Our spear-wielding friend is sharp of eye!",
+      "hash": "5B075E23DA31E03B",
       "unresolved": false,
       "fr": "(-???-)Mais comment elle a fait pour nous repérer<nbsp>? Notre cachette était pourtant parfaite<nbsp>!",
       "ja": "(-？？？？-)えぇ、怖ぁ～い！<br>どうして気づくかなぁ……？",
@@ -1614,8 +1614,8 @@
     },
     {
       "gameKey": "quest/048/KinGba211_04825#TEXT_KINGBA211_04825_ELLERETE_000_058",
-      "en": "Why, yes! And watching your scrawny compatriot suffer was the highlight of our <if([gnum11<12],<if([gnum11<4],evening,day)>,<if([gnum11<17],day,evening)>)>! I admit, the poison was meant to silence him, but <italic(1)>hiccups<italic(0)>? 'Twas comedy at its finest!",
-      "hash": "DAD2A3D84E5AF17A",
+      "en": "(-Artful Alchemist-)Why, yes! And watching your scrawny compatriot suffer was the highlight of our <if([gnum11<12],<if([gnum11<4],evening,day)>,<if([gnum11<17],day,evening)>)>! I admit, the poison was meant to silence him, but <italic(1)>hiccups<italic(0)>? 'Twas comedy at its finest!",
+      "hash": "0F6A9011B2BCF2F5",
       "unresolved": false,
       "fr": "(-Hyuroise hilare-)Dire que j'avais simplement injecté du venin aphonisant dans cette fiole... et à la place, ça lui a donné le hoquet<nbsp>! Quelle bonne blague<nbsp>!",
       "ja": "(-ヒューラン族の女-)薬に沈黙の毒を仕込んだはずなのに、<br>しゃっくりし始めるから、笑っちゃったわ！",
@@ -1640,8 +1640,8 @@
     },
     {
       "gameKey": "quest/048/KinGba211_04825#TEXT_KINGBA211_04825_KOKONOWA_000_059",
-      "en": "Perhaps the elixir reacted with the venom... Regardless, we've had our fill of fun from the results, so I shan't complain.",
-      "hash": "811A4F12FFEF3AFD",
+      "en": "(-Cold-blooded Goldsmith-)Perhaps the elixir reacted with the venom... Regardless, we've had our fill of fun from the results, so I shan't complain.",
+      "hash": "6277CA3E9250CC1B",
       "unresolved": false,
       "fr": "(-Lalafell flegmatique-)Peut-être était-ce le produit d'une réaction chimique inattendue entre le venin et les éléments qui composaient originellement cette concoction<nbsp>? Enfin, c'est le résultat qui compte, comme on dit.",
       "ja": "(-ララフェル族の男-)毒が薬の成分と混ざって、変な風に作用したのでは？<br>まあ、面白かったからいいんじゃないですかね。",
@@ -1692,8 +1692,8 @@
     },
     {
       "gameKey": "quest/048/KinGba211_04825#TEXT_KINGBA211_04825_ELLERETE_000_061",
-      "en": "Oh, my sweet faerie apple, you <italic(1)>know<italic(0)> us? I suppose that means we're famous! I can't believe it─oh, who am I kidding─yes, I can.",
-      "hash": "5A35689A14074469",
+      "en": "(-Artful Alchemist-)Oh, my sweet faerie apple, you <italic(1)>know<italic(0)> us? I suppose that means we're famous! I can't believe it─oh, who am I kidding─yes, I can.",
+      "hash": "39FE3702C2538701",
       "unresolved": false,
       "fr": "(-Hyuroise hilare-)Ouuuh, tu connais déjà le nom de notre groupe<nbsp>? Comme je suis gentille, je vais aussi te donner le mien...",
       "ja": "(-ヒューラン族の女-)ふぅん、その名前を知ってるんだ！<br>それなら、ここは名乗りを上げておこうかなぁ～？",

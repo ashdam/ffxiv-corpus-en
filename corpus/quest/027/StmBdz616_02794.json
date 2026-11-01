@@ -1060,8 +1060,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz616_02794#TEXT_STMBDZ616_02794_MAUCI_000_050",
-      "en": "<split(<string(gstr1)>, ,1)>, I have triumphed!",
-      "hash": "878DFF8F347B6522",
+      "en": "(-Mauci-)<split(<string(gstr1)>, ,1)>, I have triumphed!",
+      "hash": "D9B5076B3B8F1D4C",
       "unresolved": false,
       "fr": "(-Voix de Mauci-)<split(<string(gstr1)>, ,1)>, c'est bon, j'ai réussi à battre un Matanga<nbsp>! Rejoins-moi vite<nbsp>!",
       "ja": "(-マウシの声-)<split(<string(gstr1)>, ,1)>さーん！<br>俺、マタンガを倒したぞ！<br>こっちまで来てくれ！",
@@ -1346,8 +1346,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz616_02794#TEXT_STMBDZ616_02794_DOTHARLAUDIENCE02792_000_078",
-      "en": "To think you beat a Matanga with just your fists. That's our Mauci!",
-      "hash": "EB228A8A6180CE7D",
+      "en": "(-Dotharli Chap-)To think you beat a Matanga with just your fists. That's our Mauci!",
+      "hash": "7BC3819D469BADC2",
       "unresolved": false,
       "fr": "(-Homme dotharl-)... Mais enfin, qu'est-ce que tu racontes<nbsp>? Que tu te battes avec un sabre ou à mains nues, qu'est-ce que ça change<nbsp>? Qui, sinon Mauci, aurait pu vaincre seul un Matanga<nbsp>?",
       "ja": "(-ドタール族の男-)なんだぁ……今回は、格闘術の才が出たのか。<br>しかし、その若さでひとりマタンガを狩るとは、<br>やっぱりマウシだな！",

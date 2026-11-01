@@ -1204,8 +1204,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa005_03900#TEXT_BANDWA005_03900_AUTOMATON03900_000_021",
-      "en": "\\<beep> Now all I need is a plan...<br>\\<beep> Automata...",
-      "hash": "63AE73C4FE13B0A9",
+      "en": "(-???-)\\<beep> Now all I need is a plan...<br>\\<beep> Automata...",
+      "hash": "FB0E430C26309816",
       "unresolved": false,
       "fr": "(-???-)(cliquette) COURAGE (grince) RONITT<nbsp>!",
       "ja": "(-？？？？-)ガガガ……ロニット、もうひと踏ん張りだに！<br>ロニット、一緒に頑張るラリ！",
@@ -1568,8 +1568,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa005_03900#TEXT_BANDWA005_03900_OZOGG_000_042",
-      "en": "Aw! Did you miss me?",
-      "hash": "1D919B8F8BCD045D",
+      "en": "(-Ozogg-)Aw! Did you miss me?",
+      "hash": "ED4B27DA9A6BD505",
       "unresolved": false,
       "fr": "(-Voix d'Ozogg-)Ohé<nbsp>!",
       "ja": "(-オゾッグの声-)おーーーーい！！！",
@@ -2808,8 +2808,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa005_03900#TEXT_BANDWA005_03900_XAMOTT_000_154",
-      "en": "...Urp...",
-      "hash": "2FB1EBB394CFD28C",
+      "en": "(-Xamott and Glagg-)...Urp...",
+      "hash": "3633AE6553E8480C",
       "unresolved": false,
       "fr": "(-Xamott et Glagg-)...",
       "ja": "(-ザモットとグラッグ-)…………。",

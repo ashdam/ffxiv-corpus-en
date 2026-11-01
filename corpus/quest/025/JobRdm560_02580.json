@@ -2190,8 +2190,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm560_02580#TEXT_JOBRDM560_02580_LAMBARD_000_300",
-      "en": "...Delectable.",
-      "hash": "E1C50A75C5FA3B5E",
+      "en": "(-???-)...Delectable.",
+      "hash": "B82A0EEFE411AF24",
       "unresolved": false,
       "fr": "(-???-)Hmm... Intéressant...",
       "ja": "(-？？？？-)…………気に入りました。",
@@ -2216,8 +2216,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm560_02580#TEXT_JOBRDM560_02580_LAMBARD_000_301",
-      "en": "Your mortal frame brims with vital energies. An irresistible feast...",
-      "hash": "83F3E9DD45D34A6C",
+      "en": "(-???-)Your mortal frame brims with vital energies. An irresistible feast...",
+      "hash": "4953596B1264A1C3",
       "unresolved": false,
       "fr": "(-???-)Dis-moi, tu es in<->croya<->ble<->ment <if(gnum4,puissante,puissant)> pour <if(gnum4,une simple mortelle,un simple mortel)>... Veux-tu bien me dévoiler ton secret<nbsp>?",
       "ja": "(-？？？？-)「人」の器をはるかに超える、その力。<br>この私に……",

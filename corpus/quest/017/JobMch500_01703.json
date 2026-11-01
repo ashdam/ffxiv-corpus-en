@@ -834,8 +834,8 @@
     },
     {
       "gameKey": "quest/017/JobMch500_01703#TEXT_JOBMCH500_01703_JOYE_000_041",
-      "en": "I'm afraid the damage has already been done, me lordship. Even after scrapin' together our spares, we've less than half the weapons we need for the tourney...",
-      "hash": "FC659C5D93452CB3",
+      "en": "(-Joye-)I'm afraid the damage has already been done, me lordship. Even after scrapin' together our spares, we've less than half the weapons we need for the tourney...",
+      "hash": "0F1D2EF39FA1FE0E",
       "unresolved": false,
       "fr": "(-Joye-)Je n'arrive toujours pas à croire qu'on ait détruit nos armes. J'ai vérifié dans nos réserves, mais nous ne disposons pas même de la moitié de ce dont nous aurions besoin. Telles que les choses se présentent, notre par<->ti<->ci<->pa<->tion est compromise...",
       "ja": "(-ジョイ-)……ですが、模擬戦用の銃が破壊されてしまいました。<br>予備をかき集めても、必要数の半分も用意できません。<br>このままでは、模擬戦への参加は不可能です……。",
@@ -886,8 +886,8 @@
     },
     {
       "gameKey": "quest/017/JobMch500_01703#TEXT_JOBMCH500_01703_ROSTNSTHAL_000_043",
-      "en": "What in the bloody 'ells was that!? Sounds like someone fired a damn cannon or summat!",
-      "hash": "082AC9A6A3D7A8A8",
+      "en": "(-Rostnsthal-)What in the bloody 'ells was that!? Sounds like someone fired a damn cannon or summat!",
+      "hash": "8EA60B774E892761",
       "unresolved": false,
       "fr": "(-Rostnsthal-)Je sais pas ce qui vient de sauter, mais ça avait l'air d'être gros. On ferait mieux d'aller jeter un œil.",
       "ja": "(-ロスティンスタル-)おいおい、どえらい爆発音がしたぞ！？<br>様子を見に行こう！",
@@ -964,8 +964,8 @@
     },
     {
       "gameKey": "quest/017/JobMch500_01703#TEXT_JOBMCH500_01703_ROSTNSTHAL_000_051",
-      "en": "Blast! We must've missed one o' the shite-eatin' bastards!",
-      "hash": "F789E80841EC8CDA",
+      "en": "(-Rostnsthal-)Blast! We must've missed one o' the shite-eatin' bastards!",
+      "hash": "E63B68C816DA9DA4",
       "unresolved": false,
       "fr": "(-Rostnsthal-)Ça ne peut vouloir dire qu'une chose<nbsp>: <split(<string(gstr1)>, ,1)> et moi, on n'a pas bien fait le ménage...",
       "ja": "(-ロスティンスタル-)……くっ、まだ隠れ潜んでいるヤツがいやがったか。",

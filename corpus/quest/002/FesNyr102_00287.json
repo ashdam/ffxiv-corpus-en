@@ -910,8 +910,8 @@
     },
     {
       "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SYOJO00287_000_041",
-      "en": "You shall do no such thing, hitsuji bugyo!",
-      "hash": "BF6F0925B01B2311",
+      "en": "(-???-)You shall do no such thing, hitsuji bugyo!",
+      "hash": "33543AE7EAF90052",
       "unresolved": false,
       "fr": "Ça suffit, maréchal<nbsp>!",
       "ja": "(-？？？？-)そこまでだ、羊奉行……！",
@@ -962,8 +962,8 @@
     },
     {
       "gameKey": "quest/002/FesNyr102_00287#TEXT_FESNYR102_00287_SYOJO00287_000_043",
-      "en": "You are undone, bugyo! I am here to put an end to your barbarous plots!",
-      "hash": "8142966CDE9679A3",
+      "en": "(-Merry Maid?-)You are undone, bugyo! I am here to put an end to your barbarous plots!",
+      "hash": "A342AEF389403AC1",
       "unresolved": false,
       "fr": "(-Jeune fille enjouée<nbsp>?-)J'ai observé vos manigances et je vous somme de mettre im<->mé<->dia<->te<->ment fin à vos funestes projets<nbsp>!",
       "ja": "(-楽しげな町娘？-)お前の暗躍は、しかと見届けた！<br>残酷な企みを今すぐ中止するのだ……！",

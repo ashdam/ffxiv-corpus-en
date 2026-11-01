@@ -676,8 +676,8 @@
     },
     {
       "gameKey": "quest/012/FesNyr004_01295#TEXT_FESNYR004_01295_SUBORDINATEC_000_020",
-      "en": "Hold up, you're here to <italic(1)>be<italic(0)> the horse. Put your uma kabuto on first.",
-      "hash": "1CC28C3B303DB7A1",
+      "en": "(-Red Uma Doshin-)Hold up, you're here to <italic(1)>be<italic(0)> the horse. Put your uma kabuto on first.",
+      "hash": "EAA5B79CD9552C61",
       "unresolved": false,
       "fr": "(-Lieutenant rouge des chevaux-)Attendez un peu, vous devez <italic(1)>incarner<italic(0)> un cheval. Remettez votre <frnoun(Item,12,6964,1,1)><nbsp>!",
       "ja": "(-赤馬同心-)待ってくれ……。<br>宣伝のためには「<sheet(Item,6964,0)>」を被らなければ……。<br>頼む、馬になってくれ……！",

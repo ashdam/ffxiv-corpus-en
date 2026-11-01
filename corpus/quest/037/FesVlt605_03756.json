@@ -560,8 +560,8 @@
     },
     {
       "gameKey": "quest/037/FesVlt605_03756#TEXT_FESVLT605_03756_YWAIN_000_020",
-      "en": "My apologies. I hope I have not kept you waiting overlong.",
-      "hash": "8DBC3F162F5826E2",
+      "en": "(-Pining Gridanian-)My apologies. I hope I have not kept you waiting overlong.",
+      "hash": "EF0DB1D19880BB95",
       "unresolved": false,
       "fr": "(-Gridanien langoureux-)Désolé pour l'attente.",
       "ja": "(-愛に悩める男性-)すまない、待たせただろうか？",
@@ -924,8 +924,8 @@
     },
     {
       "gameKey": "quest/037/FesVlt605_03756#TEXT_FESVLT605_03756_MARCETTE_000_034",
-      "en": "What is all this blithering and babbling about!? How long do you intend to keep one of Eorzea's preeminent scholars waiting!?",
-      "hash": "6BF283681193EAF4",
+      "en": "(-Vitriolic Voice-)What is all this blithering and babbling about!? How long do you intend to keep one of Eorzea's preeminent scholars waiting!?",
+      "hash": "D88DE7C0BDE2FEF1",
       "unresolved": false,
       "fr": "(-Voix féminine autoritaire-)Et alors<nbsp>? On s'amuse comme des petits fous, et je n'ai pas été prévenue<nbsp>?",
       "ja": "(-鋭い女性の声-)盛り上がっているようだけど、いったい何ごとかしら……？",

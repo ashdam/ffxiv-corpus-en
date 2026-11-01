@@ -1502,8 +1502,8 @@
     },
     {
       "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_094",
-      "en": "Come on, <split(<string(gstr1)>, ,1)>! Show me what you can do!",
-      "hash": "BD458DBB5AC9441E",
+      "en": "(-Ardbert-)Come on, <split(<string(gstr1)>, ,1)>! Show me what you can do!",
+      "hash": "FB03B6DDD0C61EFB",
       "unresolved": false,
       "fr": "(-Voix d'Ardbert-)Et je serai ton prochain adversaire<nbsp>!",
       "ja": "(-アルバート-)さあ来い……<br>お前の相手は、この俺だッ！",

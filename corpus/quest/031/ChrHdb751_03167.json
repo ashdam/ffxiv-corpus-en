@@ -2410,8 +2410,8 @@
     },
     {
       "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_SEKISEIGUMIBLADEA_000_100",
-      "en": "Wh-What is the meaning of this!?",
-      "hash": "0C0916B5E1B26044",
+      "en": "(-Sekiseigumi Blade-)Wh-What is the meaning of this!?",
+      "hash": "FDE844D0C8BBE01C",
       "unresolved": false,
       "fr": "(-Samouraï du Sekiseigumi-)H-hein<nbsp>!? Qui est cet énergumène<nbsp>?",
       "ja": "(-赤誠組の隊士-)こ、これは……いったい！？",
@@ -2514,8 +2514,8 @@
     },
     {
       "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_KUGANEWOLFBURGLAR_000_104",
-      "en": "Your honor is yet yours, samurai!",
-      "hash": "C892E6248A1D3E7D",
+      "en": "(-???-)Your honor is yet yours, samurai!",
+      "hash": "D0435D737B1E0D9C",
       "unresolved": false,
       "fr": "(-Voix mystérieuse-)Attendez<nbsp>!",
       "ja": "(-謎の声-)その切腹、待ったッ！",
@@ -2618,8 +2618,8 @@
     },
     {
       "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_SEKISEIGUMIBLADEA_100_107",
-      "en": "Aye, this is indeed the Soboro Sukehiro... Very well! Escort the Wolf Burglar back to his cell, and send a runner to Master Akebono's estate at once!",
-      "hash": "8F544E9E562E285A",
+      "en": "(-Sekiseigumi Blade-)Aye, this is indeed the Soboro Sukehiro... Very well! Escort the Wolf Burglar back to his cell, and send a runner to Master Akebono's estate at once!",
+      "hash": "6EE5A2414B3E6932",
       "unresolved": false,
       "fr": "(-Samouraï du Sekiseigumi-)Merci. Nous allons nous charger de remettre le katana à Akebono.",
       "ja": "(-赤誠組の隊士-)ソボロ助広、確かに受け取った。<br>我々から、アケボノ殿に返しておくとしよう。",
@@ -2696,8 +2696,8 @@
     },
     {
       "gameKey": "quest/031/ChrHdb751_03167#TEXT_CHRHDB751_03167_KUMODE_000_110",
-      "en": "That will not be necessary. Indeed, with the return of the Wolf Burglar, I believe we can consider this tiresome affair resolved.",
-      "hash": "C8B8C39B6E511304",
+      "en": "(-???-)That will not be necessary. Indeed, with the return of the Wolf Burglar, I believe we can consider this tiresome affair resolved.",
+      "hash": "473E83C080112090",
       "unresolved": false,
       "fr": "(-Voix mystérieuse-)Ce ne sera pas nécessaire<nbsp>! Le coupable étant à nouveau derrière les barreaux, cette affaire est classée.",
       "ja": "(-謎の声-)その必要はない！<br>罪人は牢へと戻ったのだ、これにて一件落着よ！",

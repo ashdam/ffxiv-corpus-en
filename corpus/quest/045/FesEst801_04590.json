@@ -893,8 +893,8 @@
     },
     {
       "gameKey": "quest/045/FesEst801_04590#TEXT_FESEST801_04590_PAWLIN_000_026",
-      "en": "Uwaaaaaaaaahhh!",
-      "hash": "49263A468920EB76",
+      "en": "(-Pained Scream-)Uwaaaaaaaaahhh!",
+      "hash": "4A92671D738F021D",
       "unresolved": false,
       "fr": "(-Voix désespérée-)Aïïïïïïe<nbsp>!",
       "ja": "(-痛ましい悲鳴-)ぐわあぁぁぁぁッ……！",
@@ -943,8 +943,8 @@
     },
     {
       "gameKey": "quest/045/FesEst801_04590#TEXT_FESEST801_04590_2022ESTCHICKEN_000_028",
-      "en": "Cluck! Cluck <italic(1)>cluck<italic(0)>!",
-      "hash": "2542C249FD99B761",
+      "en": "(-Feral Chicken-)Cluck! Cluck <italic(1)>cluck<italic(0)>!",
+      "hash": "A4B5AD226EC5408B",
       "unresolved": false,
       "fr": "(-Poule furieuse-)Codêêêêt<nbsp>!!!",
       "ja": "(-荒ぶるニワトリ-)コケェ～～ッ！！",
@@ -968,8 +968,8 @@
     },
     {
       "gameKey": "quest/045/FesEst801_04590#TEXT_FESEST801_04590_2022ESTUSAGI_000_029",
-      "en": "\\<squeak> \\<squeak>",
-      "hash": "C44F6E163680A31F",
+      "en": "(-???-)\\<squeak> \\<squeak>",
+      "hash": "93636E45090373B7",
       "unresolved": false,
       "fr": "(-Lapin bizarre<nbsp>?-)Kiikii<nbsp>! Kiiii<nbsp>!",
       "ja": "(-不思議なウサギ？-)キュキュッ！\u3000キャウゥ～！",

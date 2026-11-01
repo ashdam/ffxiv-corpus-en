@@ -2614,8 +2614,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04004#TEXT_VOICEMAN_04004_001590_HIEN",
-      "en": "You there! Hold that ship!",
-      "hash": "02445928F99F5BB0",
+      "en": "(-???-)You there! Hold that ship!",
+      "hash": "1FC5A91042E16F6D",
       "unresolved": false,
       "fr": "(-???-)Attendez<nbsp>! Ne partez tout de suite<nbsp>!",
       "ja": "(-？？？？-)おーい！<br>その出航、しばし待った！",
@@ -2966,8 +2966,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04004#TEXT_VOICEMAN_04004_001800_GARLEANLEADERC",
-      "en": "I always knew that woman was unfit for command...",
-      "hash": "7BB9AB42694FC1DC",
+      "en": "(-Imperial Pilus Prior-)I always knew that woman was unfit for command...",
+      "hash": "7BE25EA8FA89AA33",
       "unresolved": false,
       "fr": "(-Commandant garlemaldais-)Cette province était sous notre contrôle depuis si longtemps... Il faut croire que le poids des res<->pon<->sa<->bi<->li<->tés était trop lourd à porter pour une simple Domienne.",
       "ja": "(-帝国軍の千人隊長-)なんと、ドマが落とされるとは……。<br>やはり、現地人に代理総督の荷は重すぎましたか……。",
@@ -2982,8 +2982,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04004#TEXT_VOICEMAN_04004_001810_GARLEANLEADERA",
-      "en": "Aye. When you think of all the resources we poured into that hole.<br>And for what?",
-      "hash": "79544B08542F2DC0",
+      "en": "(-Imperial Tribunus Militum-)Aye. When you think of all the resources we poured into that hole.<br>And for what?",
+      "hash": "824993558FB4AB31",
       "unresolved": false,
       "fr": "(-Chef d'état-major garlemaldais-)Dire que le général lui a fait l'honneur de la nommer vice-gouverneure... Pfeu<nbsp>! Elle a tout gâché en mourant pour rien<nbsp>!",
       "ja": "(-帝国軍の幕僚-)まったくだ……。<br>殿下からお役目を頂戴しておきながら、無駄死にとは……。",
@@ -3094,8 +3094,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04004#TEXT_VOICEMAN_04004_001880_GARLEANLEADERD",
-      "en": "My...? Yes, my lord!",
-      "hash": "F567AAFF751D3A04",
+      "en": "(-Imperial Pilus Prior-)My...? Yes, my lord!",
+      "hash": "C1F5844F4F52562F",
       "unresolved": false,
       "fr": "(-Commandant garlemaldais-)Je, euh... À-à vos ordres<nbsp>!",
       "ja": "(-帝国軍の千人隊長-)えっ…………ハ、ハイッ！",

@@ -98705,6 +98705,19 @@
       "sheet": "LogMessage"
     },
     {
+      "gameKey": "LogMessage#9846",
+      "en": "The beast calls for reinforcements!",
+      "hash": "7199C9650F6E6044",
+      "unresolved": false,
+      "fr": "La bête de l'apocalypse rugit, attirant plusieurs de ses congénères<nbsp>!",
+      "de": "Die Endzeitbestie lässt einen markerschütternden Schrei erklingen und ruft weitere Ungeheuer an ihre Seite!",
+      "conversation": "LogMessage#9846",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "LogMessage"
+    },
+    {
       "gameKey": "LogMessage#9847",
       "en": "The beast calls down a rain of meteors!",
       "hash": "80F80ACF057BF91D",
@@ -120329,19 +120342,6 @@
       "ja": "コンテンツの攻略が終了したため、インスタンスの制限時間が変化しました。",
       "de": "Der Inhalt wurde beendet. Die Zeitbegrenzung der Instanz wurde angepasst.",
       "conversation": "LogMessage#11779",
-      "seq": 5,
-      "speakerKind": "unknown",
-      "kind": "ambient",
-      "sheet": "LogMessage"
-    },
-    {
-      "gameKey": "LogMessage#9846",
-      "en": "The beast calls for reinforcements!",
-      "hash": "7199C9650F6E6044",
-      "unresolved": false,
-      "fr": "La bête de l'apocalypse rugit, attirant plusieurs de ses congénères<nbsp>!",
-      "de": "Die Endzeitbestie lässt einen markerschütternden Schrei erklingen und ruft weitere Ungeheuer an ihre Seite!",
-      "conversation": "LogMessage#9846",
       "seq": 5,
       "speakerKind": "unknown",
       "kind": "ambient",

@@ -2852,8 +2852,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconCollectionBox_00484#TEXT_CTSDOMRECONCOLLECTIONBOX_00484_TAUYAKU_000_339",
-      "en": "<if([gnum11<12],<if([gnum11<4],Good evening!,Good morning!)>,<if([gnum11<17],Good day!,Good evening!)>)>",
-      "hash": "0B7DC93A2A5259EC",
+      "en": "(-???-)<if([gnum11<12],<if([gnum11<4],Good evening!,Good morning!)>,<if([gnum11<17],Good day!,Good evening!)>)>",
+      "hash": "7A0751F171AC1A5E",
       "unresolved": false,
       "fr": "(-???-)Désolé de vous interrompre. Kozakura, puis-je te parler un instant<nbsp>?",
       "ja": "(-？？？？-)水を差して悪いね。<br>ちょっといいかい？",

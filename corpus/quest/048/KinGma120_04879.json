@@ -754,8 +754,8 @@
     },
     {
       "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_014",
-      "en": "The arrangements have been made. Come and meet me at the entrance of High Tide Harbor.",
-      "hash": "AEBB3A6339555788",
+      "en": "(-Erenville-)The arrangements have been made. Come and meet me at the entrance of High Tide Harbor.",
+      "hash": "88FBA018BD69BB28",
       "unresolved": false,
       "fr": "(-Voix d'Erenville-)J'ai terminé les préparatifs. Retrouvez-moi près du perron des Valeureux.",
       "ja": "(-エレンヴィル-)こっちの準備は整った。<br>「満ちた玄関」の入口に集まってくれ。",
@@ -1560,8 +1560,8 @@
     },
     {
       "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_049",
-      "en": "My friends, it's been...well, not that long.",
-      "hash": "35EE28E33E1FF236",
+      "en": "(-Thancred-)My friends, it's been...well, not that long.",
+      "hash": "550F188C883060B8",
       "unresolved": false,
       "fr": "(-???-)Ça fait un bail... Ou pas<nbsp>?",
       "ja": "(-？？？？-)久しぶり……ってほどでもないか？",
@@ -2418,8 +2418,8 @@
     },
     {
       "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_BAKOOLJAJA_000_082",
-      "en": "Gehehehe...",
-      "hash": "8935D44AC4582484",
+      "en": "(-Bakool Ja Ja the Mighty-)Gehehehe...",
+      "hash": "4C3CE4FFA517DC58",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête guerrière-)Muhahahaha<nbsp>!",
       "ja": "(-戦のバクージャジャ-)ゲッグッグッグ……",
@@ -2444,8 +2444,8 @@
     },
     {
       "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_BAKOOLJAJA_000_083",
-      "en": "Let the hunt begin!",
-      "hash": "20907C6B8202BA66",
+      "en": "(-Bakool Ja Ja the Mighty-)Let the hunt begin!",
+      "hash": "A71FB4DBE87D1D93",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête guerrière-)La chasse est ouverte<nbsp>!",
       "ja": "(-戦のバクージャジャ-)さあ、狩りを始めるぜェ！",

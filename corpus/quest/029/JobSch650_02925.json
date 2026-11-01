@@ -714,8 +714,8 @@
     },
     {
       "gameKey": "quest/029/JobSch650_02925#TEXT_JOBSCH650_02925_QIB_001_SYSTEM_02",
-      "en": "The interrogation of the Nymian spy we apprehended is scheduled to soon take place at the Moot Hall.",
-      "hash": "03EE9458624BB022",
+      "en": "(-Tattered Log-)The interrogation of the Nymian spy we apprehended is scheduled to soon take place at the Moot Hall.",
+      "hash": "84707008EBF1C60E",
       "unresolved": false,
       "fr": "(-Registre des prisonniers-)L'interrogatoire des espions nymiens capturés un peu plus tôt dans la semaine a été prévu pour aujourd'hui et aura lieu dans le Hall de l'Amertume.",
       "ja": "(-捕虜についての報告書-)先日我らが城に忍び込んだ、ニーム海兵団のネズミについて、<br>「苦渋の広間」にて拷問を行うことが決まった。",
@@ -740,8 +740,8 @@
     },
     {
       "gameKey": "quest/029/JobSch650_02925#TEXT_JOBSCH650_02925_QIB_001_SYSTEM_03",
-      "en": "The healing powers his people wield are not like to those of white magic. Regardless of what it takes, we must find a way to determine the mysterious source of his power.",
-      "hash": "5973D3DE9C789CD2",
+      "en": "(-Tattered Log-)The healing powers his people wield are not like to those of white magic. Regardless of what it takes, we must find a way to determine the mysterious source of his power.",
+      "hash": "79E9F99690DCD964",
       "unresolved": false,
       "fr": "(-Registre des prisonniers-)Nous devons tout mettre en œuvre pour nous approprier les secrets de leur magie curative, si éloignée de la magie blanche.",
       "ja": "(-捕虜についての報告書-)奴らの操る白魔法とは異なる癒しの術について、<br>どんなことをしても吐かせる必要がある。",
@@ -766,8 +766,8 @@
     },
     {
       "gameKey": "quest/029/JobSch650_02925#TEXT_JOBSCH650_02925_QIB_001_SYSTEM_04",
-      "en": "We suspect his robes are crucial to his spellcasting. They will no doubt hold some of the answers.",
-      "hash": "9FA1A06C785E1728",
+      "en": "(-Tattered Log-)We suspect his robes are crucial to his spellcasting. They will no doubt hold some of the answers.",
+      "hash": "1EA4E36EEDA8A697",
       "unresolved": false,
       "fr": "(-Registre des prisonniers-)À n'en pas douter, les objets qu'ils portaient sur eux au moment de leur capture seront d'une grande utilité, voire nécessaires, pour percer le secret des érudits de Nym.",
       "ja": "(-捕虜についての報告書-)ネズミが身につけていた装具は、<br>奴らの技術を解明するための貴重な資料である。",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/029/JobSch650_02925#TEXT_JOBSCH650_02925_QIB_001_SYSTEM_05",
-      "en": "For now, however, we will be sealing them away in one of our mana idols.",
-      "hash": "F954E49BF7D2D278",
+      "en": "(-Tattered Log-)For now, however, we will be sealing them away in one of our mana idols.",
+      "hash": "38886A8AB411F7BC",
       "unresolved": false,
       "fr": "(-Registre des prisonniers-)À cette fin, ils ont été confisqués et entreposés à l'abri dans un automate de type “Idole”.",
       "ja": "(-捕虜についての報告書-)故に、「アイドル型の魔法人形」の中に保管しておくこととする。",

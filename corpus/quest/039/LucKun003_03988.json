@@ -320,8 +320,8 @@
     },
     {
       "gameKey": "quest/039/LucKun003_03988#TEXT_LUCKUN003_03988_BEQLUGG_000_002",
-      "en": "<split(<string(gstr1)>, ,1)>? Are you there? I hope you've not lost focus on the void problem. I have an exciting breakthrough to share─a work of porxie-related genius, if I do say so myself.",
-      "hash": "AA9A082EB88377DB",
+      "en": "(-Beq Lugg-)<split(<string(gstr1)>, ,1)>? Are you there? I hope you've not lost focus on the void problem. I have an exciting breakthrough to share─a work of porxie-related genius, if I do say so myself.",
+      "hash": "BE8376C5DEF6E87C",
       "unresolved": false,
       "fr": "(-Voix de Beq Lugg-)Tout se passe bien de votre côté<nbsp>? Je viens tout juste de mettre au point un système d'analyse qui nous permettra d'évaluer la situation dans le treizième reflet.",
       "ja": "(-ベーク＝ラグの声-)その後、進展はあったか？<br>こちらは第十三世界を覗き込む方法が用意できたところだ。",
@@ -372,8 +372,8 @@
     },
     {
       "gameKey": "quest/039/LucKun003_03988#TEXT_LUCKUN003_03988_BEQLUGG_000_004",
-      "en": "Well, then... What say you meet me at Laxan Loft forthwith? It's far enough from any major aetherytes as to avoid the sort of aetherial interference that would be a hindrance to our observation of the void.",
-      "hash": "6E43F9CDE71A2450",
+      "en": "(-Beq Lugg-)Well, then... What say you meet me at Laxan Loft forthwith? It's far enough from any major aetherytes as to avoid the sort of aetherial interference that would be a hindrance to our observation of the void.",
+      "hash": "7DD9F55C3FE127ED",
       "unresolved": false,
       "fr": "(-Voix de Beq Lugg-)Parfait, mais à mon avis, la proximité trop grande d'éthérites à cet endroit risque de fausser les résultats. Hmm... Retrouvons-nous plutôt près du château de Ganlag, les conditions environnementales y seront plus favorables.",
       "ja": "(-ベーク＝ラグの声-)ふむ、エーテライトが近すぎると、<br>干渉を受けて観測結果に影響が出かねんからな。<br>「ラクサン城」の辺りで実験を行うとしよう。",
@@ -1464,8 +1464,8 @@
     },
     {
       "gameKey": "quest/039/LucKun003_03988#TEXT_LUCKUN003_03988_GIOTT_000_259",
-      "en": "Strength, you say? Sounds like you could use a dwarf with a massive hammer!",
-      "hash": "00C25CD063F57126",
+      "en": "(-???-)Strength, you say? Sounds like you could use a dwarf with a massive hammer!",
+      "hash": "849F23E31BD88069",
       "unresolved": false,
       "fr": "(-???-)Ça a l'air rigolo, ce que vous mijotez tous, là<nbsp>! On peut se joindre à la fête<nbsp>?",
       "ja": "(-？？？？-)面白そうな話をしておるな！<br>ワシらも混ぜてもらうぞい！",

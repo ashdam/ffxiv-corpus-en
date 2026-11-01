@@ -602,8 +602,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc005_03214#TEXT_LUCKBC005_03214_NOVICEBARD03214_000_035",
-      "en": "Lieutenant Guydelot was an inspiration to us all. But us... We may as well not have been present, for all the good we did...",
-      "hash": "11123EF5B59650F7",
+      "en": "(-Novice Bard-)Lieutenant Guydelot was an inspiration to us all. But us... We may as well not have been present, for all the good we did...",
+      "hash": "71FF74CBBBA8FC87",
       "unresolved": false,
       "fr": "(-Jeune barde-)Guydelot nous a sauvés plus d'une fois<nbsp>!<br>Mais nous, on est loin de lui arriver à la cheville, en tant que bardes.",
       "ja": "(-新米の吟遊詩人-)本当に、ギドゥロ先輩には何度も助けられました……。<br>私たちも同じ吟遊詩人なのに……情けないばかりです。",
@@ -1324,8 +1324,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc005_03214#TEXT_LUCKBC005_03214_GUYDELOT_000_140",
-      "en": "Well, well, look who it is.",
-      "hash": "E9CBC7AD83834200",
+      "en": "(-Familiar Voice-)Well, well, look who it is.",
+      "hash": "8153E403B06E903E",
       "unresolved": false,
       "fr": "(-Douce voix familière-)Raaah<nbsp>! J'vois que t'es seul<if(gnum4,e,)>, alors j'veux bien sortir, mais qu'est-ce que tu m'veux<nbsp>?",
       "ja": "(-聞き覚えのある美声-)……ったくよお。<br>お前ひとりのようだから、出てきてやったが……<br>さーて、いったい何の用だ？",

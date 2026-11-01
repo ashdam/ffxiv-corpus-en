@@ -674,8 +674,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi003_04603#TEXT_BANOMI003_04603_NIBIRAENOMI_000_016",
-      "en": "......",
-      "hash": "67C758A3F43308CC",
+      "en": "(-Ominous Figure-)......",
+      "hash": "5BF5949750F84BEB",
       "unresolved": false,
       "fr": "(-Être taciturne-)...",
       "ja": "(-物静かな再現体-)…………………………。",
@@ -726,8 +726,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi003_04603#TEXT_BANOMI003_04603_NIBIRAENOMI_000_018",
-      "en": "It has shared in our truth and shed the self. This is well. The universe, too, is finite. Only in death may we embrace true infinity...",
-      "hash": "66272D3CB85DEBEA",
+      "en": "(-Ominous Figure-)It has shared in our truth and shed the self. This is well. The universe, too, is finite. Only in death may we embrace true infinity...",
+      "hash": "412848CB9D349558",
       "unresolved": false,
       "fr": "(-Être taciturne-)Être mécanique, tu as bien fait d'adopter notre conception de l'existence... Dans cet univers voué à disparaître, toute tentative de survie est inutile. Bientôt, tu ne feras qu'un avec les autres créatures de la galaxie en atteignant l'illumination...",
       "ja": "(-物静かな再現体-)……当個体と全個体が共有した解を得たようだ。<br>貴個体もまた全個体の一部となり、凪ぎの極みに達する。<br>定命の宇宙で、営みを繰り返し続ける理由など無い……。",
@@ -4910,8 +4910,8 @@
     },
     {
       "gameKey": "quest/046/BanOmi003_04603#TEXT_BANOMI003_04603_MIW04603_000_096",
-      "en": "Mimimi? \\<burble>",
-      "hash": "1793985D9C8EA60A",
+      "en": "(-Jellyfish Creature-)Mimimi? \\<burble>",
+      "hash": "81FC5DF6094AA0A1",
       "unresolved": false,
       "fr": "(-Créature ressemblant à une méduse-)Mimi, mimimi<nbsp>!",
       "ja": "(-クラゲのような浮遊生物-)ミミ、ミミミ！",

@@ -1066,8 +1066,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SPHENE_100_078",
-      "en": "The kind and gentle Queen Sphene was too weak to serve her people. And so she will serve them no more.",
-      "hash": "DD01BAD917CD685A",
+      "en": "(-Endless Sphene-)The kind and gentle Queen Sphene was too weak to serve her people. And so she will serve them no more.",
+      "hash": "DFF4E3B130859665",
       "unresolved": false,
       "fr": "(-Sphene (précédente souveraine)-)Puisque la bonne et généreuse Sphene a été incapable de défendre les siens... j'ai décidé de me débarrasser d'elle.",
       "ja": "(-先王スフェーン-)かつて、優しいだけのスフェーン王は、民を護れなかった。<br>だから私は、弱い心を捨てることにしたの！",
@@ -1092,8 +1092,8 @@
     },
     {
       "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SPHENE_110_078",
-      "en": "Freed from conscience, I shall become a ruler that <italic(1)>can<italic(0)> protect Alexandria. A devourer of worlds.",
-      "hash": "F21BA31F10937773",
+      "en": "(-Endless Sphene-)Freed from conscience, I shall become a ruler that <italic(1)>can<italic(0)> protect Alexandria. A devourer of worlds.",
+      "hash": "AA76016A1A5533EC",
       "unresolved": false,
       "fr": "(-Sphene (précédente souveraine)-)Je serai alors enfin à même de protéger ma chère Alexandrie... en devenant une arme impitoyable, capable de dévorer les mondes.",
       "ja": "(-先王スフェーン-)そうして……世界を喰らう最悪のシステムとなって、<br>アレクサンドリアを護るんだ。",

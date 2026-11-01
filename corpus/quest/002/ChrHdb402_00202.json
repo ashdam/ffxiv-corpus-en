@@ -658,8 +658,8 @@
     },
     {
       "gameKey": "quest/002/ChrHdb402_00202#TEXT_CHRHDB402_00202_HILDIBRAND_000_055",
-      "en": "I can assure you there will be no need for gratuitous fisticuffs, my good sir! With my remarkable powers of espionage, we will ascertain all the information we need without the fiery lass even being alerted to our presence. Let us be off!",
-      "hash": "2ADFB0E2DD0769A5",
+      "en": "(-Hildibrand-)I can assure you there will be no need for gratuitous fisticuffs, my good sir! With my remarkable powers of espionage, we will ascertain all the information we need without the fiery lass even being alerted to our presence. Let us be off!",
+      "hash": "1C562218FB6106E8",
       "unresolved": false,
       "fr": "(-Hildibrand-)Si Avila est en train de boire avec des amis, c'est une aubaine<nbsp>! Sa langue se déliera sans doute plus facilement. Allons vite à la taverne Le Coffre et le Cercueil pour l'espionner<nbsp>!",
       "ja": "(-ヒルディブランド-)仲間との酒の席なら、口も軽くなるというもの……！<br>酒房「コッファー＆コフィン」に向かい、<br>こっそり会話を盗み聞きしてみましょう！",
@@ -1984,8 +1984,8 @@
     },
     {
       "gameKey": "quest/002/ChrHdb402_00202#TEXT_CHRHDB402_00202_GILGAMESH_000_210",
-      "en": "Hildy is...a worthy rival, if ever there were one.",
-      "hash": "0A719D085CB2E971",
+      "en": "(-???-)Hildy is...a worthy rival, if ever there were one.",
+      "hash": "D5A665A54014768B",
       "unresolved": false,
       "fr": "(-???-)Oui, Hildidi est un surhomme.",
       "ja": "(-？？？？-)……ヒルちゃんは、できる男だぜ。",

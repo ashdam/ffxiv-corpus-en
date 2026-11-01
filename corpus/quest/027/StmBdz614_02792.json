@@ -406,8 +406,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz614_02792#TEXT_STMBDZ614_02792_DOTHARLAUDIENCEA02792_000_031",
-      "en": "I do not understand. How could Mauci of the Seven and Seven Swords be bested so easily?",
-      "hash": "8EE03DE5D17F031C",
+      "en": "(-Spectator-)I do not understand. How could Mauci of the Seven and Seven Swords be bested so easily?",
+      "hash": "DAF1F3AF79440E06",
       "unresolved": false,
       "fr": "(-Spectatrice-)Je n'en reviens pas, Mauci s'est fait battre à plate couture...",
       "ja": "(-ドタール族の女-)まさか、「七剣」マウシが、こうもあっさり負けるとはね……。",
@@ -432,8 +432,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz614_02792#TEXT_STMBDZ614_02792_DOTHARLAUDIENCEB02792_000_032",
-      "en": "Wait, no, I see now! He merely pretended to lose to lure his opponent into a false sense of security.",
-      "hash": "0378B181C81A6264",
+      "en": "(-Spectator-)Wait, no, I see now! He merely pretended to lose to lure his opponent into a false sense of security.",
+      "hash": "33EC7D03735B5BB1",
       "unresolved": false,
       "fr": "(-Spectateur-)... Ah, j'ai compris<nbsp>! Il a fait exprès de perdre pour faire plaisir à son adversaire<nbsp>! Il est si fort que la victoire ne lui importe même plus<nbsp>!",
       "ja": "(-ドタール族の男-)……そ、そうか！<br>「七剣」マウシは、あまりに強すぎるから、<br>あえて負けて、相手に自信をつけさせてやったんだな！？",
@@ -458,8 +458,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz614_02792#TEXT_STMBDZ614_02792_DOTHARLAUDIENCEC02792_000_033",
-      "en": "Do not hold back. You insult me!",
-      "hash": "D17FE1539AE472F4",
+      "en": "(-Dotharli Warrior-)Do not hold back. You insult me!",
+      "hash": "E506F765B41D44F4",
       "unresolved": false,
       "fr": "(-Guerrier dotharl-)Hmph... C'est gentil de me laisser gagner, mais j'aurais préféré que tu te battes sé<->rieu<->se<->ment. Je ne suis pas ici pour m'amuser mais pour progresser<nbsp>!",
       "ja": "(-ドタール族の戦士-)うーむ、格下相手に優しくしたいのはわかるが、<br>今度は手加減せず、戦ってくれよ！<br>そうじゃないと、訓練の意味がないからな！",

@@ -716,8 +716,8 @@
     },
     {
       "gameKey": "quest/054/BanAll420_05463#TEXT_BANALL420_05463_FONJEANTAINE_000_009",
-      "en": "Oh, is that... <split(<string(gstr1)>, ,1)>, is that you?",
-      "hash": "12F6533ED9A2EDE3",
+      "en": "(-Familiar Voice-)Oh, is that... <split(<string(gstr1)>, ,1)>, is that you?",
+      "hash": "14063E808A2A60E3",
       "unresolved": false,
       "fr": "(-Voix familière-)Tiens, mais qui vois-je<nbsp>? Ne serait-ce pas... <split(<string(gstr1)>, ,1)><nbsp>?",
       "ja": "(-聞き覚えのある声-)おや、そこにいるのは……<br>もしかして<split(<string(gstr1)>, ,1)>さんでは？",
@@ -1262,8 +1262,8 @@
     },
     {
       "gameKey": "quest/054/BanAll420_05463#TEXT_BANALL420_05463_TSEEYA_000_031",
-      "en": "Well, this is a surprise. Come to visit old friends, <split(<string(gstr1)>, ,1)>?",
-      "hash": "8CD2F4AE0917D8A3",
+      "en": "(-???-)Well, this is a surprise. Come to visit old friends, <split(<string(gstr1)>, ,1)>?",
+      "hash": "00ED131E6C7C93A9",
       "unresolved": false,
       "fr": "(-???-)... <split(<string(gstr1)>, ,1)><nbsp>? Ça alorrrs, quelle surprise<nbsp>! Je ne m'attendais pas à vous voir ici.",
       "ja": "(-？？？？-)やあ、これは奇遇ですね。<br><split(<string(gstr1)>, ,1)>さんもこちらにお越しでしたか。",

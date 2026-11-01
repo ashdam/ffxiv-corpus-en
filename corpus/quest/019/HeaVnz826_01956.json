@@ -750,8 +750,8 @@
     },
     {
       "gameKey": "quest/019/HeaVnz826_01956#TEXT_HEAVNZ826_01956_NOTCHEDBONE_000_022",
-      "en": "<italic(1)>I know where you live now.<br>I'm comin' for my money, and I expect to get back every last gil.<br>You won't be wormin' your way out of it this time.<italic(0)>",
-      "hash": "9A44AEB8ACA82C11",
+      "en": "(-Letter Addressed to Notched Bone-)<italic(1)>I know where you live now.<br>I'm comin' for my money, and I expect to get back every last gil.<br>You won't be wormin' your way out of it this time.<italic(0)>",
+      "hash": "B98B94B347EB0450",
       "unresolved": false,
       "fr": "(-Lettre pour Notched Bone-)Je sais où tu es. Je vais venir chercher l'argent que tu nous dois. Inutile de fuir. Tu ne ferais qu'aggraver ton cas, et je te retrouverais où que tu ailles<nbsp>!",
       "ja": "(-ノッチド・ボーン宛ての手紙-)「お前がそこにいるのはわかっている。<br>\u3000貸したギル、全額返してもらいに行くから待ってろよ。<br>\u3000今度は絶対に逃さねえから、覚悟しとけ！」",
@@ -1972,8 +1972,8 @@
     },
     {
       "gameKey": "quest/019/HeaVnz826_01956#TEXT_HEAVNZ826_01956_NOTCHEDBONE_000_092",
-      "en": "We recognize Notched Bone and Dedean as cityfriends of Idyllshire.<br>City has only one rule they must obey: always respect friends!<br><br>Slowfix Dripwix",
-      "hash": "61422E2AA09AA5E4",
+      "en": "(-Signed Documentation-)We recognize Notched Bone and Dedean as cityfriends of Idyllshire.<br>City has only one rule they must obey: always respect friends!<br><br>Slowfix Dripwix",
+      "hash": "D935F9DB7D16CA1E",
       "unresolved": false,
       "fr": "(-Document signé-)Par ce document, les Gobelins reconnaissent Notched Bone et Dedean comme citoyens officiels d'Idyllée. Il n'y a qu'une règle à respecter<nbsp>: prendre soin les uns des autres.",
       "ja": "(-署名入りの書類-)「ノッチド・ボーン\u3000デデアン\u3000都市の仲間として\u3000認めるゴブ<br>\u3000都市のルールはただひとつ\u3000仲間に優しく\u3000守るゴブ！<br>\u3000スローフィクス\u3000ドリップウィクス",

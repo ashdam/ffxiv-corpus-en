@@ -412,8 +412,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_MEESIYA_000_030",
-      "en": "Very good. Starting data collection protocol.",
-      "hash": "EA882B5F304535A0",
+      "en": "(-Misija-)Very good. Starting data collection protocol.",
+      "hash": "F05F5A502E180634",
       "unresolved": false,
       "fr": "(-Misija-)<split(<string(gstr1)>, ,1)><nbsp>? Les données télémétriques que je reçois m'indiquent que vous avez installé l'appareil. Nous allons maintenant l'activer à distance.",
       "ja": "(-ミーシィヤ-)……設置を終えたようですね、承知しました。<br>では、こちらから遠隔操作で……。",
@@ -438,8 +438,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa107_03947#TEXT_LUCKSA107_03947_MEESIYA_000_031",
-      "en": "All systems are fully operational. You're free to return to camp.",
-      "hash": "C0B880153E2D5E70",
+      "en": "(-Misija-)All systems are fully operational. You're free to return to camp.",
+      "hash": "558A070FDA13B6F5",
       "unresolved": false,
       "fr": "(-Misija-)Bon travail. L'éthéromètre est opérationnel. Vous pouvez rentrer maintenant.",
       "ja": "(-ミーシィヤ-)それではお帰りをお待ちしております……。",

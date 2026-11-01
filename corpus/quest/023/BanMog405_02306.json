@@ -478,8 +478,8 @@
     },
     {
       "gameKey": "quest/023/BanMog405_02306#TEXT_BANMOG405_02306_WYVERN02306_000_021",
-      "en": "It is done. I am surprised after all these years they still respond to the dragon's call. The landlords were more clever than I thought. Come, let us find the others. ",
-      "hash": "EBF9473866734AC2",
+      "en": "(-Whei Ahf-)It is done. I am surprised after all these years they still respond to the dragon's call. The landlords were more clever than I thought. Come, let us find the others. ",
+      "hash": "DC755F2F5AC54800",
       "unresolved": false,
       "fr": "(-Whei Ahf-)J'avais peur qu'une statue aussi ancienne tombe en morceaux à cause de mon rugissement, mais on dirait que tout va bien. Passons à la suivante.",
       "ja": "(-ウェイ・アフ-)……成功したようです。<br>なにぶん古いものですし、私の魔力に耐えられるか不安でしたが、<br>この様子でしたら問題はないでしょう。",
@@ -526,8 +526,8 @@
     },
     {
       "gameKey": "quest/023/BanMog405_02306#TEXT_BANMOG405_02306_WYVERN02306_000_031",
-      "en": "This one too remembers the dragon's call. Hmmm...I sense there is yet another statue nearby. We must awaken it.",
-      "hash": "953BCA93993F451E",
+      "en": "(-Whei Ahf-)This one too remembers the dragon's call. Hmmm...I sense there is yet another statue nearby. We must awaken it.",
+      "hash": "ACE50C13548E516F",
       "unresolved": false,
       "fr": "(-Whei Ahf-)... Celle-ci semble également tenir le coup. Voyons voir s'il n'y en aurait pas une troisième.",
       "ja": "(-ウェイ・アフ-)……魔力を溜めることができたようです。<br>次の場所へ向かいましょう。",
@@ -599,8 +599,8 @@
     },
     {
       "gameKey": "quest/023/BanMog405_02306#TEXT_BANMOG405_02306_WYVERN02306_000_041",
-      "en": "This statue marks the last. I know not what manner of device is driven by their power, but it will soon be roused to action. Of this I am certain.",
-      "hash": "C3388C1F648CBD07",
+      "en": "(-Whei Ahf-)This statue marks the last. I know not what manner of device is driven by their power, but it will soon be roused to action. Of this I am certain.",
+      "hash": "F4B302CE0F63D745",
       "unresolved": false,
       "fr": "(-Whei Ahf-)Vous avez entendu<nbsp>? Celle-ci était cer<->tai<->ne<->ment la dernière. Quant à l'installation, elle devrait être en mesure de fonctionner cor<->rec<->te<->ment pendant quelque temps.",
       "ja": "(-ウェイ・アフ-)これで最後ですね。<br>魔力を溜めたので、これでしばらくは、<br>施設を動かすことができるでしょう。",

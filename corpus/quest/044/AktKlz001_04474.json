@@ -620,8 +620,8 @@
     },
     {
       "gameKey": "quest/044/AktKlz001_04474#TEXT_AKTKLZ001_04474_MONTICHAIGNE_000_051",
-      "en": "My apologies for keeping you waiting.",
-      "hash": "206FE0105EE29174",
+      "en": "(-???-)My apologies for keeping you waiting.",
+      "hash": "98D2359C2F9264C4",
       "unresolved": false,
       "fr": "(-???-)Ah<nbsp>! Veuillez excuser mon retard, <if(gnum4,toutes,tous)> les deux.",
       "ja": "(-？？？？-)ふたりとも、待たせてすまんの。",
@@ -1940,8 +1940,8 @@
     },
     {
       "gameKey": "quest/044/AktKlz001_04474#TEXT_AKTKLZ001_04474_SEARCHINGWAY_000_252",
-      "en": "Forgive the interruption, but...have we met? I swear you're the spitting image of one of those intrepid adventurers that visited the moon.",
-      "hash": "342965A048967B29",
+      "en": "(-Familiar Face-)Forgive the interruption, but...have we met? I swear you're the spitting image of one of those intrepid adventurers that visited the moon.",
+      "hash": "1AD0FE20D645D50C",
       "unresolved": false,
       "fr": "(-Loporrite curieux-)Excusez-moi, mais... Je vous ai déjà vu<if(gnum4,e,)> quelque part, non<nbsp>? Vous n'êtes pas venu<if(gnum4,e,)> sur la lune par hasard<nbsp>?",
       "ja": "(-知りたがりのレポリット-)あなた、どこかで見た覚えが……<br>もしかして、月に来たことがあるヒトッスか？",
@@ -2992,8 +2992,8 @@
     },
     {
       "gameKey": "quest/044/AktKlz001_04474#TEXT_AKTKLZ001_04474_TLAQATIA_000_322",
-      "en": "Well said, Scholarch Montichaigne!",
-      "hash": "A65896F905816B67",
+      "en": "(-???-)Well said, Scholarch Montichaigne!",
+      "hash": "8A64996BEE87DE58",
       "unresolved": false,
       "fr": "(-???-)Monsieur le recteurrr, vous m'ôtez les mots de la bouche<nbsp>!",
       "ja": "(-？？？？-)その話、乗ったぜ！",

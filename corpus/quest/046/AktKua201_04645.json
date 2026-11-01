@@ -284,8 +284,8 @@
     },
     {
       "gameKey": "quest/046/AktKua201_04645#TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_014",
-      "en": "I heard from the Admiral that you landed a permit for an island sanctuary, so I thought I would stop by and offer my support. Hyllfyr here is along for the ride, so to speak.",
-      "hash": "939C36C317643BF9",
+      "en": "(-Familiar Roegadyn-)I heard from the Admiral that you landed a permit for an island sanctuary, so I thought I would stop by and offer my support. Hyllfyr here is along for the ride, so to speak.",
+      "hash": "27E33D6E5E6162A7",
       "unresolved": false,
       "fr": "(-Roegadyn familier-)Content de vous revoir. L'Amirale m'a dit que vous participiez au projet, alors je suis venu vous rendre une visite de courtoisie avec Hyllfyr.",
       "ja": "(-見覚えのあるルガディン族-)おう、お前が無人島の開拓をしてるって、提督から聞いてな。<br>ヒルフィルの野郎を連れて遊びにきたぜ！",
@@ -310,8 +310,8 @@
     },
     {
       "gameKey": "quest/046/AktKua201_04645#TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_015",
-      "en": "And lest you worry, this is only our first stop on a tour of the Cieldalaes, so we'll be out of your hair before you know it.",
-      "hash": "DDBD995662B8C1F0",
+      "en": "(-Familiar Roegadyn-)And lest you worry, this is only our first stop on a tour of the Cieldalaes, so we'll be out of your hair before you know it.",
+      "hash": "E558026FDFCD65AE",
       "unresolved": false,
       "fr": "(-Roegadyn familier-)Oh, mais ne vous inquiétez pas, on ne va pas vous déranger bien longtemps. On compte explorer les autres îles aussi.",
       "ja": "(-見覚えのあるルガディン族-)ん？\u3000ああ、遊びにきたって言っても、<br>お前だけの聖域に長居するつもりはねぇから安心してくれ。<br>挨拶が済んだら別の島に行くつもりさ。",

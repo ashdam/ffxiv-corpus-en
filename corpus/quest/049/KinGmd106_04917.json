@@ -466,8 +466,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd106_04917#TEXT_KINGMD106_04917_ZEKOWA_000_037",
-      "en": "There you are. The <italic(1)>real<italic(0)> Daybreakers have arrived!",
-      "hash": "4DE072865DD88C1F",
+      "en": "(-Zekowa-)There you are. The <italic(1)>real<italic(0)> Daybreakers have arrived!",
+      "hash": "37DE5FAC4023B5B9",
       "unresolved": false,
       "fr": "(-Voix de Zekowa-)Nous voilà enfin<nbsp>! Les Justiciers des plaines<nbsp>!",
       "ja": "(-デコワの声-)待たせたな！<br>「荒野の夜明け団」の到着だ！",

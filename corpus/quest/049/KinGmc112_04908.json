@@ -826,8 +826,8 @@
     },
     {
       "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_038",
-      "en": "We can't change the past. But we can try to make the future better.",
-      "hash": "BA1BEF0DE77359A2",
+      "en": "(-Bakool Ja Ja the Mighty-)We can't change the past. But we can try to make the future better.",
+      "hash": "3EA79C212B6BFA99",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête guerrière-)Ce qui est fait est fait. On pourra jamais effacer nos crimes. En revanche, on peut maintenant arrêter de les perpétrer. Il est temps d'aller de l'avant, vous croyez pas\u00A0?",
       "ja": "(-戦のバクージャジャ-)オレたちの罪は、どうしたって消えるもんじゃねェ。<br>だとしても、これ以上の犠牲をなくせるんだったら、<br>やるべきことはひとつなんじゃねェか？",
@@ -852,8 +852,8 @@
     },
     {
       "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_039",
-      "en": "Let the old teachings end with us.",
-      "hash": "E3C79777D343A6F2",
+      "en": "(-Bakool Ja Ja the Mystic-)Let the old teachings end with us.",
+      "hash": "80CF4168831F817E",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête mage-)Nous devons en finir avec les préceptes des sangs-mêlés, ja.",
       "ja": "(-魔のバクージャジャ-)「双血の教え」は、もう終わりにしようよ。",
@@ -1390,8 +1390,8 @@
     },
     {
       "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_055",
-      "en": "We're counting on you, Wuk Lamat...",
-      "hash": "62FCE04B64A2CC8F",
+      "en": "(-Bakool Ja Ja-)We're counting on you, Wuk Lamat...",
+      "hash": "98D441753C69F072",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja-)On compte sur toi, Wuk Lamat.",
       "ja": "(-戦魔のバクージャジャ-)頼むぞ、ウクラマト……。",

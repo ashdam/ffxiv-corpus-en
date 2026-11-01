@@ -306,8 +306,8 @@
     },
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_WAWALAGO_000_011",
-      "en": "Here 'chovy, 'chovy! Here 'chovy, 'chovy! Fair flock of feisty fish you've got, giddy guppy! Careful they don't slip out of sight!",
-      "hash": "A7277B358CAC80F9",
+      "en": "(-???-)Here 'chovy, 'chovy! Here 'chovy, 'chovy! Fair flock of feisty fish you've got, giddy guppy! Careful they don't slip out of sight!",
+      "hash": "30A76E2CDE7451F4",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho<nbsp>! Ces <frnoun(Item,12,\u30004870,2,1)> sont tout frétillants. Cette jeune recrue a de l'avenir dans notre métier, je vous le dis. Il faut continuer comme ça, <if(gnum4,ma,mon)> jeune ami<if(gnum4,e,)>.",
       "ja": "(-？？？？-)ほうほう、活きのいい「<sheet(Item,\u30004870,0)>」ぢや。<br>こりゃ、なかなか将来有望そうぢやのう。<br>その調子で精進するんぢやぞい。",

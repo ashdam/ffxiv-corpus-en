@@ -492,8 +492,8 @@
     },
     {
       "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_LOANYINE_000_024",
-      "en": "Lady Napikwe!",
-      "hash": "B60B76BC5261C201",
+      "en": "(-???-)Lady Napikwe!",
+      "hash": "267BAD795539BA14",
       "unresolved": false,
       "fr": "(-???-)Hé ho<nbsp>! Napikwe<nbsp>! Tu es là<nbsp>?",
       "ja": "(-？？？？-)おーい、ナピクエさーん。",
@@ -518,8 +518,8 @@
     },
     {
       "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_LOANYINE_000_025",
-      "en": "Oh, sorry... I didn't realize you had company.",
-      "hash": "8A59434A8C07D8CD",
+      "en": "(-???-)Oh, sorry... I didn't realize you had company.",
+      "hash": "B5A2118B89D31B9A",
       "unresolved": false,
       "fr": "(-???-)Ah, désolé de vous avoir interrompu<if(gnum4,es,s)>.",
       "ja": "(-？？？？-)あ、ごめん……来客中だったか。",

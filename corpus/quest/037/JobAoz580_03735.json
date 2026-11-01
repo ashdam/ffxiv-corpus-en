@@ -1142,8 +1142,8 @@
     },
     {
       "gameKey": "quest/037/JobAoz580_03735#TEXT_JOBAOZ580_03735_FYRGEISS_000_042",
-      "en": "They went this way! Quickly!",
-      "hash": "8A569371499C6D59",
+      "en": "(-???-)They went this way! Quickly!",
+      "hash": "CE8CB2A29F0F8292",
       "unresolved": false,
       "fr": "(-???-)Hé, vous là-bas<nbsp>! Rien de cassé<nbsp>?",
       "ja": "(-？？？？-)君たち、大丈夫かね……？",
@@ -1246,8 +1246,8 @@
     },
     {
       "gameKey": "quest/037/JobAoz580_03735#TEXT_JOBAOZ580_03735_ROYSE_000_046",
-      "en": "You heard him, Fyrgeiss!",
-      "hash": "14695790B967C998",
+      "en": "(-???-)You heard him, Fyrgeiss!",
+      "hash": "2ECEAD419C4513A9",
       "unresolved": false,
       "fr": "(-???-)Monsieur Fyrgeiss, j'attends des ex<->pli<->ca<->tions.",
       "ja": "(-？？？？-)本当に、いったいぜんたいどういうことよッ！！",

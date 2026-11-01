@@ -814,8 +814,8 @@
     },
     {
       "gameKey": "quest/047/AktKct202_04768#TEXT_AKTKCT202_04768_QUINNANA_000_027",
-      "en": "<italic(1)>If, perhaps, you wish to prove your promise as a provider, I shall share the secrets of several bounties forgotten by time. From them, you may gather to your heart's content.<italic(0)>",
-      "hash": "1C3D3ABBF1A36478",
+      "en": "(-Qeshi-Trao's Letter-)<italic(1)>If, perhaps, you wish to prove your promise as a provider, I shall share the secrets of several bounties forgotten by time. From them, you may gather to your heart's content.<italic(0)>",
+      "hash": "82D3B1330CD71A3F",
       "unresolved": false,
       "fr": "(-Lettre de Qeshi-Trao-)“<if(gnum4,Chère Guerrière des Ténèbres,Cher Guerrier des Ténèbres)>,<br>Suite aux encouragements de Mowen, j'ai accepté de partager quelques secrets glanés grâce à ma splendide collection. Des lieux savamment cachés et regorgeant de merveilles<nbsp>!",
       "ja": "(-ケシ・トラオからの手紙-)『これまで優秀な採集家としての才能を見せてくれた方には、<br>\u3000特別に、わたくしの知るとっておきの採集地を、<br>\u3000教えてさしあげようと思うの』",
@@ -840,8 +840,8 @@
     },
     {
       "gameKey": "quest/047/AktKct202_04768#TEXT_AKTKCT202_04768_QUINNANA_000_028",
-      "en": "<italic(1)>Anything you obtain from these areas may be aetherially reduced into the components you require for your tools. Doing so may allow you to obtain what you seek faster than I can provide, in fact!<italic(0)>",
-      "hash": "4EEE4C36B6FCA1F2",
+      "en": "(-Qeshi-Trao's Letter-)<italic(1)>Anything you obtain from these areas may be aetherially reduced into the components you require for your tools. Doing so may allow you to obtain what you seek faster than I can provide, in fact!<italic(0)>",
+      "hash": "D6F5AEB81E073BD3",
       "unresolved": false,
       "fr": "(-Lettre de Qeshi-Trao-)Je n'ai rien à vous apprendre de l'éthérolyse, j'imagine<nbsp>? En utilisant ce procédé sur vos trouvailles, vous pourrez mettre la main sur le même type de matériaux rares que je fournis à la maison des merveilles.",
       "ja": "(-ケシ・トラオからの手紙-)『そこで入手できる品を「精選」すれば、<br>\u3000わたくしの提供する物と同じ稀少材料を入手できるはず。<br>\u3000もしかしたら、そのほうが早く集められるかもしれないわね』",
@@ -866,8 +866,8 @@
     },
     {
       "gameKey": "quest/047/AktKct202_04768#TEXT_AKTKCT202_04768_QUINNANA_000_029",
-      "en": "<italic(1)>Of course, it is perfectly acceptable to exchange the components as normal, so you are welcome to gather your supplies however you wish. I look forward to hearing tales of your success in Eulmore and beyond!<br>- Qeshi-Trao<italic(0)>",
-      "hash": "BE9E127CBEFE8B76",
+      "en": "(-Qeshi-Trao's Letter-)<italic(1)>Of course, it is perfectly acceptable to exchange the components as normal, so you are welcome to gather your supplies however you wish. I look forward to hearing tales of your success in Eulmore and beyond!<br>- Qeshi-Trao<italic(0)>",
+      "hash": "383639A6EC992DB6",
       "unresolved": false,
       "fr": "(-Lettre de Qeshi-Trao-)Évidemment, vous êtes libre de troquer certaines mar<->chan<->di<->ses contre les mêmes matériaux, tout dépend de votre méthode de travail préférée.<br>Dans l'attente de vos nouvelles trouvailles, je vous prie de bien vouloir croire en l'assurance de mes plus sincères encouragements.“",
       "ja": "(-ケシ・トラオからの手紙-)『従来どおり、取引資本と稀少材料の交換でも申し分ないし、<br>\u3000好きな方法を採っていただいて構いませんわ。<br>\u3000それでは、新しい道具を楽しみにしていますわね。\u3000かしこ』",

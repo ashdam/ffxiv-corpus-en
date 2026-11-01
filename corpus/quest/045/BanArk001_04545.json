@@ -1184,8 +1184,8 @@
     },
     {
       "gameKey": "quest/045/BanArk001_04545#TEXT_BANARK001_04545_MARU_000_031",
-      "en": "H-Hey! No stoppin'!",
-      "hash": "93A277C16CD888BC",
+      "en": "(-Rider-)H-Hey! No stoppin'!",
+      "hash": "0A7925D7AECB08A1",
       "unresolved": false,
       "fr": "(-Cocher-)Eh bien, qu'est-ce qui te prend<nbsp>? Je t'ai pas demandé de t'arrêter, que je sache<nbsp>!",
       "ja": "(-ヒッポカートの御者-)あ、こら……！<br>止まるな、止まるなって……！",
@@ -1210,8 +1210,8 @@
     },
     {
       "gameKey": "quest/045/BanArk001_04545#TEXT_BANARK001_04545_MARU_000_032",
-      "en": "What? Why's there fruit in the middle of the...?",
-      "hash": "C48BBC81D2383E22",
+      "en": "(-Rider-)What? Why's there fruit in the middle of the...?",
+      "hash": "B5CA69F4CB1908C6",
       "unresolved": false,
       "fr": "(-Cocher-)... Des fruits et légumes<nbsp>? Mais qu'est-ce qu'ils font par terre<nbsp>!?",
       "ja": "(-ヒッポカートの御者-)ん……？<br>なんでこんなところに果物が……。",
@@ -2596,8 +2596,8 @@
     },
     {
       "gameKey": "quest/045/BanArk001_04545#TEXT_BANARK001_04545_ALCHEMIST04545_000_091",
-      "en": "You wouldn't happen to be talking about an imported package, would you?",
-      "hash": "43C4149D74D9C872",
+      "en": "(-???-)You wouldn't happen to be talking about an imported package, would you?",
+      "hash": "56C32B127595B926",
       "unresolved": false,
       "fr": "(-???-)Ai-je bien entendu le mot “livraison”<nbsp>? S'agirait-il d'herbes en provenance de Gridania, par hasard<nbsp>?",
       "ja": "(-？？？？-)荷物の配達だって？<br>もしかして、輸入品の薬草だったりしないかい？",

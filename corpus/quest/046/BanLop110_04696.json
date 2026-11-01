@@ -617,8 +617,8 @@
     },
     {
       "gameKey": "quest/046/BanLop110_04696#TEXT_BANLOP110_04696_SUPPORTER04696_000_028",
-      "en": "\\<buzz> Greetings, greetings. Hail fellow well met. \\<buzz> This is Savingway, this is Savingway.",
-      "hash": "D1050A914F171CC4",
+      "en": "(-Savingway's Voice-)\\<buzz> Greetings, greetings. Hail fellow well met. \\<buzz> This is Savingway, this is Savingway.",
+      "hash": "6B0457413D96B5C7",
       "unresolved": false,
       "fr": "...Pschhh... Un, deux, un, deux\u00A0! Crrr... Ici Savingway, ceci est un test d'enregistrement sonore\u00A0!",
       "ja": "(-セーヴィングウェイの録音音声-)『……ザザ…………<br>\u3000アーアー、コチラセーヴィングウェイ！<br>\u3000ロクオンキノウノテストチュウ！』",
@@ -667,8 +667,8 @@
     },
     {
       "gameKey": "quest/046/BanLop110_04696#TEXT_BANLOP110_04696_SUPPORTER04696_100_028",
-      "en": "\\<buzz> Greetings... Hail...well met... This...Saving... This is... \\<buzzzzzz>",
-      "hash": "D40B324C1E8A12CE",
+      "en": "(-Savingway's Voice-)\\<buzz> Greetings... Hail...well met... This...Saving... This is... \\<buzzzzzz>",
+      "hash": "88591ADC71047F85",
       "unresolved": false,
       "fr": "... Pschhh... Crr... deux, un, d... Schhh... way, ceci est un... Crrr... registrement sonore\u00A0! Schhh...",
       "ja": "(-かすれた録音音声-)『……ザザザ…………<br>\u3000アー、アアー……ザザ……ウェイ！ウェイウェイ！<br>\u3000テステス、テストチュウーー！』",
@@ -717,8 +717,8 @@
     },
     {
       "gameKey": "quest/046/BanLop110_04696#TEXT_BANLOP110_04696_SUPPORTER04696_200_028",
-      "en": "\\<buzz> \\<squeal> \\<squeal> \\<squeal>!",
-      "hash": "ACB1293F54B9F11C",
+      "en": "(-???-)\\<buzz> \\<squeal> \\<squeal> \\<squeal>!",
+      "hash": "B438975203127B48",
       "unresolved": false,
       "fr": "... Pschhhh... Bzzz... Graa... Grooaa\u00A0! Graaouh\u00A0!! Schhh... aoouuu\u00A0!! Graaouu, graaah\u00A0!!",
       "ja": "(-謎のノイズと鳴き声-)『……ザザ……ザ……<br>\u3000…………ガウ……<br>\u3000ガウガウ、ガウガウガウガウ……！！』",

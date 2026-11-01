@@ -1170,8 +1170,8 @@
     },
     {
       "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_RURUKUTA_000_92",
-      "en": "Save the talk. We have crates to move.",
-      "hash": "A4BE4F1892028AF9",
+      "en": "(-Silver-haired Lalafell-)Save the talk. We have crates to move.",
+      "hash": "B65A2C19005DDA69",
       "unresolved": false,
       "fr": "(-Lalafell aux cheveux argentés-)Trêve de bavardages. On a pas le temps de tailler une bavette ici, il faut se dépêcher de livrer la marchandise.",
       "ja": "(-銀髪のララフェル-)御託はいい……さっさと、運ぶぞ。",
@@ -1352,8 +1352,8 @@
     },
     {
       "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_ZANTOU_000_100",
-      "en": "Hamon Holyfist!? Just our luck...",
-      "hash": "DD10624251C01B4F",
+      "en": "(-Servant of the Alacran-)Hamon Holyfist!? Just our luck...",
+      "hash": "2E85877E5B76D8C8",
       "unresolved": false,
       "fr": "(-Membre des Alacrán-)Merde...<nbsp>! C'est Hamon “Poings divins”<nbsp>! On a aucune chance contre lui...",
       "ja": "(-アラクランの一味-)「拳聖のハモン」か……クソッ！",
@@ -1716,8 +1716,8 @@
     },
     {
       "gameKey": "quest/005/ClsPgl150_00558#TEXT_CLSPGL150_00558_ZANTOU_000_116",
-      "en": "Gahaha! I can scarce believe my eyes! Wait till Master Weggfarr learns of this!",
-      "hash": "4FF7D00B9E70D4CD",
+      "en": "(-Servant of the Alacran-)Gahaha! I can scarce believe my eyes! Wait till Master Weggfarr learns of this!",
+      "hash": "5AC0175B8CCD46C9",
       "unresolved": false,
       "fr": "(-Membre des Alacrán-)Bouahaha<nbsp>! Le légendaire maître du combat à mains nues est même pas capable de battre un rongeur<nbsp>! Voilà quelque chose qui va réjouir Weggfarr<nbsp>!",
       "ja": "(-アラクランの一味-)あの「拳聖のハモン」が、弱くなっていたとは！<br>ヴェッグファル様に面白い報告ができるぜ！",

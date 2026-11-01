@@ -862,8 +862,8 @@
     },
     {
       "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_LOPORIT05253A_100_005",
-      "en": "That can't be him. Surely it's not him...is it!?",
-      "hash": "C7451590DE7FBA0C",
+      "en": "(-Loudly Whispering Loporrit-)That can't be him. Surely it's not him...is it!?",
+      "hash": "D516AEABEDFF2548",
       "unresolved": false,
       "fr": "(-Loporrite qui chuchote-)Ça alors, là-bas... Ce serait pas...",
       "ja": "(-ひそひそレポリット-)ねぇ、あれって……まさか……？",
@@ -888,8 +888,8 @@
     },
     {
       "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_LOPORIT05253B_100_006",
-      "en": "There's no mistaking that red garb!",
-      "hash": "9D540EDFE6C4900B",
+      "en": "(-Openly Staring Loporrit-)There's no mistaking that red garb!",
+      "hash": "1A550B52AA833CCC",
       "unresolved": false,
       "fr": "(-Loporrite qui dévisage-)Aucun doute là-dessus\u00A0! Regarde ses vêtements rouges\u00A0!",
       "ja": "(-じろじろレポリット-)間違いないよ、あの赤い服！",
@@ -940,8 +940,8 @@
     },
     {
       "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_SEARCHINGWAY_100_008",
-      "en": "Namingway!?",
-      "hash": "507546BADCAAD80C",
+      "en": "(-???-)Namingway!?",
+      "hash": "1E1FC442208F9D88",
       "unresolved": false,
       "fr": "(-???-)J'ai bien entendu “Namingway”\u00A0!?",
       "ja": "(-？？？？-)ネミングウェイ、だって……！？",
@@ -966,8 +966,8 @@
     },
     {
       "gameKey": "quest/052/KinGwk101_05253#TEXT_KINGWK101_05253_SEARCHINGWAY_100_009",
-      "en": "It <italic(1)>is<italic(0)> you! Where have you been for the past century!?",
-      "hash": "1D7C87F6C4FD6406",
+      "en": "(-???-)It <italic(1)>is<italic(0)> you! Where have you been for the past century!?",
+      "hash": "8FCF3357D096570E",
       "unresolved": false,
       "fr": "(-???-)Non mais dis donc\u00A0! Tu étais passé où, depuis plus de cent ans\u00A0!?",
       "ja": "(-？？？？-)こらぁ～！<br>100年以上、どこほっつき歩いてたッス！",

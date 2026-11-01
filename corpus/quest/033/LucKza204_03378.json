@@ -1202,8 +1202,8 @@
     },
     {
       "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_102",
-      "en": "Master Ghen Gen, might I have a─ Ah, there they are.",
-      "hash": "B3A48E731B022A62",
+      "en": "(-Familiar Voice-)Master Ghen Gen, might I have a─ Ah, there they are.",
+      "hash": "323B680D1DBEC3F5",
       "unresolved": false,
       "fr": "Ghen Gen, je peux te parler<nbsp>? Tiens, Ghun Gun et <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-聞き覚えのある声-)ゲーンゲン族長、少々話が……おや？",

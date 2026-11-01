@@ -1530,8 +1530,8 @@
     },
     {
       "gameKey": "quest/015/SubPst007_01533#TEXT_SUBPST007_01533_ETAJHA_000_042",
-      "en": "Ungrateful wench! You're not worthy to polish the captain's blade!",
-      "hash": "AF2E7FBE9F2666CA",
+      "en": "(-E'tajha and E'lahmui-)Ungrateful wench! You're not worthy to polish the captain's blade!",
+      "hash": "244A7BE84B5BDC36",
       "unresolved": false,
       "fr": "(-Subordonnées de Hunberct-)Grrrh<nbsp>! Fshhhh<nbsp>!! Grrr... Fsiiih<nbsp>!",
       "ja": "(-フンベルクトの部下たち-)ニャニャニャニャーーーーー！！！",
@@ -1946,8 +1946,8 @@
     },
     {
       "gameKey": "quest/015/SubPst007_01533#TEXT_SUBPST007_01533_ELAHMUI_000_063",
-      "en": "<italic(1)>You<italic(0)>, my captain─and nothing but you!",
-      "hash": "C7D27BD14F10BF78",
+      "en": "(-E'tajha and E'lahmui-)<italic(1)>You<italic(0)>, my captain─and nothing but you!",
+      "hash": "C73433E9D0F70876",
       "unresolved": false,
       "fr": "(-Subordonnées de Hunberct-)Oh, Capitaine<nbsp>! Vous êtes si beau et fort<nbsp>! Vous êtes le meilleur<nbsp>! Nous sommes heurrreuses d'être sous vos ordres<nbsp>!",
       "ja": "(-フンベルクトの部下たち-)ニャニャニャニャー！<br>隊長サイコーニャー！！<br>隊長の部下でよかったニャーーー！！",
@@ -2024,8 +2024,8 @@
     },
     {
       "gameKey": "quest/015/SubPst007_01533#TEXT_SUBPST007_01533_ELAHMUI_000_066",
-      "en": "Yes, <italic(1)>sir<italic(0)>!",
-      "hash": "C7CCA6C92E137941",
+      "en": "(-E'tajha and E'lahmui-)Yes, <italic(1)>sir<italic(0)>!",
+      "hash": "0EA8476B78F5CF14",
       "unresolved": false,
       "fr": "(-Subordonnées de Hunberct-)À vos ordres, Capitaine<nbsp>!",
       "ja": "(-フンベルクトの部下たち-)了解ニャー！<br>やっぱり隊長は、戦ってる時が一番素敵ニャ！",

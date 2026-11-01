@@ -252,8 +252,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa304_04087#TEXT_LUCKSA304_04087_CID_000_003",
-      "en": "This isn't the first time the Empire has shown an interest in such relics...",
-      "hash": "59F3B797C453ED3D",
+      "en": "(-Familiar Voice-)This isn't the first time the Empire has shown an interest in such relics...",
+      "hash": "784BDB2882E90AEE",
       "unresolved": false,
       "fr": "(-Voix familière-)Une autre surprise du genre Ultima Arma<nbsp>? Ce serait le bouquet.",
       "ja": "(-聞き覚えのある声-)まさか、それはアルテマウェポンの類じゃないだろうな？",
@@ -1520,8 +1520,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa304_04087#TEXT_LUCKSA304_04087_LILJA_000_080",
-      "en": "Soldiers, eh? By the sounds of it, they didn't put up much of a fight. Well, whenever you're ready, I'm standing by.",
-      "hash": "AF48850105FA5927",
+      "en": "(-Lilja-)Soldiers, eh? By the sounds of it, they didn't put up much of a fight. Well, whenever you're ready, I'm standing by.",
+      "hash": "65A0433987C454E2",
       "unresolved": false,
       "fr": "(-Voix de Lilja-)Des Impériaux ont eu le malheur de tomber sur vous, et vous en avez fait qu'une bouchée<nbsp>!? Ha<nbsp>! Ça m'étonne pas<nbsp>! Vous êtes pas <if(gnum4,l'héroïne,le héros)> d'Éorzéa pour rien<nbsp>!",
       "ja": "(-リリヤの声-)帝国兵と遭遇したんスね？\u3000でも、一瞬で討伐したと。<br>さっすが～、英雄さんッス！<br>んでは、観測装置を起動するッス！",
@@ -1546,8 +1546,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa304_04087#TEXT_LUCKSA304_04087_LILJA_000_081",
-      "en": "Signal detected. Everything seems to be working as it should. You're clear to head back, <split(<string(gstr1)>, ,1)>.",
-      "hash": "D7D1FFDE7935C575",
+      "en": "(-Lilja-)Signal detected. Everything seems to be working as it should. You're clear to head back, <split(<string(gstr1)>, ,1)>.",
+      "hash": "85F3C6197CAC5643",
       "unresolved": false,
       "fr": "(-Voix de Lilja-)OK, tout a l'air de rouler. Je lance le programme de sondage. Vous pouvez rentrer<nbsp>!",
       "ja": "(-リリヤの声-)起動をこちらでも確認したッス。<br>早速、地脈を探索するので、英雄さんは帰還してくださいッス！",

@@ -608,8 +608,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_015",
-      "en": "Oho, if it isn't the very <if(gnum4,woman,man)> I've been longing to see!",
-      "hash": "68CE239B3FF692B2",
+      "en": "(-???-)Oho, if it isn't the very <if(gnum4,woman,man)> I've been longing to see!",
+      "hash": "3C57AE8C8949B67D",
       "unresolved": false,
       "fr": "(-???-)Ha ha, on dirait que c'est mon jour de chance<nbsp>! Deux personnes en guise d'accueil pour le prix d'une<nbsp>!",
       "ja": "(-？？？？-)こいつぁ、ツイてるな。<br>待ち人来るとは、まさにこの事だぜ……！",

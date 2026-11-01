@@ -802,8 +802,8 @@
     },
     {
       "gameKey": "quest/023/BanMog001_02320#TEXT_BANMOG001_02320_TARRESSON_000_022",
-      "en": "You haven't sent <italic(1)>every<italic(0)> stonemason, my dear Handeloup.",
-      "hash": "9BE8D4C1D4CD426D",
+      "en": "(-???-)You haven't sent <italic(1)>every<italic(0)> stonemason, my dear Handeloup.",
+      "hash": "30C4F032DF60310D",
       "unresolved": false,
       "fr": "(-???-)Vraiment<nbsp>? Personne n'a encore fait appel à moi, pourtant.",
       "ja": "(-？？？？-)ならば、ワシの出番じゃろうて……。",

@@ -350,8 +350,8 @@
     },
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_THREEOFFICER_000_14",
-      "en": "Beg pardons!",
-      "hash": "FA3F94A792B7700B",
+      "en": "(-???-)Beg pardons!",
+      "hash": "FE012E1F20FECFDC",
       "unresolved": false,
       "fr": "(-???-)Ah, veuillez pardonner cette intrusion...",
       "ja": "(-？？？？-)失礼する！！",
@@ -818,8 +818,8 @@
     },
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_THREEOFFICER_000_32",
-      "en": "Lady Minfilia!",
-      "hash": "2737FCE1D5C43B9C",
+      "en": "(-Grand Company Officers-)Lady Minfilia!",
+      "hash": "42A6EDF552B77567",
       "unresolved": false,
       "fr": "(-Les trois officiers-)Minfilia<nbsp>!",
       "ja": "(-各国の将校たち-)ミンフィリア殿！！",
@@ -1156,8 +1156,8 @@
     },
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_THREEOFFICER_000_45",
-      "en": "We eagerly await your answer!",
-      "hash": "993131771355B79D",
+      "en": "(-Grand Company Officers-)We eagerly await your answer!",
+      "hash": "90C8C2EA22CA304C",
       "unresolved": false,
       "fr": "(-Les trois officiers-)Nous attendrons ici, jusqu'à ce que vous preniez votre décision<nbsp>!",
       "ja": "(-各国の将校たち-)それまで、ここでお待ちしております！！",

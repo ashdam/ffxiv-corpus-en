@@ -576,8 +576,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_110_060",
-      "en": "We are at a disadvantage here... We should linger no longer than necessary.",
-      "hash": "18ABC89C2FE63E43",
+      "en": "(-Taciturn Temple Knight-)We are at a disadvantage here... We should linger no longer than necessary.",
+      "hash": "88ACC92984409407",
       "unresolved": false,
       "fr": "(-Chevalière taciturne-)Nous ferions mieux de partir d'ici. Les hérétiques peuvent profiter du relief pour nous tomber dessus comme une avalanche.",
       "ja": "(-女神殿騎士-)異端者どもめ、厄介なことを……。",
@@ -732,8 +732,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_004",
-      "en": "There she is!",
-      "hash": "DCCB3F45B2260142",
+      "en": "(-???-)There she is!",
+      "hash": "3A649F905D83325D",
       "unresolved": false,
       "fr": "(-???-)Regarde<nbsp>! C'est la femme qui commande les tuniques bleues<nbsp>!",
       "ja": "(-異端者-)見つけたぞっ！",
@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_HERETIC02400_000_005",
-      "en": "Come here, girl!",
-      "hash": "0C63286E161D1964",
+      "en": "(-Heretic-)Come here, girl!",
+      "hash": "F0FD6FE741B052A9",
       "unresolved": false,
       "fr": "(-Hérétique-)Par ici, ma jolie<nbsp>!",
       "ja": "(-異端者-)巫女様のために死ね！",
@@ -1590,8 +1590,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse408_00075#TEXT_GAIUSE408_00075_LUCIA_000_130",
-      "en": "'Tis a blessing you are still with us. Commander Leveilleur took to pacing in your absence.",
-      "hash": "7120D88BCA16876C",
+      "en": "(-Taciturn Temple Knight-)'Tis a blessing you are still with us. Commander Leveilleur took to pacing in your absence.",
+      "hash": "5C75A6724D608AA2",
       "unresolved": false,
       "fr": "(-Chevalière taciturne-)Le commandant Leveilleur faisait les cent pas pendant votre absence. Je pense qu'il sera ravi de vous savoir de retour.",
       "ja": "(-女神殿騎士-)戻られたか……。<br>まずは「アルフィノ」殿に報告するのが、よろしかろう。",

@@ -1142,8 +1142,8 @@
     },
     {
       "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_500010_YSAYLE",
-      "en": "Hmph...",
-      "hash": "B6230AEDDBF174A8",
+      "en": "(-???-)Hmph...",
+      "hash": "50B29120021B417D",
       "unresolved": false,
       "fr": "(-???-)... Hmpf<nbsp>!",
       "ja": "(-？？？？-)……フフッ。",
@@ -3206,8 +3206,8 @@
     },
     {
       "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_D00060_ALL",
-      "en": "For the freedom of all!",
-      "hash": "0AA82E73D01BFD20",
+      "en": "(-Crystal Braves-)For the freedom of all!",
+      "hash": "41765DA90402FB11",
       "unresolved": false,
       "fr": "(-Braves du Cristal-)Pour Éorzéa<nbsp>!!",
       "ja": "(-クリスタルブレイブ隊員一同-)すべては、エオルゼアのために！",

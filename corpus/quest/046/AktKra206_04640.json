@@ -1416,8 +1416,8 @@
     },
     {
       "gameKey": "quest/046/AktKra206_04640#TEXT_AKTKRA206_04640_ATHENA_000_069",
-      "en": "...Can you feel it?",
-      "hash": "83EF057651A6BD01",
+      "en": "(-Athena's Voice-)...Can you feel it?",
+      "hash": "59B2B0035AA8CA23",
       "unresolved": false,
       "fr": "(-Voix d'Athéna-)... Tu les ressens, n'est-ce pas<nbsp>?",
       "ja": "(-アテナの声-)……どう、感じる？",
@@ -1442,8 +1442,8 @@
     },
     {
       "gameKey": "quest/046/AktKra206_04640#TEXT_AKTKRA206_04640_ATHENA_100_069",
-      "en": "My heart... All that I am.",
-      "hash": "0D108BE0938B55C1",
+      "en": "(-Athena's Voice-)My heart... All that I am.",
+      "hash": "0AA2A36D1CA50EE5",
       "unresolved": false,
       "fr": "(-Voix d'Athéna-)Ce sont mes pensées les plus intimes... L'essence même de ma personne...",
       "ja": "(-アテナの声-)これが、私の願い……私のすべて……。",
@@ -3202,8 +3202,8 @@
     },
     {
       "gameKey": "quest/046/AktKra206_04640#TEXT_AKTKRA206_04640_FOURCHENAULT_000_701",
-      "en": "Why is it that whenever danger visits the world, you are never far behind?",
-      "hash": "437482F283B3DE74",
+      "en": "(-???-)Why is it that whenever danger visits the world, you are never far behind?",
+      "hash": "2768A03E72814B6C",
       "unresolved": false,
       "fr": "(-???-)Pourquoi, à chaque fois qu'il arrive quelque phénomène fâcheux, il faut que vous soyez dans les parages<nbsp>?",
       "ja": "(-？？？？-)大きな問題が生じるときには、<br>なぜ、必ず君の姿があるのだろうな……。",

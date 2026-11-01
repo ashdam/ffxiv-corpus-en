@@ -1016,8 +1016,8 @@
     },
     {
       "gameKey": "quest/014/BanIxa002_01487#TEXT_BANIXA002_01487_TATARAMU_000_036",
-      "en": "Hildeyerd! Have you any word on my delivery?",
-      "hash": "43289128CDA320AE",
+      "en": "(-???-)Hildeyerd! Have you any word on my delivery?",
+      "hash": "22E0A58EECF6CF5B",
       "unresolved": false,
       "fr": "(-???-)Hildeyerd, vous avez un instant, s'il vous plaît<nbsp>?",
       "ja": "(-？？？？-)ヒルデヤードさん、頼んでいた物、届いていますか？",
@@ -1042,8 +1042,8 @@
     },
     {
       "gameKey": "quest/014/BanIxa002_01487#TEXT_BANIXA002_01487_TATARAMU_000_037",
-      "en": "Hm? And who might this <if(gnum4,lady,gentleman)> be? ...And why does <if(gnum4,she,he)> hold the component materials that <italic(1)>I<italic(0)> ordered!?",
-      "hash": "6D868A5E11FF82EE",
+      "en": "(-Lalafellin Youth-)Hm? And who might this <if(gnum4,lady,gentleman)> be? ...And why does <if(gnum4,she,he)> hold the component materials that <italic(1)>I<italic(0)> ordered!?",
+      "hash": "10786842A69A0C21",
       "unresolved": false,
       "fr": "(-Jeune Lalafell-)... Euh, c'est bien <frnoun(EventItem,1,2001364,1,1)> que je vois là<nbsp>? Alors, ça veut dire que ma commande est arrivée<nbsp>?",
       "ja": "(-ララフェル族の少年-)あれ？\u3000その「<sheet(EventItem,2001364,0)>」……<br>ひょっとして、僕が頼んでいたものじゃないですか！？",
@@ -1068,8 +1068,8 @@
     },
     {
       "gameKey": "quest/014/BanIxa002_01487#TEXT_BANIXA002_01487_TATARAMU_000_038",
-      "en": "This is outrageous! You cannot simply swoop in and snatch up the wares I reserved a moon in advance!",
-      "hash": "0FA6687B05D3148D",
+      "en": "(-Lalafellin Youth-)This is outrageous! You cannot simply swoop in and snatch up the wares I reserved a moon in advance!",
+      "hash": "47F47850FAA80F38",
       "unresolved": false,
       "fr": "(-Jeune Lalafell-)Je vous signale que je l'ai passée il y a déjà plus d'un mois<nbsp>! Ça commence à faire long, si vous voulez mon avis<nbsp>!<nbsp>... Attendez... Ne me dites pas que vous allez la donner à quelqu'un d'autre, tout de même<nbsp>!!",
       "ja": "(-ララフェル族の少年-)ちょっと、どうなってるんですかっ！？<br>横取りなんて、あんまりじゃないですか！？<br>その材料は、僕が1ヶ月前から予約していたものなんですよ？",

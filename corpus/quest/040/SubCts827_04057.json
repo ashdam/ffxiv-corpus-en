@@ -513,8 +513,8 @@
     },
     {
       "gameKey": "quest/040/SubCts827_04057#TEXT_SUBCTS827_04057_WANDERINGMINSTREL_000_020",
-      "en": "And lo, once more do our paths cross, O tamer of legends. Are you, perchance, in the midst of some great adventure?",
-      "hash": "CCACDBFD515B0267",
+      "en": "(-???-)And lo, once more do our paths cross, O tamer of legends. Are you, perchance, in the midst of some great adventure?",
+      "hash": "BB3FEDD1655299F9",
       "unresolved": false,
       "fr": "(-???-)... C'est toujours un plaisir de croiser le chemin d'un<if(gnum4,e,)> passionné<if(gnum4,e,)> de créatures légendaires tel<if(gnum4,le,)> que vous, mais être réunis à Azys Lla par le fruit du hasard est encore plus ex<->cep<->tion<->nel. Laissez-moi deviner, vous êtes à la recherche d'un trésor ancien<nbsp>?",
       "ja": "(-？？？？-)やあ、こんなところで伝説の幻獣を従えた君に会うとは、<br>なんと奇跡的な巡り合わせ……。<br>また何か、素敵な冒険の途中なのかな？",
@@ -538,8 +538,8 @@
     },
     {
       "gameKey": "quest/040/SubCts827_04057#TEXT_SUBCTS827_04057_WANDERINGMINSTREL_000_021",
-      "en": "And lo, once more do our paths cross, O matchless champion. Are you, perchance, in the midst of some great adventure?",
-      "hash": "225DB93DD5A85CEF",
+      "en": "(-???-)And lo, once more do our paths cross, O matchless champion. Are you, perchance, in the midst of some great adventure?",
+      "hash": "FEF3CA7F4EDA8A66",
       "unresolved": false,
       "fr": "(-???-)... C'est toujours un plaisir de croiser le chemin d'un<if(gnum4,e,)> aventuri<if(gnum4,ère,er)> aussi réputé<if(gnum4,e,)> que vous, mais être réunis à Azys Lla par le fait du hasard est encore plus ex<->cep<->tion<->nel. Laissez-moi deviner, vous êtes à la recherche d'un trésor ancien<nbsp>?",
       "ja": "(-？？？？-)やあ、稀代の英雄たる君に、こんなところで出会うとは、<br>なんと奇跡的な巡り合わせ……。<br>何か素敵な冒険の途中なのかな？",

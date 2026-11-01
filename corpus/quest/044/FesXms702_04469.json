@@ -1508,8 +1508,8 @@
     },
     {
       "gameKey": "quest/044/FesXms702_04469#TEXT_FESXMS702_04469_WOODWAILER04469_000_111",
-      "en": "What the─!? Yetis! Yetis in the ranch! Take cover at once!",
-      "hash": "5F95FE0899A7A1DB",
+      "en": "(-Man's Shout-)What the─!? Yetis! Yetis in the ranch! Take cover at once!",
+      "hash": "3B723DEE89D5D964",
       "unresolved": false,
       "fr": "(-Homme effaré-)Aaah<nbsp>! Mais qu'est-ce que des yétis viennent faire ici<nbsp>!?",
       "ja": "(-男の叫び声-)うわああああ！？<br>なんでこんなところにイエティが！？",
@@ -2386,8 +2386,8 @@
     },
     {
       "gameKey": "quest/044/FesXms702_04469#TEXT_FESXMS702_04469_BAENFAELD_000_153",
-      "en": "Dear Rudy,<br>Your delightful little snowball treats simply sparkled with festive Starlight spirit. I daresay you were the finest of all my helpers this season! Ho ho ho!",
-      "hash": "1A5DC4E08C7A6A3D",
+      "en": "(-Enigmatic Letter-)Dear Rudy,<br>Your delightful little snowball treats simply sparkled with festive Starlight spirit. I daresay you were the finest of all my helpers this season! Ho ho ho!",
+      "hash": "05F916272D501732",
       "unresolved": false,
       "fr": "(-Lettre du saint-)“J'ai vu que tu avais con<->fec<->tion<->né de magnifiques boules de neige. Tu es devenu un véritable disciple du saint. Ho ho ho<nbsp>!”",
       "ja": "(-見覚えのない手紙-)「素敵な雪玉が作れましたね。<br>\u3000あなたも、立派な聖人の従者です。ホッホウ！」",

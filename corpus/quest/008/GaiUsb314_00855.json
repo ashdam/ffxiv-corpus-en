@@ -400,8 +400,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_WHEISKAET_000_102",
-      "en": "Come now, <if(gnum4,she,he)> must have sensed something was amiss.",
-      "hash": "14625B3BE4F5CE97",
+      "en": "(-???-)Come now, <if(gnum4,she,he)> must have sensed something was amiss.",
+      "hash": "DE9A9F135B8C497D",
       "unresolved": false,
       "fr": "(-???-)N'exagérons pas. <if(gnum4,Elle,Il)> a bien dû se douter de quelque chose.",
       "ja": "(-？？？？-)何とぼけたツラしてやがる。<br>主役がそれじゃ、宴も盛り上がらんだろう。",
@@ -868,8 +868,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_COMPANYOFHEROES_000_120",
-      "en": "<string(gstr1)>, Titan's Bane!",
-      "hash": "23C0794F0EF87FB2",
+      "en": "(-Company of Heroes-)<string(gstr1)>, Titan's Bane!",
+      "hash": "6BE1A4EFA095482A",
       "unresolved": false,
       "fr": "(-Anciens de la Fratrie des gabiers-)<string(gstr1)>, l<if(gnum4,a,e)> pourfendeu<if(gnum4,se,r)> de Titan<nbsp>!",
       "ja": "(-元海雄旅団の団員たち-)オォォォ！",

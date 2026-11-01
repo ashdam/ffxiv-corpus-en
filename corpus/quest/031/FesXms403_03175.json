@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/031/FesXms403_03175#TEXT_FESXMS403_03175_GODBERT_000_007",
-      "en": "Ho ho ho! Fear not, all ye faithful! The Saint of Nymeia has heard your prayers. Rejoice, for I am come bearing gifts!",
-      "hash": "E1DC136E1F66403F",
+      "en": "(-???-)Ho ho ho! Fear not, all ye faithful! The Saint of Nymeia has heard your prayers. Rejoice, for I am come bearing gifts!",
+      "hash": "5C9FA094D1F44406",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho<nbsp>! Votre détresse a été entendue, mes petits<nbsp>!",
       "ja": "(-？？？？-)ホッホッホウ！<br>みなの願いは聞き届けられましたぞ！",
@@ -1204,8 +1204,8 @@
     },
     {
       "gameKey": "quest/031/FesXms403_03175#TEXT_FESXMS403_03175_MAISENTA_000_048",
-      "en": "It's not your fault, child. I am to blame.",
-      "hash": "1F99075ACFE0B4C2",
+      "en": "(-???-)It's not your fault, child. I am to blame.",
+      "hash": "09642054775F7CFA",
       "unresolved": false,
       "fr": "(-???-)Tu te trompes, ma petite. C'est ma faute si tu n'as pas reçu ton cadeau<nbsp>; une erreur d'approvisionnement de ma part.",
       "ja": "(-？？？？-)それは、あなたの勘違いですわ。<br>あの件は、私の見積もりが甘かっただけですから。",

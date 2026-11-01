@@ -868,8 +868,8 @@
     },
     {
       "gameKey": "quest/040/AktKbb141_04072#TEXT_AKTKBB141_04072_MAHAUD_000_031",
-      "en": "GRAAAAAARRRGH!!!",
-      "hash": "55C95C684CA3D05B",
+      "en": "(-Mahaud and Ancel-)GRAAAAAARRRGH!!!",
+      "hash": "349F6B1E141FA066",
       "unresolved": false,
       "fr": "Gwoooooh<nbsp>!",
       "ja": "(-マホードとアンセル-)ぐがああああああああああ……！！！！",
@@ -2162,8 +2162,8 @@
     },
     {
       "gameKey": "quest/040/AktKbb141_04072#TEXT_AKTKBB141_04072_LALAHJINJAHL_000_091",
-      "en": "We had a long and difficult conversation, I must confess.",
-      "hash": "F856CE15BA63088D",
+      "en": "(-Lalah Jinjahl-)We had a long and difficult conversation, I must confess.",
+      "hash": "0F17218BF532CFE6",
       "unresolved": false,
       "fr": "(-Voix de Lalah-)Vous n'avez pas à vous inquiéter pourrr ça.",
       "ja": "(-ララーの声-)その心配には及びませんわ。",

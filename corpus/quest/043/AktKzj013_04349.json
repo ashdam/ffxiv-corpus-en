@@ -626,8 +626,8 @@
     },
     {
       "gameKey": "quest/043/AktKzj013_04349#TEXT_AKTKZJ013_04349_WYVERN043498_000_051",
-      "en": "Now dost thou ken my wisdom? We may attempt another angle, shouldst thou thirst for greater despair...",
-      "hash": "0C0EDE825EBE2C3B",
+      "en": "(-Bloodthirsty Dragon-)Now dost thou ken my wisdom? We may attempt another angle, shouldst thou thirst for greater despair...",
+      "hash": "16548043424B9E51",
       "unresolved": false,
       "fr": "(-Dragon féroce-)C'est tout...<nbsp>? Bien, enfonçons encore un peu plus pro<->fon<->dé<->ment le clou du désespoir... en rugissant encore une fois<nbsp>!",
       "ja": "(-殺気立った飛竜-)……ふん、やはりこの程度か。<br>さあ、お前にはさらに絶望を知ってもらおう。<br>もう一度……泉に「咆哮」を試すぞ。",
@@ -676,8 +676,8 @@
     },
     {
       "gameKey": "quest/043/AktKzj013_04349#TEXT_AKTKZJ013_04349_WYVERN043498_000_061",
-      "en": "Admit thy defeat. This spring shall never regain its lost splendor.",
-      "hash": "298549598B928C6D",
+      "en": "(-Bloodthirsty Dragon-)Admit thy defeat. This spring shall never regain its lost splendor.",
+      "hash": "E1082F5F5BDD14C8",
       "unresolved": false,
       "fr": "(-Dragon féroce-)J'avais raison depuis le début. Rentrez-vous bien ça dans le crâne<nbsp>: mon rugissement, aussi puissant fût-il, ne rendra jamais à cette eau sa pureté originelle.",
       "ja": "(-殺気立った飛竜-)……ここまでだな。<br>これが現実だ、もはや我が咆哮にも力はなく……<br>この泉も……かつての美しき清水へと戻ることはない。",
@@ -702,8 +702,8 @@
     },
     {
       "gameKey": "quest/043/AktKzj013_04349#TEXT_AKTKZJ013_04349_WYVERN043498_000_062",
-      "en": "Though if thy tale be true, thou art not the only fool in need of this lesson. Let us speak with that old wyrm...",
-      "hash": "CCB5CEA125D438E4",
+      "en": "(-Bloodthirsty Dragon-)Though if thy tale be true, thou art not the only fool in need of this lesson. Let us speak with that old wyrm...",
+      "hash": "5E098A4579E3AA63",
       "unresolved": false,
       "fr": "(-Dragon féroce-)Je vais maintenant aller dire un mot à l'imbécile de dragon qui t'a chargé<if(gnum4,e,)> de cette requête aussi vaine que futile... Question de lui passer l'envie de me déranger à nouveau<nbsp>!",
       "ja": "(-殺気立った飛竜-)お前に愚かな願いを託した老竜のところへ行くぞ。<br>其奴が、二度とくだらぬ希望を抱かぬよう、<br>この結果を、しっかりと伝えねばな。",

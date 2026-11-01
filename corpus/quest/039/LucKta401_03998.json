@@ -3040,8 +3040,8 @@
     },
     {
       "gameKey": "quest/039/LucKta401_03998#TEXT_LUCKTA401_03998_DWARFMASTER03671_000_551",
-      "en": "Lali-we've got another situation in our beards-ho!",
-      "hash": "47765186A431124C",
+      "en": "(-???-)Lali-we've got another situation in our beards-ho!",
+      "hash": "9944B383117E6126",
       "unresolved": false,
       "fr": "(-???-)Psst, l'<if(gnum4,étrangère,étranger)><nbsp>!",
       "ja": "(-？？？？-)おぉ、いいところに。",
@@ -3680,8 +3680,8 @@
     },
     {
       "gameKey": "quest/039/LucKta401_03998#TEXT_LUCKTA401_03998_ANOGG_000_708",
-      "en": "○! ※×□＃◇×○!",
-      "hash": "70788946C1ADD814",
+      "en": "(-White Orb-)○! ※×□＃◇×○!",
+      "hash": "F5CFE43D0EBF0D1E",
       "unresolved": false,
       "fr": "(-Sphère blanche-)○！※×□＃◇×○！",
       "ja": "(-白い球-)○！※×□＃◇×○！",
@@ -3732,8 +3732,8 @@
     },
     {
       "gameKey": "quest/039/LucKta401_03998#TEXT_LUCKTA401_03998_ANOGG_000_710",
-      "en": "◇! ○※□×※▽○!",
-      "hash": "863E0176340EDB49",
+      "en": "(-Dwarf Facsimile-)◇! ○※□×※▽○!",
+      "hash": "E0E16F47EF5C566C",
       "unresolved": false,
       "fr": "(-Clone-)◇！○※□×※▽○！",
       "ja": "(-複製されたドワーフ族-)◇！○※□×※▽○！",
@@ -3784,8 +3784,8 @@
     },
     {
       "gameKey": "quest/039/LucKta401_03998#TEXT_LUCKTA401_03998_ANOGG_000_712",
-      "en": "Ko...nogg.",
-      "hash": "41D859A29BBFF8BE",
+      "en": "(-Dwarf Facsimile-)Ko...nogg.",
+      "hash": "7CC5C957FFC74F7A",
       "unresolved": false,
       "fr": "(-Clone-)Ko... nogg...",
       "ja": "(-複製されたドワーフ族-)コ……ノ……ッッグ……。",

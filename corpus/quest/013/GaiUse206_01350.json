@@ -398,8 +398,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse206_01350#TEXT_GAIUSE206_01350_KOHARU_000_021",
-      "en": "I'm Koharu. <string(gstr1)>, eh? I didn't know anyone else was─ Waaait a minute! You're one of those, um, Stallions, aren't you!?",
-      "hash": "8FC38E163F380CF0",
+      "en": "(-Koharu-)I'm Koharu. <string(gstr1)>, eh? I didn't know anyone else was─ Waaait a minute! You're one of those, um, Stallions, aren't you!?",
+      "hash": "43A4AF0E85BC1CC8",
       "unresolved": false,
       "fr": "(-Koharu-)Je suis trop contente d'aller à Ul'dah. On raconte que cette cité est magnifique, avec des bâtiments de pierre gi<->gan<->tesques. J'espère seulement qu'ils ont des bains publics pour se laver, j'ai l'impression d'être une crasseuse...",
       "ja": "(-コハル-)……そろそろ出発だから、ホウザンおじさんとこに戻れって？<br>わかった、すぐいくねー。",
@@ -422,8 +422,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse206_01350#TEXT_GAIUSE206_01350_KOHARU_000_022",
-      "en": "No─ Scions, <italic(1)>Scions<italic(0)>! Then you must know Lady Yugiri, right? Isn't she great!? She's <italic(1)>really<italic(0)> good at hide-and-seek, too! Oh, right─ It's almost time to go. Nice meeting you, <string(gstr1)>!",
-      "hash": "AF75EAFD48D69F0A",
+      "en": "(-Koharu-)No─ Scions, <italic(1)>Scions<italic(0)>! Then you must know Lady Yugiri, right? Isn't she great!? She's <italic(1)>really<italic(0)> good at hide-and-seek, too! Oh, right─ It's almost time to go. Nice meeting you, <string(gstr1)>!",
+      "hash": "702A0F18549693A5",
       "unresolved": false,
       "fr": "(-Koharu-)Attendez un instant<nbsp>! Vous ne seriez pas la personne qui a aidé dame Yugiri<nbsp>!? Mais oui<nbsp>! Je savais bien que votre nom me disait quelque chose<nbsp>!<br>Vous ne la trouvez pas formidable<nbsp>? Moi, c'est mon modèle<nbsp>! Je rêve de devenir une femme aussi forte et courageuse qu'elle plus tard<nbsp>!",
       "ja": "(-コハル-)……もしかして<if(gnum4,お姉ちゃん,お兄ちゃん)>は、ユウギリ様の知り合い？<br>ユウギリ様って、強くて、賢くて、優しくて、かっこいいよね？<br>あたしの夢は、ユウギリ様のようになることなの！",

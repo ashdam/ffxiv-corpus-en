@@ -306,8 +306,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_010",
-      "en": "Begone! You are scaring all the fish away!",
-      "hash": "021A8FACD18AA9BF",
+      "en": "(-Faint Voice-)Begone! You are scaring all the fish away!",
+      "hash": "B59974E512E5A10C",
       "unresolved": false,
       "fr": "(-Voix lointaine-)Tais-toi, tu vas le faire fuiiiir<nbsp>!",
       "ja": "(-どこか遠くからの声-)お、おい……魚が逃げちまうから、静かにしてくれよぉ～。<br>大物を狙うために、銛を構えて待ち伏せしてるんだからぁ～。",
@@ -356,8 +356,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_012",
-      "en": "Ugh! Why does everyone insist on bothering me so? When I finally think I am rid of them, they round up their friends and return to harass me some more! Begone! Begone with all of you!",
-      "hash": "3AA5DCDEB487BD77",
+      "en": "(-Faint Voice-)Ugh! Why does everyone insist on bothering me so? When I finally think I am rid of them, they round up their friends and return to harass me some more! Begone! Begone with all of you!",
+      "hash": "DE9C47EB726E93EB",
       "unresolved": false,
       "fr": "(-Voix lointaine-)Depuis que j'ai chassé cet idiot l'autre jour, les curieux s'enchaînent les uns après les auuuutres. Je ne suis pas un esprit, mais un simple pêcheur qui essaie d'attraper le maître de ces eauuuux<nbsp>!",
       "ja": "(-どこか遠くからの声-)やっぱり、変な噂がたってるみたいだなぁ～。<br>誰か来ると漁に差し障るから、その度に、<br>どっか行け～って言ってたが、逆に野次馬を呼んじまうとはなぁ～。",
@@ -382,8 +382,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_013",
-      "en": "\\<sigh> I will never get any fishing done at this rate...",
-      "hash": "89AA67EE131B7596",
+      "en": "(-Faint Voice-)\\<sigh> I will never get any fishing done at this rate...",
+      "hash": "53813F14B4B1215F",
       "unresolved": false,
       "fr": "(-Voix lointaine-)Pars et dis aux autres de me ficher la paiiiix<nbsp>!",
       "ja": "(-どこか遠くからの声-)アンタ、妙な噂があるなら、<br>否定してやってくれんかぁ～。",

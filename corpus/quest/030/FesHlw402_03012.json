@@ -696,8 +696,8 @@
     },
     {
       "gameKey": "quest/030/FesHlw402_03012#TEXT_FESHLW402_03012_PUMPKIN_000_017",
-      "en": "Yes, yes, that's the spirit, little wolves...",
-      "hash": "9A55A1575412E008",
+      "en": "(-Disembodied Voice-)Yes, yes, that's the spirit, little wolves...",
+      "hash": "E282F46031010723",
       "unresolved": false,
       "fr": "(-???-)Hi hi hi... Les jolis petits louveteaux sont partis chasser... Voyons un peu combien de proies ils feront succomber...",
       "ja": "(-？？？？-)クス……クスクス……。<br>かわいい狼さんが現れたわね……。<br>みんなを、うまく驚かせるかしら……？",
@@ -1730,8 +1730,8 @@
     },
     {
       "gameKey": "quest/030/FesHlw402_03012#TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_087",
-      "en": "GRRR!",
-      "hash": "77F378E1EF022D61",
+      "en": "(-???-)GRRR!",
+      "hash": "9D7E6A2D5FBAC999",
       "unresolved": false,
       "fr": "(-???-)GRRR!",
       "ja": "(-？？？？-)ガウッ！",

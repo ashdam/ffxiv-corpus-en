@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/029/JobNin700_02952#TEXT_JOBNIN700_02952_HANZO_000_001",
-      "en": "Pardon me, my <if(gnum4,girl,boy)>... I seem to have lost my way. Could you show an old man to Plum Spring? Heh heh...",
-      "hash": "55CC7216A6FDA298",
+      "en": "(-Old Hermit-)Pardon me, my <if(gnum4,girl,boy)>... I seem to have lost my way. Could you show an old man to Plum Spring? Heh heh...",
+      "hash": "86D5E8EC872D7979",
       "unresolved": false,
       "fr": "(-Kamui-)Je vois que vous avez pensé à surveiller ce côté aussi... Vous êtes plus perspicaces que je ne le pensais.",
       "ja": "(-カムイらしき老人-)こちら側まで警戒するとは……察しがいいな。<br>どうやら、貴様は騙せぬようだ……。",
@@ -762,8 +762,8 @@
     },
     {
       "gameKey": "quest/029/JobNin700_02952#TEXT_JOBNIN700_02952_RABBIT02952_000_010",
-      "en": "Thumpity thump thump, thumpity thump thump...",
-      "hash": "700B4998C0745B73",
+      "en": "(-Dread Beasts-)Thumpity thump thump, thumpity thump thump...",
+      "hash": "619434EF0B2C5608",
       "unresolved": false,
       "fr": "(-Lapins de Mysidia-)Coui, coui<nbsp>!",
       "ja": "(-ミシディアうさぎ-)むぐむぐ?\u3000むぐむぐ?\u3000むぐ～。",
@@ -814,8 +814,8 @@
     },
     {
       "gameKey": "quest/029/JobNin700_02952#TEXT_JOBNIN700_02952_KARASU_000_012",
-      "en": "So fearsome, their floppy ears! So <italic(1)>terrifying<italic(0)>, their sharply protruding teeth! The audience gasps in horror!",
-      "hash": "E5317D2E12903471",
+      "en": "(-Familiar Voice-)So fearsome, their floppy ears! So <italic(1)>terrifying<italic(0)>, their sharply protruding teeth! The audience gasps in horror!",
+      "hash": "207BD489EBC7B45A",
       "unresolved": false,
       "fr": "(-???-)Hé hé... Ha ha ha... MOUAHAHAHA<nbsp>!!!<br>Ils sont pas mignons, mes petits lapinous<nbsp>?",
       "ja": "(-？？？？-)クク…………ククク……アハハ……アハハハハハァ！<br>禁忌の魔獣、きゃ～わい～い！",

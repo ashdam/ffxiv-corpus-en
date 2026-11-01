@@ -620,8 +620,8 @@
     },
     {
       "gameKey": "quest/014/BanAll040_01470#TEXT_BANALL040_01470_SILVIA_000_010",
-      "en": "Again <if(gnum4,she,he)> comes, unaware that what <if(gnum4,she,he)> seeks has already been swept away by the tide.",
-      "hash": "14CD5D27599E6DC4",
+      "en": "(-???-)Again <if(gnum4,she,he)> comes, unaware that what <if(gnum4,she,he)> seeks has already been swept away by the tide.",
+      "hash": "BE6399DC63605F03",
       "unresolved": false,
       "fr": "(-???-)Vous arrivez... trop tard...",
       "ja": "(-？？？？-)一足……遅かったようね……。",

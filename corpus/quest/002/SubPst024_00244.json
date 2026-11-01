@@ -1339,8 +1339,8 @@
     },
     {
       "gameKey": "quest/002/SubPst024_00244#TEXT_SUBPST024_00244_HEDYN_000_070",
-      "en": "Corrupted crystals!",
-      "hash": "6575B22F62740152",
+      "en": "(-Lamberteint's Pupils-)Corrupted crystals!",
+      "hash": "F22FB91C461577F9",
       "unresolved": false,
       "fr": "(-Les trois disciples-)Des cristaux corrompus...",
       "ja": "(-零組の3人-)偏属性クリスタル！！",
@@ -1862,8 +1862,8 @@
     },
     {
       "gameKey": "quest/002/SubPst024_00244#TEXT_SUBPST024_00244_HAHASAKO_000_104",
-      "en": "Professor Lamberteint!",
-      "hash": "E085419C35D21B37",
+      "en": "(-Lamberteint's Pupils-)Professor Lamberteint!",
+      "hash": "B80E249C2FEA3B19",
       "unresolved": false,
       "fr": "(-Les trois disciples-)Professeur Lamberteint<nbsp>!?",
       "ja": "(-零組の3人-)ラ、ランベルタン先生！？",
@@ -1962,8 +1962,8 @@
     },
     {
       "gameKey": "quest/002/SubPst024_00244#TEXT_SUBPST024_00244_HAHASAKO_000_109",
-      "en": "No student ever skips a symposium!",
-      "hash": "A6E2BC5A34EB7B5C",
+      "en": "(-Lamberteint's Pupils-)No student ever skips a symposium!",
+      "hash": "1FDECB35AFBD3658",
       "unresolved": false,
       "fr": "(-Les trois disciples-)... pour rien au monde, nous ne raterions une réunion avec vous<nbsp>!",
       "ja": "(-零組の3人-)先生とお会いできる研究会の日付を、<br>「零組」は、決して忘れないってことを！",

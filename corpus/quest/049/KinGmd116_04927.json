@@ -1732,8 +1732,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd116_04927#TEXT_KINGMD116_04927_MECHANICALDOLL4927_000_117",
-      "en": "\\<bzzzt> May I...be of assistance?",
-      "hash": "A1C48556D2E456F2",
+      "en": "(-???-)\\<bzzzt> May I...be of assistance?",
+      "hash": "5BB8EB7C38A787F8",
       "unresolved": false,
       "fr": "(-???-)Bzzz... Bzzz... Avez-vous besoin d'aide<nbsp>?",
       "ja": "(-？？？？-)ジジ……ジ……<br>何かお困りですか？",
@@ -1836,8 +1836,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd116_04927#TEXT_KINGMD116_04927_MECHANICALDOLL4927_000_121",
-      "en": "Unable to confirm credentials. \\<bzzzt> Please present citizen identification.",
-      "hash": "1A194A1B60602775",
+      "en": "(-Defective Automaton-)Unable to confirm credentials. \\<bzzzt> Please present citizen identification.",
+      "hash": "17FFC4087677FC12",
       "unresolved": false,
       "fr": "(-Pantin mécanique-)Bzzz... Échec de la vé<->ri<->fi<->ca<->tion d'identité. Veuillez présenter votre matricule de citoyenneté.",
       "ja": "(-機械仕掛けの人形-)ジジ……国民IDをスキャンできません。<br>ただちに国民IDを提示してください。",
@@ -1862,8 +1862,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd116_04927#TEXT_KINGMD116_04927_MECHANICALDOLL4927_000_122",
-      "en": "Unable to confirm credentials. \\<bzzzt> Confirm. \\<bzzzt> Confirm. \\<bzzzt>",
-      "hash": "71B0969BF2CF00EF",
+      "en": "(-Defective Automaton-)Unable to confirm credentials. \\<bzzzt> Confirm. \\<bzzzt> Confirm. \\<bzzzt>",
+      "hash": "F99C1F03FF4CAB9D",
       "unresolved": false,
       "fr": "(-Pantin mécanique-)Échec de la vé<->ri<->fi<->ca<->tion d'identité. Veuillez... Veuillez... Bzzz...",
       "ja": "(-機械仕掛けの人形-)国民IDをスキャンできません。<br>ただちに……ただちに……ジジ……。",

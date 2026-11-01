@@ -210,8 +210,8 @@
     },
     {
       "gameKey": "quest/041/AktKyr204_04179#TEXT_AKTKYR204_04179_CHRYSIELLE_000_011",
-      "en": "You! You are the gleaner extraordinaire who made their way to the very summit of the heavens, are you not!? ",
-      "hash": "9BD82B61AEE7D7EF",
+      "en": "(-???-)You! You are the gleaner extraordinaire who made their way to the very summit of the heavens, are you not!? ",
+      "hash": "02BCA535180D9EE1",
       "unresolved": false,
       "fr": "(-???-)Alors comme ça, c'est toi <if(gnum4,la glaneuse,le glaneur)> qui a fait l'aller-retour entre ici et l'infini<nbsp>!",
       "ja": "(-？？？？-)ここに、天の果てまで到達した、<br>稀代のグリーナーがいると聞いたが……キミかね！？",

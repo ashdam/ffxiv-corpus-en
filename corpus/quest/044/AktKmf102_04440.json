@@ -1548,8 +1548,8 @@
     },
     {
       "gameKey": "quest/044/AktKmf102_04440#TEXT_AKTKMF102_04440_OJIKATSUNJIKA_000_077",
-      "en": "Sorry to interrupt, we've just received word from the Forum.",
-      "hash": "2BF0864FD8AD15F1",
+      "en": "(-Ojika Tsunjika-)Sorry to interrupt, we've just received word from the Forum.",
+      "hash": "D258E5163BC78ED3",
       "unresolved": false,
       "fr": "(-Voix d'Ojika Tsunjika-)Pardonnez-moi de vous interrompre, j'ai un message du Conseil<nbsp>!",
       "ja": "(-オジカ・ツンジカの声-)お取り込み中、失礼～。<br>哲学者議会からの使者が来たよぉ～。",
@@ -1574,8 +1574,8 @@
     },
     {
       "gameKey": "quest/044/AktKmf102_04440#TEXT_AKTKMF102_04440_OJIKATSUNJIKA_000_078",
-      "en": "Your presence is required in the Rostra, where they intend to discuss the great exodus.",
-      "hash": "220260E8DB1AA175",
+      "en": "(-Ojika Tsunjika-)Your presence is required in the Rostra, where they intend to discuss the great exodus.",
+      "hash": "838676D8E6BEABD0",
       "unresolved": false,
       "fr": "(-Voix d'Ojika Tsunjika-)Votre présence est requise aux Rostres, où les détails du Grand Exode vont vous être révélés<nbsp>!",
       "ja": "(-オジカ・ツンジカの声-)大撤収についての全容を説明するから、<br>「哲学者の広場」まで来られたし……だってさぁ～！",

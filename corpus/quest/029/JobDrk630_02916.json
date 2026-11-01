@@ -884,8 +884,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk630_02916#TEXT_JOBDRK630_02916_INSPECTOR02916_000_051",
-      "en": "Insolent child! You are not to speak unless spoken to! Is that clear!?",
-      "hash": "C47A6223C8134673",
+      "en": "(-???-)Insolent child! You are not to speak unless spoken to! Is that clear!?",
+      "hash": "C7361D7C438623AD",
       "unresolved": false,
       "fr": "(-Cri violent-)Non mais c'est qu'elle répond, en plus<nbsp>! T'as de la chance d'être encore en vie, petite dépravée<nbsp>!",
       "ja": "(-男の怒鳴り声-)口ごたえする気か！<br>この外道が、とっとと死ねッ！",
@@ -910,8 +910,8 @@
     },
     {
       "gameKey": "quest/029/JobDrk630_02916#TEXT_JOBDRK630_02916_WAITRESS02236_000_052",
-      "en": "Yes, my lord... Pray forgive me my impudence.",
-      "hash": "86C7F32E53B77B9E",
+      "en": "(-Penitent Prisoner-)Yes, my lord... Pray forgive me my impudence.",
+      "hash": "9E5AC7B9D1B0499D",
       "unresolved": false,
       "fr": "(-Jeune femme au visage familier-)... Je suis désolée...",
       "ja": "(-見覚えのある女-)…………すみません……。",

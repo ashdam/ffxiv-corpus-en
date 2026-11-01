@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_MAKOTO_000_012",
-      "en": "Permit me to introduce myself. I am Makoto of the Sekiseigumi. Ours is the peacekeeping force of Kugane, a port city in Hingashi.",
-      "hash": "CEB490ADB4C39022",
+      "en": "(-Makoto-)Permit me to introduce myself. I am Makoto of the Sekiseigumi. Ours is the peacekeeping force of Kugane, a port city in Hingashi.",
+      "hash": "77E404D4C66C0613",
       "unresolved": false,
       "fr": "J'ai par le passé eu l'occasion de m'entretenir avec maître Musosai. Mon nom est Makoto, je fais partie du Sekiseigumi, un groupe de samouraïs chargé de préserver l'ordre et la paix à Kugane, une ville de Hingashi.",
       "ja": "私は以前に、ムソウサイ様と交流があった者。<br>ひんがしの国は、クガネの治安維持組織、<br>赤誠組の「マコト」と申します。",
@@ -502,8 +502,8 @@
     },
     {
       "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_MAKOTO_000_013",
-      "en": "I journeyed across the seas hoping to meet with Master Musosai, but it seems I must settle for paying my respects. Might I trouble you to show me to his resting place? The Silver Bazaar, you call it?",
-      "hash": "A8CB009AF341D4C0",
+      "en": "(-Makoto-)I journeyed across the seas hoping to meet with Master Musosai, but it seems I must settle for paying my respects. Might I trouble you to show me to his resting place? The Silver Bazaar, you call it?",
+      "hash": "12F3E2FE6053A414",
       "unresolved": false,
       "fr": "(-Makoto-)Vous avez dit qu'il reposait dans un hameau, le Bazar argenté<nbsp>? Je viens d'arriver sur ce continent, et la région m'est totalement étrangère. Auriez-vous l'obligeance de me guider jusqu'à sa dernière demeure<nbsp>?",
       "ja": "(-マコト-)ムソウサイ様は、「シルバーバザー」なる町に埋葬されたのですね。<br>何分、私はこの地に着いたばかりで、土地勘がありません。<br>よろしければ、お墓まで案内していただけませんか？",
@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_MAKOTO_000_014",
-      "en": "I am in your debt. Let us away, then.",
-      "hash": "96AB8D361C64FB88",
+      "en": "(-Makoto-)I am in your debt. Let us away, then.",
+      "hash": "337B9993B22DC249",
       "unresolved": false,
       "fr": "(-Makoto-)Merci infiniment. Je pars devant. J'attendrai votre passage, si jamais je viens à douter de mon itinéraire.",
       "ja": "(-マコト-)ありがとうございます。<br>それでは、参りましょう……。",

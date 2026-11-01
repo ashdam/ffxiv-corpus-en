@@ -1560,8 +1560,8 @@
     },
     {
       "gameKey": "quest/046/AktKea202_04667#TEXT_AKTKEA202_04667_REDROBEMAN04668_000_101",
-      "en": "O benevolent goddess... Grant me deliverance, I beseech you. Save my soul...",
-      "hash": "AEB83DD6AE2654D6",
+      "en": "(-Red-robed Man-)O benevolent goddess... Grant me deliverance, I beseech you. Save my soul...",
+      "hash": "2AC6E3B8F69A29BD",
       "unresolved": false,
       "fr": "(-Homme en coule rouge-)Ô bien<->veil<->lan<->te Déesse de la lune, je t'en conjure, aie pitié et accorde-moi ton salut...",
       "ja": "(-赤いローブの男-)月神メネフィナよ……<br>どうか私を救ってください、どうか、どうか……。",
@@ -1586,8 +1586,8 @@
     },
     {
       "gameKey": "quest/046/AktKea202_04667#TEXT_AKTKEA202_04667_REDROBEMAN04668_000_102",
-      "en": "Y-You! You're the one who was hunting down the Lambs of Dalamud!",
-      "hash": "4F23A60CE75B3174",
+      "en": "(-Red-robed Man-)Y-You! You're the one who was hunting down the Lambs of Dalamud!",
+      "hash": "220ACD4F4F094801",
       "unresolved": false,
       "fr": "(-Homme en coule rouge-)T-toi, je te reconnais<nbsp>! Tu chassais les Survivalistes<nbsp>!",
       "ja": "(-赤いローブの男-)あ、あなたは……<br>残党狩りの<split(<string(gstr1)>, ,1)>……！！",
@@ -1612,8 +1612,8 @@
     },
     {
       "gameKey": "quest/046/AktKea202_04667#TEXT_AKTKEA202_04667_REDROBEMAN04668_000_103",
-      "en": "I knew it─knew you wouldn't stop till you've dealt with every last one of us. And now you've come for me... Ah, to think that this is Her will...",
-      "hash": "36F4AB866990D9D4",
+      "en": "(-Red-robed Man-)I knew it─knew you wouldn't stop till you've dealt with every last one of us. And now you've come for me... Ah, to think that this is Her will...",
+      "hash": "5053A13A78AE3DA8",
       "unresolved": false,
       "fr": "Je savais bien que tu viendrais un jour exterminer les derniers d'entre nous... C'était écrit, ma fin est arrivée...",
       "ja": "きっと「最後の群民」の生き残りを捕らえにきたんだ……。<br>ああ、これが私の終わり……双月の導きだなんて……。",

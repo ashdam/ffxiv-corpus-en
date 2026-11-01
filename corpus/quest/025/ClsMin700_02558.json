@@ -1248,8 +1248,8 @@
     },
     {
       "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_STACKBLOX_000_100",
-      "en": "Pshhh... Shkohhh... Commence whirlycog test!",
-      "hash": "B5BC77BAB27F1C24",
+      "en": "(-Stackblox-)Pshhh... Shkohhh... Commence whirlycog test!",
+      "hash": "26E6801977FA6F95",
       "unresolved": false,
       "fr": "(-Voix de Stackblox-)Pshhh... Attention tout le monde<nbsp>! Stackblox va démarrer<nbsp>!",
       "ja": "(-スタックブロクスの声-)シュコォ……シュコォ……<br>みんな\u3000注目\u3000こっち向け～<br>性能試験\u3000始めるぞ～！",
@@ -1274,8 +1274,8 @@
     },
     {
       "gameKey": "quest/025/ClsMin700_02558#TEXT_CLSMIN700_02558_NONOWATO_000_101",
-      "en": "Huzzah!",
-      "hash": "01FAC2654803FF6E",
+      "en": "(-Team Gobroller-)Huzzah!",
+      "hash": "33C3F8B7AB3CB21E",
       "unresolved": false,
       "fr": "(-À l'unisson-)Hourra<nbsp>!!!",
       "ja": "(-一同-)成功だぁぁぁぁぁっ！！",

@@ -294,8 +294,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_AUDIENCE03923_000_030",
-      "en": "Oh, my! That cannon has quite a kick! Let's see you fire it one more time, if you please!",
-      "hash": "E6AD16C229B96086",
+      "en": "(-Entranced Entrepreneur-)Oh, my! That cannon has quite a kick! Let's see you fire it one more time, if you please!",
+      "hash": "E292063F54BC1603",
       "unresolved": false,
       "fr": "(-Marchand intéressé-)Oooh<nbsp>! Voilà donc le canon mis au point pour éliminer les purgateurs errants<nbsp>! Quelle puissance<nbsp>! Vous pourriez tirer une nouvelle fois, s'il vous plaît<nbsp>?",
       "ja": "(-興味津々の商人-)おおっ、これがはぐれ罪喰いを撃退するための主砲！<br>想像していた以上の迫力だな！<br>よければもう一度、撃ってみせてくれないか？",
@@ -319,8 +319,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_AUDIENCE03923_000_040",
-      "en": "Splendid! Just splendid! Enough power to discourage even the most monstrous eater, I'd wager. Mark me down as very interested, master dwarf.",
-      "hash": "995B44BA9B815739",
+      "en": "(-Entranced Entrepreneur-)Splendid! Just splendid! Enough power to discourage even the most monstrous eater, I'd wager. Mark me down as very interested, master dwarf.",
+      "hash": "441C6C7E6A78D910",
       "unresolved": false,
       "fr": "(-Marchand intéressé-)Ouah, fantastique<nbsp>! Grâce à ça, nous ne devrions plus avoir de problème avec ces purgateurs errants<nbsp>! Soyez assurés que nous vous passerons commande rapidement<nbsp>!",
       "ja": "(-興味津々の商人-)いやー、すごいな！<br>これなら確かに、はぐれ罪喰いを撃退できそうだ。<br>ドワーフ戦車の購入を、前向きに検討させてもらうよ！",
@@ -344,8 +344,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_DWARF03923_000_041",
-      "en": "Nice shootin', <split(<string(gstr1)>, ,1)>! You can head back to the Anvil, if you like─I think Regitt'll be happy to hear how it all went!",
-      "hash": "7FA0806ADED7D27E",
+      "en": "(-Dwarven Promoter-)Nice shootin', <split(<string(gstr1)>, ,1)>! You can head back to the Anvil, if you like─I think Regitt'll be happy to hear how it all went!",
+      "hash": "1332376257F3067E",
       "unresolved": false,
       "fr": "(-Nain responsable de la publicité-)Merci pour ton aide, <split(<string(gstr1)>, ,1)><nbsp>! Notre char a vraiment fait forte impression<nbsp>! Tu peux retourner dire à Regitt que tout s'est bien passé, maintenant<nbsp>!",
       "ja": "(-宣伝担当のドワーフ-)ご協力に感謝ラリ！<br>見事な指揮ぶりで実演も大成功ラリ！<br>このことを「レギット」に報告してほしいラリ！",

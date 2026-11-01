@@ -1634,8 +1634,8 @@
     },
     {
       "gameKey": "quest/048/KinGba311_04831#TEXT_KINGBA311_04831_SAMIDARE_000_306",
-      "en": "You saw through my disguise once again... Don't tell me you count even a pirate captain among your acquaintances?",
-      "hash": "74E6BB7241027A18",
+      "en": "(-Insidious Individual-)You saw through my disguise once again... Don't tell me you count even a pirate captain among your acquaintances?",
+      "hash": "8D61116795160721",
       "unresolved": false,
       "fr": "(-Homme habillé en ninja-)Vous m'avez démasqué un peu trop facilement... J'imagine que vous connaissiez le chef de la Confédération...",
       "ja": "(-忍者風の男性-)あっさり見破られるとはな……<br>まさか、海賊衆の頭領と付き合いでも？",
@@ -1686,8 +1686,8 @@
     },
     {
       "gameKey": "quest/048/KinGba311_04831#TEXT_KINGBA311_04831_SAMIDARE_000_308",
-      "en": "<italic(1)>Why<italic(0)>? Sorry to disappoint you, but contrary to the Passage of the Unbound's prattling about freeing the world from the tyranny of government, I have no grand designs.",
-      "hash": "09D9D7AE1D651FB8",
+      "en": "(-Insidious Individual-)<italic(1)>Why<italic(0)>? Sorry to disappoint you, but contrary to the Passage of the Unbound's prattling about freeing the world from the tyranny of government, I have no grand designs.",
+      "hash": "1EBE5D7F50CE8BAB",
       "unresolved": false,
       "fr": "(-Homme habillé en ninja-)Mon but<nbsp>? Eh bien, je ne cherche pas à provoquer un coup d'État, comme ces abrutis des Affranchis, si c'est ce que tu demandes.",
       "ja": "(-忍者風の男性-)目的だって？<br>まあ、「自由の扉」は国家転覆を掲げてるが、<br>俺のやりたいことはそんな大それたもんじゃない……。",
@@ -1712,8 +1712,8 @@
     },
     {
       "gameKey": "quest/048/KinGba311_04831#TEXT_KINGBA311_04831_SAMIDARE_000_309",
-      "en": "I wish merely for everyone to show their true faces. Folk love to put on airs of sophistication and virtue, but push them towards the edge, and their masks slip off to reveal the monsters underneath.",
-      "hash": "642F1ABE32AB6B1C",
+      "en": "(-Insidious Individual-)I wish merely for everyone to show their true faces. Folk love to put on airs of sophistication and virtue, but push them towards the edge, and their masks slip off to reveal the monsters underneath.",
+      "hash": "EC54512DBDF583F2",
       "unresolved": false,
       "fr": "(-Homme habillé en ninja-)Tout ce que je veux, c'est forcer les êtres humains à révéler leur vrai visage, celui de la cruauté, qu'ils dissimulent d'habitude derrière un masque d'hypocrisie.",
       "ja": "(-忍者風の男性-)強いて言えば、人の本性を暴いてやりたいのさ。<br>普段は建前という擬態をしているが、その本性はみんな獣……",
@@ -1738,8 +1738,8 @@
     },
     {
       "gameKey": "quest/048/KinGba311_04831#TEXT_KINGBA311_04831_SAMIDARE_000_310",
-      "en": "They'll go for their neighbor's jugular to save their own skin─you've seen it for yourselves! It's quite the spectacle.",
-      "hash": "A75ACC2CE2C55AFC",
+      "en": "(-Insidious Individual-)They'll go for their neighbor's jugular to save their own skin─you've seen it for yourselves! It's quite the spectacle.",
+      "hash": "ED8117B4C55DD404",
       "unresolved": false,
       "fr": "(-Homme habillé en ninja-)Il suffit de les titiller un peu pour qu'ils sortent les armes et s'entretuent... Et c'est très amusant à regarder, croyez-moi.",
       "ja": "(-忍者風の男性-)ちょっと騙してやるだけで、<br>途端に牙をむいて、醜い争いを始めるもんだ。<br>それは、なかなか見ものだぞ。",

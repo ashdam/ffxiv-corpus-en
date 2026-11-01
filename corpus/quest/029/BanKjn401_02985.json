@@ -196,8 +196,8 @@
     },
     {
       "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_010",
-      "en": "Hello? Did someone call my name? Erm...I don't suppose you could help me find my way to Tamamizu?",
-      "hash": "FF78E9C63888D93E",
+      "en": "(-???-)Hello? Did someone call my name? Erm...I don't suppose you could help me find my way to Tamamizu?",
+      "hash": "E106ECBAF1EF1D5B",
       "unresolved": false,
       "fr": "(-Voix lointaine-)<if([gnum11<12],<if([gnum11<4],B-bonsooooir,B-bonjoooour)>,<if([gnum11<17],B-bonjoooour,B-bonsooooir)>)><nbsp>!? Vous me connaisseeeez<nbsp>? Pourriez-vous m'aider à retourner à Tamamizu, s'il vous plaîîîît<nbsp>?",
       "ja": "(-遠くから聞こえる声-)ワタシの名前を知ってるのぉ～？<br>それなら、こっちまで来て、タマミズの方角を教えてくれない～？",

@@ -1192,8 +1192,8 @@
     },
     {
       "gameKey": "quest/021/FesHlw202_02150#TEXT_FESHLW202_02150_IMPHEAD_000_047",
-      "en": "Heh heh heh... Such delicious innocence.",
-      "hash": "2AE120C95FF7B0C8",
+      "en": "(-Impresario-)Heh heh heh... Such delicious innocence.",
+      "hash": "00F7AB473FD46B65",
       "unresolved": false,
       "fr": "(-Impresario du Cirque intercontinental-)Ha ha ha... Tout se passe comme prévu.",
       "ja": "(-コンチネンタル・サーカスのダンチョー-)フフフ……うまくいっているみたいですネ。",
@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/021/FesHlw202_02150#TEXT_FESHLW202_02150_PUMPKIN_000_055",
-      "en": "Heh heh heh... A troubled soul, all alone.",
-      "hash": "64B2585ADC189AED",
+      "en": "(-???-)Heh heh heh... A troubled soul, all alone.",
+      "hash": "1502DA8ED24E755C",
       "unresolved": false,
       "fr": "(-???-)Qu'y a-t-il, mon ami<if(gnum4,e,)><nbsp>? Un problème, hé hé hé<nbsp>?",
       "ja": "(-？？？？-)クス……クスクス……。<br>……お困りさんが、いるようね。",

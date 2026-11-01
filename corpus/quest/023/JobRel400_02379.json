@@ -1062,8 +1062,8 @@
     },
     {
       "gameKey": "quest/023/JobRel400_02379#TEXT_JOBREL400_02379_AMPHELICE_000_034",
-      "en": "There you are. We've brought what you asked for. I trust you're prepared to hold up your end of the deal?",
-      "hash": "B2BF405ADDDCB326",
+      "en": "(-Brusque Businesswoman-)There you are. We've brought what you asked for. I trust you're prepared to hold up your end of the deal?",
+      "hash": "424E30EB78FF1A19",
       "unresolved": false,
       "fr": "<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)>, Blamprest. Nous avons ensorcelé les cinquante agrégats. Ils sont tellement chargés en énergie éthérée qu'ils résonnent, exactement comme tu nous l'avais demandé. Es-tu prêt à répondre à nos exigences en échange<nbsp>?",
       "ja": "ブランプレ、例のブツは用意できたわよ。<br>で、私たちの要求に応える気にはなったのかしら？",

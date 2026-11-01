@@ -684,8 +684,8 @@
     },
     {
       "gameKey": "quest/003/ClsThm050_00347#TEXT_CLSTHM050_00347_COCOBUSI_000_32",
-      "en": "...Did you say “thaumaturge”? Has this mage just completed a guild trial?",
-      "hash": "3A16368B5B620539",
+      "en": "(-Diminutive Alchemist-)...Did you say “thaumaturge”? Has this mage just completed a guild trial?",
+      "hash": "999A0DBF1AA5B54F",
       "unresolved": false,
       "fr": "(-Alchimiste frêle-)... Vous avez dit “occultiste”<nbsp>? Se pourrait-il que cette personne vienne de finir une épreuve de la guilde<nbsp>?",
       "ja": "(-小柄な錬金術師-)……呪術士だって？<br>その人もしかして、呪術士ギルドの試練でここに？",
@@ -762,8 +762,8 @@
     },
     {
       "gameKey": "quest/003/ClsThm050_00347#TEXT_CLSTHM050_00347_COCOBUSI_000_35",
-      "en": "My brothers... Not again!",
-      "hash": "528DC20678907DC2",
+      "en": "(-Diminutive Alchemist-)My brothers... Not again!",
+      "hash": "0597C097CEAEE2A5",
       "unresolved": false,
       "fr": "(-Alchimiste frêle-)Ça, c'est encore un coup de mes frères...<nbsp>!",
       "ja": "(-小柄な錬金術師-)また、兄ちゃんか……！",
@@ -944,8 +944,8 @@
     },
     {
       "gameKey": "quest/003/ClsThm050_00347#TEXT_CLSTHM050_00347_COCOBUSI_000_108",
-      "en": "So it's true, Buki! Don't try to hide from me, Bygo! Or you, Bani! Or Bezi! Or Boha!",
-      "hash": "C56A2F3F2A656879",
+      "en": "(-Diminutive Alchemist-)So it's true, Buki! Don't try to hide from me, Bygo! Or you, Bani! Or Bezi! Or Boha!",
+      "hash": "B578CAB2C50BA9BF",
       "unresolved": false,
       "fr": "(-Alchimiste frêle-)Je le savais<nbsp>! Cocobuki<nbsp>! Cocobygo, ce n'est pas la peine de te cacher<nbsp>! Ni toi, Cocobani<nbsp>! Ou toi, Cocobezi<nbsp>! Pareil pour toi, Cocoboha<nbsp>!",
       "ja": "(-小柄な錬金術師-)やーーーーーっぱりココブキ兄ちゃんだ！<br>それにココビゴ兄ちゃん、ココバニ兄ちゃん、<br>ココベジ兄ちゃん、ココボハ兄ちゃんもだ！",

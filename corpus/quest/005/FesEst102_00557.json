@@ -1846,8 +1846,8 @@
     },
     {
       "gameKey": "quest/005/FesEst102_00557#TEXT_FESEST102_00557_EGGCRUSHERC00557_000_253",
-      "en": "Alright, Nono. How's it going with the festival? Me and the lads have finished up for the day.",
-      "hash": "9089B7F3030F704B",
+      "en": "(-???-)Alright, Nono. How's it going with the festival? Me and the lads have finished up for the day.",
+      "hash": "AF46C2FE4B4066EE",
       "unresolved": false,
       "fr": "(-???-)Hé, Nonotta<nbsp>! J'ai enfin terminé ma part du boulot<nbsp>!",
       "ja": "(-？？？？-)おーい、ノノッタちゃん！\u3000いま戻ったぜ！",
@@ -1872,8 +1872,8 @@
     },
     {
       "gameKey": "quest/005/FesEst102_00557#TEXT_FESEST102_00557_EGGCRUSHERC00557_000_254",
-      "en": "It was pretty rough out there, you know. You could've warned us about those scalebombs─they don't half pack a punch! I thought I was going to cough up a lung!",
-      "hash": "3428803A095AD83C",
+      "en": "(-???-)It was pretty rough out there, you know. You could've warned us about those scalebombs─they don't half pack a punch! I thought I was going to cough up a lung!",
+      "hash": "035C8C191C48E713",
       "unresolved": false,
       "fr": "(-???-)Ça a été plus difficile que prévu. Je sais pas si <frnoun(EventItem,1,2001564,1,1)> t'a déjà explosé au visage, mais ça pique un peu.",
       "ja": "(-？？？？-)……ったく、ひどい目に遭ったよ。<br>あの「<sheet(EventItem,2001564,0)>」、ガチ強烈なやつでさ……",
@@ -1924,8 +1924,8 @@
     },
     {
       "gameKey": "quest/005/FesEst102_00557#TEXT_FESEST102_00557_EGGCRUSHERC00557_000_256",
-      "en": "...<italic(1)>This adventurer<italic(0)>? Don't tell me <italic(1)><if(gnum4,she,he)><italic(0)> was the one who─",
-      "hash": "CE8327EBD16634B0",
+      "en": "(-???-)...<italic(1)>This adventurer<italic(0)>? Don't tell me <italic(1)><if(gnum4,she,he)><italic(0)> was the one who─",
+      "hash": "FA1F42FC39339237",
       "unresolved": false,
       "fr": "(-???-)Mais, Nonotta... Ah<nbsp>!!<br>Oups<nbsp>! Dis-moi, tu serais pas le genre d'aventuri<if(gnum4,ère,er)> qui hésiterait pas à se changer en spriggan pour te balader dans Ul'dah par le plus grand des hasards<nbsp>?",
       "ja": "(-？？？？-)はぁ？<br>何言ってんだ、ノノッタちゃん……って、ハッ！<br>そこのおめェ、もしかして、スプリガンに化けてた冒険者か！？",

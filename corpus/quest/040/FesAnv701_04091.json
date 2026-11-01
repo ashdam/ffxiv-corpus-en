@@ -2218,8 +2218,8 @@
     },
     {
       "gameKey": "quest/040/FesAnv701_04091#TEXT_FESANV701_04091_MIMIO_000_100",
-      "en": "What is it you are giving out there, adventurer?",
-      "hash": "E64CDCEE129BAF8C",
+      "en": "(-???-)What is it you are giving out there, adventurer?",
+      "hash": "8B55F764656CB539",
       "unresolved": false,
       "fr": "(-???-)Tu t'es reconverti<if(gnum4,e,)> dans le commerce de rue, aventuri<if(gnum4,ère,er)><nbsp>?",
       "ja": "(-？？？？-)冒険者殿、何を配っているんだい？",
@@ -2793,8 +2793,8 @@
     },
     {
       "gameKey": "quest/040/FesAnv701_04091#TEXT_FESANV701_04091_YOSHIDANAOKI_100_129",
-      "en": "Greetings, Warrior of Light.",
-      "hash": "B9B8EDE8F8890B7B",
+      "en": "(-???-)Greetings, Warrior of Light.",
+      "hash": "85537F48635B63A7",
       "unresolved": false,
       "fr": "(-???-)Bienvenue à vous, Guerri<if(gnum4,ère,er)> de la Lumière...",
       "ja": "(-？？？？-)ようこそ、光の戦士よ……。",
@@ -2818,8 +2818,8 @@
     },
     {
       "gameKey": "quest/040/FesAnv701_04091#TEXT_FESANV701_04091_YOSHIDANAOKI_100_130",
-      "en": "You needn't be alarmed.",
-      "hash": "63AD13000707D36D",
+      "en": "(-???-)You needn't be alarmed.",
+      "hash": "8B3611C71CAFF9EE",
       "unresolved": false,
       "fr": "J'espère que je ne vous ai pas trop effrayé<if(gnum4,e,)>.",
       "ja": "すまない、<br>少々、驚かせてしまったかな？",
@@ -2843,8 +2843,8 @@
     },
     {
       "gameKey": "quest/040/FesAnv701_04091#TEXT_FESANV701_04091_YOSHIDANAOKI_100_131",
-      "en": "This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
-      "hash": "A60D7267DEA43ECE",
+      "en": "(-???-)This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
+      "hash": "0E8DE13B644B541B",
       "unresolved": false,
       "fr": "Cette dimension existe en dehors de votre réalité. Est-ce un rêve<nbsp>? Ou peut-être une illusion, fruit de votre imagination<nbsp>? À moins que...",
       "ja": "ここは、現し世とは異なる世界……。<br>目にしているものはすべて、君の夢や幻かもしれないし、<br>そうじゃないかもしれない……。",

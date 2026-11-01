@@ -926,8 +926,8 @@
     },
     {
       "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_215",
-      "en": "Intriguing... Most intriguing...",
-      "hash": "78BAE1E4B3CC7120",
+      "en": "(-Reverberating Voice-)Intriguing... Most intriguing...",
+      "hash": "BF69B6C0FF743D6F",
       "unresolved": false,
       "fr": "(-Voix basse et rauque-)Voilà qui s'annonce passionnant.",
       "ja": "(-低くかすれた声-)おもしろいではないか……",
@@ -978,8 +978,8 @@
     },
     {
       "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_217",
-      "en": "I will allow a special exhibition match. Prepare Wicked Thunder's ring...and prepare yourself, upstart.",
-      "hash": "DEB28FF234917069",
+      "en": "(-Ascension Arcadia President-)I will allow a special exhibition match. Prepare Wicked Thunder's ring...and prepare yourself, upstart.",
+      "hash": "D806C601DFCE7613",
       "unresolved": false,
       "fr": "(-Propriétaire de l'Arcadion-)J'autorise ce match<nbsp>! Une fois le ring de Wicked Thunder à nouveau opérationnel et notre champion<if(gnum4,ne,)> paré<if(gnum4,e,)>, nous l'organiserons.",
       "ja": "(-アルカディアのオーナー-)乱入戦を許可しよう！<br>ウィケッドサンダー用のリングの再現と、<br>挑戦者の準備ができ次第、特別試合開始だ……。",

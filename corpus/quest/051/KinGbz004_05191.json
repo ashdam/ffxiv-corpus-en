@@ -638,8 +638,8 @@
     },
     {
       "gameKey": "quest/051/KinGbz004_05191#TEXT_KINGBZ004_05191_TENTOAWA_000_011",
-      "en": "Apyaahi and her minions are preparing to depart. It's time, everyone─we make our stand before the gates of Tuliyollal!",
-      "hash": "C6EBFDC65B24E38E",
+      "en": "(-Tentoawa-)Apyaahi and her minions are preparing to depart. It's time, everyone─we make our stand before the gates of Tuliyollal!",
+      "hash": "8FF7F9C6456E778C",
       "unresolved": false,
       "fr": "(-Voix de Tentoawa-)C'est moi. Apyaahi est sur le point de quitter Hhusatahwi. Rendez-vous dès que possible au Seuil de Tuliyollal<nbsp>!",
       "ja": "(-テントーワ-)アパーヒが手下を率いて、宿場町を発つみたいだ。<br>みんな、急いでトライヨラ関門に集まってくれ！",
@@ -1434,8 +1434,8 @@
     },
     {
       "gameKey": "quest/051/KinGbz004_05191#TEXT_KINGBZ004_05191_SOLDIER05191B_000_117",
-      "en": "Leave this lot to us. You tend to the others!",
-      "hash": "0259BDD2257758C7",
+      "en": "(-Valiant Landsguard-)Leave this lot to us. You tend to the others!",
+      "hash": "6F9277825ED68680",
       "unresolved": false,
       "fr": "(-Guetteur de la Légion de l'Aurore-)On se charge de leur barrer le passage ici<nbsp>! Laissez-nous faire et allez prêter main-forte à vos camarades<nbsp>!",
       "ja": "(-逞しい勇連隊士-)ここは我々に任せて、<br>貴殿は門の向こう側へ！",

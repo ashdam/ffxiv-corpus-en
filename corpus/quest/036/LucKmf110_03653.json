@@ -952,8 +952,8 @@
     },
     {
       "gameKey": "quest/036/LucKmf110_03653#TEXT_LUCKMF110_03653_OFFICIALA03653_000_050",
-      "en": "<colortype(547)><string(gstr1)>. Your application is ready for collection.<colortype(0)>",
-      "hash": "FF8B850ECF371ABA",
+      "en": "(-Administrative Clerk-)<colortype(547)><string(gstr1)>. Your application is ready for collection.<colortype(0)>",
+      "hash": "8D77796B996AA892",
       "unresolved": false,
       "fr": "(-Agent d'accueil-)<colortype(547)><if(gnum4,Madame,Monsieur)> <split(<string(gstr1)>, ,2)><nbsp>? C'est bon, vous pouvez venir.<colortype(0)>",
       "ja": "(-人民管理局の受付-)<colortype(547)>議事堂見学の申請でお待ちの、<br><string(gstr1)>様……<br>お待たせいたしました。<colortype(0)>",

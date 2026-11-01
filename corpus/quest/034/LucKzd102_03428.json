@@ -354,8 +354,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd102_03428#TEXT_LUCKZD102_03428_AMARO03428_000_022",
-      "en": "Sandman, Sandman! We have a problem!",
-      "hash": "07ADCB5F106EF22A",
+      "en": "(-Panicked Amaro-)Sandman, Sandman! We have a problem!",
+      "hash": "59F35897BE18E4F0",
       "unresolved": false,
       "fr": "(-Amaro paniqué-)Ferme-l'œil<nbsp>! Il y a un problème<nbsp>!",
       "ja": "(-大慌てのアマロ-)ザントマン、大変だよ！",
@@ -380,8 +380,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd102_03428#TEXT_LUCKZD102_03428_AMARO03428_000_023",
-      "en": "A Nu Mou's come over here, and they are absolutely livid! They claim that one of us ate their porxie!",
-      "hash": "AF32EEB2FEF693E7",
+      "en": "(-Panicked Amaro-)A Nu Mou's come over here, and they are absolutely livid! They claim that one of us ate their porxie!",
+      "hash": "6F0E9DC7E59AB1BF",
       "unresolved": false,
       "fr": "(-Amaro paniqué-)Un Nu Mou très en colère demande à te voir<nbsp>! Il semblerait qu'un amaro ait mangé son familier<nbsp>!",
       "ja": "(-大慌てのアマロ-)プラ・エンニ茸窟のン・モゥ族が、<br>カンカンに怒って怒鳴り込んできてる！<br>大事な使い魔を、アマロに食べられたとか……！",

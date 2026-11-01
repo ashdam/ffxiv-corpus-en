@@ -450,8 +450,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb141_03266#TEXT_LUCKBB141_03266_VITUSQUOMESSALLA_000_080",
-      "en": "My prayers have been answered! I was beginning to think the Temple Knights had forgotten about me.",
-      "hash": "7ACAA0457AB81786",
+      "en": "(-Prospective Client-)My prayers have been answered! I was beginning to think the Temple Knights had forgotten about me.",
+      "hash": "678B9CD121EB911D",
       "unresolved": false,
       "fr": "(-Commanditaire-)Vous êtes les fameux gardes du corps dont on entend beaucoup parler en Éorzéa récemment, je présume. Vous avez en effet l'air aguerri<if(gnum4,e,)>s.",
       "ja": "(-依頼人の男-)あなたが、噂の凄腕の護衛ですか。<br>さすがにお強そうだ……頼もしいですね。",
@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb141_03266#TEXT_LUCKBB141_03266_VITUSQUOMESSALLA_000_081",
-      "en": "I do hope you will forgive my need for secrecy. The nature of my request is very sensitive, you see. Now, if you would be so kind as to follow me.",
-      "hash": "231F4DB3AFA40DA8",
+      "en": "(-Prospective Client-)I do hope you will forgive my need for secrecy. The nature of my request is very sensitive, you see. Now, if you would be so kind as to follow me.",
+      "hash": "E6EDBB19E3DDA6E2",
       "unresolved": false,
       "fr": "(-Commanditaire-)Je vais vous présenter la personne dont je voudrais que vous assuriez la protection. Suivez-moi, s'il vous plaît.",
       "ja": "(-依頼人の男-)それでは、護ってほしい者を紹介しますので、<br>どうぞこちらへ……",
@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb141_03266#TEXT_LUCKBB141_03266_VITUSQUOMESSALLA_000_083",
-      "en": "Wriggle all you want, little fly. Nothing escapes my web.",
-      "hash": "ECF0776303B8A891",
+      "en": "(-Prospective Client-)Wriggle all you want, little fly. Nothing escapes my web.",
+      "hash": "8B57FF2D9C39D70C",
       "unresolved": false,
       "fr": "(-Commanditaire-)Une entrave magitek est cachée sous vos pieds. Elle sert à contrôler les détenus les plus violents dans les prisons impériales. Vous pouvez vous agiter autant que vous le voudrez, vous n'arriverez pas à vous en libérer.",
       "ja": "(-依頼人の男-)君たちの足元には、魔導拘束器を隠していた。<br>ガレマール帝国の監獄で、凶暴な囚人を拘束するためのものだ。<br>どんな強者でも、まず動くことはできないだろう。",

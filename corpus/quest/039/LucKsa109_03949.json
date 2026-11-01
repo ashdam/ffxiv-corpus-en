@@ -426,8 +426,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa109_03949#TEXT_LUCKSA109_03949_LILJA_000_301",
-      "en": "Are you all right? I heard screaming.",
-      "hash": "1F017332A3641B43",
+      "en": "(-Lilja-)Are you all right? I heard screaming.",
+      "hash": "647A5D1DA31B281E",
       "unresolved": false,
       "fr": "Ohé<nbsp>! Vous allez <if(gnum4,toutes,tous)> bien<nbsp>!? J'ai reçu des bribes de transmissions, on aurait dit que vous faisiez la guerre là-bas<nbsp>!",
       "ja": "大丈夫ッスか！？<br>悲鳴と戦闘らしき音が聞こえてきたのであせったッス！",
@@ -478,8 +478,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa109_03949#TEXT_LUCKSA109_03949_LILJA_000_303",
-      "en": "\\<sigh> Another missed opportunity to see <if(gnum4,her,him)> in action. At least you're all unharmed.",
-      "hash": "66CA4A15927B6CA6",
+      "en": "(-Lilja-)\\<sigh> Another missed opportunity to see <if(gnum4,her,him)> in action. At least you're all unharmed.",
+      "hash": "CACB526885E9F586",
       "unresolved": false,
       "fr": "Sérieux<nbsp>!? Wouha, la chance<nbsp>! J'aurais trop aimé voir <split(<string(gstr1)>, ,1)> en action<nbsp>!",
       "ja": "オオッ！？<br>さっすが英雄さんですね！！<br>その戦い、自分も観たかったッス！！",

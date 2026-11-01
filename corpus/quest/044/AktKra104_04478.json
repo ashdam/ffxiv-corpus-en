@@ -1056,8 +1056,8 @@
     },
     {
       "gameKey": "quest/044/AktKra104_04478#TEXT_AKTKRA104_04478_HESPEROS_000_503",
-      "en": "A contemptible display─as befits an inferior specimen.",
-      "hash": "9023A05F5CABFEB0",
+      "en": "(-???-)A contemptible display─as befits an inferior specimen.",
+      "hash": "76420545C5B06A80",
       "unresolved": false,
       "fr": "(-???-)Misérables impudents... Vous regretterez cet affront...",
       "ja": "(-？？？？-)ああ、憎い……憎らしい……。",
@@ -1082,8 +1082,8 @@
     },
     {
       "gameKey": "quest/044/AktKra104_04478#TEXT_AKTKRA104_04478_HESPEROS_000_504",
-      "en": "Even so, I expected it would at least delay your advance. Imagine my surprise when I saw the chains of interment drag the phoinix back to its cage...",
-      "hash": "B7147A80614D8E97",
+      "en": "(-???-)Even so, I expected it would at least delay your advance. Imagine my surprise when I saw the chains of interment drag the phoinix back to its cage...",
+      "hash": "7411C82DB3F7484E",
       "unresolved": false,
       "fr": "(-???-)Je savais que je n'avais pas affaire à de simples intrus, mais je ne m'attendais pas à tomber sur un mage capable de manier le sort Cage.",
       "ja": "(-？？？？-)ただの侵入者ではないと思ってはいたが、<br>「檻」を出現させることすら可能な術士がいたとはな。",
@@ -1108,8 +1108,8 @@
     },
     {
       "gameKey": "quest/044/AktKra104_04478#TEXT_AKTKRA104_04478_HESPEROS_000_505",
-      "en": "Either the bird is even more of a failure than its creators cared to admit, or you are no mean trespassers.",
-      "hash": "C1D2B6298936A3FB",
+      "en": "(-???-)Either the bird is even more of a failure than its creators cared to admit, or you are no mean trespassers.",
+      "hash": "A425F5B3F49B4907",
       "unresolved": false,
       "fr": "(-???-)Le protophénix n'était bel et bien qu'un échec. Quelle disgrâce de se faire vaincre par un<if(gnum4,e,)> adversaire qui n'a pas plus d'éther qu'un familier.",
       "ja": "(-？？？？-)フェネクスも、所詮は「失敗作」か……。<br>戦いやすい空間へと、環境を作り変えてやったというのに、<br>使い魔程度のエーテルしか持たぬ相手に、ひどい体たらくだ。",

@@ -682,8 +682,8 @@
     },
     {
       "gameKey": "quest/030/StmBdy301_03015#TEXT_STMBDY301_03015_SOROBAN_000_003",
-      "en": "For the Ruby Sea and all who call her home, we seek the aid of the warrior who laid low the Lord of the Revel. But first, we bid <if(gnum4,her,him)> make haste to Hells' Lid and quell the oni that dwell in its deepest depths. Should <if(gnum4,she,he)> succeed in this test, we shall speak of the true endeavor and consummate reward.",
-      "hash": "8C825A91AB76B0F5",
+      "en": "(-Anonymous Missive-)For the Ruby Sea and all who call her home, we seek the aid of the warrior who laid low the Lord of the Revel. But first, we bid <if(gnum4,her,him)> make haste to Hells' Lid and quell the oni that dwell in its deepest depths. Should <if(gnum4,she,he)> succeed in this test, we shall speak of the true endeavor and consummate reward.",
+      "hash": "B675FE5DA25780CC",
       "unresolved": false,
       "fr": "(-Contenu de la lettre-)J'ai besoin de l'aide <if(gnum4,de l'héroïne,du héros)> qui a vaincu le Kami de la fougue. C'est le sort de toute la Mer de Rubis qui est en jeu. <if(gnum4,Si elle,S'il)> accepte, qu'<if(gnum4,elle,il)> vienne d'abord chasser les créatures qui vivent sous le Couvercle des enfers. Je lui réserve une très belle récompense.",
       "ja": "(-謎めいた手紙-)紅玉海の和を保つため、豪神を討滅せし強者の力を借り受けたい。<br>まずは獄之蓋の底に棲まう、魑魅魍魎を打ち払われたし。<br>さすれば、相応の礼を以て遇することを確約せん。",
@@ -4688,8 +4688,8 @@
     },
     {
       "gameKey": "quest/030/StmBdy301_03015#TEXT_STMBDY301_03015_BUNCHIN_100_211",
-      "en": "You are welcome to come and go from the temple as you like. Furi will remain at his post above ground. You need only seek him out.",
-      "hash": "0FCAB933EB9FA580",
+      "en": "(-Genbu's Missive-)You are welcome to come and go from the temple as you like. Furi will remain at his post above ground. You need only seek him out.",
+      "hash": "698E7734F3DA647E",
       "unresolved": false,
       "fr": "(-Contenu de la lettre-)Si tu souhaites revenir au sanctuaire pendant que tu reprends des forces, tu n'as qu'à t'adresser à Fûri, au Couvercle des enfers.",
       "ja": "(-謎めいた手紙-)戦いの疲れが癒えるまでに、<br>再び社を訪れたい時は、獄之蓋におるフウリに案内を頼むがよい。",

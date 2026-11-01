@@ -2004,8 +2004,8 @@
     },
     {
       "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_166",
-      "en": "As you have correctly guessed, I am indeed Tobli. Head ledger of Wachunpelo, and head rancher of the Family Ranch.",
-      "hash": "9C343B4E272E4913",
+      "en": "(-Tobli-)As you have correctly guessed, I am indeed Tobli. Head ledger of Wachunpelo, and head rancher of the Family Ranch.",
+      "hash": "329CD3BD7BD7FD12",
       "unresolved": false,
       "fr": "(-Tobli-)Effectivement, je suis Tobli, le chef du village de Wachunpelo et le pro<->prié<->taire de ces étables...",
       "ja": "(-トーブリ-)私の名はトーブリ。<br>ワチュン・ペロを仕切るペルペル族の族長であり、<br>この友の牧場の主、そして……",
@@ -2030,8 +2030,8 @@
     },
     {
       "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_167",
-      "en": "I am also one of Gulool Ja Ja's chosen electors.",
-      "hash": "E06AE8182E25B476",
+      "en": "(-Tobli-)I am also one of Gulool Ja Ja's chosen electors.",
+      "hash": "E4D725B7CB70C1E7",
       "unresolved": false,
       "fr": "(-Tobli-)... mais surtout, je suis l'un des arbitres royaux missionnés par notre bon souverain, Gulool Ja Ja<nbsp>!",
       "ja": "(-トーブリ-)グルージャジャ様より託されたひとりです。<br>連王の選者という役目をね、ええ。",
@@ -2160,8 +2160,8 @@
     },
     {
       "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_100_173",
-      "en": "And I'm glad she did─would've been a pity had her bid ended here.",
-      "hash": "41D02148913E47A5",
+      "en": "(-Tobli-)And I'm glad she did─would've been a pity had her bid ended here.",
+      "hash": "794C6E8970E0AB48",
       "unresolved": false,
       "fr": "(-Tobli-)Je n'en attendais pas moins de la princesse.",
       "ja": "(-トーブリ-)なに、ここで躓かれなくてよかったですよ、ええ。",

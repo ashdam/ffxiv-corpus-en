@@ -444,8 +444,8 @@
     },
     {
       "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_EDMONT_000_020",
-      "en": "Well, this is a most unexpected surprise. I thought you confined to bed.",
-      "hash": "B7C6F6F74AB42B51",
+      "en": "(-???-)Well, this is a most unexpected surprise. I thought you confined to bed.",
+      "hash": "B25A0746C1A6CF81",
       "unresolved": false,
       "fr": "(-???-)Tiens donc, vous êtes déjà debout<nbsp>? Et moi qui pensais vous trouver alité<if(gnum4,e,)>.",
       "ja": "(-？？？？-)おやおや、倒れた英雄殿を見舞いにきたものの、<br>もう、その必要もないということですかな？",

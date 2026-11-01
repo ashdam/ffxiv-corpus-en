@@ -930,8 +930,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconEventKozakura_00486#TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_226",
-      "en": "Sorry to interrupt, but perhaps it would be best coming from me.",
-      "hash": "34D2709292242825",
+      "en": "(-???-)Sorry to interrupt, but perhaps it would be best coming from me.",
+      "hash": "E5B9EEA25BDD2D06",
       "unresolved": false,
       "fr": "(-???-)Attends, Kozakura<nbsp>! Je t'avais dit que je voulais lui annoncer moi-même<nbsp>!",
       "ja": "(-？？？？-)その先は自分に話させてもらえないか。",
@@ -946,8 +946,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconEventKozakura_00486#TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_227",
-      "en": "We meet again, Warrior of Light. You may not remember me, but I was there the day you and Lady Yugiri freed me and my countrymen from Castrum Fluminis. I owe my freedom to you.",
-      "hash": "E6E8CB44DD26F8D9",
+      "en": "(-Formidable Farmer-)We meet again, Warrior of Light. You may not remember me, but I was there the day you and Lady Yugiri freed me and my countrymen from Castrum Fluminis. I owe my freedom to you.",
+      "hash": "FCC3548AE13E183B",
       "unresolved": false,
       "fr": "(-Fermier imposant-)Mon visage vous dit quelque chose<nbsp>? Laissez-moi vous aider<nbsp>: l'échange de prisonniers, à Castrum Fluminis. C'est grâce à vous et à cette brave shinobi que nous avons pu nous échapper, mes compatriotes et moi.",
       "ja": "(-巨漢の農夫-)俺のことを覚えているか？<br>カストルム・フルーミニスに徴用されていたときに、<br>忍びの嬢ちゃんと一緒のあんたに、助けられたんだ。",
@@ -962,8 +962,8 @@
     },
     {
       "gameKey": "custom/004/CtsDomReconEventKozakura_00486#TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_228",
-      "en": "Though I must admit, I was in something of a panicked state when we first met. So much so, that I neglected to thank you or give my name. I am Ihase.",
-      "hash": "7650B9D09315B0E7",
+      "en": "(-Formidable Farmer-)Though I must admit, I was in something of a panicked state when we first met. So much so, that I neglected to thank you or give my name. I am Ihase.",
+      "hash": "228EC96B235356D3",
       "unresolved": false,
       "fr": "(-Fermier imposant-)Vous ne m'avez cer<->tai<->ne<->ment pas remarqué dans le feu de l'action, alors laissez-moi me présenter. Je m'appelle Ihase, je suis responsable de l'aménagement des rizières de Den'en-chi, sous les auspices du Shazenkai.",
       "ja": "(-巨漢の農夫-)あのときは名乗りもせずに、すまなかったな。<br>自分はイハセという。<br>次に車前会に援助を頼んでいる「田園地」の責任者だ。",

@@ -1290,8 +1290,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz909_02865#TEXT_STMBDZ909_02865_BAUT_000_055",
-      "en": "<split(<string(gstr1)>, ,1)>! What brings you back to Ala Ghiri?",
-      "hash": "E68627654C3277E6",
+      "en": "(-???-)<split(<string(gstr1)>, ,1)>! What brings you back to Ala Ghiri?",
+      "hash": "222D93CBE92AF37B",
       "unresolved": false,
       "fr": "(-???-)Oh, <if(gnum4,aventurière,aventurier)>. Ça fait un moment qu'on ne s'est vus. Comment va<nbsp>?",
       "ja": "(-？？？？-)おう、冒険者。<br>元気にしていたか？",

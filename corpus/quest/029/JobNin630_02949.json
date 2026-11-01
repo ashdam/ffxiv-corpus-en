@@ -464,8 +464,8 @@
     },
     {
       "gameKey": "quest/029/JobNin630_02949#TEXT_JOBNIN630_02949_OBORO_000_001",
-      "en": "<italic(1)>Dear <split(<string(gstr1)>, ,1)>,<br>I hope this letter finds you well. After a long and rather uneventful voyage, we have arrived safely in Kugane. Captain Jacke seems quite taken with Hingan culture, and is enjoying a stroll in the pleasure quarters at this very moment.<italic(0)>",
-      "hash": "E1222F02E80B9476",
+      "en": "(-Letter from Oboro-)<italic(1)>Dear <split(<string(gstr1)>, ,1)>,<br>I hope this letter finds you well. After a long and rather uneventful voyage, we have arrived safely in Kugane. Captain Jacke seems quite taken with Hingan culture, and is enjoying a stroll in the pleasure quarters at this very moment.<italic(0)>",
+      "hash": "60626D9225A0D52A",
       "unresolved": false,
       "fr": "(-Lettre d'Oboro-)<if(gnum4,Chère,Cher)> <split(<string(gstr1)>, ,1)>,<br>Je vous écris pour vous faire savoir que nous sommes bien arrivés à Kugane. Jacke semble apprécier la cuisine locale, et il observe avec grand intérêt les bâtisses de style oriental.",
       "ja": "(-オボロからの手紙-)前略、<split(<string(gstr1)>, ,1)>。<br>あれから、船旅を無事に終え、クガネへと到着した。<br>ジャック殿は、異国の街並みを物珍しそうに見物している。",
@@ -490,8 +490,8 @@
     },
     {
       "gameKey": "quest/029/JobNin630_02949#TEXT_JOBNIN630_02949_OBORO_000_002",
-      "en": "<italic(1)>But forgive me, you are not interested in a diary of our travels. As for the matter of the scroll, rumors abound of a band of Doman scofflaws have been causing a stir in town of late. Putting together the accounts we have heard, the good Captain and I are convinced that these are the thieves we seek.<italic(0)>",
-      "hash": "9AE2B5A220AAAB04",
+      "en": "(-Letter from Oboro-)<italic(1)>But forgive me, you are not interested in a diary of our travels. As for the matter of the scroll, rumors abound of a band of Doman scofflaws have been causing a stir in town of late. Putting together the accounts we have heard, the good Captain and I are convinced that these are the thieves we seek.<italic(0)>",
+      "hash": "AA3905DA5D3060E0",
       "unresolved": false,
       "fr": "(-Lettre d'Oboro-)Comme prévu, nous avons rapidement réussi à retrouver la trace de nos fuyards. Ils appartiennent à une bande de truands qui séjourne en ville, et cela s'annonce plus compliqué que prévu de récupérer le parchemin volé.",
       "ja": "(-オボロからの手紙-)そして、この港街に巻物を盗んだドマの者らしき、<br>荒くれ者の集団が滞在していることを確認した。<br>奴らは思いのほか厄介な相手のようだ。",
@@ -516,8 +516,8 @@
     },
     {
       "gameKey": "quest/029/JobNin630_02949#TEXT_JOBNIN630_02949_OBORO_000_003",
-      "en": "<italic(1)>If the word about town is to be believed, these individuals are far more dangerous than we had imagined. I trust that you have been pursuing your ninjutsu training with your usual diligence? My apologies─of course you have. In any event, we would have you join us at your earliest convenience. We will be keeping an eye out for your arrival. Seek us in the alley behind the second pier ferry docks. Safe travels, friend.<italic(0)>",
-      "hash": "4569AD25191EAE51",
+      "en": "(-Letter from Oboro-)<italic(1)>If the word about town is to be believed, these individuals are far more dangerous than we had imagined. I trust that you have been pursuing your ninjutsu training with your usual diligence? My apologies─of course you have. In any event, we would have you join us at your earliest convenience. We will be keeping an eye out for your arrival. Seek us in the alley behind the second pier ferry docks. Safe travels, friend.<italic(0)>",
+      "hash": "6D437AC573B30572",
       "unresolved": false,
       "fr": "(-Lettre d'Oboro-)J'aurais préféré ne pas vous mêler davantage à cette affaire, mais je crains qu'il n'y ait pas d'autre solution. Pourriez-vous nous rejoindre dans la ruelle qui se trouve derrière la jetée n°2, à Kugane<nbsp>? Je compte sur vous.",
       "ja": "(-オボロからの手紙-)任務を確実に遂行するため、お主の力を貸してほしい。<br>我らは、クガネの第二波止場の路地裏にて待っているぞ。",
@@ -3000,8 +3000,8 @@
     },
     {
       "gameKey": "quest/029/JobNin630_02949#TEXT_JOBNIN630_02949_KARASU_000_146",
-      "en": "Gentlemen, gentlemen...must you make such a scene? After all, strictly speaking, the scroll <italic(1)>belongs<italic(0)> to neither of you.",
-      "hash": "31398DE3C61DCFB3",
+      "en": "(-Familiar Voice-)Gentlemen, gentlemen...must you make such a scene? After all, strictly speaking, the scroll <italic(1)>belongs<italic(0)> to neither of you.",
+      "hash": "DB45BA3A9A595FB7",
       "unresolved": false,
       "fr": "(-Voix familière-)Allons, allons... Arrêtez de vous disputer pour quelque chose qui ne vous appartient pas, voyons<nbsp>!",
       "ja": "(-聞き覚えのある声-)ウププ、実はどちらの物でもないんだなァ～。",

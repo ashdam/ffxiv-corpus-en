@@ -394,8 +394,8 @@
     },
     {
       "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_GNATHSOLDIER01616_000_001",
-      "en": "Surrender, intruders! There is no escape!",
-      "hash": "753ABD0A10EA0ACB",
+      "en": "(-Gnath soldiers-)Surrender, intruders! There is no escape!",
+      "hash": "7C8FF4D058965E76",
       "unresolved": false,
       "fr": "(-Gnathes-)<if(gnum4,Elles,Ils)> sont là<nbsp>! Rendez-vous im<->mé<->dia<->te<->ment, humain<if(gnum4,es,s)><nbsp>!",
       "ja": "(-グナース族たち-)グナースの地を侵す者たちめ！<br>降伏せよ、降伏せよ！",

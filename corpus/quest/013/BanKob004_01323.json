@@ -995,8 +995,8 @@
     },
     {
       "gameKey": "quest/013/BanKob004_01323#TEXT_BANKOB004_01323_KOBOLDA01323_000_042",
-      "en": "Looking for trouble, are you? Yes, yes, you are!",
-      "hash": "092AF5C049D7E0D1",
+      "en": "(-Kobold Outlaw-)Looking for trouble, are you? Yes, yes, you are!",
+      "hash": "48ABD8D3A3CAE406",
       "unresolved": false,
       "fr": "(-Hors-la-loi kobold-)Qu'est-ce que tu veux, sale morveu<if(gnum4,se,x)> de la surface<nbsp>!? Tu veux t'battre, ouais, c'est c'que tu veux<nbsp>?",
       "ja": "(-コボルド・アウトロー-)なんーだ\u3000てぇーめぇ！<br>やろうってのーか！？",
@@ -1020,8 +1020,8 @@
     },
     {
       "gameKey": "quest/013/BanKob004_01323#TEXT_BANKOB004_01323_KOBOLDB01323_000_043",
-      "en": "We'll gut you─slice you, slash you, gut you!",
-      "hash": "680272F78E7E0038",
+      "en": "(-Kobold Outlaw-)We'll gut you─slice you, slash you, gut you!",
+      "hash": "5DA0FC657947BCF9",
       "unresolved": false,
       "fr": "(-Hors-la-loi kobold-)Raaah<nbsp>! Tu vois pas que tu nous gênes, mouais, tu vois pas ça<nbsp>? Tu vas regretter d'être venu<if(gnum4,e,)>, mouais<nbsp>!",
       "ja": "(-コボルド・アウトロー-)いーま\u3000いいとーこ\u3000なんだーよ！<br>邪魔すんーな！",

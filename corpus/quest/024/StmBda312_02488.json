@@ -844,8 +844,8 @@
     },
     {
       "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_ALISAIE_000_045",
-      "en": "<split(<string(gstr1)>, ,1)>, Lyse, can you hear me? I've found the vault!",
-      "hash": "40549B9E8F6BF877",
+      "en": "(-Alisaie-)<split(<string(gstr1)>, ,1)>, Lyse, can you hear me? I've found the vault!",
+      "hash": "122B64B9A2ABA7EB",
       "unresolved": false,
       "fr": "(-Alisaie-)<split(<string(gstr1)>, ,1)>, Lyse<nbsp>? Vous me recevez<nbsp>!? Votre diversion était parfaite<nbsp>! Les Rouges ne m'ont pas repérée<nbsp>!",
       "ja": "(-アリゼー-)<split(<string(gstr1)>, ,1)>、リセ、聞こえる！？<br>紅甲羅、バッチリ引き付けてくれてありがとね！",
@@ -870,8 +870,8 @@
     },
     {
       "gameKey": "quest/024/StmBda312_02488#TEXT_STMBDA312_02488_ALISAIE_000_046",
-      "en": "Head northwest. There's a passage leading deeper within. Hurry!",
-      "hash": "10E466717C707319",
+      "en": "(-Alisaie-)Head northwest. There's a passage leading deeper within. Hurry!",
+      "hash": "F8BC1048BDAE866A",
       "unresolved": false,
       "fr": "(-Alisaie-)J'ai localisé notre objectif. La salle du trésor est au bout d'un corridor qui mène au nord-ouest de l'île. Rejoignez-moi aussi vite que possible<nbsp>! J'en ai déjà déverrouillé l'accès<nbsp>!",
       "ja": "(-アリゼー-)おかげさまで、宝物殿の入口を発見したわ。<br>島の北西、通路の最奥よ。<br>封印も解いてあるから、至急集合して！",

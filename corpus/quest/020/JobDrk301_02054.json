@@ -628,8 +628,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk301_02054#TEXT_JOBDRK301_02054_POOR02054_000_023",
-      "en": "...He'd take you too is what he'd do.",
-      "hash": "594C5460159599DB",
+      "en": "(-Weary Young Man-)...He'd take you too is what he'd do.",
+      "hash": "DE295B1D07566BCF",
       "unresolved": false,
       "fr": "(-Habitant de Brouillasse-)... Il vous emmènerait vous aussi, voilà ce qu'il ferait.",
       "ja": "(-雲霧街の住人-)ばあさん、残念だが諦めな……。<br>神殿騎士に盾をついちゃ、この皇都では生きてけねぇ。<br>娘さんが「多少の我慢」をすりゃ、命だけは助かるだろうさ。",
@@ -654,8 +654,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk301_02054#TEXT_JOBDRK301_02054_POOR02054_000_024",
-      "en": "Even if you went and begged the blue bastard to intervene, it'd be too late by then.",
-      "hash": "346EA1AC2EF1D55E",
+      "en": "(-Weary Young Man-)Even if you went and begged the blue bastard to intervene, it'd be too late by then.",
+      "hash": "DE5C8F647AD3E46B",
       "unresolved": false,
       "fr": "(-Habitant de Brouillasse-)Même si vous alliez supplier le capitaine général d'intervenir, il serait sûrement déjà trop tard.",
       "ja": "(-雲霧街の住人-)新任の総長様は話がわかるって噂だが、<br>その目が届かないところには、<br>権力を笠に着た、ろくでもねぇヤツがいるんだよ。",
@@ -680,8 +680,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk301_02054#TEXT_JOBDRK301_02054_POOR02054_000_025",
-      "en": "...Ain't the first time they've taken a girl her age. If she doesn't fight back, they might let her go after...",
-      "hash": "83A59D4440330D9E",
+      "en": "(-Weary Young Man-)...Ain't the first time they've taken a girl her age. If she doesn't fight back, they might let her go after...",
+      "hash": "C313555715B0FD4F",
       "unresolved": false,
       "fr": "(-Habitant de Brouillasse-)... Ça n'est pas la première fois qu'ils enlèvent une fille de cet âge. Si elle ne leur résiste pas, ils la libéreront peut-être après...",
       "ja": "(-雲霧街の住人-)奴ら、嫌疑なんて、いくらでもでっち上げるぜ。<br>まともにつっかかったら、今度はてめぇの首が飛ぶってもんだ。",

@@ -572,8 +572,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc011_03220#TEXT_LUCKBC011_03220_HILDA_000_020",
-      "en": "Sorry, Joye, hope I didn't keep you waitin' too long.",
-      "hash": "F4C13DE6F83779F6",
+      "en": "(-???-)Sorry, Joye, hope I didn't keep you waitin' too long.",
+      "hash": "0B63C884FE4EC93B",
       "unresolved": false,
       "fr": "(-???-)Désolée, Joye, je suis là. Tu n'as pas attendu trop longtemps<nbsp>?",
       "ja": "(-？？？？-)すまん、ジョイ。<br>待たせたか？",
@@ -650,8 +650,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc011_03220#TEXT_LUCKBC011_03220_MUSCADAIN_100_022",
-      "en": "Ah, champion.",
-      "hash": "FD6CFDE1626A9672",
+      "en": "(-???-)Ah, champion.",
+      "hash": "E920B0CD888A7D99",
       "unresolved": false,
       "fr": "(-Voix familière-)Tiens, mais voilà <if(gnum4,l'héroïne préférée,le héros préféré)> des Ishgardais.",
       "ja": "(-？？？？-)おや、英雄殿。",

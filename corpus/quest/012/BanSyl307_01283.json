@@ -470,8 +470,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl307_01283#TEXT_BANSYL307_01283_KARIYADOSHIRUF_000_016",
-      "en": "Walking one is strong indeed to survive the journey from the Seedbed. This one will carry podling back to Little Solace from here.",
-      "hash": "299A94A8CE30D8A0",
+      "en": "(-Little Solace Sylph-)Walking one is strong indeed to survive the journey from the Seedbed. This one will carry podling back to Little Solace from here.",
+      "hash": "69FB4C007C54E2A2",
       "unresolved": false,
       "fr": "(-Sylphe du Refuge-)Oh, tu as réussi là où nous avons échoué<nbsp>!<br>Nous ne faisions pas le poids face aux monstres et aux Dénaturés.",
       "ja": "(-仮宿のシルフ-)ああ、「<sheet(EObj,2003292,0)>」だふっち！<br>あたぴたち、なんとかここまでこれたけど、<br>魔物や悪い子シルフが多すぎて、困ってたとこなのでふっち！",

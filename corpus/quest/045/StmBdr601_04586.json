@@ -702,8 +702,8 @@
     },
     {
       "gameKey": "quest/045/StmBdr601_04586#TEXT_STMBDR601_04586_BIGGS_000_022",
-      "en": "Sorry we're late. We had some trouble finding the right─ Gods, is that you, <split(<string(gstr1)>, ,1)>!?",
-      "hash": "3DEB461EE82F2286",
+      "en": "(-???-)Sorry we're late. We had some trouble finding the right─ Gods, is that you, <split(<string(gstr1)>, ,1)>!?",
+      "hash": "485F8F5E45392D28",
       "unresolved": false,
       "fr": "(-???-)Désolé pour le retard. J'ai eu un peu de mal à trouver la bonne adr... Par les Douze<nbsp>! <split(<string(gstr1)>, ,1)>, c'est toi<nbsp>!?",
       "ja": "(-？？？？-)悪い、少し遅れた。<br>……って、どうして<split(<string(gstr1)>, ,2)>が！？",

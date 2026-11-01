@@ -1394,8 +1394,8 @@
     },
     {
       "gameKey": "quest/036/LucKme110_03639#TEXT_LUCKME110_03639_GLAGG_000_089",
-      "en": "Who goes there!?",
-      "hash": "0302D2BF3A08B1D8",
+      "en": "(-???-)Who goes there!?",
+      "hash": "E446B408046D668A",
       "unresolved": false,
       "fr": "(-???-)Qui va là<nbsp>!?",
       "ja": "(-？？？？-)コラ～ッ！<br>そこで何をしてるのじゃ～ッ！",
@@ -1602,8 +1602,8 @@
     },
     {
       "gameKey": "quest/036/LucKme110_03639#TEXT_LUCKME110_03639_KORUTTANDGLAGG_000_097",
-      "en": "Grrrrrr!",
-      "hash": "B6B99C878CE912D4",
+      "en": "(-Korutt and Glagg-)Grrrrrr!",
+      "hash": "C7C671F356BD3F8F",
       "unresolved": false,
       "fr": "(-Korutt et Glagg-)Grrrrrrrr<nbsp>!",
       "ja": "(-コルットとグラッグ-)ムキィィィッ！",

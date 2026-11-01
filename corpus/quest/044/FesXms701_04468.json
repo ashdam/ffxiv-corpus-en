@@ -603,8 +603,8 @@
     },
     {
       "gameKey": "quest/044/FesXms701_04468#TEXT_FESXMS701_04468_RISSAI_000_012",
-      "en": "It looks like you could use some help, my dear.",
-      "hash": "2BA14D19FA794BFB",
+      "en": "(-???-)It looks like you could use some help, my dear.",
+      "hash": "DAFF7C4C7993C9AD",
       "unresolved": false,
       "fr": "(-???-)Hé, toi, là-bas<nbsp>! Qu'est-ce qu'il t'arrive<nbsp>?",
       "ja": "(-？？？？-)よお、そこの彼女。<br>お困りかい？",
@@ -745,8 +745,8 @@
     },
     {
       "gameKey": "quest/044/FesXms701_04468#TEXT_FESXMS701_04468_RISSAI_000_015",
-      "en": "Ah, the reactions never fail to amuse. Yes, I can understand and speak your language just fine. For you see, I am what is known as an auspice─a beast proficient in the tongues of man. If you have traveled to the Far East, you may have encountered others of my kind.",
-      "hash": "9AC5575581864B11",
+      "en": "(-Talking Squirrel-)Ah, the reactions never fail to amuse. Yes, I can understand and speak your language just fine. For you see, I am what is known as an auspice─a beast proficient in the tongues of man. If you have traveled to the Far East, you may have encountered others of my kind.",
+      "hash": "62883C73C8455C00",
       "unresolved": false,
       "fr": "(-Écureuil qui parle-)Voilà une réaction qui fait plaisir<nbsp>! Ceux qui comme moi comprennent la langue des humains sont des Zuijû<nbsp>! On peut prin<->ci<->pa<->le<->ment nous trouver en Orient, même si on n'est pas bien nombreux.",
       "ja": "(-人語を話すリス-)へへっ、いい反応をどうも！<br>オイラみたいな人語を話す獣を、瑞獣って言ってな。<br>東方では、稀にそういうのもいるんだよ。",
@@ -770,8 +770,8 @@
     },
     {
       "gameKey": "quest/044/FesXms701_04468#TEXT_FESXMS701_04468_RISSAI_000_016",
-      "en": "Oho! So you are familiar with my kind. Excellent. It will allow me to forgo all the tedious explanations.",
-      "hash": "31141A4752495D91",
+      "en": "(-Talking Squirrel-)Oho! So you are familiar with my kind. Excellent. It will allow me to forgo all the tedious explanations.",
+      "hash": "EFDFD548E7776BBE",
       "unresolved": false,
       "fr": "(-Écureuil qui parle-)Tu connais les Zuijû<nbsp>? Tant mieux, on évitera des ex<->pli<->ca<->tions inutiles.",
       "ja": "(-人語を話すリス-)へえ、瑞獣の存在を知ってるのかい？<br>それなら話が早くて助かるぜ。",

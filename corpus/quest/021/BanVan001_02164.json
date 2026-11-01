@@ -572,8 +572,8 @@
     },
     {
       "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_LINUVALI_000_011",
-      "en": "Traitorous!? We but seek freedom from cruelty of Vundu!",
-      "hash": "97F9960F5BFE6429",
+      "en": "(-Petal-crowned Vanu-)Traitorous!? We but seek freedom from cruelty of Vundu!",
+      "hash": "54A5B074BF4FBB8D",
       "unresolved": false,
       "fr": "(-Vanu Vanu à la couronne de fleurs-)Traîtres<nbsp>!? Nous autres Gundu ne désirons que notre indépendance<nbsp>! Cela ne fait en aucun cas de nous des traîtres<nbsp>!",
       "ja": "(-花冠のバヌバヌ族-)なんと、なんと、逆賊ですって？<br>私たち「グンド族」は、ただ独立を求めただけ！<br>決して、逆賊などと言われる筋合いはないわ！",
@@ -624,8 +624,8 @@
     },
     {
       "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_LINUVALI_000_013",
-      "en": "No more! Gundu cast off Vundu reins! Gundu are free! <italic(1)>Gundu are free<italic(0)>!",
-      "hash": "687A3BA09A9F5B79",
+      "en": "(-Petal-crowned Vanu-)No more! Gundu cast off Vundu reins! Gundu are free! <italic(1)>Gundu are free<italic(0)>!",
+      "hash": "256ED5727F578A55",
       "unresolved": false,
       "fr": "(-Vanu Vanu à la couronne de fleurs-)Vous croyez vraiment que nous allons vous laisser nous traiter comme de vulgaires bêtes<nbsp>?",
       "ja": "(-花冠のバヌバヌ族-)そんなの、そんなの、あんまりよ！",
@@ -650,8 +650,8 @@
     },
     {
       "gameKey": "quest/021/BanVan001_02164#TEXT_BANVAN001_02164_MUNAVANU_000_014",
-      "en": "Stand back, Linu Vali! Muna Vanu teaches Vundu difference between Gundu and sanuwa!",
-      "hash": "55ADC45DCDCB2135",
+      "en": "(-Elderly Vanu-)Stand back, Linu Vali! Muna Vanu teaches Vundu difference between Gundu and sanuwa!",
+      "hash": "E0470A38998C5567",
       "unresolved": false,
       "fr": "(-Vieux Vanu Vanu-)Jeune et brave Linu Vali, nous n'avons d'autres choix que de nous battre, si nous désirons retrouver notre liberté<nbsp>! Laisse-moi m'occuper d'eux<nbsp>!",
       "ja": "(-年老いたバヌバヌ族-)もはや、もはや、戦うのみ！<br>リヌバリさま、ここは私に任せてくだされ！",

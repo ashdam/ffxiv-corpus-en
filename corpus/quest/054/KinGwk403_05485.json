@@ -1686,8 +1686,8 @@
     },
     {
       "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_SEWAL_000_062",
-      "en": "That striking scarlet garb... Could you be <italic(1)>the<italic(0)> Namingway!?",
-      "hash": "FD718C364F52E180",
+      "en": "(-Middle-aged Merchant-)That striking scarlet garb... Could you be <italic(1)>the<italic(0)> Namingway!?",
+      "hash": "E732B64F97E8AA59",
       "unresolved": false,
       "fr": "(-Marchand âgé-)Un lapin tout de rouge vêtu... Namingway<nbsp>? C'est bien toi<nbsp>!?",
       "ja": "(-初老の商人-)その赤い頭巾……<br>君はもしかして、ネミングウェイ！？",
@@ -1738,8 +1738,8 @@
     },
     {
       "gameKey": "quest/054/KinGwk403_05485#TEXT_KINGWK403_05485_SEWAL_000_064",
-      "en": "That and more. Why, I've known you all my life─isn't that right, my friend?",
-      "hash": "E7A7DB1BEF669032",
+      "en": "(-Middle-aged Merchant-)That and more. Why, I've known you all my life─isn't that right, my friend?",
+      "hash": "1DA59F4B7AD714F2",
       "unresolved": false,
       "fr": "(-Marchand âgé-)Bien sûr<nbsp>! Depuis toujours, même<nbsp>! Enfin... pas directement...",
       "ja": "(-初老の商人-)ああ、それも知っているだけじゃなく、<br>長い付き合いをさせてもらっているよ。<br>この子と……ね！",

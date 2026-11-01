@@ -470,8 +470,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_050",
-      "en": "Ick! This one is stinkier than stinkweed!",
-      "hash": "41C3949A53E4E113",
+      "en": "(-Spiteful Sylph-)Ick! This one is stinkier than stinkweed!",
+      "hash": "18BD820EB9FC5518",
       "unresolved": false,
       "fr": "(-Dénaturé-)Ouaaah<nbsp>! Quels sont ces miasmes dégoûtants<nbsp>!?<br>C'est absolument écœurant<nbsp>!",
       "ja": "(-悪い子シルフ-)うへっ、ばっちぃでふっち！<br>水浴びするでふっち！",
@@ -494,8 +494,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl105_01261#TEXT_BANSYL105_01261_SYLPHENEMY_000_051",
-      "en": "Stop it! This one just took a bath!",
-      "hash": "0C39A93AB62053C8",
+      "en": "(-Cruel Sylph-)Stop it! This one just took a bath!",
+      "hash": "F0DB6FA8E5B3B8DD",
       "unresolved": false,
       "fr": "(-Dénaturé-)Berk, c'est répugnant<nbsp>!<br>C'est odieux, allons-nous en<nbsp>!",
       "ja": "(-悪い子シルフ-)うわ、なんだコイツでふっち！<br>逃げるでふっち！",

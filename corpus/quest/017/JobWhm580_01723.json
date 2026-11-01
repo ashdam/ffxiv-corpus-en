@@ -708,8 +708,8 @@
     },
     {
       "gameKey": "quest/017/JobWhm580_01723#TEXT_JOBWHM580_01723_ESCHIVA_000_036",
-      "en": "What are you saying? The taint is <italic(1)>befouled<italic(0)> aether! It <italic(1)>destroys<italic(0)> life!",
-      "hash": "45726785C3FF367E",
+      "en": "(-Eschiva-)What are you saying? The taint is <italic(1)>befouled<italic(0)> aether! It <italic(1)>destroys<italic(0)> life!",
+      "hash": "0D2E6D19F1A8BA8B",
       "unresolved": false,
       "fr": "Mais qu'est-ce que vous racontez<nbsp>? Les corruptions sont formées d'éther souillé... Elles rongent la nature et blessent les êtres vivants<nbsp>!",
       "ja": "な、なにを言っているのです……？<br>「不浄なるもの」が……穢れたエーテルが自然を蝕み、<br>多くの命を傷つけることになるのですよ！？",

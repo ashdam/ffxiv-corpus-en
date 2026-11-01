@@ -810,8 +810,8 @@
     },
     {
       "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_ORCUS_000_030",
-      "en": "There you are, <split(<string(gstr1)>, ,1)>. My prize repast. Come forward.",
-      "hash": "28BAE3EE83268C42",
+      "en": "(-Orcus-)There you are, <split(<string(gstr1)>, ,1)>. My prize repast. Come forward.",
+      "hash": "B0601A6524ED6CCC",
       "unresolved": false,
       "fr": "(-Voix d'Orcus-)Je t'attendais, <if(gnum4,ma chère,mon cher)> <split(<string(gstr1)>, ,1)>. Continue d'avancer, je te prie.",
       "ja": "(-オルクスからの魔導通信-)待っていたぞォ、<split(<string(gstr1)>, ,1)>。<br>そのまま進め。",

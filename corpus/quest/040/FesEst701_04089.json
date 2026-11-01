@@ -538,8 +538,8 @@
     },
     {
       "gameKey": "quest/040/FesEst701_04089#TEXT_FESEST701_04089_NONOTTA_000_020",
-      "en": "This is truly eggsasperating...",
-      "hash": "C19147A7DA4DFAD9",
+      "en": "(-Odd “Chicken”-)This is truly eggsasperating...",
+      "hash": "362032C7E34E97DA",
       "unresolved": false,
       "fr": "(-Petite poule épuisée-)Noirs, blancs, jaunes et bleus... Aaah...",
       "ja": "(-疲れ果てた小さなニワトリ-)エグ、エグ、エ～グ、エッグラホ……。",
@@ -788,8 +788,8 @@
     },
     {
       "gameKey": "quest/040/FesEst701_04089#TEXT_FESEST701_04089_2021ESTCHICKEN_000_031",
-      "en": "Bok-bok BAKAWK!",
-      "hash": "D980EE39EB85A6B4",
+      "en": "(-???-)Bok-bok BAKAWK!",
+      "hash": "7CAEDE41EDBDB240",
       "unresolved": false,
       "fr": "(-???-)Cot, cot, codêêêêt<nbsp>!",
       "ja": "(-？？？？-)コケーッ！！",
@@ -1109,8 +1109,8 @@
     },
     {
       "gameKey": "quest/040/FesEst701_04089#TEXT_FESEST701_04089_PAWLIN_000_047",
-      "en": "Now, now, my little darlings, you needn't be so─ Ow! Such a feisty welcome! If we could just─ Ow ow ow! Not the fingers!",
-      "hash": "46A6795596B70F29",
+      "en": "(-Pawlin-)Now, now, my little darlings, you needn't be so─ Ow! Such a feisty welcome! If we could just─ Ow ow ow! Not the fingers!",
+      "hash": "454A66FD9EAEA426",
       "unresolved": false,
       "fr": "(-Voix de Pawlin-)Ah ha ha<nbsp>! Comment ça va mes jolies<nbsp>? J'ai ce qu'il vous faut, regardez<nbsp>! Hé oh<nbsp>! Pas de bousculade, il y en aura pour tout le monde<nbsp>! Hé<nbsp>! Aïe<nbsp>! Minute cocotte<nbsp>! Ouille<nbsp>! Non, pas les yeux, pas les yeux<nbsp>! Aïe aïe<nbsp>!",
       "ja": "(-ポーリンの声-)ちょっ、はははっ、まったく、かわいこちゃんたちめ！<br>そんな情熱的な歓迎をしてくれなくても……いった！<br>待って待って、痛い！\u3000くちばし痛いっ！！",
@@ -1134,8 +1134,8 @@
     },
     {
       "gameKey": "quest/040/FesEst701_04089#TEXT_FESEST701_04089_NONOTTA_000_048",
-      "en": "Please! We're just trying to─ Oof! Oh no! The feed's gone everywhere!",
-      "hash": "616727BFAE1E6B8A",
+      "en": "(-Nonotta-)Please! We're just trying to─ Oof! Oh no! The feed's gone everywhere!",
+      "hash": "1FE320D9272C9D5C",
       "unresolved": false,
       "fr": "(-Voix de Nonotta-)Aaaah<nbsp>! Non, arrêtez<nbsp>! Et voilà, il y en a partout maintenant<nbsp>!",
       "ja": "(-ノノッタの声-)あわわわっ！<br>体当たりはやめるのですぅ～！<br>ああっ、餌がこぼれちゃいますぅ～っ！！",

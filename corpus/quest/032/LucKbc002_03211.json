@@ -1280,8 +1280,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_RESISTANCEWARRIOR03211_000_117",
-      "en": "Captain! It has been a while, sir!",
-      "hash": "B019485A755A49AA",
+      "en": "(-???-)Captain! It has been a while, sir!",
+      "hash": "3BFC07A84FE42DA9",
       "unresolved": false,
       "fr": "Capitaine Widargelt<nbsp>!",
       "ja": "(-？？？？-)ご無沙汰しております、ウィダルゲルト隊長……！",
@@ -1644,8 +1644,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc002_03211#TEXT_LUCKBC002_03211_LYSE_000_150",
-      "en": "Sorry for keeping you!",
-      "hash": "5C17629E5F0B69E6",
+      "en": "(-???-)Sorry for keeping you!",
+      "hash": "27BF0FB76BD4495E",
       "unresolved": false,
       "fr": "(-???-)Bonjour, pardon pour le retard<nbsp>!",
       "ja": "(-？？？？-)ごめん、お待たせ！",

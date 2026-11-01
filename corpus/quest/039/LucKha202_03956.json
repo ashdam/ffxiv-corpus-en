@@ -770,8 +770,8 @@
     },
     {
       "gameKey": "quest/039/LucKha202_03956#TEXT_LUCKHA202_03956_EMMANELLAIN_000_046",
-      "en": "...Allow me to handle this, old <if(gnum4,girl,boy)>.",
-      "hash": "79E8CF24805091C9",
+      "en": "(-???-)...Allow me to handle this, old <if(gnum4,girl,boy)>.",
+      "hash": "6F7F4A9FCB01F56E",
       "unresolved": false,
       "fr": "(-???-)Ne vous en faites pas, mon <if(gnum4,amie,ami)>. Je m'en charge.",
       "ja": "(-？？？？-)ここはオレに任せな、相棒。",

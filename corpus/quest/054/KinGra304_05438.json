@@ -324,8 +324,8 @@
     },
     {
       "gameKey": "quest/054/KinGra304_05438#TEXT_KINGRA304_05438_DEEPBLUE_000_102",
-      "en": "It ain't over till it's over.",
-      "hash": "F95C685B4B581141",
+      "en": "(-???-)It ain't over till it's over.",
+      "hash": "FA4ADB5484EB981F",
       "unresolved": false,
       "fr": "(-???-)On en a pas encore fini avec toi<nbsp>!",
       "ja": "(-？？？？-)まだまだ、終わらないぜ……。",
@@ -402,8 +402,8 @@
     },
     {
       "gameKey": "quest/054/KinGra304_05438#TEXT_KINGRA304_05438_THETYRANT_000_105",
-      "en": "Honorless curs. You are a blight upon the Arcadion. Begone from my sight!",
-      "hash": "32EB9112CCA9010F",
+      "en": "(-Dignified Warrior-)Honorless curs. You are a blight upon the Arcadion. Begone from my sight!",
+      "hash": "CA96D756A0F47A42",
       "unresolved": false,
       "fr": "(-Elezen solennel-)Un tel com<->por<->te<->ment n'est pas digne de l'élite des combattants de l'Arcadion<nbsp>! Acceptez votre défaite avec humilité, bande de couards<nbsp>!",
       "ja": "(-威厳のあるエレダイト族-)目も当てられぬほどの醜態、闘士の風上にもおけん。<br>敗者は大人しく去るのみ！",

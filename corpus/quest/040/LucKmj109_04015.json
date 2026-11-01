@@ -660,8 +660,8 @@
     },
     {
       "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_012",
-      "en": "Admiral. You speak of obstacles we are like to encounter at the meeting, but as things stand, I see no reason why the kobolds would agree to a meeting in the first place.",
-      "hash": "3FCD84136071B973",
+      "en": "(-Eynzahr-)Admiral. You speak of obstacles we are like to encounter at the meeting, but as things stand, I see no reason why the kobolds would agree to a meeting in the first place.",
+      "hash": "68408AA13F024944",
       "unresolved": false,
       "fr": "(-Eynzahr-)Amirale... Pensez-vous vraiment que les Kobolds accepteront notre invitation<nbsp>?",
       "ja": "(-エインザル大甲将-)提督……。<br>このまま和平交渉を持ちかけたとて、<br>コボルド族が、応じることなど考えられませんが……？",
@@ -712,8 +712,8 @@
     },
     {
       "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_015",
-      "en": "Bait. They would welcome us into their midst not to speak of peace, but to have you at their mercy.",
-      "hash": "DE170B49CF44B09C",
+      "en": "(-Eynzahr-)Bait. They would welcome us into their midst not to speak of peace, but to have you at their mercy.",
+      "hash": "127982AD4B512B7F",
       "unresolved": false,
       "fr": "(-Eynzahr-)Hmm... Les connaissant, ils ne laisseraient pas filer une chance de tenir à merci leur pire ennemie. Même s'ils refuseront de négocier un nouveau traité de paix, ils nous ouvriront au moins les portes de leur repaire.",
       "ja": "(-エインザル大甲将-)ふむ……彼らにとっては、敵の盟主を討ち取る、またとない好機。<br>和平に応じる考えはなくとも、我らを拠点に招き入れるでしょうな。",
@@ -842,8 +842,8 @@
     },
     {
       "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_018",
-      "en": "...Yet it need not. What if we were to employ the Conqueror's Chain? Though we would still have to weaken the kobolds, it would allow us to subdue them without inflicting lasting harm.",
-      "hash": "1A2784045C3559E3",
+      "en": "(-Eynzahr-)...Yet it need not. What if we were to employ the Conqueror's Chain? Though we would still have to weaken the kobolds, it would allow us to subdue them without inflicting lasting harm.",
+      "hash": "6D695EFA06668DB9",
       "unresolved": false,
       "fr": "(-Eynzahr-)Si nous utilisions une chaîne paralysante<nbsp>? C'est un objet qui permet d'immobiliser une cible sans la blesser, du moment qu'elle est déjà assez affaiblie.",
       "ja": "(-エインザル大甲将-)「魔縛鎖」が使えるでしょう……。<br>動きを封じることができる、魔法仕掛けの鎖です。<br>ある程度は相手を弱らせる必要がありますがね。",

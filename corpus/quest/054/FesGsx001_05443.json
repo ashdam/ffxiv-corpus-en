@@ -697,8 +697,8 @@
     },
     {
       "gameKey": "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_AJISAI_000_012",
-      "en": "People of Ul'dah, lend me your ears! Allow me to present my dear friends, come all the way from the Far East! These are the Globe-trotter Otters, this year's ambassadors to the Gold Saucer.",
-      "hash": "7FF1B0EDB3FF23B6",
+      "en": "(-Animated Announcer-)People of Ul'dah, lend me your ears! Allow me to present my dear friends, come all the way from the Far East! These are the Globe-trotter Otters, this year's ambassadors to the Gold Saucer.",
+      "hash": "EB46A84CD94B67D2",
       "unresolved": false,
       "fr": "(-Ao Ra dynamique-)Chers Uldiens et chères Uldiennes, approchez donc<nbsp>! Venue des lointaines terres de Nagxia, voici la troupe des loutres choutes<nbsp>! Ces adorables créatures ont été choisies en tant qu'ambassadrices du Gold Saucer.",
       "ja": "(-元気のいいアウラ族-)砂都ウルダハの皆々様、どうぞお立ち会い！<br>我らは東方ナグサより罷り越しましたるウソウソ芸人、<br>遊技場ゴールドソーサーの宣伝大使に任じられし者でございます！",
@@ -747,8 +747,8 @@
     },
     {
       "gameKey": "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_USOSUKE_000_014",
-      "en": "Prrr prrr... Pip pip!",
-      "hash": "041EFB4EE535F825",
+      "en": "(-Globe-trotter Otters-)Prrr prrr... Pip pip!",
+      "hash": "41F30936F8A86B11",
       "unresolved": false,
       "fr": "(-Troupe des loutres choutes-)Kiii, kiii<nbsp>! Kiiiiiih<nbsp>!♪",
       "ja": "(-愛嬌あるウソウソたち-)キュキュウ、キュッ、キュウゥ☆",

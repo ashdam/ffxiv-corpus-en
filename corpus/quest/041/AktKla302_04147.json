@@ -540,8 +540,8 @@
     },
     {
       "gameKey": "quest/041/AktKla302_04147#TEXT_AKTKLA302_04147_FLAUGUSTERT_000_045",
-      "en": "Hm, not bad, not bad...",
-      "hash": "248BB5C79C5CCA78",
+      "en": "(-Refined Gentleman-)Hm, not bad, not bad...",
+      "hash": "BE45C13FA5AD648E",
       "unresolved": false,
       "fr": "(-Vieil homme distingué-)Ce n'était pas mauvais...",
       "ja": "(-上品な老人-)悪くなかったよ……。",
@@ -565,8 +565,8 @@
     },
     {
       "gameKey": "quest/041/AktKla302_04147#TEXT_AKTKLA302_04147_FLAUGUSTERT_000_046",
-      "en": "I give the flavor a passing grade. The texture, however, needs some attention.",
-      "hash": "E84B2F441A02D692",
+      "en": "(-Refined Gentleman-)I give the flavor a passing grade. The texture, however, needs some attention.",
+      "hash": "2F8C1B0302F494C7",
       "unresolved": false,
       "fr": "(-Vieil homme distingué-)Le goût est plutôt correct, mais une fois en bouche, la texture est assez désagréable.",
       "ja": "(-上品な老人-)とにかく味は及第点と言えるでしょう。<br>ただし、食感には、まだ課題が残っているようです。",
@@ -615,8 +615,8 @@
     },
     {
       "gameKey": "quest/041/AktKla302_04147#TEXT_AKTKLA302_04147_FLAUGUSTERT_100_047",
-      "en": "'Tis not overly noticeable with a bite-sized sample, but after one or two full slices, I fear one might begin to struggle with the somewhat dry and powdery consistency.",
-      "hash": "ACD8E4004B894F14",
+      "en": "(-Refined Gentleman-)'Tis not overly noticeable with a bite-sized sample, but after one or two full slices, I fear one might begin to struggle with the somewhat dry and powdery consistency.",
+      "hash": "527F6B7E725965EF",
       "unresolved": false,
       "fr": "(-Vieil homme distingué-)Ce n'est pas un problème en soi lorsqu'on n'en mange qu'un morceau, mais j'ai bien peur qu'après une ou deux tranches, on se retrouve la gorge desséchée et avec une sensation un peu... farineuse en bouche.",
       "ja": "(-上品な老人-)試食用にいただいた、小さな切れ端であれば問題ありません。<br>しかし、これを1枚、2枚と食べていくことを考えると、<br>食感のパサつきが気になるはずですよ。",

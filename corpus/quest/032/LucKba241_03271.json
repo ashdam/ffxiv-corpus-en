@@ -814,8 +814,8 @@
     },
     {
       "gameKey": "quest/032/LucKba241_03271#TEXT_LUCKBA241_03271_DWARVENWARRIOR_000_110",
-      "en": "Begone!",
-      "hash": "80179047193E71D7",
+      "en": "(-Jeering Dwarves-)Begone!",
+      "hash": "D08983EDD21925D2",
       "unresolved": false,
       "fr": "(-Guerriers nains-)Va-t'en<nbsp>! Hérétique<nbsp>!",
       "ja": "(-ドワーフ族の戦士たち-)追放だッ！\u3000追放だッ！",
@@ -892,8 +892,8 @@
     },
     {
       "gameKey": "quest/032/LucKba241_03271#TEXT_LUCKBA241_03271_DWARVENWARRIOR_000_113",
-      "en": "Silence!",
-      "hash": "A0358DE6607B23BD",
+      "en": "(-Jeering Dwarves-)Silence!",
+      "hash": "31B0F36EEAD50B9E",
       "unresolved": false,
       "fr": "(-Guerriers nains-)Ouais<nbsp>! La ferme<nbsp>!",
       "ja": "(-ドワーフ族の戦士たち-)黙っとれッ！\u3000黙っとれッ！",

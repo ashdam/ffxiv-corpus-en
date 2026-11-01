@@ -876,8 +876,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk400_02056#TEXT_JOBDRK400_02056_ISEMBARD_000_042",
-      "en": "Thank the Twelve, it <italic(1)>is<italic(0)> you! <split(<string(gstr1)>, ,1)>!",
-      "hash": "820CF95D38947C7F",
+      "en": "(-???-)Thank the Twelve, it <italic(1)>is<italic(0)> you! <split(<string(gstr1)>, ,1)>!",
+      "hash": "EFA9A9A066CDF3FF",
       "unresolved": false,
       "fr": "<split(<string(gstr1)>, ,1)>, c'est toi<nbsp>? Quelle bonne surprise<nbsp>!",
       "ja": "(-？？？？-)おお……！<br>もしや、<split(<string(gstr1)>, ,2)>君ではないか！？",
@@ -1726,8 +1726,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk400_02056#TEXT_JOBDRK400_02056_FRAY_000_151",
-      "en": "On a throne of bone <if(gnum4,she,he)> waits...",
-      "hash": "0F3CAB89623852D7",
+      "en": "(-???-)On a throne of bone <if(gnum4,she,he)> waits...",
+      "hash": "56ED97413880F440",
       "unresolved": false,
       "fr": "(-???-)Sur son trône d'os, <if(gnum4,elle,il)> attend...",
       "ja": "(-？？？？-)……ああ…………。<br>この手に、いったい幾つの命が預けられたんだろう……。",
@@ -1752,8 +1752,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk400_02056#TEXT_JOBDRK400_02056_FRAY_000_152",
-      "en": "Serve... Save... Slave... Slay...<br>They come to entreat <if(gnum4,her,his)> judgment...",
-      "hash": "5A2D9E6634003279",
+      "en": "(-???-)Serve... Save... Slave... Slay...<br>They come to entreat <if(gnum4,her,his)> judgment...",
+      "hash": "9A729793106DCA1C",
       "unresolved": false,
       "fr": "(-???-)Sauve... Protège... Vaincs... Tue...<br>Et ils viennent <if(gnum4,la,le)> supplier...",
       "ja": "(-？？？？-)救え……護れ……倒せ……殺せ…………。<br>命の重みはひとしく失せて、<br>成功の栄誉か、失敗の誹りだけが「英雄」を待つ……。",
@@ -1778,8 +1778,8 @@
     },
     {
       "gameKey": "quest/020/JobDrk400_02056#TEXT_JOBDRK400_02056_FRAY_000_153",
-      "en": "Serve... Save... Slave... Slay...<br>One by one, in solemn procession...",
-      "hash": "1390779B09CA788D",
+      "en": "(-???-)Serve... Save... Slave... Slay...<br>One by one, in solemn procession...",
+      "hash": "9C4FAB87DB02410C",
       "unresolved": false,
       "fr": "(-???-)Sauve... Protège... Vaincs... Tue...<br>Les uns après les autres, en procession...",
       "ja": "(-？？？？-)今日もまた、救い……護り……倒し……殺す…………。<br>そんな自分を、それじゃあ誰が護ってくれるの……？",

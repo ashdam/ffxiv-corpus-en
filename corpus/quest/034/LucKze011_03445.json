@@ -646,8 +646,8 @@
     },
     {
       "gameKey": "quest/034/LucKze011_03445#TEXT_LUCKZE011_03445_VARTHON_101_031",
-      "en": "Hmmm... No, that's not right. The pattern on the hilt is all wrong.",
-      "hash": "B742273058B6B9EC",
+      "en": "(-Varthon-)Hmmm... No, that's not right. The pattern on the hilt is all wrong.",
+      "hash": "1119CCF1B45164D6",
       "unresolved": false,
       "fr": "(-Varthon-)Ce n'est pas elle... La garde avait un autre motif.",
       "ja": "(-ヴァルソン-)これじゃあないな……柄の模様が違う。",
@@ -672,8 +672,8 @@
     },
     {
       "gameKey": "quest/034/LucKze011_03445#TEXT_LUCKZE011_03445_VARTHON_101_032",
-      "en": "There! That's it!",
-      "hash": "C27746E0E3B700F8",
+      "en": "(-Varthon-)There! That's it!",
+      "hash": "F61C1C833DAC7428",
       "unresolved": false,
       "fr": "(-Varthon-)Oui<nbsp>! C'est elle<nbsp>!",
       "ja": "(-ヴァルソン-)これだ、間違いない！",

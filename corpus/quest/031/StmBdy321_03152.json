@@ -394,8 +394,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy321_03152#TEXT_STMBDY321_03152_BUNCHIN_000_003",
-      "en": "Brave adventurer who stood fast and quelled the raging aramitama of my comrade, Byakko. The time has come for you to return to Reisen Temple.",
-      "hash": "C81216E71DE428BD",
+      "en": "(-Genbu's Missive-)Brave adventurer who stood fast and quelled the raging aramitama of my comrade, Byakko. The time has come for you to return to Reisen Temple.",
+      "hash": "90C77F8BF6F06597",
       "unresolved": false,
       "fr": "(-Contenu de la lettre-)J'ose espérer que tu as pris suf<->fi<->sam<->ment de repos depuis ton mémorable combat contre Byakko. Reviens me voir au sanctuaire Reisen dès que le cœur t'en dira. J'attends ta visite avec impatience.",
       "ja": "(-謎めいた手紙-)時下、白虎との戦いの疲れも癒えた頃であろう。<br>再び醴泉神社まで来られたし。",
@@ -498,8 +498,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy321_03152#TEXT_STMBDY321_03152_TATARU_000_012",
-      "en": "Hello? <split(<string(gstr1)>, ,1)>, is that you?",
-      "hash": "E1A4A668FC00B2B5",
+      "en": "(-Tataru-)Hello? <split(<string(gstr1)>, ,1)>, is that you?",
+      "hash": "47EA6CE1222BC3D8",
       "unresolved": false,
       "fr": "(-Tataru-)Allô allô, ici Tataru<nbsp>!",
       "ja": "(-タタルの声-)はい、タタルでっす！",
@@ -524,8 +524,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy321_03152#TEXT_STMBDY321_03152_TATARU_000_013",
-      "en": "...Huh? Right now? Very well, if you insist...",
-      "hash": "1FCC7E37E4A1E13F",
+      "en": "(-Tataru-)...Huh? Right now? Very well, if you insist...",
+      "hash": "698A2DEFA0564911",
       "unresolved": false,
       "fr": "(-Tataru-)Ah, c'est vous, <split(<string(gstr1)>, ,1)><nbsp>! Vous êtes au sanctuaire Reisen<nbsp>? Très bien, j'arrive tout de suite<nbsp>!",
       "ja": "(-タタルの声-)今、醴泉神社にいるのでっすか？<br>では、私もすぐに向かうのでっす！",
@@ -914,8 +914,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy321_03152#TEXT_STMBDY321_03152_SUZAKU_000_028",
-      "en": "It has been too long, elder brother.",
-      "hash": "B5626E2342E01B9F",
+      "en": "(-???-)It has been too long, elder brother.",
+      "hash": "52C66A4D931601CF",
       "unresolved": false,
       "fr": "(-Voix féminine solennelle-)Heureuse de te revoir enfin, Genbu.",
       "ja": "(-凜々しい女性の声-)久しぶりですね、<ruby(翁,おきな)>。",

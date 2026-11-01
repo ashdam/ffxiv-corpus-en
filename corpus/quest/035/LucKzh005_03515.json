@@ -1052,8 +1052,8 @@
     },
     {
       "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_TOLAS_000_041",
-      "en": "Gahhh! Get back, you godsdamned fiend!",
-      "hash": "437078054EAB7018",
+      "en": "(-Man's Scream-)Gahhh! Get back, you godsdamned fiend!",
+      "hash": "FE10C34FE6966173",
       "unresolved": false,
       "fr": "(-Homme en colère-)Aaargh<nbsp>! Bon sang... saletés de monstres<nbsp>!",
       "ja": "(-男性の怒号-)ぐああっ！<br>くそっ……このっ……魔物どもめ……！！",
@@ -1650,8 +1650,8 @@
     },
     {
       "gameKey": "quest/035/LucKzh005_03515#TEXT_LUCKZH005_03515_TOLAS_000_080",
-      "en": "Simply remarkable! The pain is all but gone! And you say this salve is of your own creation?",
-      "hash": "8FF085F374A503A0",
+      "en": "(-Tolas-)Simply remarkable! The pain is all but gone! And you say this salve is of your own creation?",
+      "hash": "0164DF9EE6DB22C3",
       "unresolved": false,
       "fr": "(-Voix de Tolas-)C'est formidable<nbsp>! Vous dites que c'est vous qui avez créé cet onguent<nbsp>?",
       "ja": "(-トーラスの声-)これはすごいな！<br>この痛み止めを貴方が……？",

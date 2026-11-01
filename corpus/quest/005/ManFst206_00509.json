@@ -878,8 +878,8 @@
     },
     {
       "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA",
-      "en": "So you are the adventurer of whom I've heard so much.",
-      "hash": "5732BEA667C5D5EA",
+      "en": "(-???-)So you are the adventurer of whom I've heard so much.",
+      "hash": "B2DB2EFC15785C23",
       "unresolved": false,
       "fr": "Bienvenue, aventuri<if(gnum4,ère,er)>.",
       "ja": "(-？？？？-)あなたが、噂の冒険者ね。",

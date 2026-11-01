@@ -1622,8 +1622,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001040_GARLEANLEADERA",
-      "en": "Ah, the savage returns. And with her tail firmly between her legs.<br>Beaten by beastmen, I hear.",
-      "hash": "F019153821FADC08",
+      "en": "(-Imperial Tribunus Militum-)Ah, the savage returns. And with her tail firmly between her legs.<br>Beaten by beastmen, I hear.",
+      "hash": "8CCAB6927C0997F5",
       "unresolved": false,
       "fr": "(-Chef d'état-major garlemaldais-)Regarde ça, la pseudo-citoyenne impériale est rentrée. Je mettrais ma main à couper qu'elle a pris ses jambes à son cou lorsqu'elle a été vaincue par les sauvages.",
       "ja": "(-帝国軍の幕僚-)見ろ、薄汚いニセ帝国人のお帰りだ。<br>蛮族相手に敗れて、泣きながら逃げ帰ってきたとか。",
@@ -1638,8 +1638,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001050_GARLEANLEADERC",
-      "en": "'Twas a shameful display, by all accounts. She may have curried the viceroy's favor with her bold promises, but in the end, she's just another plodding bungler like the rest of her kind.",
-      "hash": "8CAD2CE5EAE305AD",
+      "en": "(-Imperial Pilus Prior-)'Twas a shameful display, by all accounts. She may have curried the viceroy's favor with her bold promises, but in the end, she's just another plodding bungler like the rest of her kind.",
+      "hash": "DBDC46B0B974B991",
       "unresolved": false,
       "fr": "(-Commandant garlemaldais-)Ne sois pas si dur avec elle. Après toute la peine qu'elle s'est donnée afin de plaire au seigneur Zenos et d'obtenir son poste actuel, en arriver jusque-là pour une Mhigoise, c'est déjà un miracle, tu sais.",
       "ja": "(-帝国軍の千人隊長-)あまりあしざまに言うのは、酷というものですよ。<br>言葉巧みにゼノス殿下に取り入って、地位だけは得ましたが、<br>所詮は無能なアラミゴ人なのですから……。",
@@ -1654,8 +1654,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001060_GARLEANLEADERA",
-      "en": "Strange, you would think him a better judge of character. Then again, I hear she's not averse to a more physical mode of persuasion.",
-      "hash": "5FB36AC2179C3858",
+      "en": "(-Imperial Tribunus Militum-)Strange, you would think him a better judge of character. Then again, I hear she's not averse to a more physical mode of persuasion.",
+      "hash": "1DB76F745C6A4441",
       "unresolved": false,
       "fr": "(-Chef d'état-major garlemaldais-)Tu as raison, je devrais me montrer un peu plus charitable avec cette pauvre fille... Mais dis donc, j'ai entendu des rumeurs selon lesquelles elle aurait utilisé bien plus que des mots pour obtenir les faveurs de notre général.",
       "ja": "(-帝国軍の幕僚-)おぉ、たしかに配慮に欠けていたな。<br>しかし、こうも聞いたぞ。<br>殿下の寵愛を賜るために、言葉だけでなく身体も使ったと……。",
@@ -1670,8 +1670,8 @@
     },
     {
       "gameKey": "cut_scene/040/VoiceMan_04005#TEXT_VOICEMAN_04005_001070_GARLEANLEADERC",
-      "en": "Hah, I thought she rose through the ranks rather quickly. But no longer. If only she had been content with her lot, she might have lived to see the morrow.",
-      "hash": "CD2209B574DFF917",
+      "en": "(-Imperial Pilus Prior-)Hah, I thought she rose through the ranks rather quickly. But no longer. If only she had been content with her lot, she might have lived to see the morrow.",
+      "hash": "DC6C20930C964E84",
       "unresolved": false,
       "fr": "(-Commandant garlemaldais-)Ça ne m'étonnerait qu'à moitié, à vrai dire. Ces barbares sont prêts à toutes sortes de débauches pour atteindre leurs buts, et elle ne fait sûrement pas exception. Quoi qu'il en soit, son récent échec lui sera fatal. Voilà ce qui arrive quand on veut quelque chose qu'on ne mérite pas...",
       "ja": "(-帝国軍の千人隊長-)おやおや、どうりで出世が早いわけです。<br>とはいえ、今回の失敗で終わりでしょう……。<br>分不相応の出世など望まなければ、生き残れたでしょうに。",

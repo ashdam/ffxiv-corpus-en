@@ -1800,8 +1800,8 @@
     },
     {
       "gameKey": "quest/031/BanNam006_03102#TEXT_BANNAM006_03102_GYOSHIN_000_109",
-      "en": "Thank you, thank you!",
-      "hash": "204ACA7A561D6067",
+      "en": "(-All Three Namazu-)Thank you, thank you!",
+      "hash": "178C751D0FDB9CF8",
       "unresolved": false,
       "fr": "(-Tous en cœur-)Merci pour tout, <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-三匹のナマズオ-)ありがとっぺな！",

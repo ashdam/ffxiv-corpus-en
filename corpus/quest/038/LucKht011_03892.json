@@ -180,8 +180,8 @@
     },
     {
       "gameKey": "quest/038/LucKht011_03892#TEXT_LUCKHT011_03892_ROWENA_000_003",
-      "en": "Well, now here's a familiar face. When the man told me they were working with a trades<if(gnum4,woman,man)> o' no small repute, I should've expected as much.",
-      "hash": "81A105E686981EE7",
+      "en": "(-???-)Well, now here's a familiar face. When the man told me they were working with a trades<if(gnum4,woman,man)> o' no small repute, I should've expected as much.",
+      "hash": "756FD85F714EFE98",
       "unresolved": false,
       "fr": "(-???-)Hé hé, mon intuition ne m'avait pas trompée. Dès que Denys a commencé à me vanter les talents d'un<if(gnum4,e,)> artisan<if(gnum4,e,)> d'exception qui aidait au développement des outils de Cielacier, j'ai tout de suite su que ça ne pouvait être que toi, <split(<string(gstr1)>, ,1)>.",
       "ja": "(-？？？？-)あら、知った顔があるじゃない。<br>腕のいい職人が協力しているとは聞いていたけど、<br>まさか<split(<string(gstr1)>, ,1)>のことだったとはねぇ……。",

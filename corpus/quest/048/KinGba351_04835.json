@@ -1838,8 +1838,8 @@
     },
     {
       "gameKey": "quest/048/KinGba351_04835#TEXT_KINGBA351_04835_ORONIRIMERCHANTA04835_100_402",
-      "en": "E-Erm... Well, you see...",
-      "hash": "58CFF17A011D3D94",
+      "en": "(-Timid Swordsman-)E-Erm... Well, you see...",
+      "hash": "67FF1D841C5F90A4",
       "unresolved": false,
       "fr": "(-Guerrier oronir-)Hein<nbsp>? Euh... Ben...",
       "ja": "(-オロニル族の剣術士-)あ、えっと……その……",
@@ -1864,8 +1864,8 @@
     },
     {
       "gameKey": "quest/048/KinGba351_04835#TEXT_KINGBA351_04835_ORONIRIMERCHANTB04835_100_403",
-      "en": "Th-This cowardly cur assaulted you from behind, and knocked you unconscious!",
-      "hash": "9558D8C7A52B01AA",
+      "en": "(-Daring Warrior-)Th-This cowardly cur assaulted you from behind, and knocked you unconscious!",
+      "hash": "993C692A6E7C6A6F",
       "unresolved": false,
       "fr": "(-Guerrier oronir-)Ce sale poltron a détourné votre attention pour vous attaquer par derrière et vous assommer, Frère suprême<nbsp>!",
       "ja": "(-オロニル族の戦士-)こ、この男が卑怯にも、偉大なる長兄に不意打ちを食らわし、<br>昏倒させられていたようです！",

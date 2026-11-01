@@ -778,8 +778,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_EDITHA_000_015",
-      "en": "Oh, look! It's my favorite bodyguards!",
-      "hash": "DD08D447935E7C9E",
+      "en": "(-Familiar Voice-)Oh, look! It's my favorite bodyguards!",
+      "hash": "E7FA10C20E25CC36",
       "unresolved": false,
       "fr": "(-Voix familière-)Ooooh<nbsp>! Mais ce sont mes gardes du corps<nbsp>!",
       "ja": "(-聞き覚えのある声-)あ～！\u3000護衛さんたちだ～！",
@@ -1870,8 +1870,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc016_03225#TEXT_LUCKBC016_03225_ROSTIK_000_101",
-      "en": "Radovan? I've been looking everywhere for you!",
-      "hash": "E897D4E05B2D885F",
+      "en": "(-Unfamiliar Gunbreaker-)Radovan? I've been looking everywhere for you!",
+      "hash": "BE8ECBA897A55198",
       "unresolved": false,
       "fr": "(-Pistosabreur mystérieux-)Radovan<nbsp>! Enfin je te retrouve<nbsp>!",
       "ja": "(-謎のガンブレイカー-)ラドヴァン！<br>やっと出会うことができた……。",

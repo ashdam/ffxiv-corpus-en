@@ -1497,8 +1497,8 @@
     },
     {
       "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_MOUSEMISSIONARY_000_084",
-      "en": "I am gladdened to hear it, good people of Eorzea. Please join us at the Zephyr Drift at your earliest convenience─I myself shall head there posthaste, lest the mochi wander off.",
-      "hash": "B049B2B0538BB292",
+      "en": "(-Mochi Daikan-)I am gladdened to hear it, good people of Eorzea. Please join us at the Zephyr Drift at your earliest convenience─I myself shall head there posthaste, lest the mochi wander off.",
+      "hash": "C14620A36CC86605",
       "unresolved": false,
       "fr": "Merci à vous<nbsp>! Retrouvons-nous à la Dérive du Zéphyr. Partons de ce pas, en espérant que ce gros gluant de riz n'ait pas l'âme d'un vagabond<nbsp>!",
       "ja": "ありがてぇ！<br>餅つき会場は、中央ラノシアのゼファードリフト辺りだ。<br>俺っちは、一足先に現場に戻らせてもらうぜぃ！",
@@ -1522,8 +1522,8 @@
     },
     {
       "gameKey": "quest/031/FesNyr601_03176#TEXT_FESNYR601_03176_RICECAKEREEVE_000_085",
-      "en": "This event has been troublesome indeed─but we shall persevere. We cannot let the year of the rat arrive without proper welcome!",
-      "hash": "6F1B68CAEA5402F2",
+      "en": "(-Nezumi Bugyo-)This event has been troublesome indeed─but we shall persevere. We cannot let the year of the rat arrive without proper welcome!",
+      "hash": "E29C2F4BBE5F8E0D",
       "unresolved": false,
       "fr": "Nous voilà dans de beaux d-rats<nbsp>! Je compte sur vous, et quand vous aurez mis une rat-clée à ce gluant peu rat-goûtant, revenez me voir<nbsp>!",
       "ja": "何やら大変なことになったでござるな。<br>ともかく、降神餅の切り分けをお頼み申す……。<br>それが済んだならば、ふたたび拙者に声をかけてくだされ。",

@@ -610,8 +610,8 @@
     },
     {
       "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_141",
-      "en": "<italic(1)>Greetings, <split(<string(gstr1)>, ,1)>! My apologies for not writing in so long. There's simply been so much to do since I arrived here in Thavnair, the time has absolutely flown by!<italic(0)>",
-      "hash": "05C458E8FA3BB88F",
+      "en": "(-Letter from Cemi-)<italic(1)>Greetings, <split(<string(gstr1)>, ,1)>! My apologies for not writing in so long. There's simply been so much to do since I arrived here in Thavnair, the time has absolutely flown by!<italic(0)>",
+      "hash": "F65B6CFAAC107CD1",
       "unresolved": false,
       "fr": "(-Lettre de Cemi Jinjahl-)<if(gnum4,Chère,Cher)> <split(<string(gstr1)>, ,1)>, j'espère que vous vous portez bien. Ici Cemi, en direct de Radz-at-Han<nbsp>!",
       "ja": "「<split(<string(gstr1)>, ,1)>さん、お久しぶりです！<br>\u3000不肖、チェミ・ジンジャルです！<br>\u3000ウチは今、サベネア島のラザハンに来ています！」",
@@ -626,8 +626,8 @@
     },
     {
       "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_142",
-      "en": "<italic(1)>I tell you, Near Eastern culture is simply fascinating! In particular, I've become quite enamored with the local cuisine, especially the simply divine dish they call hamsa curry. You simply must try it if you haven't already! Till we meet again.<br>Yours truly,<br>Cemi<italic(0)>",
-      "hash": "425FCF567BE8968C",
+      "en": "(-Letter from Cemi-)<italic(1)>I tell you, Near Eastern culture is simply fascinating! In particular, I've become quite enamored with the local cuisine, especially the simply divine dish they call hamsa curry. You simply must try it if you haven't already! Till we meet again.<br>Yours truly,<br>Cemi<italic(0)>",
+      "hash": "4743D0D825BF6A61",
       "unresolved": false,
       "fr": "(-Lettre de Cemi Jinjahl-)La culture locale est vraiment pas<->sion<->nan<->te<nbsp>! Si vous passez dans le coin, je vous recommande un bon curry de hamsa, vous m'en direz des nouvelles<nbsp>!<br><br>Cemi, critique gastronomiqo'te",
       "ja": "「近東の文化は、とても興味深いです！<br>\u3000特にウチは、ハンサカレーという料理がお気に入りです！<br>\u3000食の追求人チェミ・ジンジャル」",

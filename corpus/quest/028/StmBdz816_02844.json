@@ -1360,8 +1360,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz816_02844#TEXT_STMBDZ816_02844_JDYALANI_000_061",
-      "en": "<italic(1)>Dear <split(<string(gstr1)>, ,1)>,<br>The time has come to bid you my final farewell. Try as I might to focus on the present, the past still haunts me—my family calls. If you can find it within you to grant me one last favor, I bid you deliver my head to the Allied forces. I have enclosed instructions to this end.<italic(0)>",
-      "hash": "F482CE56358FA6EE",
+      "en": "(-Note from Baut-)<italic(1)>Dear <split(<string(gstr1)>, ,1)>,<br>The time has come to bid you my final farewell. Try as I might to focus on the present, the past still haunts me—my family calls. If you can find it within you to grant me one last favor, I bid you deliver my head to the Allied forces. I have enclosed instructions to this end.<italic(0)>",
+      "hash": "C3E683537887AEB0",
       "unresolved": false,
       "fr": "(-Message de Baut-)“Plutôt que de mourir comme un chien dans une cellule ou sur un échafaud, j'ai décidé de mettre fin à mes jours moi-même. Merci de bien vouloir apporter ma tête au quartier général de l'armée de libération afin d'apaiser les esprits. Adieu, monde cruel.”",
       "ja": "(-バウトの書き置き-)冒険者へ、俺っちは自決することにした。<br>自分で死ねば、きっと丸く収まるはずさ。<br>自決場所を書いておくから、あとで首を解放軍へ届けてくれ。",

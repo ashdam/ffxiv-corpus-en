@@ -1338,8 +1338,8 @@
     },
     {
       "gameKey": "quest/037/LucKyw101_03783#TEXT_LUCKYW101_03783_MILISANDIA_000_103",
-      "en": "Ruby Weapon, code name “Darnus.” Ready for launch!",
-      "hash": "2A1D7538B241E807",
+      "en": "(-Gutsy Female Voice-)Ruby Weapon, code name “Darnus.” Ready for launch!",
+      "hash": "62F2F870524D2F4C",
       "unresolved": false,
       "fr": "(-Voix de femme hardie-)Bien reçu. Machine de guerre anti-Primordiaux v3, nom de code<nbsp>: Darnus, Arme Rubis, décollage<nbsp>!",
       "ja": "(-凜々しい女性の声-)了解。<br>コードネーム、「ネール・ヴァン・ダーナス」……<br>APW-III「ルビーウェポン」、出るぞ！",
@@ -1726,8 +1726,8 @@
     },
     {
       "gameKey": "quest/037/LucKyw101_03783#TEXT_LUCKYW101_03783_ALFONSE_000_254",
-      "en": "Allie! What do you think you're doing!?",
-      "hash": "15F4333007EFB914",
+      "en": "(-Imperial Soldier-)Allie! What do you think you're doing!?",
+      "hash": "F52DC44D1010F430",
       "unresolved": false,
       "fr": "(-Grand soldat garlemaldais-)Allie<nbsp>! Qu'est-ce que tu fais<nbsp>?",
       "ja": "(-長身の帝国兵-)アリー、どういうつもりだ……！",
@@ -1778,8 +1778,8 @@
     },
     {
       "gameKey": "quest/037/LucKyw101_03783#TEXT_LUCKYW101_03783_ALFONSE_000_256",
-      "en": "Father!",
-      "hash": "ACF2B9F523FA9A0E",
+      "en": "(-Imperial Soldier-)Father!",
+      "hash": "6D5AF98D0983B201",
       "unresolved": false,
       "fr": "(-Grand soldat garlemaldais-)Père<nbsp>!? C'est vous<nbsp>?",
       "ja": "(-長身の帝国兵-)あなたは……<ruby(義父上,ちちうえ)>！？",

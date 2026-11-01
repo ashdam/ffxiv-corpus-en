@@ -779,8 +779,8 @@
     },
     {
       "gameKey": "quest/013/BanKob005_01324#TEXT_BANKOB005_01324_KOBOLDGALA01321_000_013",
-      "en": "Ewww, a hairless one! Just looking at <if(gnum4,her,him)> makes me want to retch─gag, heave, retch!",
-      "hash": "7F3EF396B016F191",
+      "en": "(-Comely Kobold Lass-)Ewww, a hairless one! Just looking at <if(gnum4,her,him)> makes me want to retch─gag, heave, retch!",
+      "hash": "D5927AEA4F310C0B",
       "unresolved": false,
       "fr": "(-Koboldette coquette-)Ouah<nbsp>! Une personne de la surface<nbsp>! Il y a une personne de la surface sur le territoire du grand Zo Ga, oui<nbsp>!!<br>Qu'est-ce qu'<if(gnum4,elle,il)> est moche, cet<if(gnum4,te,)> humain<if(gnum4,e,)>, oui, <if(gnum4,elle,il)> est moche<nbsp>!! Baaah<nbsp>!",
       "ja": "(-イケてるコボルド娘-)うわ～っ\u3000ヒト～よぉ！\u3000ヒトがい～るぅ～！<br>ヒトの<if(gnum4,メス,オス)>～よぉ！\u3000ブッサイク～！",
@@ -2892,8 +2892,8 @@
     },
     {
       "gameKey": "quest/013/BanKob005_01324#TEXT_BANKOB005_01324_BIBI_000_151",
-      "en": "Gi Gu!?",
-      "hash": "794EE8BEB4FE2896",
+      "en": "(-Everyone-)Gi Gu!?",
+      "hash": "C96D2248FD9924CA",
       "unresolved": false,
       "fr": "(-Tout le monde-)Heeeeeeeiiinn<nbsp>!?",
       "ja": "(-全員-)えええええっ！？",

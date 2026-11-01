@@ -1248,8 +1248,8 @@
     },
     {
       "gameKey": "quest/053/BanYok002_05331#TEXT_BANYOK002_05331_DARTORGOR_000_310",
-      "en": "You really must see how Ryoqor Terteh and the other spirits frolic during the ritual. You'd never think they could just as easily bury us all under a hail of snow.",
-      "hash": "0D883316A056AA9C",
+      "en": "(-Dartorgor-)You really must see how Ryoqor Terteh and the other spirits frolic during the ritual. You'd never think they could just as easily bury us all under a hail of snow.",
+      "hash": "11889FF5A3F8797B",
       "unresolved": false,
       "fr": "(-Dartorgor-)Ryoqor Terteh et ses amis ADORENT la cérémonie des flocons. Sans ça, va savoir quelles bêtises ils iraient commettre<nbsp>!",
       "ja": "(-ダートーゴー-)リョコー・テーテたちは、「雪の儀式」が大好きでさ。<br>あれをしなきゃ暴れ出しちまうんだ。",
@@ -1274,8 +1274,8 @@
     },
     {
       "gameKey": "quest/053/BanYok002_05331#TEXT_BANYOK002_05331_DARTORGOR_000_311",
-      "en": "The Pact is all that protects us from that fate, and soon I shall be its sole inheritor. Although I am young still, perhaps it's time to begin looking for a pupil.",
-      "hash": "FB5769F975E75649",
+      "en": "(-Dartorgor-)The Pact is all that protects us from that fate, and soon I shall be its sole inheritor. Although I am young still, perhaps it's time to begin looking for a pupil.",
+      "hash": "1BCDCE2E1118AA79",
       "unresolved": false,
       "fr": "(-Dartorgor-)Ma LIGNÉE s'est toujours occupée de l'Autel de Zirgorteh, mais elle s'éteindra avec moi... Bien que je sois encore jeune, je ne dois pas tarder à TROUVER quelqu'un pour me succéder<nbsp>!",
       "ja": "(-ダートーゴー-)……でも、あの拝壇を守る一族も、いよいよアタシが最後。<br>アタシはまだ若いけど、なにかあったときのために、<br>跡継ぎも探しとかないとねぇ。",
@@ -1300,8 +1300,8 @@
     },
     {
       "gameKey": "quest/053/BanYok002_05331#TEXT_BANYOK002_05331_DARTORGOR_000_312",
-      "en": "Oh, I know! It could be <italic(1)>you<italic(0)>, Fahrafahr! ...Haha, I jest, I jest!",
-      "hash": "61C01B9AFF0DA92B",
+      "en": "(-Dartorgor-)Oh, I know! It could be <italic(1)>you<italic(0)>, Fahrafahr! ...Haha, I jest, I jest!",
+      "hash": "415660B6E55751E8",
       "unresolved": false,
       "fr": "(-Dartorgor-)Qu'est-ce que tu en dis, Fahrafahr<nbsp>? Ça ne te dit pas d'aller VIVRE dans la montagne avec moi<nbsp>? Ha ha ha<nbsp>! Ne fais pas cette tête<nbsp>! Je RIGOLE, bien sûr<nbsp>!",
       "ja": "(-ダートーゴー-)ファーラファー、アンタも一緒にどうだい？<br>……なんてね、アハハ！",

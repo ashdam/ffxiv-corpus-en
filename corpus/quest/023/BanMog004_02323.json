@@ -564,8 +564,8 @@
     },
     {
       "gameKey": "quest/023/BanMog004_02323#TEXT_BANMOG004_02323_OHLDEEH_000_011",
-      "en": "Mogzin, Tarresson, <split(<string(gstr1)>, ,1)>! Gullinbursti, he...\\<huff> \\<puff>...he has spoken, and he is livid!",
-      "hash": "ABD8243E008D27FA",
+      "en": "(-???-)Mogzin, Tarresson, <split(<string(gstr1)>, ,1)>! Gullinbursti, he...\\<huff> \\<puff>...he has spoken, and he is livid!",
+      "hash": "E5ACADCA5AF5623D",
       "unresolved": false,
       "fr": "(-???-)C'est terrible<nbsp>! C'est affreux<nbsp>! Le vieux Gullinbursti est dans une colère noire<nbsp>!",
       "ja": "(-？？？？-)てぇへんだ、てぇへんだぁ！<br>古き翼が、怒りの咆哮をあげたんでぃ！",
@@ -2086,8 +2086,8 @@
     },
     {
       "gameKey": "quest/023/BanMog004_02323#TEXT_BANMOG004_02323_MOGZIN_000_101",
-      "en": "I am relieved. I could have just as easily shattered the crystal by mistake. Fortunately, I did not.",
-      "hash": "F1C5A245D6C62349",
+      "en": "(-Whei Ahf-)I am relieved. I could have just as easily shattered the crystal by mistake. Fortunately, I did not.",
+      "hash": "CACF027A8AB1159E",
       "unresolved": false,
       "fr": "(-Whei Ahf-)Je suis soulagé de voir que tout s'est passé comme prévu. J'avais peur d'avoir endommagé le cristal en rugissant trop fort...",
       "ja": "(-ウェイ・アフ-)咆哮による活性化は、上手くいったようですね。<br>魔力を乗せすぎて、属性の力を暴走させないかと、<br>少しばかり心配しましたが……。",

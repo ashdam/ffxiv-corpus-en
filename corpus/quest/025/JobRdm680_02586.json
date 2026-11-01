@@ -1546,8 +1546,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_LILITH_000_260",
-      "en": "Only one bearing my blood-gift may break the seal. Slay this pretender!",
-      "hash": "DD851EEDD83FFB7C",
+      "en": "(-???-)Only one bearing my blood-gift may break the seal. Slay this pretender!",
+      "hash": "CF3BBBEB7B3D1462",
       "unresolved": false,
       "fr": "(-???-)Qui ose troubler mon sommeil<nbsp>? Seuls les descendants de ma lignée peuvent briser le sceau qui me retient captive... Tu ne m'intéresses pas<nbsp>! Serviteurs, chassez <if(gnum4,cette importune,cet importun)><nbsp>!",
       "ja": "(-？？？？-)我が血族ならざる者に、その封印は解けぬ……！<br>下僕どもよ……その者を追い払え！",

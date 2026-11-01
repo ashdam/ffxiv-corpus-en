@@ -1044,8 +1044,8 @@
     },
     {
       "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_000_40",
-      "en": "<colortype(547)>O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!<colortype(0)>",
-      "hash": "C804D87D4594B32B",
+      "en": "(-???-)<colortype(547)>O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!<colortype(0)>",
+      "hash": "A780C3F13DE061E0",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Ô essences primitives de la création<nbsp>! <br>Habitez d'un semblant d'âme cette enveloppe de pierre inanimée<nbsp>! <br>Ô idole née de la transcendance, prends vie<nbsp>!<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>示せ、創世の理の嘆き声よ。<br>物世に有りし石棺に偽魂を宿さん……。<br>為せ、真理の偶像よ！<colortype(0)>",
@@ -1094,8 +1094,8 @@
     },
     {
       "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_000_50",
-      "en": "<colortype(547)>That the golem could be vanquished...<colortype(0)>",
-      "hash": "4EA3091B4D4B848F",
+      "en": "(-???-)<colortype(547)>That the golem could be vanquished...<colortype(0)>",
+      "hash": "1DC3EAE3A74F9F63",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Quelle force<nbsp>! Qui est-<if(gnum4,elle,il)><nbsp>? Ce n'est pas un<if(gnum4,e,)> aventuri<if(gnum4,ère,er)> ordinaire.<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>なんだヤツの力は……。<br>それに、あの<sheet(ClassJob,gnum68,0)>。<br>ただの冒険者ではないようだな。<colortype(0)>",
@@ -1120,8 +1120,8 @@
     },
     {
       "gameKey": "quest/001/SubFst035_00129#TEXT_SUBFST035_00129_MASKEDMAGUS_000_51",
-      "en": "<colortype(547)>That <if(gnum4,woman,man)> is no ordinary adventurer.<colortype(0)>",
-      "hash": "4E3947B4BC50A115",
+      "en": "(-???-)<colortype(547)>That <if(gnum4,woman,man)> is no ordinary adventurer.<colortype(0)>",
+      "hash": "31ED92863E2544AB",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Un simple golem n'a pas suffi pour lui tenir tête, on dirait...<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>石人形ごときでは通じぬというのか……。<colortype(0)>",
