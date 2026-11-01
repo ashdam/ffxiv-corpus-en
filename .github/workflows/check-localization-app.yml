@@ -1,0 +1,50 @@
+name: Check localization App
+
+on:
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check credentials
+        env:
+          CLIENT_ID: ${{ vars.LOCALIZATION_APP_CLIENT_ID }}
+          PRIVATE_KEY: ${{ secrets.LOCALIZATION_APP_PRIVATE_KEY }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$CLIENT_ID" || -z "$PRIVATE_KEY" ]]; then
+            echo "::error::Set LOCALIZATION_APP_CLIENT_ID and LOCALIZATION_APP_PRIVATE_KEY in this repository."
+            exit 1
+          fi
+
+      - name: Create scoped installation token
+        id: app
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.LOCALIZATION_APP_CLIENT_ID }}
+          private-key: ${{ secrets.LOCALIZATION_APP_PRIVATE_KEY }}
+          owner: ashdam
+          repositories: |
+            ffxiv-language-pack-es-es
+            ffxiv-language-pack-it
+            ffxiv-language-pack-pl
+            ffxiv-language-pack-pt-br
+          permission-contents: write
+          permission-pull-requests: write
+
+      - name: Check language pack access
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+        run: |
+          set -euo pipefail
+          printf '| Repository | Main branch | Pull requests |\n|---|---|---|\n' >> "$GITHUB_STEP_SUMMARY"
+          for pack in es-es it pl pt-br; do
+            repo="ashdam/ffxiv-language-pack-$pack"
+            gh api "repos/$repo/branches/main" --silent
+            gh api "repos/$repo/pulls?state=open&per_page=1" --silent
+            printf '| %s | Accessible | Accessible |\n' "$repo" >> "$GITHUB_STEP_SUMMARY"
+          done
