@@ -892,8 +892,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz111_02661#TEXT_STMBDZ111_02661_EMPIRESOLDIER02661_000_040",
-      "en": "They cannot be allowed to leave. Get them!",
-      "hash": "FC69E54515BB0175",
+      "en": "(-Startled Soldier-)They cannot be allowed to leave. Get them!",
+      "hash": "FBBC66B86AFAD2FE",
       "unresolved": false,
       "fr": "On est faits... Allez les gars, occupez-vous de leur cas<nbsp>!",
       "ja": "クソッ……お前たち、やってしまえ！",
@@ -1020,8 +1020,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz111_02661#TEXT_STMBDZ111_02661_EMPIRESOLDIER02661_000_046",
-      "en": "Uwaaah!",
-      "hash": "3B755EB23286EF9D",
+      "en": "(-Startled Soldier-)Uwaaah!",
+      "hash": "19F3623CCEFB67BD",
       "unresolved": false,
       "fr": "Ha... Gaaaahhh<nbsp>!!! Au secouuurs<nbsp>!!!",
       "ja": "ひっ……う、うわぁぁぁぁぁ！！",

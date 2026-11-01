@@ -326,8 +326,8 @@
     },
     {
       "gameKey": "quest/031/JobAoz400_03197#TEXT_JOBAOZ400_03197_WHASTRACH_000_003",
-      "en": "\"...Martyn's such a great teacher that no one could possibly replace him!“ Is that what you were about to say?",
-      "hash": "18C08855C6F53347",
+      "en": "(-Familiar Voice-)\"...Martyn's such a great teacher that no one could possibly replace him!“ Is that what you were about to say?",
+      "hash": "EDBA1C718D7CBC63",
       "unresolved": false,
       "fr": "(-Voix familière-)... Je vais prendre le relais.",
       "ja": "(-聞き覚えのある声-)それならば、私が代わりに試練を出そう……。",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/031/JobAoz400_03197#TEXT_JOBAOZ400_03197_MARTYN_000_031",
-      "en": "Oi! What do you think you're doin', Whastrach!?",
-      "hash": "ACA411F511A45B35",
+      "en": "(-Martyn's Voice-)Oi! What do you think you're doin', Whastrach!?",
+      "hash": "3572017C367D59BF",
       "unresolved": false,
       "fr": "(-Voix de Martyn-)Hé ho, ne m'enterre pas trop vite. Voleur de disciple, va<nbsp>!",
       "ja": "(-マーティンの声-)待て、<br>勝手に私の弟子をとらないでくれたまえ。",

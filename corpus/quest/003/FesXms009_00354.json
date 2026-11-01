@@ -1234,8 +1234,8 @@
     },
     {
       "gameKey": "quest/003/FesXms009_00354#TEXT_FESXMS009_00354_MASKMAN65890_000_039",
-      "en": "Aha! I've finally caught up with you!",
-      "hash": "3ED1124AC7B3094C",
+      "en": "(-???-)Aha! I've finally caught up with you!",
+      "hash": "832E2BB5ACD92A42",
       "unresolved": false,
       "fr": "(-???-)Ha ha<nbsp>! Enfin, je vous trouve<nbsp>!",
       "ja": "(-？？？？-)ホゥ……こちらにいましたか。<br>ようやく見つけましたぞ、冒険者殿！",
@@ -1572,8 +1572,8 @@
     },
     {
       "gameKey": "quest/003/FesXms009_00354#TEXT_FESXMS009_00354_CHILD65890_000_055",
-      "en": "Thank you so much, little helper! I'm sorry I didn't believe you!",
-      "hash": "86261A6F1AE0FEE1",
+      "en": "(-Smiling Timothey-)Thank you so much, little helper! I'm sorry I didn't believe you!",
+      "hash": "A5E3C5F0BE1FB35C",
       "unresolved": false,
       "fr": "Merci mille fois, <if(gnum4,Madame la,Monsieur le)> disciple<nbsp>! Je suis vraiment désolé de ne pas vous avoir cru<if(gnum4,e,)> plus tôt<nbsp>!",
       "ja": "(-明るい笑顔になった少年-)ありがとう、それから、わがままを言ってごめんなさい……。<br><if(gnum4,姉ちゃん,兄ちゃん)>は、本物の従者様だったんだな！",

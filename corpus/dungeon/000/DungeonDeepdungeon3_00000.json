@@ -6,8 +6,8 @@
   "entries": [
     {
       "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_000",
-      "en": "Intruder detected. Initiating countermeasures. Commencing emergency deployment of proto-Dalamud.",
-      "hash": "3C459A4C1E70C31B",
+      "en": "(-Mechanical Voice-)Intruder detected. Initiating countermeasures. Commencing emergency deployment of proto-Dalamud.",
+      "hash": "B20D691D72CEA65B",
       "unresolved": false,
       "fr": "(-Voix robotique-)Intrus détecté... Activation des défenses... Démarrage en urgence du proto-Dalamud...",
       "ja": "(-響き渡る機械音声-)侵入者を検出……迎撃を開始します……。<br>プロトダラガブ緊急開放……。",
@@ -38,8 +38,8 @@
     },
     {
       "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_015",
-      "en": "Warning. Excalibur separated from organic host. Initializing transfer to floor 100 for surveillance.",
-      "hash": "3AD32C13CEF1E601",
+      "en": "(-Mechanical Voice-)Warning. Excalibur separated from organic host. Initializing transfer to floor 100 for surveillance.",
+      "hash": "AD3950564309E93E",
       "unresolved": false,
       "fr": "(-Voix robotique-)Alerte<nbsp>! Excalibur a échappé à son confinement organique. Transfert au sous-sol 100... Envoi vers la zone de confinement...",
       "ja": "(-響き渡る機械音声-)警告、エクスカリバーが生体から分離しました。<br>B100へ転送……保管モードへ移行します……。",

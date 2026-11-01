@@ -978,8 +978,8 @@
     },
     {
       "gameKey": "quest/020/JobAst301_02013#TEXT_JOBAST301_02013_LEVEVA_000_026",
-      "en": "And having witnessed how <if(gnum4,she,he)> eased into <if(gnum4,her,his)> new role, but mere moments after taking up the crystal, globe, and deck...",
-      "hash": "50119ECDFCE53C61",
+      "en": "(-Leveva-)And having witnessed how <if(gnum4,she,he)> eased into <if(gnum4,her,his)> new role, but mere moments after taking up the crystal, globe, and deck...",
+      "hash": "897E89872CCD8E01",
       "unresolved": false,
       "fr": "Il n'y a aucun doute là-dessus. Je viens de voir <split(<string(gstr1)>, ,1)> en action, Grand-père, et je peux vous assurer qu'<if(gnum4,elle,il)> a un talent hors du commun. Je n'ose imaginer ce qu'il en sera lorsqu'<if(gnum4,elle,il)> aura fait sien le savoir des six constellations et ouvert les portes du firmament...",
       "ja": "<split(<string(gstr1)>, ,1)>の才は、<br>実戦を通じて確認しましたが、間違いありません。<br>後は、「六天座」を知り、門を開けば……。",

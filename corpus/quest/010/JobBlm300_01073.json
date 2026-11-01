@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/010/JobBlm300_01073#TEXT_JOBBLM300_01073_KAZAGGCHAH_000_050",
-      "en": "<head(<sheet(ClassJob,gnum68,0)>)>, hear me.",
-      "hash": "4CEAADC316D175FE",
+      "en": "(-???-)<head(<sheet(ClassJob,gnum68,0)>)>, hear me.",
+      "hash": "0850D81CF92078E2",
       "unresolved": false,
       "fr": "(-???-)Mes paroles, entends-tu<nbsp>? Kazagg Chah, mon nom est.",
       "ja": "(-？？？？-)……冒険者よ……。",
@@ -922,8 +922,8 @@
     },
     {
       "gameKey": "quest/010/JobBlm300_01073#TEXT_JOBBLM300_01073_QUQURUKA_000_088",
-      "en": "That will not be necessary.",
-      "hash": "13B04C6A0F2F395E",
+      "en": "(-???-)That will not be necessary.",
+      "hash": "D38F436631F1B746",
       "unresolved": false,
       "fr": "(-???-)Cela ne sera vraiment pas nécessaire.",
       "ja": "(-？？？？-)それには及ばん。",

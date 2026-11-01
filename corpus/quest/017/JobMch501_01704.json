@@ -350,8 +350,8 @@
     },
     {
       "gameKey": "quest/017/JobMch501_01704#TEXT_JOBMCH501_01704_BAURENDOUIN_000_011",
-      "en": "Are you certain of your preparations, my son? These tales I hear of hired thugs terrorizing machinists and destroying equipment do not fill me with confidence.",
-      "hash": "CFEB1A9ECEBE5635",
+      "en": "(-Count Baurendouin de Haillenarte-)Are you certain of your preparations, my son? These tales I hear of hired thugs terrorizing machinists and destroying equipment do not fill me with confidence.",
+      "hash": "C4C0F136390040CD",
       "unresolved": false,
       "fr": "(-Comte Baurendouin de Haillenarte-)J'ai entendu dire que nous avions été victimes d'une opération de sabotage. Pouvons-nous encore nous battre<nbsp>?",
       "ja": "(-ボランドゥアン・ド・アインハルト伯爵-)何者かによる妨害工作を受けたそうだな？<br>準備はできているのか？",
@@ -376,8 +376,8 @@
     },
     {
       "gameKey": "quest/017/JobMch501_01704#TEXT_JOBMCH501_01704_BAURENDOUIN_000_012",
-      "en": "Pray remember that the collected gaze of Ishgard shall be focused on this contest. A poor showing will cost us our funding from the Holy See, and cast an uncertain shadow over the future of the manufactory.",
-      "hash": "AC3C0E4DDB456FBD",
+      "en": "(-Count Baurendouin de Haillenarte-)Pray remember that the collected gaze of Ishgard shall be focused on this contest. A poor showing will cost us our funding from the Holy See, and cast an uncertain shadow over the future of the manufactory.",
+      "hash": "EA4572F7F44BC81A",
       "unresolved": false,
       "fr": "(-Comte Baurendouin de Haillenarte-)La sainte Cité tout entière va avoir les yeux rivés sur nous. C'est l'avenir de notre manufacture que nous misons aujourd'hui. Si nous nous faisons humilier, le Saint-Siège cessera de nous verser ces dons qui nous permettent de survivre aujourd'hui.",
       "ja": "(-ボランドゥアン・ド・アインハルト伯爵-)模擬戦には、皇都の注目が集まっている。<br>無様な姿をさらせば、教皇庁からの資金援助が打ち切られ、<br>工房の未来に影を落とすこととなるぞ。",
@@ -428,8 +428,8 @@
     },
     {
       "gameKey": "quest/017/JobMch501_01704#TEXT_JOBMCH501_01704_ROSTNSTHAL_000_014",
-      "en": "I'm off to find a perch meself, but 'ere's one piece o' advice afore I go: make the most o' the terrain.",
-      "hash": "86CADB07730D58AC",
+      "en": "(-Rostnsthal-)I'm off to find a perch meself, but 'ere's one piece o' advice afore I go: make the most o' the terrain.",
+      "hash": "C924FF7D0B420C5C",
       "unresolved": false,
       "fr": "(-Rostnsthal-)Je ne vais pas tarder à rejoindre mon siège moi aussi, mais si je peux vous donner un conseil, le terrain est plein de coins et de recoins où les troupes ennemies n'auront aucun mal à se cacher. Faites attention et restez attentifs.",
       "ja": "(-ロスティンスタル-)俺も観戦に徹するつもりだが、ひとことだけ助言だ。<br>模擬戦の会場には、やたらと物陰が多い。<br>伏兵を仕込みやすい地形といえるだろう。",
@@ -454,8 +454,8 @@
     },
     {
       "gameKey": "quest/017/JobMch501_01704#TEXT_JOBMCH501_01704_ROSTNSTHAL_000_015",
-      "en": "There's a few choice spots where I'd lay an ambush...or expect me enemies to lay one for me. Just be sure ye've given the place a good once<-->over, eh?",
-      "hash": "D2A290F5777E891E",
+      "en": "(-Rostnsthal-)There's a few choice spots where I'd lay an ambush...or expect me enemies to lay one for me. Just be sure ye've given the place a good once<-->over, eh?",
+      "hash": "B33B6636EB1F28FC",
       "unresolved": false,
       "fr": "(-Rostnsthal-)Vous pouvez rester près de notre drapeau et accueillir les troupes ennemies ou soutenir les soldats qui mèneront l'attaque. À vous de rester vigilants et de faire le choix le mieux adapté à la situation. Bon, que le meilleur gagne<nbsp>! J'espère que ce sera nous<nbsp>!",
       "ja": "(-ロスティンスタル-)こっちが伏兵を配するも良し、敵の伏兵に備えるも良し……。<br>自分自身の目で確かめて検討するといいだろう。<br>では、健闘を祈るぞ。",

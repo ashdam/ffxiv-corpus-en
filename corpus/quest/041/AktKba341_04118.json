@@ -320,8 +320,8 @@
     },
     {
       "gameKey": "quest/041/AktKba341_04118#TEXT_AKTKBA341_04118_WHEISKAET_000_003",
-      "en": "Can you hear me, Commander? This is Wheiskaet.",
-      "hash": "34E50C4F29CABC1C",
+      "en": "(-Wheiskaet-)Can you hear me, Commander? This is Wheiskaet.",
+      "hash": "CC22A5C305369482",
       "unresolved": false,
       "fr": "(-Voix de Wheiskaet-)Capitaine, tu m'entends<nbsp>? C'est Wheiskaet.",
       "ja": "(-ヴェイスケートの声-)おう、団長代行。",
@@ -346,8 +346,8 @@
     },
     {
       "gameKey": "quest/041/AktKba341_04118#TEXT_AKTKBA341_04118_WHEISKAET_000_004",
-      "en": "I have an idea how we might take down the blasphemy. Meet me in Costa del Sol as soon as you are able.",
-      "hash": "F4092C9AC7D7DF53",
+      "en": "(-Wheiskaet-)I have an idea how we might take down the blasphemy. Meet me in Costa del Sol as soon as you are able.",
+      "hash": "13FA735E3C1EAB24",
       "unresolved": false,
       "fr": "(-Voix de Wheiskaet-)J'ai deux mots à te toucher à propos de cette fameuse technique de l'Hérésiarque. Tu veux bien venir me rejoindre à Costa del Sol<nbsp>?",
       "ja": "(-ヴェイスケートの声-)例の偽神獣の技について、話したいことがあってな。<br>悪いが、コスタ・デル・ソルまで来てくれないか？",
@@ -710,8 +710,8 @@
     },
     {
       "gameKey": "quest/041/AktKba341_04118#TEXT_AKTKBA341_04118_LORENS_000_100",
-      "en": "Here I was, enjoyin' my retirement... \\<sigh> Why'd you have to go and bloody whistle...",
-      "hash": "4CD8BC71092B05A4",
+      "en": "(-???-)Here I was, enjoyin' my retirement... \\<sigh> Why'd you have to go and bloody whistle...",
+      "hash": "E919B43DF4C5F46E",
       "unresolved": false,
       "fr": "(-???-)Ah là là... Moi qui n'avais aucune intention de reprendre du service...",
       "ja": "(-？？？？-)やれやれ……<br>もう二度と、表舞台に上がるつもりはなかったんだがな。",

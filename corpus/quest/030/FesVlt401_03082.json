@@ -1654,8 +1654,8 @@
     },
     {
       "gameKey": "quest/030/FesVlt401_03082#TEXT_FESVLT401_03082_HORTEFENSE_000_121",
-      "en": "Ahem! Pray forgive me, but I chanced to be passing by, and couldn't help but overhear your conversation.",
-      "hash": "7FB4DDA637D7723A",
+      "en": "(-???-)Ahem! Pray forgive me, but I chanced to be passing by, and couldn't help but overhear your conversation.",
+      "hash": "6A68CAA1120D810D",
       "unresolved": false,
       "fr": "(-????-)<if(gnum4,Madame l'aventurière,Monsieur l'aventurier)>, Astrid<nbsp>! Pardonnez-moi de m'immiscer dans votre con<->ver<->sa<->tion, mais je n'ai pu m'empêcher de tout entendre de vos déboires<nbsp>! Laissez-moi vous aider<nbsp>!",
       "ja": "(-？？？？-)やあやあ、アストリドと冒険者。<br>失礼だが話は聞かせてもらったよ！",

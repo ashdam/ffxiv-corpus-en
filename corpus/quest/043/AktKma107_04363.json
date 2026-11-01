@@ -980,8 +980,8 @@
     },
     {
       "gameKey": "quest/043/AktKma107_04363#TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_085",
-      "en": "\\<squeal> \\<squeal>",
-      "hash": "4D49BA5C4B6CCB11",
+      "en": "(-Muffled Voice-)\\<squeal> \\<squeal>",
+      "hash": "236C0410A24D32CF",
       "unresolved": false,
       "fr": "(-Cri rauque dans la boîte-)Gow gow gow<nbsp>!",
       "ja": "(-木箱から漏れる声-)ガウガウガウ……。",
@@ -1084,8 +1084,8 @@
     },
     {
       "gameKey": "quest/043/AktKma107_04363#TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_089",
-      "en": "\\<squeal> \\<squeal> \\<squeal>",
-      "hash": "CFDB5A568074D75D",
+      "en": "(-Muffled Voice-)\\<squeal> \\<squeal> \\<squeal>",
+      "hash": "855EC155E97785AD",
       "unresolved": false,
       "fr": "(-Cri rauque dans la boîte-)Gow gow<nbsp>! Gow<nbsp>?",
       "ja": "(-木箱から漏れる声-)ガウガウ、ガウ……？",

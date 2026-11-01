@@ -332,8 +332,8 @@
     },
     {
       "gameKey": "quest/042/AktKze013_04252#TEXT_AKTKZE013_04252_GOINGMYWAY_000_022",
-      "en": "Hm...? Those thunderous footfalls and sonorous tone aren't at all like a Loporrit. Who goes there?",
-      "hash": "D7281ED247678240",
+      "en": "(-???-)Hm...? Those thunderous footfalls and sonorous tone aren't at all like a Loporrit. Who goes there?",
+      "hash": "1CA631341AF13647",
       "unresolved": false,
       "fr": "(-Voix mystérieuse-)J'ai tout de suite compris au son de tes pas et à ta voix que tu m'étais étrang<if(gnum4,ère,er)>... Comment as-tu eu vent de mon mot de passe<nbsp>?",
       "ja": "(-謎の声-)おや、聞きなれない足音と声でしたが、<br>その合言葉をご存知ということは、お仲間ですか？",
@@ -384,8 +384,8 @@
     },
     {
       "gameKey": "quest/042/AktKze013_04252#TEXT_AKTKZE013_04252_GOINGMYWAY_000_024",
-      "en": "...Very well. You may enter.",
-      "hash": "1966DB786F1BA6A5",
+      "en": "(-???-)...Very well. You may enter.",
+      "hash": "610AFF06D748B6BF",
       "unresolved": false,
       "fr": "(-Voix mystérieuse-)Soit, c'est d'accord... Avancez. Je vous attends derrière l'appareil.",
       "ja": "(-謎の声-)ふむ……よいでしょう。<br>この装置の裏側までお越しください。",

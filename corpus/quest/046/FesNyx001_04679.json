@@ -307,8 +307,8 @@
     },
     {
       "gameKey": "quest/046/FesNyx001_04679#TEXT_FESNYX001_04679_SIBLY_000_003",
-      "en": "Why's this chocobo chick wearing that costume?",
-      "hash": "C04680B9F1DA1D6C",
+      "en": "(-Lominsan Lass-)Why's this chocobo chick wearing that costume?",
+      "hash": "E00BF28BCD90D3C9",
       "unresolved": false,
       "fr": "(-Fillette limséenne-)Un poussin chocobo<nbsp>? Quel rapport avec la fête de la transition...<nbsp>?",
       "ja": "(-海都の少女-)ヒナチョコボ？<br>降神祭で、どうして……？",
@@ -682,8 +682,8 @@
     },
     {
       "gameKey": "quest/046/FesNyx001_04679#TEXT_FESNYX001_04679_SIBLY_100_022",
-      "en": "Well, he's certainly adorable...but what's a “ryu”? And why do you have him dressed up in that costume?",
-      "hash": "C057A14B0C7AADB8",
+      "en": "(-Lominsan Lass-)Well, he's certainly adorable...but what's a “ryu”? And why do you have him dressed up in that costume?",
+      "hash": "E3E65820C6A6DA9B",
       "unresolved": false,
       "fr": "(-Fillette limséenne-)Ben, c'est vrai qu'il est mignon, mais... pourquoi vous l'avez habillé comme ça, au juste<nbsp>?",
       "ja": "(-海都の少女-)えっと、かわいいと思うけど……辰ってなんなの？<br>どうして、ヒナチョコボにこんな着ぐるみを着せてるの？",

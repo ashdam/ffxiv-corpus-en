@@ -2576,8 +2576,8 @@
     },
     {
       "gameKey": "quest/024/JobMnk680_02429#TEXT_JOBMNK680_02429_HEWERALD_000_099",
-      "en": "Pray forgive me my interruption. My name is Hewerald, and I am come at Professor Erik's behest.",
-      "hash": "27A07A44E536879C",
+      "en": "(-???-)Pray forgive me my interruption. My name is Hewerald, and I am come at Professor Erik's behest.",
+      "hash": "4181AB0AA78EC408",
       "unresolved": false,
       "fr": "(-???-)Excusez-moi, vous ne seriez pas <if(gnum4,Madame,Monsieur)> <split(<string(gstr1)>, ,2)><nbsp>? Le professeur Erik m'a demandé de vous trouver et de vous conduire jusqu'à lui. Je m'appelle Hewerald.",
       "ja": "(-？？？？-)突然、失礼いたします。<br>エリック様の使いとして参りました。<br>ヒュウェラルドと申します。",

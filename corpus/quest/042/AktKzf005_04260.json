@@ -204,8 +204,8 @@
     },
     {
       "gameKey": "quest/042/AktKzf005_04260#TEXT_AKTKZF005_04260_DANCER04260_000_003",
-      "en": "<italic(1)>As the waning sun casts light upon the stone trunk,<br>At its end you shall find a treasure most profound.<br>Wrest the key from crossed hands and open the way to riches.<italic(0)>",
-      "hash": "325D8C41D9EC1DE9",
+      "en": "(-Mysterious Parchment-)<italic(1)>As the waning sun casts light upon the stone trunk,<br>At its end you shall find a treasure most profound.<br>Wrest the key from crossed hands and open the way to riches.<italic(0)>",
+      "hash": "F2F3FED4AB689B57",
       "unresolved": false,
       "fr": "(-Papier gribouillé-)“Une illusion d'éléphant éclairée par le soleil couchant,<br>et une boîte énigmatique sous le nez de la troisième sœur.<br>Pour l'ouvrir, une clef mystérieuse, serrée entre des doigts dodus.”",
       "ja": "(-謎めいた走り書き-)『夕日に照らされし「幻の象」、<br>\u3000三女の鼻先に「神秘の箱」有り。<br>\u3000太き指先が握る「神秘の鍵」もて開かれん』",
@@ -658,8 +658,8 @@
     },
     {
       "gameKey": "quest/042/AktKzf005_04260#TEXT_AKTKZF005_04260_SYSTEM_100_013",
-      "en": "<italic(1)>As the waning sun casts light upon the stone trunk,<br>At its end you shall find a treasure most profound.<br>Wrest the key from crossed hands and open the way to riches.<italic(0)>",
-      "hash": "34AB757BD93DFDFD",
+      "en": "(-Mysterious Parchment-)<italic(1)>As the waning sun casts light upon the stone trunk,<br>At its end you shall find a treasure most profound.<br>Wrest the key from crossed hands and open the way to riches.<italic(0)>",
+      "hash": "AD71A3148EB8E916",
       "unresolved": false,
       "fr": "(-Papier gribouillé-)“Une illusion d'éléphant éclairée par le soleil couchant,<br>et une boîte énigmatique sous le nez de la troisième sœur.<br>Pour l'ouvrir, une clef mystérieuse, serrée entre des doigts dodus.”",
       "ja": "(-謎めいた走り書き-)『夕日に照らされし「幻の象」、<br>\u3000三女の鼻先に「神秘の箱」有り。<br>\u3000太き指先が握る「神秘の鍵」もて開かれん』",

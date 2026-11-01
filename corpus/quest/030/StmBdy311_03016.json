@@ -490,8 +490,8 @@
     },
     {
       "gameKey": "quest/030/StmBdy311_03016#TEXT_STMBDY311_03016_TATARU_000_003",
-      "en": "Hello? Hello? <split(<string(gstr1)>, ,1)>? Is my linkpearl working? So unreliable, these little things...",
-      "hash": "6DBAB35ABDB0DEDF",
+      "en": "(-Tataru-)Hello? Hello? <split(<string(gstr1)>, ,1)>? Is my linkpearl working? So unreliable, these little things...",
+      "hash": "104517A4F343B6B6",
       "unresolved": false,
       "fr": "(-Tataru-)Allô, <split(<string(gstr1)>, ,1)><nbsp>? C'est moi, Tataru<nbsp>!",
       "ja": "(-タタルの声-)<split(<string(gstr1)>, ,1)>さん、聞こえまっすか？<br>タタルでっす！",
@@ -516,8 +516,8 @@
     },
     {
       "gameKey": "quest/030/StmBdy311_03016#TEXT_STMBDY311_03016_TATARU_000_004",
-      "en": "I'm going to pay a visit to Reisen Temple to see Soroban─give him a treat to keep his spirits up. If you're available, you should come too!",
-      "hash": "4E65A6024506642A",
+      "en": "(-Tataru-)I'm going to pay a visit to Reisen Temple to see Soroban─give him a treat to keep his spirits up. If you're available, you should come too!",
+      "hash": "AAE578C44D622B1B",
       "unresolved": false,
       "fr": "(-Tataru-)J'ai quelque chose à remettre à Soroban, et j'aimerais que vous alliez au sanctuaire Reisen vous aussi, si ça ne vous dérange pas.",
       "ja": "(-タタルの声-)修行中のソロバンさんに差し入れを渡したいので、<br>付き合ってほしいのでっす！",
@@ -542,8 +542,8 @@
     },
     {
       "gameKey": "quest/030/StmBdy311_03016#TEXT_STMBDY311_03016_TATARU_000_005",
-      "en": "I hope you haven't forgotten how to get there, but in case you have, look for the cute animal trying not to look like a guard on duty in the middle of the volcanic island!",
-      "hash": "31B2F889B0100345",
+      "en": "(-Tataru-)I hope you haven't forgotten how to get there, but in case you have, look for the cute animal trying not to look like a guard on duty in the middle of the volcanic island!",
+      "hash": "E312F2BB700E59C5",
       "unresolved": false,
       "fr": "(-Tataru-)Vous n'avez sans doute pas oublié, mais pour s'y rendre, il suffit de s'adresser au Zuijû qui se trouve près de l'entrée, au Couvercle des enfers. Sur ce, je pars tout de suite<nbsp>! Retrouvons-nous sur place<nbsp>!",
       "ja": "(-タタルの声-)念のためお伝えしまっすが、醴泉神社へ向かうには、<br>獄之蓋の入口にいる瑞獣さんに道案内を頼むのがいいでっすよ！<br>すぐに私も向かいまっすので、現地で合流するでっす！",

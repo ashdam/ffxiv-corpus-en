@@ -505,8 +505,8 @@
     },
     {
       "gameKey": "quest/023/BanMog401_02302#TEXT_BANMOG401_02302_ATTACKEDMOOGLEA02302_000_022",
-      "en": "Our work here is finished. Come, let us search for others who may be in danger.",
-      "hash": "F77049340B883D97",
+      "en": "(-Whei Ahf-)Our work here is finished. Come, let us search for others who may be in danger.",
+      "hash": "83F6FA2EB6E79043",
       "unresolved": false,
       "fr": "(-Whei Ahf-)Ce Mog est maintenant tiré d'affaire. Dépêchons-nous d'en sauver un deuxième avant qu'il soit trop tard<nbsp>!",
       "ja": "(-ウェイ・アフ-)無事に助けだせたようですね。<br>別のモーグリの救出に向かいましょう。",
@@ -603,8 +603,8 @@
     },
     {
       "gameKey": "quest/023/BanMog401_02302#TEXT_BANMOG401_02302_ATTACKEDMOOGLEB02302_000_032",
-      "en": "It is most fortunate he was unharmed, but I sense there are yet moogles to be saved.",
-      "hash": "D45E6C956324C2CD",
+      "en": "(-Whei Ahf-)It is most fortunate he was unharmed, but I sense there are yet moogles to be saved.",
+      "hash": "85893CC06C7B544D",
       "unresolved": false,
       "fr": "(-Whei Ahf-)En voilà un autre de sauvé<nbsp>! Dépêchons-nous d'en secourir un troisième avant qu'il se fasse dévorer tout cru<nbsp>!",
       "ja": "(-ウェイ・アフ-)襲われる前に助けることができて、なによりです。<br>さあ、別のモーグリを助けにいきましょう。",
@@ -678,8 +678,8 @@
     },
     {
       "gameKey": "quest/023/BanMog401_02302#TEXT_BANMOG401_02302_ATTACKEDMOOGLEC02302_000_042",
-      "en": "Hmmm... I no longer sense minions of the brood in the vicinity. Let us return to Bahrr Lehs.",
-      "hash": "8FE3BA0C07CE539A",
+      "en": "(-Whei Ahf-)Hmmm... I no longer sense minions of the brood in the vicinity. Let us return to Bahrr Lehs.",
+      "hash": "B0DDA109D76B61E7",
       "unresolved": false,
       "fr": "(-Whei Ahf-)On dirait que tous les Mogs sont hors de danger. Allons rassurer Mogek sur le sort de ses camarades.",
       "ja": "(-ウェイ・アフ-)……ほかに、助けを求めるモーグリはいないようですね。<br>モグエクに報告して、安心させてあげるとしましょうか……。",

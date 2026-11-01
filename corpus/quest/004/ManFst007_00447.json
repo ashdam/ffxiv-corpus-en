@@ -1014,8 +1014,8 @@
     },
     {
       "gameKey": "quest/004/ManFst007_00447#TEXT_MANFST007_00447_IXALPRIESTS_050_40",
-      "en": "<colortype(547)>O mournful voice of creation!<br>O mournful voice of time!<colortype(0)>",
-      "hash": "DA178D1C414F229A",
+      "en": "(-Ixali Occultists-)<colortype(547)>O mournful voice of creation!<br>O mournful voice of time!<colortype(0)>",
+      "hash": "631C4A74089F5B91",
       "unresolved": false,
       "fr": "(-Invocateurs ixali-)<colortype(547)>Ô essence de la création<nbsp>!<br>Ô essence du désespoir<nbsp>!<colortype(0)>",
       "ja": "(-イクサル族の妖術師たち-)<colortype(547)>示せ、創世の理よ。<br>示せ、絶望の理よ。<colortype(0)>",

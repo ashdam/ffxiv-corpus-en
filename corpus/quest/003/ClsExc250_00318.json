@@ -506,8 +506,8 @@
     },
     {
       "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_21",
-      "en": "So, this is the indomitable <string(gstr1)>.",
-      "hash": "6E4ECC056F0EFFD1",
+      "en": "(-???-)So, this is the indomitable <string(gstr1)>.",
+      "hash": "C6CA0A8BEDFE39B4",
       "unresolved": false,
       "fr": "(-???-)Enfin je te trouve<nbsp>!",
       "ja": "(-？？？？-)貴様が<string(gstr1)>だな……？",
@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_23",
-      "en": "We have deemed you worthy of our challenge. Come, marauder! Let us test the edge of your steel!",
-      "hash": "342E7D05DECE4FC9",
+      "en": "(-???-)We have deemed you worthy of our challenge. Come, marauder! Let us test the edge of your steel!",
+      "hash": "1D1D7C016C19FF7E",
       "unresolved": false,
       "fr": "(-Zoenwyrn-)Ho ho ho<nbsp>! Je suis l'intrépide Zoenwyrn<nbsp>! Je suis venu ici pour tester les talents de combattant<if(gnum4,e,)> de <string(gstr1)><nbsp>! Montre-moi ce que tu as dans le ventre, maraudeu<if(gnum4,se,r)><nbsp>!",
       "ja": "(-？？？？-)故あって、我らの挑戦受けてもらう！<br>いざ、尋常に勝負ッ！！",

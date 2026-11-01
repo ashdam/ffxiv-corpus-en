@@ -1046,8 +1046,8 @@
     },
     {
       "gameKey": "quest/023/ChrHdb642_02370#TEXT_CHRHDB642_02370_ORLAND_000_020",
-      "en": "Grand Sers, excelsior!",
-      "hash": "75C0DF6021BE5E37",
+      "en": "(-The Grand Sers-)Grand Sers, excelsior!",
+      "hash": "F9F1F75D88ACFA2F",
       "unresolved": false,
       "fr": "(-Orland et Gonspart-)Chevaliers, et fiers de l'être<nbsp>!",
       "ja": "(-オルランドとゴンスパル-)我ら、壮年騎士団！",
@@ -1618,8 +1618,8 @@
     },
     {
       "gameKey": "quest/023/ChrHdb642_02370#TEXT_CHRHDB642_02370_DORYS_000_040",
-      "en": "Enough! Leave them be─or do you not care what becomes of the mammet?",
-      "hash": "AE589355D3869D31",
+      "en": "(-???-)Enough! Leave them be─or do you not care what becomes of the mammet?",
+      "hash": "3A0D926C8610AB42",
       "unresolved": false,
       "fr": "(-???-)Plus un geste, les empêcheurs de tourner en rond, ou je lui explose la tête comme une pastèque<nbsp>!",
       "ja": "(-？？？？-)そこまでだよ！<br>こいつがどうなってもいいのかい？",

@@ -490,8 +490,8 @@
     },
     {
       "gameKey": "quest/020/HeaVnr101_02090#TEXT_HEAVNR101_02090_YSHTOLA_000_002",
-      "en": "Calm yourself, Slowfix.",
-      "hash": "B2EBF38D6C721B28",
+      "en": "(-Y'shtola-)Calm yourself, Slowfix.",
+      "hash": "637939496CE473F3",
       "unresolved": false,
       "fr": "(-???-)Du calme, du calme, Slowfix. Je vais me charger de tout expliquer à <split(<string(gstr1)>, ,1)>.",
       "ja": "(-？？？？-)……落ちつきなさい、スローフィクス。<br><split(<string(gstr1)>, ,1)>には、私が説明する。",
@@ -2126,8 +2126,8 @@
     },
     {
       "gameKey": "quest/020/HeaVnr101_02090#TEXT_HEAVNR101_02090_MIDE_000_195",
-      "en": "Quite the conundrum you have there...",
-      "hash": "85D36851B95A7959",
+      "en": "(-???-)Quite the conundrum you have there...",
+      "hash": "C8AD4D731B2E0838",
       "unresolved": false,
       "fr": "(-???-)J'ai comme qui dirait l'impression que vous êtes coincés.",
       "ja": "(-？？？？-)……お困りのようね。",
@@ -2152,8 +2152,8 @@
     },
     {
       "gameKey": "quest/020/HeaVnr101_02090#TEXT_HEAVNR101_02090_MIDE_000_196",
-      "en": "But it's your lucky day. I'll crack the code─assuming we can come to a little arrangement.",
-      "hash": "CDA0E853502133AC",
+      "en": "(-???-)But it's your lucky day. I'll crack the code─assuming we can come to a little arrangement.",
+      "hash": "21325A26BE84D00F",
       "unresolved": false,
       "fr": "Je m'appelle Mide... Je suis une chasseuse de trésors spécialisée dans un type d'objet particulier.",
       "ja": "私は、ミーデ。<br>「あるもの」を専門に探すトレジャーハンターよ。",
@@ -2852,8 +2852,8 @@
     },
     {
       "gameKey": "quest/020/HeaVnr101_02090#TEXT_HEAVNR101_02090_QUICKTHINXALLTHOUGHTS_000_507",
-      "en": "Pshhhkohhh... Uplanders are unwise to come. But most of all is treasure hunter─what she seeks is not here, not in all of Gordias.",
-      "hash": "9155E196B26EFD6E",
+      "en": "(-???-)Pshhhkohhh... Uplanders are unwise to come. But most of all is treasure hunter─what she seeks is not here, not in all of Gordias.",
+      "hash": "1A63CEE5B47F4483",
       "unresolved": false,
       "fr": "(-???-)PshhhouÔHÔHÔhôhôhôHÔHÔHÔhôhô<nbsp>!<nbsp>... Pshhh...<br>Cela faisait longtemps, chasseuse de trésors<nbsp>!<nbsp>...<br>En effet, ce qu'elle veut n'est pas ici<nbsp>!",
       "ja": "(-？？？？-)コフォ……コフォ……<br>くく……ひさしいな……トレジャーハンター。<br>おめあてのモノ……ここにはナイ……。",

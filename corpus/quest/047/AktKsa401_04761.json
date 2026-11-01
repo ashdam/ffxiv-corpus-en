@@ -1728,8 +1728,8 @@
     },
     {
       "gameKey": "quest/047/AktKsa401_04761#TEXT_AKTKSA401_04761_NERO_000_082",
-      "en": "I beg to differ.",
-      "hash": "2FDB94C85F0E6858",
+      "en": "(-???-)I beg to differ.",
+      "hash": "BDAA9A97CDD6AB5E",
       "unresolved": false,
       "fr": "(-???-)Hmpf... Mauvaise idée, engagez plutôt la cible à longue distance.",
       "ja": "(-？？？？-)いいや、そのまま長距離攻撃を実行するンだ。",
@@ -2468,8 +2468,8 @@
     },
     {
       "gameKey": "quest/047/AktKsa401_04761#TEXT_AKTKSA401_04761_PROCOPIUS_000_106",
-      "en": "I-It's you... Gaius!",
-      "hash": "5BD6DE3DD60D421F",
+      "en": "(-Valens?-)I-It's you... Gaius!",
+      "hash": "02BFF483832DBBD1",
       "unresolved": false,
       "fr": "(-Valens<nbsp>?-)C-cette voix... Gaius<nbsp>!?",
       "ja": "(-ウァレンスらしき男-)お、お前は……ガイウス…………！",
@@ -2520,8 +2520,8 @@
     },
     {
       "gameKey": "quest/047/AktKsa401_04761#TEXT_AKTKSA401_04761_PROCOPIUS_000_108",
-      "en": "Wh-What do you mean? I'm Valens, the man destined to inherit the imperial throne!",
-      "hash": "4E6DFD909201D7F6",
+      "en": "(-Valens?-)Wh-What do you mean? I'm Valens, the man destined to inherit the imperial throne!",
+      "hash": "97029CCD7D8E3D7B",
       "unresolved": false,
       "fr": "(-Valens<nbsp>?-)Je... me nomme... Valens<nbsp>! Digne successeur au trône de l'Empire<nbsp>!",
       "ja": "(-ウァレンスらしき男-)わ、私はウァレンス……！<br>次代の皇帝たる者ぞ！",

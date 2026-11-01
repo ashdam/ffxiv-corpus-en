@@ -206,8 +206,8 @@
     },
     {
       "gameKey": "quest/021/HeaVny201_02114#TEXT_HEAVNY201_02114_UNUKALHAI_000_010",
-      "en": "My thanks for coming.",
-      "hash": "B78BA8651753B553",
+      "en": "(-???-)My thanks for coming.",
+      "hash": "4292C4963B7EA635",
       "unresolved": false,
       "fr": "(-???-)Hé hé hé, vous voilà enfin...",
       "ja": "(-？？？？-)……フフフ、よく来てくれましたね。",
@@ -336,8 +336,8 @@
     },
     {
       "gameKey": "quest/021/HeaVny201_02114#TEXT_HEAVNY201_02114_URIANGER_000_013",
-      "en": "Pray permit me to continue the tale.",
-      "hash": "3425CB082235E658",
+      "en": "(-???-)Pray permit me to continue the tale.",
+      "hash": "256B6D99A3F31292",
       "unresolved": false,
       "fr": "(-???-)Je vais me charger d'achever cette explication, si vous n'y voyez pas d'in<->con<->vé<->nient.",
       "ja": "(-？？？？-)……そこから先は、私が話しましょう。",

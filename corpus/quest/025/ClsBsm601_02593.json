@@ -202,8 +202,8 @@
     },
     {
       "gameKey": "quest/025/ClsBsm601_02593#TEXT_CLSBSM601_02593_BRITHAEL_000_002",
-      "en": "<italic(1)>Forgemaster Brithael,<br>I am writing to you today to express my desire to learn more about your guild and the blacksmithing techniques you employ. I am currently preparing to depart for Limsa Lominsa and should be arriving shortly after this reaches you.<italic(0)>",
-      "hash": "B5CEE895E2A3975D",
+      "en": "(-Letter from the Far East-)<italic(1)>Forgemaster Brithael,<br>I am writing to you today to express my desire to learn more about your guild and the blacksmithing techniques you employ. I am currently preparing to depart for Limsa Lominsa and should be arriving shortly after this reaches you.<italic(0)>",
+      "hash": "43D55790CC15CED8",
       "unresolved": false,
       "fr": "“Cher Monsieur, je vous écris aujourd'hui pour vous faire part de mon désir d'effectuer un stage de perfectionnement aux techniques de forge au sein de votre éta<->blis<->se<->ment. Je m'apprête ac<->tu<->el<->le<->ment à embarquer pour Limsa Lominsa. Si la traversée se passe bien, je devrais arriver peu de temps après que cette lettre vous sera parvenue.<br>Dans l'espoir de vous rencontrer pro<->chai<->ne<->ment, je vous prie, Monsieur, de bien vouloir recevoir mes salutations les plus distinguées.<br>Votre future élève”",
       "ja": "(-東方からの手紙-)「そちらのギルドにて、鍛冶の腕を磨きたく候。<br>\u3000東方より船にて、海都へと赴く所存なり」",
@@ -904,8 +904,8 @@
     },
     {
       "gameKey": "quest/025/ClsBsm601_02593#TEXT_CLSBSM601_02593_SEKKA_000_080",
-      "en": "From my personal collection, of course.",
-      "hash": "47FD6CF1D31BCF8A",
+      "en": "(-Feminine Voice-)From my personal collection, of course.",
+      "hash": "37E0B46DC5CF81C2",
       "unresolved": false,
       "fr": "(-Voix féminine-)De ma collection personnelle<nbsp>!",
       "ja": "(-女性の大声-)たのもおーーーーーー！！！",

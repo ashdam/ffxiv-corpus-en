@@ -1270,8 +1270,8 @@
     },
     {
       "gameKey": "quest/023/FesXms202_02376#TEXT_FESXMS202_02376_REAUVERRE_000_086",
-      "en": "W-Well, except for running away, I suppose. I'm sorry...I didn't mean to cause you trouble.",
-      "hash": "29418EFC88849714",
+      "en": "(-Reauverre-)W-Well, except for running away, I suppose. I'm sorry...I didn't mean to cause you trouble.",
+      "hash": "BECF00CAACD3754D",
       "unresolved": false,
       "fr": "(-Reauverre-)Ah... Oui, c'est moi, Reauverre. Donc, c'est le docteur qui vous envoie... Je savais bien que quelqu'un finirait par remarquer mon absence...",
       "ja": "(-ローヴェル-)あ～あ、やっぱり、脱走したのバレちゃったんだ。<br>うん、僕が冒険者さんの探しているローヴェルだよ。",
@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/023/FesXms202_02376#TEXT_FESXMS202_02376_REAUVERRE_000_101",
-      "en": "Liar! Nobody cares about me! I could die tomorrow, and no one would shed a tear! So just leave me be, will you!?",
-      "hash": "193E18ABB603E2A0",
+      "en": "(-Reauverre-)Liar! Nobody cares about me! I could die tomorrow, and no one would shed a tear! So just leave me be, will you!?",
+      "hash": "51B45DACF89B045B",
       "unresolved": false,
       "fr": "(-Reauverre-)V-vous mentez<nbsp>!!! Je sais bien que vous n'en avez rien à faire de moi<nbsp>! Je pourrais disparaître que ça ne vous ferait ni chaud ni froid<nbsp>! Arrêtez de faire semblant d'être gentil avec moi... Fichez-moi la paix<nbsp>!",
       "ja": "(-ローヴェル-)嘘つき！\u3000心配なんて、してないくせに！<br>死んでもいいって思ってるくせに！！<br>もう僕のことなんか、放っておいてよ！",

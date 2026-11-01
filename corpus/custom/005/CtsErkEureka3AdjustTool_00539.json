@@ -234,8 +234,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka3AdjustTool_00539#TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_020",
-      "en": "“It is strongly recommended that you familiarize yourself with all aspects of the mnemeworks station before attempting to enhance an armament. Failure to do so may lead to catastrophic failure and/or grievous bodily harm and/or death...”",
-      "hash": "5C03918F0FBD8968",
+      "en": "(-Mnemeworks Manual-)“It is strongly recommended that you familiarize yourself with all aspects of the mnemeworks station before attempting to enhance an armament. Failure to do so may lead to catastrophic failure and/or grievous bodily harm and/or death...”",
+      "hash": "173515C43A9BE392",
       "unresolved": false,
       "fr": "(-Manuel du kit de transplantation mnésique-)Vous avez devant vous <frnoun(EObj,2,2009647,1,1)>, une p'tite merveille de mon invention qui permet de greffer des souvenirs sur les armes que j'ai forgées rien que pour ça. Son utilisation est simple comme bonjour, mais vous allez quand même me faire le plaisir de lire la notice<nbsp>!",
       "ja": "(-幻想転写器の説明書-)この「<sheet(EObj,2009647,0)>」は、下地として整えた武器に対し、<br>記憶を転写して能力を高めてやるための装置だ。<br>使い方は簡単だから、この説明書をしっかりと読めよ。",
@@ -278,8 +278,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka3AdjustTool_00539#TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_030",
-      "en": "“Please ensure you have sufficient <ennoun(Item,3,24122,2,1)> before utilizing the mnemeworks station. Failure to do so may lead to catastrophic failure and/or grievous bodily harm and/or death...”",
-      "hash": "58297A4379AF169F",
+      "en": "(-Mnemeworks Manual-)“Please ensure you have sufficient <ennoun(Item,3,24122,2,1)> before utilizing the mnemeworks station. Failure to do so may lead to catastrophic failure and/or grievous bodily harm and/or death...”",
+      "hash": "61B0A302E0D5FAFF",
       "unresolved": false,
       "fr": "(-Manuel du kit de transplantation mnésique-)Écrire des pavés, c'pas mon truc, alors j'vais pas rentrer dans les détails. Pour greffer des souvenirs sur mes armes, il faut des <frnoun(Item,12,24122,2,1)><nbsp>! Eh ouais, c'est comme ça<nbsp>!",
       "ja": "(-幻想転写器の説明書-)武器に記憶を転写して能力を高めるには、<br>「<sheet(Item,24122,0)>」が必要だ。<br>詳しい理屈は置いといて、触媒として必要になるってこった。",

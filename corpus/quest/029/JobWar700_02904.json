@@ -690,8 +690,8 @@
     },
     {
       "gameKey": "quest/029/JobWar700_02904#TEXT_JOBWAR700_02904_MERCHANT02903_000_008",
-      "en": "Ah, Curious Gorge did mention someone would be coming to help. Yes, yes, your horse is right over here. Safe travels, friend.",
-      "hash": "B1B233EE3EB7BC59",
+      "en": "(-Mirthful Merchant-)Ah, Curious Gorge did mention someone would be coming to help. Yes, yes, your horse is right over here. Safe travels, friend.",
+      "hash": "6E243D903D3F7A9F",
       "unresolved": false,
       "fr": "C'est toi <if(gnum4,la,le)> super cavali<if(gnum4,ère,er)> dont m'a parlé le brave Curious Gorge<nbsp>? À la bonne heure, l'ami<if(gnum4,e,)><nbsp>! Le nouveau pro<->prié<->taire de ce magnifique destrier est un berger de Mol Iloh. Tu vois où c'est<nbsp>? Alors t'as plus qu'à t'y rendre<nbsp>!",
       "ja": "アンタが、ゴージの言ってたヤツだな……？<br>じゃあ、この馬をモル・イローにいる、<br>「モル族の羊飼い」まで、届けてくれ！",
@@ -716,8 +716,8 @@
     },
     {
       "gameKey": "quest/029/JobWar700_02904#TEXT_JOBWAR700_02904_MERCHANT02903_000_009",
-      "en": "What were you doing out there? Your horse came galloping back not long ago and looked rather spooked. I'll tolerate no funny business. Understand?",
-      "hash": "D2E5223BC0F8141D",
+      "en": "(-Mirthful Merchant-)What were you doing out there? Your horse came galloping back not long ago and looked rather spooked. I'll tolerate no funny business. Understand?",
+      "hash": "2E986BE77F2540D8",
       "unresolved": false,
       "fr": "T'as d'la chance que le cheval soit rentré à l'écurie, sinon je t'aurais fait payer à la place du client, crévindiou<nbsp>! On va recommencer, mais cette fois t'as pas intérêt à descendre de selle avant d'être arrivé<if(gnum4,e,)> à Mol Iloh, compris<nbsp>!?",
       "ja": "おいおい、馬が戻ってきてしまったぞ……。<br>今度こそ、途中で降りずにモル・イローにいる、<br>「モル族の羊飼い」まで、届けてくれよな！",

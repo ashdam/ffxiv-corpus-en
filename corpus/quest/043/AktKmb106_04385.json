@@ -1522,8 +1522,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb106_04385#TEXT_AKTKMB106_04385_LICINIASSISTER_000_148",
-      "en": "Licinia... Where is everyone?",
-      "hash": "0DD9A445BFC3B3F0",
+      "en": "(-Frail Voice-)Licinia... Where is everyone?",
+      "hash": "8BD1AD0CB1D8D6F8",
       "unresolved": false,
       "fr": "(-Petite voix frêle-)Licinia...<nbsp>? Où sont passés tous les autres<nbsp>?",
       "ja": "(-微かな声-)お姉ちゃん……？<br>みんな、どこにいるの……？",
@@ -2140,8 +2140,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb106_04385#TEXT_AKTKMB106_04385_ALISAIE_000_190",
-      "en": "There you are!",
-      "hash": "7FB811E3BA218A58",
+      "en": "(-???-)There you are!",
+      "hash": "7688953AA673721D",
       "unresolved": false,
       "fr": "(-???-)Te voilà, <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-？？？？-)あっ、いた、<split(<string(gstr1)>, ,1)>！",

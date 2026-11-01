@@ -2988,8 +2988,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog101_00126#TEXT_CLSROG101_00126_JACKE_000_156",
-      "en": "Hey! Do ye mean to leave me here all night!? At least ye gave me a grand view o' the harbor! ...Gods' piss, these ropes are tight!",
-      "hash": "E4260CD46226BF14",
+      "en": "(-Jacke-)Hey! Do ye mean to leave me here all night!? At least ye gave me a grand view o' the harbor! ...Gods' piss, these ropes are tight!",
+      "hash": "455F8BAC8CF84AE2",
       "unresolved": false,
       "fr": "(-Jacke-)Eh<nbsp>! Oooooh<nbsp>! Attendez un peu, vous trois<nbsp>! Vous allez quand même pas me laisser comme ça, par les... Aïe<nbsp>! La vache, qu'est-ce qu'elle est serrée, cette corde...",
       "ja": "(-ジャック-)おぉい！？\u3000お前らちょっと待てぇー！<br>反省したから下ろし……イテテテ！\u3000縄がイテェッ！",
@@ -3014,8 +3014,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog101_00126#TEXT_CLSROG101_00126_MILALA_000_157",
-      "en": "And now we find ourselves indebted to the Rogues' Guild. The <italic(1)>Rogues'<italic(0)> Guild.",
-      "hash": "A1C66BC893EE6031",
+      "en": "(-Yellowjacket Soldier-)And now we find ourselves indebted to the Rogues' Guild. The <italic(1)>Rogues'<italic(0)> Guild.",
+      "hash": "33BF619FFF20570C",
       "unresolved": false,
       "fr": "(-Casaque jaune-)... C'est donc bien la fameuse guilde des surineurs qui s'est chargée de ramener les armes à feu à mes hommes...",
       "ja": "(-イエロージャケット警備兵-)……部下の銃を取り返したのが、<br>よりにもよって、あの双剣士ギルドだなんて。",
@@ -3040,8 +3040,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog101_00126#TEXT_CLSROG101_00126_MILALA_000_158",
-      "en": "Hmph, the impropriety of it all. Would that I could see <italic(1)>them<italic(0)> occupying a cell next to those thieving pirates...",
-      "hash": "4FAAE9AF25FF3C5F",
+      "en": "(-Yellowjacket Soldier-)Hmph, the impropriety of it all. Would that I could see <italic(1)>them<italic(0)> occupying a cell next to those thieving pirates...",
+      "hash": "57B1305352A9101E",
       "unresolved": false,
       "fr": "(-Casaque jaune-)Nous allons devoir garder l'œil sur eux, dorénavant. Ça fait bien longtemps que ces résidus de pirates auraient dû disparaître de la cité...",
       "ja": "(-イエロージャケット警備兵-)ふん……まったくもって気に入りませんわ。<br>あんな海賊崩れの集団、消えてしまえばいいのです。",

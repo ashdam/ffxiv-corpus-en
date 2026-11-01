@@ -992,8 +992,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb101_04380#TEXT_AKTKMB101_04380_ALISAIEANDKRILE_000_056",
-      "en": "...Sharlayan's foremost educational institute!",
-      "hash": "996D846B7B1CF69B",
+      "en": "(-Alisaie and Krile-)...Sharlayan's foremost educational institute!",
+      "hash": "19DFB7B0200F332E",
       "unresolved": false,
       "fr": "(-Alisaie et Krile-)La plus haute institution scolaire au monde<nbsp>!",
       "ja": "(-アリゼー＆クルル-)シャーレアンの最高学府たらしめている！",
@@ -1330,8 +1330,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb101_04380#TEXT_AKTKMB101_04380_STUDENTA04380_000_071",
-      "en": "The scholarch!? Tell me, my good fellow, does this have something to do with saving the world from catastrophe?",
-      "hash": "10C7CA6E40086638",
+      "en": "(-Overzealous Student-)The scholarch!? Tell me, my good fellow, does this have something to do with saving the world from catastrophe?",
+      "hash": "C0F4E7B7DC28CDE5",
       "unresolved": false,
       "fr": "(-Étudiant motivé-)Le recteur<nbsp>? Oh, serait-ce à propos de la catastrophe qui nous menace<nbsp>? Il a un rôle à jouer pour sauver le monde<nbsp>?",
       "ja": "(-意気込む魔法大学生-)学長に！？<br>それはやはり、世界の救済に関わる、<br>重大な案件なのでしょうか！？",
@@ -1356,8 +1356,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb101_04380#TEXT_AKTKMB101_04380_STUDENTB04380_000_072",
-      "en": "Might we turn our attention to Master Leveilleur's graduation thesis? I, too, have my doubts regarding our policy of nonintervention...",
-      "hash": "8552575247CC94D3",
+      "en": "(-Solemn Student-)Might we turn our attention to Master Leveilleur's graduation thesis? I, too, have my doubts regarding our policy of nonintervention...",
+      "hash": "BB06803040E1A092",
       "unresolved": false,
       "fr": "(-Étudiante sérieuse-)Monsieur Leveilleur, j'ai lu votre thèse une bonne douzaine de fois, et je ne peux qu'admettre que vous soulevez des points très pertinents quant à la politique extérieure de notre pays...",
       "ja": "(-真剣な魔法大学生-)先輩の論文、何度も読み直してます。<br>我が国の姿勢には、自分も疑問を感じていて……。",
@@ -1382,8 +1382,8 @@
     },
     {
       "gameKey": "quest/043/AktKmb101_04380#TEXT_AKTKMB101_04380_STUDENTC04380_000_073",
-      "en": "Is it true that your experiences overseas are the reason you have incurred the ire of the Forum? Oh, what I wouldn't give to see you butt heads with those old codgers!",
-      "hash": "990A8533B0EE2427",
+      "en": "(-Bright-eyed Student-)Is it true that your experiences overseas are the reason you have incurred the ire of the Forum? Oh, what I wouldn't give to see you butt heads with those old codgers!",
+      "hash": "00319EF28C27CB6D",
       "unresolved": false,
       "fr": "(-Étudiant aux yeux pétillants-)Les rumeurs racontent que vos aventures à l'étranger vous ont valu l'ire du Conseil<nbsp>! Comme j'aurais aimé voir le champion de l'académie débattre avec ces vieux croûtons<nbsp>!",
       "ja": "(-目を輝かせる魔法大学生-)聞いたところによると、先輩は国外で見識を広げたのち、<br>先日ついに議員たちと舌戦を交わしたとか！<br>くううっ、さすが魔法大学最強の討論王ですッ！",

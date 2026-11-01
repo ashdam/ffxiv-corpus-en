@@ -634,8 +634,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc108_04406#TEXT_AKTKMC108_04406_LIVINGWAY_000_046",
-      "en": "<split(<string(gstr1)>, ,1)>! Urianger! Oh, thank goodness. I thought you had been eaten, or had perhaps fallen into a crater.",
-      "hash": "21E8F9CB474D117C",
+      "en": "(-???-)<split(<string(gstr1)>, ,1)>! Urianger! Oh, thank goodness. I thought you had been eaten, or had perhaps fallen into a crater.",
+      "hash": "4C85F3F2DD85BB32",
       "unresolved": false,
       "fr": "(-???-)Ah, vous voilà<nbsp>!",
       "ja": "(-？？？？-)おふたりとも！<br>こんな場所にいらっしゃったのですね！",

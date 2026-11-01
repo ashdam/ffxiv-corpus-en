@@ -1870,8 +1870,8 @@
     },
     {
       "gameKey": "quest/039/FesAnv602_03974#TEXT_FESANV602_03974_YOSHIDANAOKI_100_072",
-      "en": "Welcome, Warrior of Light. Or should I call you Warrior of Darkness? You needn't be alarmed by these strange surroundings.",
-      "hash": "8769D84E0E67E6BF",
+      "en": "(-???-)Welcome, Warrior of Light. Or should I call you Warrior of Darkness? You needn't be alarmed by these strange surroundings.",
+      "hash": "6201C618F5CB74AC",
       "unresolved": false,
       "fr": "(-???-)Bienvenue, <if(gnum4,Guerrière,Guerrier)> de la Lumière. Ou devrais-je plutôt dire <if(gnum4,Guerrière,Guerrier)> des Ténèbres<nbsp>? Excusez-moi de cette apparition soudaine.",
       "ja": "(-？？？？-)ようこそ、光の戦士……いや、闇の戦士と呼ぶべきかな？<br>ともかく、驚かせてしまってすまない。",
@@ -1896,8 +1896,8 @@
     },
     {
       "gameKey": "quest/039/FesAnv602_03974#TEXT_FESANV602_03974_YOSHIDANAOKI_000_072",
-      "en": "Greetings, Warrior of Light. You needn't be alarmed.",
-      "hash": "7B58BE91F7318724",
+      "en": "(-???-)Greetings, Warrior of Light. You needn't be alarmed.",
+      "hash": "01BCCEBDD081FC6E",
       "unresolved": false,
       "fr": "(-???-)Bienvenue, <if(gnum4,Guerrière,Guerrier)> de la Lumière. J'espère que vous n'êtes pas trop déstabilisé<if(gnum4,e,)>.",
       "ja": "(-？？？？-)ようこそ、光の戦士。<br>少々、驚かせてしまったかな？",
@@ -1922,8 +1922,8 @@
     },
     {
       "gameKey": "quest/039/FesAnv602_03974#TEXT_FESANV602_03974_YOSHIDANAOKI_000_073",
-      "en": "This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
-      "hash": "E9FAAA14F165937E",
+      "en": "(-???-)This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
+      "hash": "892A1865FCAF0639",
       "unresolved": false,
       "fr": "(-???-)Ce monde est différent du vôtre. Tout ce que vous y voyez n'est peut-être qu'un rêve ou une illusion... ou peut-être pas.",
       "ja": "(-？？？？-)ここは、現し世とは異なる世界……。<br>目にしているものはすべて、君の夢や幻かもしれないし、<br>そうじゃないかもしれない……。",

@@ -960,8 +960,8 @@
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_40",
-      "en": "An adventurer!? What're you doing out here? No, wait─let's find some cover first...",
-      "hash": "E31A5598E8AF40A0",
+      "en": "(-Airship Crewman-)An adventurer!? What're you doing out here? No, wait─let's find some cover first...",
+      "hash": "240C67D218ABB697",
       "unresolved": false,
       "fr": "(-Membre d'équipage-)Tu m'as fait peur. T'es <if(gnum4,une aventurière,un aventurier)>, c'est ça<nbsp>? On ferait mieux de s'éloigner un chouïa, c'est trop dangereux de parler ici. Suis-moi...",
       "ja": "(-飛空艇の乗組員-)その姿……冒険者なのか……！？<br>……ここじゃまずい。<br>ちょっと、こっちへ来てくれ。",
@@ -986,8 +986,8 @@
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_41",
-      "en": "Maelstrom Command sent you? How do I know you're not an imperial spy? You don't even have a uniform!",
-      "hash": "B6EAF66EF7871A56",
+      "en": "(-Airship Crewman-)Maelstrom Command sent you? How do I know you're not an imperial spy? You don't even have a uniform!",
+      "hash": "3C1789C17B142D9D",
       "unresolved": false,
       "fr": "(-Membre d'équipage-)Le Maelstrom t'a envoyé<if(gnum4,e,)> en recon<->nais<->san<->ce, tu dis<nbsp>? Tu me prends pour un con, ou quoi<nbsp>!? Regarde-toi, tu ne portes même pas d'uniforme<nbsp>! Qui es-tu<nbsp>? Et que me veux-tu<nbsp>!?",
       "ja": "(-飛空艇の乗組員-)黒渦団から状況確認に来たんだって？<br>でも、お前は軍服を着ていないぞ……。<br>……まさか、騙してるんじゃないだろうなッ！？",
@@ -1168,8 +1168,8 @@
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_48",
-      "en": "Wedge! You have to help him! That fool of a Lalafell was hiding <italic(1)>inside<italic(0)> the <italic(1)>Tiny Bronco<italic(0)>!",
-      "hash": "198D089B249CD57B",
+      "en": "(-Airship Crewman-)Wedge! You have to help him! That fool of a Lalafell was hiding <italic(1)>inside<italic(0)> the <italic(1)>Tiny Bronco<italic(0)>!",
+      "hash": "42A90D508C369853",
       "unresolved": false,
       "fr": "(-Membre d'équipage-)Vous devez sauver mon ami Wedge<nbsp>! Il n'a pas eu le temps de s'enfuir et se cache à bord du Tiny Bronco<nbsp>!",
       "ja": "(-飛空艇の乗組員-)相方を……ウェッジを助けてくれッ！<br>逃げ遅れて、まだ「タイニーブロンコ」の中に<br>隠れているんだ！",
@@ -1220,8 +1220,8 @@
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_50",
-      "en": "It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing.",
-      "hash": "081B95E6BEDCDA18",
+      "en": "(-Airship Crewman-)It's the first airship we've built since the Calamity─the first since Master Garlond...well, since he went missing.",
+      "hash": "FDF3BD9039D1DDD7",
       "unresolved": false,
       "fr": "(-Membre d'équipage-)C'est le premier aéronef à être fabriqué en Éorzéa depuis que Cid, le directeur des Forges de Garlond, a disparu.",
       "ja": "(-飛空艇の乗組員-)親方が……うちのシド会長が、<br>第七霊災で行方不明になってから、<br>エオルゼアで初めて製造された飛空艇だ。",

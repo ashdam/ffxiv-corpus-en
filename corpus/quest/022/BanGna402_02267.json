@@ -194,8 +194,8 @@
     },
     {
       "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005",
-      "en": "Vile fleshling! \\<click> \\<click> How dare you steal our dew!",
-      "hash": "8FBCB11B64A94FB3",
+      "en": "(-Outloth Steeldrone-)Vile fleshling! \\<click> \\<click> How dare you steal our dew!",
+      "hash": "C07D109665483C3C",
       "unresolved": false,
       "fr": "(-Soldat gnathe-)KSSS<nbsp>! Tu as voulu nous voler. Tu vas le payer de ta vie, sale humain<if(gnum4,e,)><nbsp>! ",
       "ja": "(-グナース族の雑兵-)シシシシシ……忌まわしきヒトめ！<br>グナースの地から、恵みを奪い取りにきたのか！",
@@ -219,8 +219,8 @@
     },
     {
       "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006",
-      "en": "\\<click> \\<click> Leave now, fleshling, or die where you stand!",
-      "hash": "60F1E8BF11A15DDC",
+      "en": "(-Outloth Steeldrone-)\\<click> \\<click> Leave now, fleshling, or die where you stand!",
+      "hash": "7C9B2088622A3EA6",
       "unresolved": false,
       "fr": "(-Soldat gnathe-)Sale humain<if(gnum4,e,)><nbsp>! Tu vas quitter le territoire des Gnathes, de gré ou de force<nbsp>! Résister ne servira à rien, KSSS KSSS<nbsp>!",
       "ja": "(-グナース族の雑兵-)シシシシシ……ここから立ち去れ！<br>さもなくば排除するのみ、抵抗は無意味だ！",

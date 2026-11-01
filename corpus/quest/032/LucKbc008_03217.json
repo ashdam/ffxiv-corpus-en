@@ -1386,8 +1386,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc008_03217#TEXT_LUCKBC008_03217_FORDOLA_000_125",
-      "en": "I'm not sure if you're the realm's greatest champion...or the realm's greatest liar.",
-      "hash": "1941FB3859DAC63F",
+      "en": "(-Fordola-)I'm not sure if you're the realm's greatest champion...or the realm's greatest liar.",
+      "hash": "930764E20CC3AA23",
       "unresolved": false,
       "fr": "Tu es soit un<if(gnum4,e,)> véritable héro<if(gnum4,ïne,s)>, soit <if(gnum4,la plus grande vantarde,le plus grand vantard)> que je connaisse.",
       "ja": "やれやれ、コイツは本物の英雄か、大ホラ吹きのどっちかだな。",

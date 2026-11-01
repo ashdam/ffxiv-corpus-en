@@ -182,8 +182,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb106_03307#TEXT_LUCKMB106_03307_PIXIEA03307_000_020",
-      "en": "Helping us grow flowers, are you? They'll make this house look so much lovelier!",
-      "hash": "C59C60A3843E1B46",
+      "en": "(-Curious Pixie-)Helping us grow flowers, are you? They'll make this house look so much lovelier!",
+      "hash": "80E4E5F636549DE9",
       "unresolved": false,
       "fr": "(-Pixie curieuse-)C'est des fleurs que tu viens de semer<nbsp>!? Génial<nbsp>! Ma maison sera encore plus jolie qu'avant<nbsp>!",
       "ja": "(-興味津々のピクシー族-)あらあらっ？<br>お花の種を撒いてくれたのね！<br>素敵、この建物ももっとキレイになるでしょうね！",
@@ -208,8 +208,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb106_03307#TEXT_LUCKMB106_03307_PIXIEA03307_000_021",
-      "en": "There used to be a city of mortals here. A great big, bustling place called Voeburt or Boevurt or some such. But the sin eaters came and everyone disappeared.",
-      "hash": "0A27D0B7323DF491",
+      "en": "(-Curious Pixie-)There used to be a city of mortals here. A great big, bustling place called Voeburt or Boevurt or some such. But the sin eaters came and everyone disappeared.",
+      "hash": "D33F9D46D3307C39",
       "unresolved": false,
       "fr": "(-Pixie curieuse-)C'était des humains qui habitaient ici, avant. Ils appelaient leur pays le royaume de Voeburt, et leur village était super grand<nbsp>! Par contre, dès que les purgateurs sont arrivés, ils sont tous partis on sait pas où.",
       "ja": "(-興味津々のピクシー族-)ここにはもともと、フッブート王国っていう名前の、<br>大きなヒトの街があったのよ。<br>だけど、罪喰いに襲われて、みーんなどこかにいっちゃった！",
@@ -234,8 +234,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb106_03307#TEXT_LUCKMB106_03307_PIXIEA03307_000_022",
-      "en": "Since then, we pixies have been living here, and we've given the old houses our touch. Lovely, don't you think?",
-      "hash": "8134F5B8E8BFA21C",
+      "en": "(-Curious Pixie-)Since then, we pixies have been living here, and we've given the old houses our touch. Lovely, don't you think?",
+      "hash": "995966CD7A1F4F48",
       "unresolved": false,
       "fr": "(-Pixie curieuse-)Mais qui va à la chasse perd sa place<nbsp>! Maintenant, c'est à nous, et on veut que nos maisons soient les plus belles possibles, alors sème, sème à tout vent<nbsp>!",
       "ja": "(-興味津々のピクシー族-)だから私たちが住むことにしたの。<br>こうして、建物をキレイにかざりつけて……ね！",
@@ -260,8 +260,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb106_03307#TEXT_LUCKMB106_03307_PIXIEB03307_000_023",
-      "en": "Ooh, I can't wait for the flowers to bloom! Perhaps I'll make pretty curtains out of them!",
-      "hash": "EE1016436A381BA4",
+      "en": "(-Jovial Pixie-)Ooh, I can't wait for the flowers to bloom! Perhaps I'll make pretty curtains out of them!",
+      "hash": "48C9C94E8817BB90",
       "unresolved": false,
       "fr": "(-Pixie en joie-)Youpi<nbsp>! Je me demande ce que c'était comme graines. Si elles font pousser de grandes feuilles, je pourrai m'en faire des rideaux... Oh comment j'ai hâte<nbsp>!",
       "ja": "(-陽気なピクシー族-)わぁい、どんな花が芽吹くかなー。<br>大きな葉をもつなら、カーテンにもできるよね。<br>楽しみだなー！",

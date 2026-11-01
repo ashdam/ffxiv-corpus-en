@@ -1964,8 +1964,8 @@
     },
     {
       "gameKey": "quest/041/AktKba441_04124#TEXT_AKTKBA441_04124_GOSETSU_000_103",
-      "en": "Hah! <if(gnum4,She,He)> cuts to the heart of the matter─and the young lord. For the best, I should think, for he cannot lead by example if he has not yet made peace with his own past.",
-      "hash": "2EC922CEB583A1CD",
+      "en": "(-???-)Hah! <if(gnum4,She,He)> cuts to the heart of the matter─and the young lord. For the best, I should think, for he cannot lead by example if he has not yet made peace with his own past.",
+      "hash": "E15F3328F19CAF13",
       "unresolved": false,
       "fr": "(-???-)Ha ha ha<nbsp>! Vous avez frappé là où ça fait mal, <split(<string(gstr1)>, ,1)><nbsp>! <if(gnum4,Elle,Il)> a raison, Seigneur Hien, vous devriez commencer par affronter votre propre passé.",
       "ja": "(-？？？？-)ガッハッハ、痛いところをつかれましたな。<br>まず向き合うべきは、ご自分の過去でござろう？",

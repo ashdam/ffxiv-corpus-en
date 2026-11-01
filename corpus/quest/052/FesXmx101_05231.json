@@ -922,8 +922,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx101_05231#TEXT_FESXMX101_05231_JOULTAIN_000_039",
-      "en": "Hello! Could we get some mulled punch, please?",
-      "hash": "368623C9733F91BC",
+      "en": "(-Lively Youth-)Hello! Could we get some mulled punch, please?",
+      "hash": "8930A89ADF105A71",
       "unresolved": false,
       "fr": "(-Voix enjouée de garçon-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)><nbsp>! On voudrait du kinderpunsch<nbsp>!",
       "ja": "(-快活な少年-)こんにちは～！<br>キンダープンシュくださいな！",
@@ -947,8 +947,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx101_05231#TEXT_FESXMX101_05231_JOULTAIN_000_040",
-      "en": "Whoa, new mug designs!",
-      "hash": "99AD7E093C31C85F",
+      "en": "(-Lively Youth-)Whoa, new mug designs!",
+      "hash": "F2E0F3321899F6F2",
       "unresolved": false,
       "fr": "(-Garçon guilleret-)Hééé, y a des nouvelles tasses<nbsp>!? Trop bien<nbsp>!",
       "ja": "(-快活な少年-)……って、うわ～すごい！<br>新しいマグカップだ！",
@@ -972,8 +972,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx101_05231#TEXT_FESXMX101_05231_JOULTAIN_000_041",
-      "en": "Are the pictures of other cities? I wonder what they're like!",
-      "hash": "D288C5E3BE96264F",
+      "en": "(-Lively Youth-)Are the pictures of other cities? I wonder what they're like!",
+      "hash": "969E7B601C3E10CE",
       "unresolved": false,
       "fr": "(-Garçon guilleret-)Vous avez dessiné des paysages dessus<nbsp>? Je reconnais pas ces endroits, c'est où<nbsp>?",
       "ja": "(-快活な少年-)わぁ、この絵ってよその街！？<br>どんなところなの！？",

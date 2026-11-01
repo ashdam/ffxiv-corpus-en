@@ -1207,8 +1207,8 @@
     },
     {
       "gameKey": "quest/013/BanSah004_01377#TEXT_BANSAH004_01377_ZUUG_000_100",
-      "en": "Pshhh... You come alone into our lair, Novv? Your mind is as wilted as your finsss, old one.",
-      "hash": "506F713B81B3B395",
+      "en": "(-Coral Trident Chief-)Pshhh... You come alone into our lair, Novv? Your mind is as wilted as your finsss, old one.",
+      "hash": "1EABECBAAB4B5502",
       "unresolved": false,
       "fr": "(-Chef des Tridents du corail-)Fsshhh, tu viens ssseul, Novv<nbsp>? La sssénilité a fini par te frapper<nbsp>?",
       "ja": "(-珊瑚の銛の頭目-)フスィーッ……来たかノォヴ。<br>敵地にひとり、ノコノコとやってくるとは、<br>オマエも焼きが回ったか、ヒレ萎えの老いぼれめ。",
@@ -1632,8 +1632,8 @@
     },
     {
       "gameKey": "quest/013/BanSah004_01377#TEXT_BANSAH004_01377_SAHUAGIN01377_000_117",
-      "en": "Pshhh!",
-      "hash": "3FDCDA42B2DAE90D",
+      "en": "(-Coral Trident Warrior-)Pshhh!",
+      "hash": "612C6038759A5EC5",
       "unresolved": false,
       "fr": "(-Guerrier des Tridents du corail-)Fsshhh<nbsp>!",
       "ja": "(-珊瑚の銛の兵士-)フスィーッ！",
@@ -1682,8 +1682,8 @@
     },
     {
       "gameKey": "quest/013/BanSah004_01377#TEXT_BANSAH004_01377_SAHUAGIN01377_000_119",
-      "en": "Pshhh... Y-You shhhaid he was weak now... Feeble...",
-      "hash": "59247B4955D51C35",
+      "en": "(-Coral Trident Warrior-)Pshhh... Y-You shhhaid he was weak now... Feeble...",
+      "hash": "AEE5714C85EE53AF",
       "unresolved": false,
       "fr": "(-Guerrier des Tridents du corail-)Fsshhh... T-tu disais qu'il était faible maintenant... Décrépit...",
       "ja": "(-珊瑚の銛の兵士-)フ、フスィーッ……！？<br>こ、これが……真の「紅珊瑚の海魔」の気迫……！！",

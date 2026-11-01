@@ -498,8 +498,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_DIVERMATE_000_012",
-      "en": "Hurry, stoke the fires! Koruri's body is shutting down! We need to warm her and remove the water from her lungs!",
-      "hash": "E444561F5C6E3DB7",
+      "en": "(-Panicked Voice-)Hurry, stoke the fires! Koruri's body is shutting down! We need to warm her and remove the water from her lungs!",
+      "hash": "C89382FDA3D22A5C",
       "unresolved": false,
       "fr": "(-Cri distant-)C'est Koruri... Elle a failli se noyer<nbsp>! Allumez vite un grand feu<nbsp>! Vite<nbsp>!!",
       "ja": "(-漁師の叫び声-)コルリが溺れたぞ！！<br>小屋の囲炉裏の火を起こせ！！",
@@ -1506,8 +1506,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz326_02722#TEXT_STMBDZ326_02722_FISHER02719_000_065",
-      "en": "Yes!!!",
-      "hash": "A63C5062AD4C4F04",
+      "en": "(-Isari Villagers-)Yes!!!",
+      "hash": "DF07C37A8E926B56",
       "unresolved": false,
       "fr": "(-Les villageois en chœur-)Oui<nbsp>!",
       "ja": "(-村人たち-)応ッ！！",

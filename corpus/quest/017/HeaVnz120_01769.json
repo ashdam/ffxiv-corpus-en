@@ -1338,8 +1338,8 @@
     },
     {
       "gameKey": "quest/017/HeaVnz120_01769#TEXT_HEAVNZ120_01769_SAINTRELMAUX_000_096",
-      "en": "Saintrelmaux, why do you think I am still here, serving you?",
-      "hash": "F57C43CCCA664762",
+      "en": "(-Saintrelmaux's Retainer-)Saintrelmaux, why do you think I am still here, serving you?",
+      "hash": "18C59273A8E4EAB7",
       "unresolved": false,
       "fr": "(-Second de Saintrelmaux-)Messire, pourquoi croyez-vous que je continue à vous servir, alors que vous avez tout perdu<nbsp>?",
       "ja": "(-サントレルモの部下-)……なぜ私が、すべてを失った貴方に、<br>今も従っていると思っておられるのですか。",
@@ -1364,8 +1364,8 @@
     },
     {
       "gameKey": "quest/017/HeaVnz120_01769#TEXT_HEAVNZ120_01769_SAINTRELMAUX_000_097",
-      "en": "Your house may well have been disgraced, but I serve you─not your house. I fully intend to remain your loyal servant to the end.",
-      "hash": "192D0CFC53A0E2DF",
+      "en": "(-Saintrelmaux's Retainer-)Your house may well have been disgraced, but I serve you─not your house. I fully intend to remain your loyal servant to the end.",
+      "hash": "9C533018D2CA0290",
       "unresolved": false,
       "fr": "(-Second de Saintrelmaux-)Votre famille est peut-être tombée en disgrâce, mais c'est vous que je suis, pas votre famille. Je compte bien vous être loyal jusqu'à ma mort.",
       "ja": "(-サントレルモの部下-)確かに貴方は、爵位を失いました。<br>しかし、私が仕えているのは、「家」ではなく「貴方」です。<br>最後まで貴方のお供をさせてください。",

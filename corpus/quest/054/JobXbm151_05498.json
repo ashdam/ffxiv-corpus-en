@@ -802,8 +802,8 @@
     },
     {
       "gameKey": "quest/054/JobXbm151_05498#TEXT_JOBXBM151_05498_LAUDA_000_054",
-      "en": "'Tis little wonder. It watched its former master die.",
-      "hash": "0F50FF28E60953DD",
+      "en": "(-Lauda-)'Tis little wonder. It watched its former master die.",
+      "hash": "FB7ADE4D882B60C6",
       "unresolved": false,
       "fr": "(-Voix de Lauda-)À sa place, j'en ferais de même... Après tout, il a assisté à la tragédie sans pouvoir intervenir.",
       "ja": "(-ラウダの声-)……無理もありません。<br>その子は一部始終を見ていたのですから。",

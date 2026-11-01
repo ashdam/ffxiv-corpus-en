@@ -1384,8 +1384,8 @@
     },
     {
       "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_NERO_000_060",
-      "en": "You're looking a bit shaky there, old friend.",
-      "hash": "2CC8A55F9749850A",
+      "en": "(-???-)You're looking a bit shaky there, old friend.",
+      "hash": "8EEA8BC808D3A3AA",
       "unresolved": false,
       "fr": "(-???-)Tu te crois franchement en état de travailler<nbsp>!?",
       "ja": "(-？？？？-)おいおい、そンなザマで仕上げができるのか？",
@@ -3256,8 +3256,8 @@
     },
     {
       "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_OMEGA_000_233",
-      "en": "Alpha...<br>...an abject failure.",
-      "hash": "16B0ED56747A6ACB",
+      "en": "(-Memory of Omega-)Alpha...<br>...an abject failure.",
+      "hash": "8FC9D4389F7338D3",
       "unresolved": false,
       "fr": "(-Oméga-)Alpha est inutile, il ne répond pas aux attentes que j'ai placées en lui...",
       "ja": "(-思い出のオメガ-)役立たずのアルファは、仲間と呼べません……",
@@ -3282,8 +3282,8 @@
     },
     {
       "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_OMEGA_000_234",
-      "en": "I erased his memory, implanted a compulsion to return to me...",
-      "hash": "7D001BD0EC73368C",
+      "en": "(-Memory of Omega-)I erased his memory, implanted a compulsion to return to me...",
+      "hash": "0272888D3DEA45FA",
       "unresolved": false,
       "fr": "(-Oméga-)Je dois réinitialiser sa mémoire et lui inculquer l'instinct de toujours revenir à moi...",
       "ja": "(-思い出のオメガ-)アルファには記憶の除去をほどこし……<br>ワタシへの帰巣本能を植えつけて…………",
@@ -3386,8 +3386,8 @@
     },
     {
       "gameKey": "quest/031/StmBdr303_03156#TEXT_STMBDR303_03156_CID_000_238",
-      "en": "All you need is faith in yourself...and a little courage to see it through...",
-      "hash": "0E62947AFE58C9E6",
+      "en": "(-Memory of Cid-)All you need is faith in yourself...and a little courage to see it through...",
+      "hash": "5891828BB6A1CB66",
       "unresolved": false,
       "fr": "(-Cid-)Si jamais tu te retrouves en mauvaise posture, livré à toi-même, tu devras avoir confiance en toi et trouver le courage nécessaire pour t'en sortir...",
       "ja": "(-思い出のシド-)大事なのは、知恵と……<br>自分を信じてやり抜く、少しの勇気だ…………",

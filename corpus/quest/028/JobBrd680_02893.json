@@ -988,8 +988,8 @@
     },
     {
       "gameKey": "quest/028/JobBrd680_02893#TEXT_JOBBRD680_02893_SANSON_000_053",
-      "en": "The journal is yours to do with as you wish. But ere you take it away, I would speak with <split(<string(gstr1)>, ,1)>, and <split(<string(gstr1)>, ,1)> alone, one last time. I await you in Dimwold, by the Percipient One.",
-      "hash": "CC09E277C5FA8B94",
+      "en": "(-Nourval's Letter-)The journal is yours to do with as you wish. But ere you take it away, I would speak with <split(<string(gstr1)>, ,1)>, and <split(<string(gstr1)>, ,1)> alone, one last time. I await you in Dimwold, by the Percipient One.",
+      "hash": "4864AC26DC700FD8",
       "unresolved": false,
       "fr": "(-Lettre de Nourval-)“Je vous ai fait la fleur de vous remettre le journal de Gylbarde. Libre à vous d'en faire ce que vous voulez, mais j'aimerais que vous ayez la décence de me laisser m'entretenir en tête à tête avec <split(<string(gstr1)>, ,1)> en retour. J'attendrai à proximité de l'Arbre sagace.”",
       "ja": "(-ヌールヴァルからの手紙-)「書物をどう扱うか、双蛇党の判断に任せます。<br>\u3000ただ最後に<split(<string(gstr1)>, ,1)>と、一対一で話したい。<br>\u3000賢者の木の近くで待っています……」",

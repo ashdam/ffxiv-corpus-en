@@ -588,8 +588,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_HAUTDLONG_000_030",
-      "en": "So that dragon wishes to learn about Ishgard...",
-      "hash": "4FA85039C13DA3DA",
+      "en": "(-???-)So that dragon wishes to learn about Ishgard...",
+      "hash": "497862CBEFD6A677",
       "unresolved": false,
       "fr": "(-???-)Cette dragonne semble s'intéresser à la sainte Cité de très près...",
       "ja": "(-？？？？-)……あのドラゴン、<br>やっぱりイシュガルドのことを調べてるんだ……。",
@@ -744,8 +744,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_HAUTDLONG_000_045",
-      "en": "\\<gasp>",
-      "hash": "5C9A52CD193A3CEC",
+      "en": "(-???-)\\<gasp>",
+      "hash": "50AE68DF7353A665",
       "unresolved": false,
       "fr": "(-???-)Mince, j'ai l'impression qu'<if(gnum4,elles,ils)> m'ont vu...",
       "ja": "(-？？？？-)も、もしかして、気づかれた……！？",
@@ -848,8 +848,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_HAUTDLONG_000_053",
-      "en": "I-I would be glad to assist, if it please you!",
-      "hash": "C8964385BE1A65F9",
+      "en": "(-???-)I-I would be glad to assist, if it please you!",
+      "hash": "7719ADBED1DCBD83",
       "unresolved": false,
       "fr": "(-???-)Si... Si vous voulez bien, je peux vous aider...",
       "ja": "(-？？？？-)そ、それ、僕にも手伝わせて……！",
@@ -900,8 +900,8 @@
     },
     {
       "gameKey": "quest/038/LucKhz001_03837#TEXT_LUCKHZ001_03837_HAUTDLONG_000_055",
-      "en": "Oh, no! No! I-I wouldn't imagine doing you ill!",
-      "hash": "BEE332283285AD1D",
+      "en": "(-???-)Oh, no! No! I-I wouldn't imagine doing you ill!",
+      "hash": "88C6B57CB00D84CF",
       "unresolved": false,
       "fr": "(-???-)A-attendez, vous faites erreur<nbsp>!",
       "ja": "(-？？？？-)違います、ごめんなさい……！",

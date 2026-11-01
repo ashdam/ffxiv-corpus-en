@@ -402,8 +402,8 @@
     },
     {
       "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HUNMURRUK_000_022",
-      "en": "The Third Promise and her retinue, I presume.",
-      "hash": "8AE7A2F91BA0C30D",
+      "en": "(-Gentle Villager-)The Third Promise and her retinue, I presume.",
+      "hash": "FFCBFE6C66E48AF1",
       "unresolved": false,
       "fr": "(-Xbr'aal serein-)Wuk Lamat et ses alliés, je présume\u00A0?",
       "ja": "(-穏やかなシュバラール族の男性-)ウクラマト王女御一行だね。",
@@ -454,8 +454,8 @@
     },
     {
       "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HUNMURRUK_000_024",
-      "en": "Then come and join us in the Garden of the Stars, at the village center. Everyone is waiting for you.",
-      "hash": "5CFC82D17A58BC15",
+      "en": "(-Gentle Villager-)Then come and join us in the Garden of the Stars, at the village center. Everyone is waiting for you.",
+      "hash": "4023BFDCEDCEB42C",
       "unresolved": false,
       "fr": "(-Xbr'aal serein-)Alors vous devriez vous rendre au plus vite au jardin du Firmament. C'est au fond. Tout le monde s'impatiente de votre venue.",
       "ja": "(-穏やかなシュバラール族の男性-)ならば、村の奥にある「星覚えの園庭」までお越しいただこう。<br>皆、君の到着を待ちわびているのでね。",

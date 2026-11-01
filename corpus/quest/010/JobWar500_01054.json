@@ -484,8 +484,8 @@
     },
     {
       "gameKey": "quest/010/JobWar500_01054#TEXT_JOBWAR500_01054_VILLAGERA_000_020",
-      "en": "It's the m-monster!",
-      "hash": "941FB7F07033E7FF",
+      "en": "(-Panicked Villager-)It's the m-monster!",
+      "hash": "F14680A04E9B1C9E",
       "unresolved": false,
       "fr": "(-Habitante effrayée-)Au secours<nbsp>!",
       "ja": "(-怯える住民-)か、怪物だぁッ！",
@@ -510,8 +510,8 @@
     },
     {
       "gameKey": "quest/010/JobWar500_01054#TEXT_JOBWAR500_01054_VILLAGERB_000_021",
-      "en": "It's the beast! Run for your lives!",
-      "hash": "29DDD11A0674314D",
+      "en": "(-Fleeing Villager-)It's the beast! Run for your lives!",
+      "hash": "D18C830610A06264",
       "unresolved": false,
       "fr": "(-Homme paniqué-)Le démon est revenu<nbsp>!! À... À l'aide<nbsp>!",
       "ja": "(-逃げ惑う住民-)また「毛もじゃの怪物」が出たぁ！！<br>た、助けてくれぇッ！",

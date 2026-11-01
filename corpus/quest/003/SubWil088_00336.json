@@ -772,8 +772,8 @@
     },
     {
       "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_ENEMY_031",
-      "en": "You there, adventurer! Do you remember me? Well, I remember you!",
-      "hash": "245A72B37D312827",
+      "en": "(-Ser Baron von Quiveron IV Esquire-)You there, adventurer! Do you remember me? Well, I remember you!",
+      "hash": "F1ADED6A0A91204F",
       "unresolved": false,
       "fr": "Hé, toi, l'aventuri<if(gnum4,ère,er)>, là<nbsp>! Tu t'rappelles de moi<nbsp>? Parce que moi, j't'ai pas oublié<if(gnum4,e,)><nbsp>!",
       "ja": "おい！\u3000そっちで話を聞いてる冒険者！<br>俺の顔に覚えはねェか？",
@@ -798,8 +798,8 @@
     },
     {
       "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_ENEMY_032",
-      "en": "I am Ser Baron von Quiveron IV Esquire! You killed my brother, and now I'm going to return the favor!",
-      "hash": "B2B7F37BA056F0BD",
+      "en": "(-Ser Baron von Quiveron IV Esquire-)I am Ser Baron von Quiveron IV Esquire! You killed my brother, and now I'm going to return the favor!",
+      "hash": "054F4CD3CB32E4A8",
       "unresolved": false,
       "fr": "J'suis le baron Quiveron IV<nbsp>! Tu as tué mon père, j'suis donc venu te rendre la monnaie de ton gil<nbsp>!",
       "ja": "俺は「サー・キヴロン男爵IV世」！<br>てめェ、よくも俺のオヤジをヤってくれたな!?<br>忘れたとは言わさねェぞ！",

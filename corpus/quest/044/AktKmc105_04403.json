@@ -2024,8 +2024,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_SCIONS_000_171",
-      "en": "......",
-      "hash": "CEA113872E54EAFF",
+      "en": "(-Scions-)......",
+      "hash": "CEB0B33F4725354B",
       "unresolved": false,
       "fr": "(-Tous-).........",
       "ja": "(-一同-)………………。",
@@ -2674,8 +2674,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_GROWINGWAY_000_196",
-      "en": "Hmmm......",
-      "hash": "3FD2C87FC65388DF",
+      "en": "(-Fidgeting Loporrit-)Hmmm......",
+      "hash": "31E341AC17B11D96",
       "unresolved": false,
       "fr": "(-Loporrite en sueur-)Hmmm...",
       "ja": "(-じとじとレポリット-)じーーーーっ……。",
@@ -2856,8 +2856,8 @@
     },
     {
       "gameKey": "quest/044/AktKmc105_04403#TEXT_AKTKMC105_04403_GROWINGWAY_000_206",
-      "en": "I'll be waiting for you by the teleporter near the entrance. Oh, and the name's Growingway, by the way. See you soon!",
-      "hash": "F1F00BB9D9B62FA4",
+      "en": "(-Growingway-)I'll be waiting for you by the teleporter near the entrance. Oh, and the name's Growingway, by the way. See you soon!",
+      "hash": "36796FE7015CE893",
       "unresolved": false,
       "fr": "Venez me trouver dans le hall d'entrée, on utilisera le téléporteur ensemble. Au fait<nbsp>! Moi, c'est Growingway. À tout de suite<nbsp>!",
       "ja": "申し遅れましたが、私はグローウィングウェイ。<br>エントランスホールに、居住区への転移装置がありますので、<br>そこでお待ちしておりますーーー！！",

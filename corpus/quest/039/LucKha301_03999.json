@@ -536,8 +536,8 @@
     },
     {
       "gameKey": "quest/039/LucKha301_03999#TEXT_LUCKHA301_03999_ARTIST03999_000_025",
-      "en": "Beg pardon, <if(gnum4,milord...milady,milords)>. If I might trouble you for a moment...",
-      "hash": "E10751668EEDD718",
+      "en": "(-???-)Beg pardon, <if(gnum4,milord...milady,milords)>. If I might trouble you for a moment...",
+      "hash": "53DD279E70A2DA90",
       "unresolved": false,
       "fr": "(-???-)Excusez-moi, pourrais-je vous importuner un instant<nbsp>?",
       "ja": "(-？？？？-)あのう、もし…………。",
@@ -1030,8 +1030,8 @@
     },
     {
       "gameKey": "quest/039/LucKha301_03999#TEXT_LUCKHA301_03999_DISCIPLED03999_000_052",
-      "en": "Chief! Miss! Don't leave us here alone! I beg of you!",
-      "hash": "B403D2C9406E9F44",
+      "en": "(-???-)Chief! Miss! Don't leave us here alone! I beg of you!",
+      "hash": "126C86CB9A0C9AD0",
       "unresolved": false,
       "fr": "(-???-)CHEEEEFS<nbsp>!!! On vous en suppliiiie, partez paaaahaahaahaaaas<nbsp>!!!",
       "ja": "(-？？？？-)棟梁おおおおおおおお！！！！<br>お願いします、どうか行かないでええええええ！！！！",
@@ -1386,8 +1386,8 @@
     },
     {
       "gameKey": "quest/039/LucKha301_03999#TEXT_LUCKHA301_03999_DISCIPLED03999_000_062",
-      "en": "Aye aye, Chief!",
-      "hash": "1DE4F64076670A5F",
+      "en": "(-Apprentices-)Aye aye, Chief!",
+      "hash": "F90269B329BC6EA6",
       "unresolved": false,
       "fr": "(-Les apprentis-)OUI, CHEEEEEEFS<nbsp>!!!",
       "ja": "(-弟子たち-)棟梁ーーーー！",
@@ -1516,8 +1516,8 @@
     },
     {
       "gameKey": "quest/039/LucKha301_03999#TEXT_LUCKHA301_03999_CONON_000_072",
-      "en": "If it isn't the savior of Ishgard─and Lord Francel, as well! Foncrineau said I might find the two of you here, and thank the heavens that I have!",
-      "hash": "AF12E6BB57277E5C",
+      "en": "(-Familiar Face-)If it isn't the savior of Ishgard─and Lord Francel, as well! Foncrineau said I might find the two of you here, and thank the heavens that I have!",
+      "hash": "CDB4B59E7FB9B1E6",
       "unresolved": false,
       "fr": "(-Habitant d'Azurée au visage familier-)Sire Francel<nbsp>! Foncrineau m'a dit que je pourrais vous trouver ici.",
       "ja": "(-いつかの市民-)ああ、英雄様にフランセル卿！<br>よかった、フォンクリノーさんに聞いたとおりだ。<br>こちらにいらしてたんですね。",

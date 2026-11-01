@@ -4710,8 +4710,8 @@
     },
     {
       "gameKey": "cut_scene/064/VoiceMan_06400#TEXT_VOICEMAN_06400_002950_YSHTOLA",
-      "en": "Apologies for the wait. The preparations here are finally complete.",
-      "hash": "6E93387E088CFFF4",
+      "en": "(-Y'shtola-)Apologies for the wait. The preparations here are finally complete.",
+      "hash": "67FF2E6B548BB456",
       "unresolved": false,
       "fr": "(-Y'shtola-)Vous me recevez<nbsp>? Tout est en place de notre côté.",
       "ja": "(-ヤ・シュトラ-)待たせたわね。<br>月側の準備も、すべて整ったわ。",
@@ -4742,8 +4742,8 @@
     },
     {
       "gameKey": "cut_scene/064/VoiceMan_06400#TEXT_VOICEMAN_06400_002970_YSHTOLA",
-      "en": "Very well, then. Make it so.",
-      "hash": "624D0A020E093FDF",
+      "en": "(-Y'shtola-)Very well, then. Make it so.",
+      "hash": "516F92507C586D8F",
       "unresolved": false,
       "fr": "(-Y'shtola-)Très bien, allez-y.",
       "ja": "(-ヤ・シュトラ-)ええ、お願い。",

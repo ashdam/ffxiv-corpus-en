@@ -540,8 +540,8 @@
     },
     {
       "gameKey": "quest/010/JobDrg500_01072#TEXT_JOBDRG500_01072_DRAGON_000_030",
-      "en": "<italic(1)>Feeble creature... Dost thou desire power<italic(0)>?",
-      "hash": "E69B0F8FAECADE38",
+      "en": "(-Voice from Within-)<italic(1)>Feeble creature... Dost thou desire power<italic(0)>?",
+      "hash": "1E9208596B9721B8",
       "unresolved": false,
       "fr": "(-???-)Misérable humain... Convoites-tu ma force<nbsp>?",
       "ja": "(-心に響く声-)……弱き者よ……力が欲しいか……。",
@@ -566,8 +566,8 @@
     },
     {
       "gameKey": "quest/010/JobDrg500_01072#TEXT_JOBDRG500_01072_DRAGON_000_031",
-      "en": "<italic(1)>Look to thine anger and to thy hatred... It is there that thou shalt find it...<italic(0)>",
-      "hash": "2CEAA0E7869AC5D2",
+      "en": "(-Voice from Within-)<italic(1)>Look to thine anger and to thy hatred... It is there that thou shalt find it...<italic(0)>",
+      "hash": "C80242B106E7F676",
       "unresolved": false,
       "fr": "(-???-)Désires-tu cette colère et cette rage qui me dévorent<nbsp>?",
       "ja": "(-心に響く声-)……その怒りを……憎しみを……力と欲するか……。",

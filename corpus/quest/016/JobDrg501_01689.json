@@ -384,8 +384,8 @@
     },
     {
       "gameKey": "quest/016/JobDrg501_01689#TEXT_JOBDRG501_01689_HEUSTIENNE_000_012",
-      "en": "You have not pledged allegiance to Ishgard, yet you came to our aid nonetheless. For that, we are grateful. Their deaths thus avenged, our comrades may go to their rest in peace.",
-      "hash": "2D9732576C782365",
+      "en": "(-Mystery Dragoon-)You have not pledged allegiance to Ishgard, yet you came to our aid nonetheless. For that, we are grateful. Their deaths thus avenged, our comrades may go to their rest in peace.",
+      "hash": "F8875CD3BFE549A3",
       "unresolved": false,
       "fr": "(-???-)Merci d'avoir vengé la mort de mes camarades, <split(<string(gstr1)>, ,1)>. Grâce à toi, ils pourront reposer en paix.",
       "ja": "(-？？？？-)冒険者でありながら、皇都「イシュガルド」のため、<br>槍を振るっていただき感謝する。<br>犠牲となった竜騎士たちの無念も、浮かばれよう。",
@@ -436,8 +436,8 @@
     },
     {
       "gameKey": "quest/016/JobDrg501_01689#TEXT_JOBDRG501_01689_HEUSTIENNE_000_013",
-      "en": "'Tis an honor to see you again, my friend. Though it appears I am not remembered? I suspect the armor is to blame...",
-      "hash": "09C4075F2F5F3482",
+      "en": "(-Mystery Dragoon-)'Tis an honor to see you again, my friend. Though it appears I am not remembered? I suspect the armor is to blame...",
+      "hash": "6D9EEC7D77BEAB4C",
       "unresolved": false,
       "fr": "(-???-)J'aurais préféré que nos retrouvailles se passent dans d'autres cir<->cons<->tan<->ces, mais Halone en a décidé autrement. En tout cas, je suis heureuse de te revoir.",
       "ja": "(-？？？？-)再び、君と会えて光栄だ。<br>……おや、その顔は私のことなど憶えていないようだな？",

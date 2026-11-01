@@ -1232,8 +1232,8 @@
     },
     {
       "gameKey": "quest/047/AktKua204_04793#TEXT_AKTKUA204_04793_PUDDINGWAY_000_056",
-      "en": "Hello, there! Bring out the pudding, if you please!",
-      "hash": "31A2C172F8E895C7",
+      "en": "(-???-)Hello, there! Bring out the pudding, if you please!",
+      "hash": "F0966CF9EE946EAC",
       "unresolved": false,
       "fr": "(-???-)Coucou tout le monde<nbsp>! Alors c'est par ici la dégustation de flan insulaire<nbsp>? J'ai faiiiiiim<nbsp>!",
       "ja": "(-？？？？-)こんにちはーっ！<br>この島のプディングを、くださーー－い！！",
@@ -3354,8 +3354,8 @@
     },
     {
       "gameKey": "quest/047/AktKua204_04793#TEXT_AKTKUA204_04793_MAMMETS_000_321",
-      "en": "It tastes like happiness!",
-      "hash": "9A378DF359CA4534",
+      "en": "(-Island Mammets-)It tastes like happiness!",
+      "hash": "2016EB2E5E30883E",
       "unresolved": false,
       "fr": "(-Les poupées magiques à l'unisson-)C'est absolument fabuleux<nbsp>!",
       "ja": "(-魔法人形たち-)なんだかハピネス！！",

@@ -512,8 +512,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc015_03224#TEXT_LUCKBC015_03224_ARYA_000_001",
-      "en": "<italic(1)>Arya, I hope this missive finds you well. Should you come across <split(<string(gstr1)>, ,1)> in Revenant's Toll, pray send <if(gnum4,her,him)> to me in the Ala Mhigan Quarter. I have need of <if(gnum4,her,his)> help.<italic(0)>",
-      "hash": "4ABD4967A1BE2BE4",
+      "en": "(-Letter from X'rhun Tia-)<italic(1)>Arya, I hope this missive finds you well. Should you come across <split(<string(gstr1)>, ,1)> in Revenant's Toll, pray send <if(gnum4,her,him)> to me in the Ala Mhigan Quarter. I have need of <if(gnum4,her,his)> help.<italic(0)>",
+      "hash": "4CDDD52094DD13A7",
       "unresolved": false,
       "fr": "(-Lettre de X'rhun Tia-)“Chère Arya... (blablabla)... J'espère que tout va bien... (blablabla)... P.-S. Si par hasard tu croises <split(<string(gstr1)>, ,1)> dans les jours qui viennent, dis-lui de me rejoindre au Faubourg mhigois. Je suis sur une affaire et j'aurais besoin de son aide.”",
       "ja": "(-シ・ルン・ティアからの手紙-)アリア、<split(<string(gstr1)>, ,1)>に会えたら、<br>アラミガン・クォーターまで来てほしいと伝えてくれ。<br>あいつの力が必要なんだ……。",

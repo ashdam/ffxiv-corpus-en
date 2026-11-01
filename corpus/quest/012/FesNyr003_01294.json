@@ -546,8 +546,8 @@
     },
     {
       "gameKey": "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_010",
-      "en": "What travesty is this!? I look upon you, and I see not a horse! Don the uma kabuto for this most important journey!",
-      "hash": "FCA541A3ADD3473A",
+      "en": "(-Black Uma Doshin-)What travesty is this!? I look upon you, and I see not a horse! Don the uma kabuto for this most important journey!",
+      "hash": "7627F78BE41F3444",
       "unresolved": false,
       "fr": "(-Lieutenante noire des chevaux-)Vous vous moquez de moi<nbsp>? Vous ne ressemblez pas à un cheval<nbsp>! Mettez votre <frnoun(Item,12,6964,1,1)> et au pas de course<nbsp>!",
       "ja": "(-黒馬同心-)お待ちください！<br>道行く人に馬を印象付けるため、<br>「<sheet(Item,6964,0)>」を被って疾走してくださいませ！",
@@ -572,8 +572,8 @@
     },
     {
       "gameKey": "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_011",
-      "en": "...Question not how I manage to bear witness to your deed from afar. Be as the horse, and leave behind all doubts and bafflement!",
-      "hash": "DD28201192686E73",
+      "en": "(-Black Uma Doshin-)...Question not how I manage to bear witness to your deed from afar. Be as the horse, and leave behind all doubts and bafflement!",
+      "hash": "947FF838C8108D18",
       "unresolved": false,
       "fr": "(-Lieutenante noire des chevaux-)Je surveillerai votre progression à distance, mais j'aimerais que vous couriez aussi vite que le cheval en laissant de côté tous vos doutes.",
       "ja": "(-黒馬同心-)黒馬与力より命を受けた、この黒馬同心が、<br>陰からこっそり拝見しておりますので！",

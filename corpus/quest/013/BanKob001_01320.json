@@ -1843,8 +1843,8 @@
     },
     {
       "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_GIGU_000_089",
-      "en": "Ah, er...are there no alternatives─ch-choices, options, alternatives? Such as perhaps...surrender? Yes, yes, surrender! We surrender!",
-      "hash": "D1CF1A652E694CFE",
+      "en": "(-Unimposing Kobold-)Ah, er...are there no alternatives─ch-choices, options, alternatives? Such as perhaps...surrender? Yes, yes, surrender! We surrender!",
+      "hash": "FBA8D7CA8D90399B",
       "unresolved": false,
       "fr": "(-Chef des Kobolds-)Pardon, pardon<nbsp>! Nous ne recommencerons pas, non<nbsp>! C'est promis, oui, nous promettons<nbsp>!",
       "ja": "(-リーダーらしきコボルド族-)ゴメンナサーイ。<br>もう\u3000しませーん！",
@@ -1893,8 +1893,8 @@
     },
     {
       "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_KOBOLD01320_000_091",
-      "en": "Yes, yes, we surrender─yield, submit, surrender!",
-      "hash": "48524E1611A1CC36",
+      "en": "(-789th Order Kobolds-)Yes, yes, we surrender─yield, submit, surrender!",
+      "hash": "9145FC99206CA3AF",
       "unresolved": false,
       "fr": "(-Kobolds du 789e ordre-)Pardon, oui<nbsp>! Pardon<nbsp>! Pardon<nbsp>!",
       "ja": "(-第789洞穴団のコボルドたち-)ゴメンナサーイー。<br>ゴメンナサーイー。",

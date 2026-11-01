@@ -206,8 +206,8 @@
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_GUARD01447_000_004",
-      "en": "Begone, whelp! This is no place for children!",
-      "hash": "00293AFFC309CA10",
+      "en": "(-Sultansworn Squire-)Begone, whelp! This is no place for children!",
+      "hash": "B0EAB092C4A5AF42",
       "unresolved": false,
       "fr": "(-Écuyer des casques d'argent-)Qu'est-ce que tu fais là, toi<nbsp>? Va-t'en<nbsp>! Tu n'as rien à faire ici<nbsp>!",
       "ja": "(-銀冑団の従騎士-)何だお前は！<br>ここは子どもの来る場所ではない、立ち去れ！",

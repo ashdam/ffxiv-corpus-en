@@ -302,8 +302,8 @@
     },
     {
       "gameKey": "quest/012/BanAma108_01229#TEXT_BANAMA108_01229_PRISONER_001",
-      "en": "You...you're letting me go?",
-      "hash": "58D2C682152F88F2",
+      "en": "(-Freed Ranger-)You...you're letting me go?",
+      "hash": "08DE77209A2390F4",
       "unresolved": false,
       "fr": "(-Chasseresse prisonnière-)Je... je suis sauvée<nbsp>?",
       "ja": "(-囚われた狩人-)た、助かった……の？",
@@ -326,8 +326,8 @@
     },
     {
       "gameKey": "quest/012/BanAma108_01229#TEXT_BANAMA108_01229_PRISONER_002",
-      "en": "I'm free!? Stand aside, adventurer, the sands are calling me!",
-      "hash": "89CFD30872732770",
+      "en": "(-Freed Ranger-)I'm free!? Stand aside, adventurer, the sands are calling me!",
+      "hash": "EA65507AC4C863E0",
       "unresolved": false,
       "fr": "(-Chasseresse prisonnière-)Je peux m'enfuirrr<nbsp>? Ah<nbsp>! Merci<nbsp>!! Je vais rentrer chez moi<nbsp>!",
       "ja": "(-囚われた狩人-)逃げていいの！？<br>……やったぁ、帰れる！\u3000帰れるんだ！！",
@@ -350,8 +350,8 @@
     },
     {
       "gameKey": "quest/012/BanAma108_01229#TEXT_BANAMA108_01229_PRISONER_003",
-      "en": "Oh, praise the Twelve! I'd thought this the end!",
-      "hash": "FD93BE73FE6B31B0",
+      "en": "(-Freed Ranger-)Oh, praise the Twelve! I'd thought this the end!",
+      "hash": "5F8FD3EF7CA9475D",
       "unresolved": false,
       "fr": "(-Chasseresse prisonnière-)J'ignorrre qui vous êtes, mais si on me libère, je m'enfuis sans demander mon reste<nbsp>!",
       "ja": "(-囚われた狩人-)誰だか知らないけど……いいんだね？<br>だったら逃げちまうよ！？",
@@ -374,8 +374,8 @@
     },
     {
       "gameKey": "quest/012/BanAma108_01229#TEXT_BANAMA108_01229_PRISONER_004",
-      "en": "They'll never shackle me again. I would sooner die...",
-      "hash": "9B2A5EEBEDC3DF8C",
+      "en": "(-Freed Ranger-)They'll never shackle me again. I would sooner die...",
+      "hash": "BDF2FA7E73447CE1",
       "unresolved": false,
       "fr": "(-Chasseresse prisonnière-)Je ne me laisserai jamais plus capturer parrr ces maudits lézards<nbsp>!",
       "ja": "(-囚われた狩人-)……もう、二度と捕まらない。<br>次はもっと、上手くやってみせる……。",

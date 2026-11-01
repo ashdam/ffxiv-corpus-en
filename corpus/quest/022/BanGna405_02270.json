@@ -436,8 +436,8 @@
     },
     {
       "gameKey": "quest/022/BanGna405_02270#TEXT_BANGNA405_02270_GNATHDRONEA02270_100_018",
-      "en": "The fleshling lures us with the sweet scent of blood!? \\<click> \\<click> Unforgivable!",
-      "hash": "B9B29631EDC200A6",
+      "en": "(-Outloth Steeldrone-)The fleshling lures us with the sweet scent of blood!? \\<click> \\<click> Unforgivable!",
+      "hash": "5A73E3402F06CEFC",
       "unresolved": false,
       "fr": "(-Soldat gnathe-)KSSS<nbsp>!!! La ruche m'a conseillé de suivre l'odeur du sang, et ma route croise celle d'un<if(gnum4,e,)> sale humain<if(gnum4,e,)><nbsp>!? Je vais te débiter comme du petit bois, kss kss kss<nbsp>!",
       "ja": "(-グナース族の雑兵-)シシシシシ……血の匂いを辿って来てみれば、<br>憎きヒトではないか……排除してくれる！",

@@ -782,8 +782,8 @@
     },
     {
       "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_022",
-      "en": "Glad you could join us.",
-      "hash": "89BADA69F931792A",
+      "en": "(-Raubahn-)Glad you could join us.",
+      "hash": "C639D4B16C23FE18",
       "unresolved": false,
       "fr": "(-Voix de Raubahn-)<split(<string(gstr1)>, ,1)>. Je savais que tu répondrais à l'appel.",
       "ja": "(-ラウバーンの声-)よく来てくれたな、<split(<string(gstr1)>, ,1)>。",

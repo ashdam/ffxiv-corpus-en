@@ -514,8 +514,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse413_00081#TEXT_GAIUSE413_00081_ADVENTURER00084_000_004",
-      "en": "You were followed, you bloody fool!",
-      "hash": "4FAADD2D7E8ACE46",
+      "en": "(-Dubious Adventurer-)You were followed, you bloody fool!",
+      "hash": "D5CCDE2C6C064CDF",
       "unresolved": false,
       "fr": "(-Aventurier douteux-)On t'a suivie, espèce d'incapable<nbsp>!",
       "ja": "(-冒険者風の男-)貴様、つけられていたのか！？<br>クソッ、エオルゼアの野蛮人が！",
@@ -538,8 +538,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse413_00081#TEXT_GAIUSE413_00081_ADVENTURER00084_000_005",
-      "en": "Damnation!",
-      "hash": "92F92C23DDCFA8FF",
+      "en": "(-Dubious Adventurer-)Damnation!",
+      "hash": "3AC3C337D3BA8EBF",
       "unresolved": false,
       "fr": "(-Aventurier douteux-)Merde<nbsp>!",
       "ja": "(-冒険者風の男-)クッ……！",

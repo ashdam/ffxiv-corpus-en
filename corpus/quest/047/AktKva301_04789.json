@@ -782,8 +782,8 @@
     },
     {
       "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_KALIKA_000_021",
-      "en": "Master Matsya, who is this mighty hunter? <if(gnum4,Her,His)> arms are thick, mighty roots, unlike Pasasun's limp seaweed limbs which shrivel in the sun.",
-      "hash": "B856A9F055A07393",
+      "en": "(-Talking Bird-)Master Matsya, who is this mighty hunter? <if(gnum4,Her,His)> arms are thick, mighty roots, unlike Pasasun's limp seaweed limbs which shrivel in the sun.",
+      "hash": "FD6DA9D186E0B74D",
       "unresolved": false,
       "fr": "(-Oiseau bavard-)Maître Matsya, <if(gnum4,celle-là,celui-là)> a l'air bien plus robuste que cette demi-portion de Pasasun<nbsp>! C'est un<if(gnum4,e,)> véritable <if(gnum4,chasseuse,chasseur)><nbsp>?",
       "ja": "(-しゃべる小鳥-)貧弱なパサスーンと違って、とても強そうなお方ですね！<br>こちらの方も狩人なのでしょうか？",
@@ -1686,8 +1686,8 @@
     },
     {
       "gameKey": "quest/047/AktKva301_04789#TEXT_AKTKVA301_04789_JJHIMEI_000_054",
-      "en": "Did you hear that, Zozone!? A jewel bigger than <italic(1)>you<italic(0)>, just waiting for someone to sail to that island and give it a new home!",
-      "hash": "879E8C9D00630DFB",
+      "en": "(-Energetic Miqo'te Girl-)Did you hear that, Zozone!? A jewel bigger than <italic(1)>you<italic(0)>, just waiting for someone to sail to that island and give it a new home!",
+      "hash": "06ACD7380C914C48",
       "unresolved": false,
       "fr": "(-Miqo'te enjouée-)Hé, Zozone<nbsp>! T'as entendu ça<nbsp>? Une statue qui abrite un énorrrme joyau<nbsp>! En voilà un sacré trésor<nbsp>!",
       "ja": "(-陽気なミコッテ族の女-)ねぇ～っ、ゾゾネくん聞いた～！？<br>島にある「神子の宝玉」が、すっごいお宝なんだって！",

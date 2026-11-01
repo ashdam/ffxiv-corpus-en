@@ -202,8 +202,8 @@
     },
     {
       "gameKey": "quest/024/JobRel520_02403#TEXT_JOBREL520_02403_ROWENA_000_002",
-      "en": "Ardashir! You there, Ardashir? Just thought I'd check in. How are things comin' along?",
-      "hash": "6A88D5AD53A3162F",
+      "en": "(-Rowena-)Ardashir! You there, Ardashir? Just thought I'd check in. How are things comin' along?",
+      "hash": "81E04C6EA179B67D",
       "unresolved": false,
       "fr": "(-Rowena-)Comment vas-tu, mon petit Ardashir<nbsp>?",
       "ja": "(-ロウェナ-)調子はどうかしら、アルダシール。",
@@ -254,8 +254,8 @@
     },
     {
       "gameKey": "quest/024/JobRel520_02403#TEXT_JOBREL520_02403_ROWENA_000_004",
-      "en": "It's those papers you had me send off a few moons ago. You got a letter back about them, and a rather comprehensive one, at least judgin' by the weight o' the envelope. Reckoned you might want to drop by an' pick it up.",
-      "hash": "A8429A744079DA22",
+      "en": "(-Rowena-)It's those papers you had me send off a few moons ago. You got a letter back about them, and a rather comprehensive one, at least judgin' by the weight o' the envelope. Reckoned you might want to drop by an' pick it up.",
+      "hash": "390BC94CE31CE904",
       "unresolved": false,
       "fr": "(-Rowena-)Tu te souviens de ce courrier que tu avais envoyé à cette fameuse autorité dans le domaine des êtres arcaniques<nbsp>? Eh bien, figure-toi que j'ai reçu sa réponse. Si ça t'intéresse, je l'ai avec moi, à Idyllée.",
       "ja": "(-ロウェナ-)ええ、あなたが「魔法生物の権威」へ出した手紙……<br>その返事が返って来たわ。<br>イディルシャイアで待っているから、取りに来なさい。",

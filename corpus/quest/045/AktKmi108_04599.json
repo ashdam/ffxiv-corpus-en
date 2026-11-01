@@ -3016,8 +3016,8 @@
     },
     {
       "gameKey": "quest/045/AktKmi108_04599#TEXT_AKTKMI108_04599_MEHRAHD_000_714",
-      "en": "\\<gasp> Master Vrtra! And <split(<string(gstr1)>, ,1)> too!",
-      "hash": "E1B09EA6127320EC",
+      "en": "(-Familiar Boy's Voice-)\\<gasp> Master Vrtra! And <split(<string(gstr1)>, ,1)> too!",
+      "hash": "4FF2A5A253E6E4A9",
       "unresolved": false,
       "fr": "(-Voix de garçon familière-)Votre Excellence<nbsp>! <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-聞き覚えのある少年の声-)あ、ヴリトラ様だ！<br>それに、冒険者の<if(gnum4,姉ちゃん,兄ちゃん)>も！",

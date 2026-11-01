@@ -502,8 +502,8 @@
     },
     {
       "gameKey": "quest/032/LucKla401_03236#TEXT_LUCKLA401_03236_YALANA_000_008",
-      "en": "Chief, where are you─ Wait just a─<br>Y-You there, stop that woman!",
-      "hash": "6B9260DFD63E0A3F",
+      "en": "(-???-)Chief, where are you─ Wait just a─<br>Y-You there, stop that woman!",
+      "hash": "518C60D9268B6668",
       "unresolved": false,
       "fr": "(-???-)Ah<nbsp>! Vous là-bas<nbsp>! Ne la laissez pas partir<nbsp>!",
       "ja": "(-？？？？-)あーーーーーー！<br>そこの人ーーーーーー！<br>ケシ・レイ科長を止めてくださああああああい！！",
@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/032/LucKla401_03236#TEXT_LUCKLA401_03236_YALANA_000_009",
-      "en": "\\<huff> \\<puff> Begging your pardons, but did the chief mention where she was headed?",
-      "hash": "3B357165317B5513",
+      "en": "(-Diminutive Damsel-)\\<huff> \\<puff> Begging your pardons, but did the chief mention where she was headed?",
+      "hash": "260AD66C432048EF",
       "unresolved": false,
       "fr": "(-Jeune femme menue-)(halète) E-excusez mon (tousse) empressement<nbsp>! Je vous ai vu<if(gnum4,e,)> discuter avec Qeshi-Rae... Elle compte s'aventurer hors de la cité<nbsp>!?",
       "ja": "(-小柄な女性-)はあ、はあ……ゴホッ……！<br>す、すみません、初対面でぶしつけに……。<br>あの人、もしかして外へ行こうとしてませんでした……？",
@@ -554,8 +554,8 @@
     },
     {
       "gameKey": "quest/032/LucKla401_03236#TEXT_LUCKLA401_03236_YALANA_000_010",
-      "en": "Outside again!? Doesn't she know how much trouble she causes when she abandons her post!?",
-      "hash": "25EDBE10907EDD00",
+      "en": "(-Diminutive Damsel-)Outside again!? Doesn't she know how much trouble she causes when she abandons her post!?",
+      "hash": "6D2FB452F930C3DB",
       "unresolved": false,
       "fr": "(-Jeune femme menue-)J'en étais sûre<nbsp>! Toujours à chercher des prétextes pour abandonner son poste<nbsp>! Alors que tant de personnes comptent sur elle...",
       "ja": "(-小柄な女性-)やっぱり……！<br>け、ケシ・レイ科長ったら、またサボって……！<br>あの人が仕事を放り出すと、困る人がいっぱいいるのに……！",

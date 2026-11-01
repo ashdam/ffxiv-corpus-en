@@ -1512,8 +1512,8 @@
     },
     {
       "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_UNZAN_000_065",
-      "en": "Well, well. I had heard that an Eorzean had taken to serving Far Eastern cuisine. To think that it was you.",
-      "hash": "3F65F0A47494FBE8",
+      "en": "(-???-)Well, well. I had heard that an Eorzean had taken to serving Far Eastern cuisine. To think that it was you.",
+      "hash": "C0029F7EA085FCEA",
       "unresolved": false,
       "fr": "(-Homme à la voix imposante-)J'étais curieux de voir à quoi ressemble ce fameux chef dont tous les Domiens parlent en ce moment... Hmpf<nbsp>! J'étais loin de m'imaginer que c'était toi<nbsp>!",
       "ja": "(-？？？？-)東方料理を振舞っている者たちがいると聞いて来てみたら、<br>まさかお前だったとはな……。",
@@ -1564,8 +1564,8 @@
     },
     {
       "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_UNZAN_000_067",
-      "en": "You will not call me that! You are no son to me! I will not give my precious daughter to some vagabond!",
-      "hash": "EC2485073E975969",
+      "en": "(-Imposing Man-)You will not call me that! You are no son to me! I will not give my precious daughter to some vagabond!",
+      "hash": "FE43E133DBEBE8EC",
       "unresolved": false,
       "fr": "(-Homme à la voix imposante-)Je t'interdis de m'appeler comme ça<nbsp>! Crois-tu vraiment que je vais autoriser ma fille à se marier avec un homme qui préfère vivre d'aventures plutôt que de travailler sé<->rieu<->se<->ment<nbsp>!?",
       "ja": "(-貫録のある男-)お前に「お義父さん」などと呼ばれる筋合いはない！<br>定職にも就かん、ふらふらした冒険者なんぞに娘をやれるものか！",
@@ -1616,8 +1616,8 @@
     },
     {
       "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_UNZAN_000_069",
-      "en": "An ignoble adventurer making our noble cuisine? I would be laughing were the idea not so absurd!",
-      "hash": "47C26D07FABF6060",
+      "en": "(-Imposing Man-)An ignoble adventurer making our noble cuisine? I would be laughing were the idea not so absurd!",
+      "hash": "803669D9807F22C2",
       "unresolved": false,
       "fr": "(-Homme à la voix imposante-)La cuisine orientale<nbsp>? Et pourquoi pas la forge de katana tant qu'on y est<nbsp>!? On ne s'improvise pas forgeron ou cuisinier du jour au lendemain<nbsp>! C'est le travail d'une vie<nbsp>!",
       "ja": "(-貫録のある男-)冒険者風情が作る東方料理だと……？<br>片腹痛いわっ！",

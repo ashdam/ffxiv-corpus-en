@@ -754,8 +754,8 @@
     },
     {
       "gameKey": "quest/029/StmBdb103_02964#TEXT_STMBDB103_02964_ALPHINAUD_000_041",
-      "en": "<split(<string(gstr1)>, ,1)>─it's Alphinaud. We have searched the prison beneath the palace, and found a teleportation portal concealed by enchantments. The markings indicate it leads to an underground cavern.",
-      "hash": "0CDB81D44D393585",
+      "en": "(-Alphinaud's Voice-)<split(<string(gstr1)>, ,1)>─it's Alphinaud. We have searched the prison beneath the palace, and found a teleportation portal concealed by enchantments. The markings indicate it leads to an underground cavern.",
+      "hash": "5F35B2FD42CAE1DE",
       "unresolved": false,
       "fr": "(-Voix d'Alphinaud-)Nous avons inspecté les sous-sols et avons trouvé un téléporteur camouflé par un sortilège dans un recoin des geôles. D'après les ins<->crip<->tions sur la stèle, il mène aux grottes souterraines environnantes.",
       "ja": "(-アルフィノの声-)地下監獄の一角で、魔法的に秘匿された転移紋を発見した。<br>碑文によれば、地下の鍾乳洞に通じているらしい。",
@@ -780,8 +780,8 @@
     },
     {
       "gameKey": "quest/029/StmBdb103_02964#TEXT_STMBDB103_02964_ALPHINAUD_100_041",
-      "en": "What news on your end?",
-      "hash": "E10A20AEDB1F1091",
+      "en": "(-Alphinaud's Voice-)What news on your end?",
+      "hash": "0C8D20E64B4E8710",
       "unresolved": false,
       "fr": "(-Voix d'Alphinaud-)Qu'en est-il de votre côté, <split(<string(gstr1)>, ,1)><nbsp>?",
       "ja": "(-アルフィノの声-)<split(<string(gstr1)>, ,1)>、そちらの様子はどうだい？",
@@ -806,8 +806,8 @@
     },
     {
       "gameKey": "quest/029/StmBdb103_02964#TEXT_STMBDB103_02964_ALPHINAUD_000_042",
-      "en": "...And you believe it leads into the ruins? Then I daresay we will be able to meet within. Go on and head through the door.",
-      "hash": "B2EDC3916679413B",
+      "en": "(-Alphinaud's Voice-)...And you believe it leads into the ruins? Then I daresay we will be able to meet within. Go on and head through the door.",
+      "hash": "ACC01BCDE69BA0D8",
       "unresolved": false,
       "fr": "(-Voix d'Alphinaud-)Vous pensez pouvoir entrer via une porte en pierre<nbsp>!? Excellent<nbsp>! Nous devrions donc nous revoir d'ici peu. Continuez de suivre le cours d'eau, vous êtes sur la bonne voie<nbsp>!",
       "ja": "(-アルフィノの声-)ほう……侵入できそうな石扉を見つけたのか！<br>状況からすると、内部でうまいこと合流できそうだ。<br>君は、そのまま水中ルートから侵入してみてくれ。",
@@ -832,8 +832,8 @@
     },
     {
       "gameKey": "quest/029/StmBdb103_02964#TEXT_STMBDB103_02964_ARENVALD_000_043",
-      "en": "By the way, I took the liberty of calling on a friend for help. I guarantee she's both dependable <italic(1)>and<italic(0)> discreet. We'll see you soon!",
-      "hash": "C5238BEEFC73E4C7",
+      "en": "(-Arenvald's Voice-)By the way, I took the liberty of calling on a friend for help. I guarantee she's both dependable <italic(1)>and<italic(0)> discreet. We'll see you soon!",
+      "hash": "CFD3543140B7D6F9",
       "unresolved": false,
       "fr": "(-Voix d'Arenvald-)<split(<string(gstr1)>, ,1)><nbsp>? C'est moi, Arenvald. Je sais que vous n'avez pas besoin que je vous le rappelle, mais soyez prudent<if(gnum4,e,)>. Afin de pallier toute éventualité, j'ai fait appel à des renforts. Des gens de confiance à mon image, bien sûr<nbsp>! On se retrouve à l'intérieur<nbsp>!",
       "ja": "(-アレンヴァルドの声-)それから、念の為に助っ人も呼んでおいた。<br>信頼できるヤツだから、安心してくれ……それじゃ中でな！",

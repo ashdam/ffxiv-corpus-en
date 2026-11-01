@@ -2484,8 +2484,8 @@
     },
     {
       "gameKey": "quest/054/JobXbm121_05493#TEXT_JOBXBM121_05493_GUTTLER_000_131",
-      "en": "...am come...for your souls. <italic(1)>Beastmasters<italic(0)>.",
-      "hash": "7F1F179026C057D2",
+      "en": "(-Malevolent Voice-)...am come...for your souls. <italic(1)>Beastmasters<italic(0)>.",
+      "hash": "8704DE6CCB4EC8EB",
       "unresolved": false,
       "fr": "(-Voix sinistre-)... Je suis celle qui dévorera vos âmes, dresseurs.",
       "ja": "(-おぞましい声-)……魔獣使いの魂を貪る者。",
@@ -2536,8 +2536,8 @@
     },
     {
       "gameKey": "quest/054/JobXbm121_05493#TEXT_JOBXBM121_05493_GUTTLER_000_133",
-      "en": "Die...for me...",
-      "hash": "26DA9AFAFADBCABE",
+      "en": "(-Malevolent Voice-)Die...for me...",
+      "hash": "753A7D327E0B5581",
       "unresolved": false,
       "fr": "(-Voix sinistre-)Tuerai... tous...",
       "ja": "(-おぞましい声-)ロス……殺ス……。",
@@ -2562,8 +2562,8 @@
     },
     {
       "gameKey": "quest/054/JobXbm121_05493#TEXT_JOBXBM121_05493_GUTTLER_000_134",
-      "en": "Perish...like the plague you are!",
-      "hash": "66AED9CCBFD6937A",
+      "en": "(-Malevolent Voice-)Perish...like the plague you are!",
+      "hash": "2D3B45FCA753AE57",
       "unresolved": false,
       "fr": "(-Voix sinistre-)Les... dresseurs... doivent mourir<nbsp>!",
       "ja": "(-おぞましい声-)アァ……殺シテやる……！<br>魔獣使イは、ひとり残ラズ……！",

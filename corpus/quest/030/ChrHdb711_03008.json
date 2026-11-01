@@ -1708,8 +1708,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_SHIGURE_000_080",
-      "en": "That fiend, that despicable rapscallion! The nerve of him to make mock of us!",
-      "hash": "CF820E205261C513",
+      "en": "(-Right Proper Lad-)That fiend, that despicable rapscallion! The nerve of him to make mock of us!",
+      "hash": "C63A5CE537ACA109",
       "unresolved": false,
       "fr": "(-Samouraï-)Grrr... Aucun doute, c'est encore un coup de cette crapule<nbsp>! Il ne perd rien pour attendre...",
       "ja": "(-侍らしき男-)くそっ、またヤツの仕業か！<br>遊びのように盗みを働くとは、許せぬッ……！",
@@ -1734,8 +1734,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_SHIGURE_000_081",
-      "en": "My thanks to you, Master Akebono, for all your help. I swear to you on my honor that this sneak thief shall be brought to justice forthwith! And with that, I bid you good day.",
-      "hash": "DEE94749D6D43E67",
+      "en": "(-Right Proper Lad-)My thanks to you, Master Akebono, for all your help. I swear to you on my honor that this sneak thief shall be brought to justice forthwith! And with that, I bid you good day.",
+      "hash": "557499D162097CE9",
       "unresolved": false,
       "fr": "(-Samouraï-)Je vous remercie de votre coopération, Seigneur Akebono. Je ferai tout ce qui est en mon pouvoir pour capturer les coupables, j'en fais le serment.",
       "ja": "(-侍らしき男-)お話をうかがわせていただき感謝いたします、アケボノ殿！<br>必ずや、ヤツを捕らえてみせましょうぞ……。<br>では、これにて失敬！",
@@ -1812,8 +1812,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_SHIGURE_000_082",
-      "en": "Forgive me, my lady! In my haste, I did not see you! Are you all right? Shall I summon a healer?",
-      "hash": "F8D5657B40F6AB13",
+      "en": "(-Right Proper Lad-)Forgive me, my lady! In my haste, I did not see you! Are you all right? Shall I summon a healer?",
+      "hash": "CFDE423FA7D3F64E",
       "unresolved": false,
       "fr": "(-Samouraï-)Ouille... Veuillez m'excuser, gente demoiselle. Dans ma hâte, je ne regardais pas où j'allais<nbsp>! Vous n'êtes pas blessée, j'espère<nbsp>?",
       "ja": "(-侍らしき男-)イタタ……これは失礼を！<br>急いでいたもので、つい……お怪我はござらぬか？",
@@ -2072,8 +2072,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_SYSTEM_000_105",
-      "en": "\"You have just been robbed by the Kugane Wolf Burglar!“",
-      "hash": "E759DED00E1F2A79",
+      "en": "(-Mysterious Note-)\"You have just been robbed by the Kugane Wolf Burglar!“",
+      "hash": "38F882EEB6CC1E80",
       "unresolved": false,
       "fr": "(-Message mystérieux-)Avec les amitiés du Lupin solitaire<nbsp>!",
       "ja": "(-渡された書き置き-)「こそドロ一匹オオカミ、参上！」",

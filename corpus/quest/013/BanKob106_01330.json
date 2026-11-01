@@ -824,8 +824,8 @@
     },
     {
       "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_040",
-      "en": "You! Yes, you!<br>What are you doing there!?",
-      "hash": "CECAD4D1C086B4C5",
+      "en": "(-596th Order Scout-)You! Yes, you!<br>What are you doing there!?",
+      "hash": "55705283DD2E4969",
       "unresolved": false,
       "fr": "(-Éclaireur kobold du 596e ordre-)Qu-qu'est-ce qui se passe, oui<nbsp>!?<br>Qu-qu'est-ce que tu fais là, humain<if(gnum4,e,)>, oui<nbsp>!?",
       "ja": "(-596コボルド・スカウト-)なに？\u3000なんなーの！？<br>なにしてるーの？\u3000アンタ！",
@@ -849,8 +849,8 @@
     },
     {
       "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_041",
-      "en": "We toiled long and hard for those!<br>Labored, troubled, toiled!",
-      "hash": "A999947B584584CE",
+      "en": "(-596th Order Scout-)We toiled long and hard for those!<br>Labored, troubled, toiled!",
+      "hash": "30BCFB77D95F4FA1",
       "unresolved": false,
       "fr": "(-Éclaireur kobold du 596e ordre-)Ça, c'est nos affaires, oui, c'est les nôtres<nbsp>!<br>T'as pas intérêt à y toucher, non<nbsp>!!",
       "ja": "(-596コボルド・スカウト-)それ\u3000ダイジなダイジーな\u3000オレたーちの荷物！<br>手だしたーら\u3000ぶっ潰すーぞ！",
@@ -874,8 +874,8 @@
     },
     {
       "gameKey": "quest/013/BanKob106_01330#TEXT_BANKOB106_01330_KOBOLD01330_000_042",
-      "en": "Leave those alone! Yes, yes, do not touch!<br>Zo Ga will crush us, smash us, squash us!",
-      "hash": "0DE7AD7351C7C104",
+      "en": "(-596th Order Scout-)Leave those alone! Yes, yes, do not touch!<br>Zo Ga will crush us, smash us, squash us!",
+      "hash": "FADA2376505AD33C",
       "unresolved": false,
       "fr": "(-Éclaireur kobold du 596e ordre-)Sans nos affaires... on pourra jamais atteindre le quota, non<nbsp>!<br>Ne fais pas ça, non, ne le fais pas<nbsp>!!",
       "ja": "(-596コボルド・スカウト-)荷物なくなーると\u3000来月のノルマ\u3000足りないーよ！<br>やめてちょうだーいっ！\u3000触らないーでっ！",

@@ -2010,8 +2010,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_087",
-      "en": "Help! I need help!",
-      "hash": "11B90726CD15F6B8",
+      "en": "(-???-)Help! I need help!",
+      "hash": "5EF4F2BAF0644DE3",
       "unresolved": false,
       "fr": "(-???-)Au secours<nbsp>! S'il vous plaît, quelqu'un, venez m'aider<nbsp>!",
       "ja": "(-？？？？-)誰か、誰かたすけて！！",
@@ -2192,8 +2192,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_103",
-      "en": "Erenville! <split(<string(gstr1)>, ,1)>!",
-      "hash": "39DE55B94384DBB6",
+      "en": "(-Namikka-)Erenville! <split(<string(gstr1)>, ,1)>!",
+      "hash": "1865179FEE2C187F",
       "unresolved": false,
       "fr": "(-Namikka-)Oh, Erenville<nbsp>! Et <split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-ナミーカ-)まあ、あなた方は……！",
@@ -2348,8 +2348,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_109",
-      "en": "Please, you have to give it back!",
-      "hash": "450A88D43F3111F9",
+      "en": "(-Namikka-)Please, you have to give it back!",
+      "hash": "63E8E3D2C1C58761",
       "unresolved": false,
       "fr": "(-Namikka-)Attendez<nbsp>! Je tiens vraiment à cet objet<nbsp>! Rendez-le-moi, je vous en prie<nbsp>!",
       "ja": "(-ナミーカ-)待って、それはとても大事な物なんです！<br>どうか返してっ……！",

@@ -2196,8 +2196,8 @@
     },
     {
       "gameKey": "quest/046/BanLop002_04682#TEXT_BANLOP002_04682_TALKINGWAY_000_105",
-      "en": "And now useless machines. Is it not enough that we have no use ourselves?",
-      "hash": "691013F097ED681F",
+      "en": "(-???-)And now useless machines. Is it not enough that we have no use ourselves?",
+      "hash": "EF08D93D1B40ABEB",
       "unresolved": false,
       "fr": "Hm... Et maintenant un atelier bricolage du dimanche avec de la quincaillerie inutile<nbsp>? Que cherchez-vous à accomplir alors que tout ce que nous entreprenons est désormais vide de sens<nbsp>?",
       "ja": "フン……今度は、使い道の無いマシンを作って、<br>いったいどうするっていうんだ……？<br>こんなことしたって、もはや無駄なのに……。",
@@ -2222,8 +2222,8 @@
     },
     {
       "gameKey": "quest/046/BanLop002_04682#TEXT_BANLOP002_04682_TALKINGWAY_000_106",
-      "en": "Hmmm... If I can use this ironic display to demonstrate the depths of our irrelevance, my petition to reactivate the hibernation stations may at last be approved.",
-      "hash": "98129C91095CA4C6",
+      "en": "(-???-)Hmmm... If I can use this ironic display to demonstrate the depths of our irrelevance, my petition to reactivate the hibernation stations may at last be approved.",
+      "hash": "CB8C762CA36584F0",
       "unresolved": false,
       "fr": "Ou peut-être pas<nbsp>? Oui... Pas totalement inutile après tout. Car j'imagine qu'au moins, cette pantomime vous fera prendre conscience de la futilité de votre existence et vous fera procéder bien sagement à une demande de réintégration en stase...",
       "ja": "……でも、待てよ。<br>何をやっても無駄だということがハッキリすれば、<br>そのときは、コールドスリープ申請も受け入れてもらえるかも……？",
@@ -2248,8 +2248,8 @@
     },
     {
       "gameKey": "quest/046/BanLop002_04682#TEXT_BANLOP002_04682_TALKINGWAY_000_107",
-      "en": "...Struggle to your hearts' content, my friends. Show us the meaning of futility.",
-      "hash": "89BA63789C31E760",
+      "en": "(-???-)...Struggle to your hearts' content, my friends. Show us the meaning of futility.",
+      "hash": "2B6B871C7D558943",
       "unresolved": false,
       "fr": "... Mais j'imagine que seul l'avenir nous le dira. Je suivrai de près vos élucubrations.",
       "ja": "……しばらく、注目させてもらうとしよう。",

@@ -874,8 +874,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_KOBOLDS_000_050",
-      "en": "Overdwellers must leave! Overdwellers must fly!",
-      "hash": "D263D2504FDA166D",
+      "en": "(-Kobolds-)Overdwellers must leave! Overdwellers must fly!",
+      "hash": "32216DDD162660ED",
       "unresolved": false,
       "fr": "(-Kobolds-)Qu'on l<if(gnum4,a,e)> chasse<nbsp>! Oui, qu'<if(gnum4,elle,il)> soit chassé<if(gnum4,e,)><nbsp>! Disparais, sale humain<if(gnum4,e,)><nbsp>!",
       "ja": "(-コボルド族たち-)でてーけ！\u3000でてーけ！<br>だいーちは\u3000オラたーち\u3000コボルド族のもんだー！<br>ヒトはでてーけ！",
@@ -1004,8 +1004,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_KOBOLDS_000_055",
-      "en": "He is come! He is come! The Lord of Crags, Titan is come!",
-      "hash": "C66EC3D15635DE16",
+      "en": "(-Kobolds-)He is come! He is come! The Lord of Crags, Titan is come!",
+      "hash": "E967452E9B1C7FD5",
       "unresolved": false,
       "fr": "(-Kobolds-)Ô Titan<nbsp>! L'Ébranleur des terres<nbsp>! Viens à nous<nbsp>!<br>Réponds à notre appel, et tue cet<if(gnum4,te,)> humain<if(gnum4,e,)><nbsp>!",
       "ja": "(-コボルド族たち-)タイタンさーま！<br>タイタンさーま！",
@@ -1134,8 +1134,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_KOBOLDS_000_070",
-      "en": "The Lord of Crags, Great Father Titan has fallen!",
-      "hash": "33DACF8B9D9C2498",
+      "en": "(-Kobolds-)The Lord of Crags, Great Father Titan has fallen!",
+      "hash": "8B86A15929A4E857",
       "unresolved": false,
       "fr": "(-Kobolds-)Notre maître<nbsp>! Titan... est tombé...<nbsp>!",
       "ja": "(-コボルド族たち-)あー\u3000タイタンさーま……。<br>きえちゃだーめ\u3000タイタンさーま……。",
@@ -1290,8 +1290,8 @@
     },
     {
       "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_RHITAHTYN_000_076",
-      "en": "Are you sure that is wise, my lord? Your...curiosity is untested and unproven. We do not yet know its true capabilities.",
-      "hash": "ABB1F4D54B089D9A",
+      "en": "(-???-)Are you sure that is wise, my lord? Your...curiosity is untested and unproven. We do not yet know its true capabilities.",
+      "hash": "4DE9F9A042A17CC5",
       "unresolved": false,
       "fr": "(-???-)En es-tu sûr<nbsp>? Ton étrange machine n'a pas encore été mise à l'épreuve. Nous ignorons si elle possède vraiment les capacités que tu lui attribues.",
       "ja": "(-？？？？-)お前が造っている例の玩具……。<br>本当に、想定どおりの力があるのだろうな？",

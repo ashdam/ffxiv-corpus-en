@@ -378,8 +378,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_020",
-      "en": "The D.A.M. is ready, <split(<string(gstr1)>, ,1)>. Readying transmission protocols now.",
-      "hash": "813BFEECD4B673DA",
+      "en": "(-Mikoto-)The D.A.M. is ready, <split(<string(gstr1)>, ,1)>. Readying transmission protocols now.",
+      "hash": "58EEF815CB3C6643",
       "unresolved": false,
       "fr": "(-Voix de Mikoto-)Je vous reçois, <split(<string(gstr1)>, ,1)>. Tenez-vous à l'écart, j'active le guide.",
       "ja": "(-ミコトの声-)……ご連絡をありがとうございます。<br>それでは、こちらから遠隔操作で装置を起動しますね。",
@@ -404,8 +404,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_021",
-      "en": "All systems appear to be normal. Can you confirm the D.A.M. has burrowed into the ground?",
-      "hash": "51F902F0E9B1F0C0",
+      "en": "(-Mikoto-)All systems appear to be normal. Can you confirm the D.A.M. has burrowed into the ground?",
+      "hash": "AC74B11106863519",
       "unresolved": false,
       "fr": "(-Voix de Mikoto-)L'appareil semble fonctionner normalement. Il devrait s'être enfoui dans le sol. Pouvez-vous me le confirmer<nbsp>?",
       "ja": "(-ミコトの声-)……こちらでも起動を確認できました。<br>残留エネルギー誘導のためと、<br>擬装のために地面に埋設できたと思います。いかがでしょうか？",
@@ -430,8 +430,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa302_04085#TEXT_LUCKSA302_04085_MIKOTO_000_022",
-      "en": "Then everything is as it should be. You're free to return to camp.",
-      "hash": "EF545B2276E799D6",
+      "en": "(-Mikoto-)Then everything is as it should be. You're free to return to camp.",
+      "hash": "FEEEB250979769CA",
       "unresolved": false,
       "fr": "(-Voix de Mikoto-)Parfait. Si une patrouille ennemie passe par là, elle ne soupçonnera rien. Vous pouvez rentrer au camp, <split(<string(gstr1)>, ,1)>.",
       "ja": "(-ミコトの声-)大丈夫なようですね。<br>それでは誘導装置をそのままにし、こちらへご帰還くださいませ。",

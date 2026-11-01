@@ -430,8 +430,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz919_02875#TEXT_STMBDZ919_02875_KIKIRUN02875_000_019",
-      "en": "Me going to search inside. Can ask kindly adventurer to do favor in the meantime?",
-      "hash": "57B610B9FFB76170",
+      "en": "(-Kindly Qiqirn-)Me going to search inside. Can ask kindly adventurer to do favor in the meantime?",
+      "hash": "86A11050C98D5572",
       "unresolved": false,
       "fr": "(-Qiqirn courtois-)Enfin arriver<nbsp>! Qiqirn aller chercher clic clic à l'intérieur<nbsp>! Pendant ce temps, aventuuuri<if(gnum4,ère,er)> rendre dernier service<nbsp>!",
       "ja": "(-温厚なキキルン族-)とーちゃくっちゃ！<br>キキルン、中できらきら、探すっちゃ。<br>戻るまでに、もうひとつお願い、あるあるっちゃ。",

@@ -394,8 +394,8 @@
     },
     {
       "gameKey": "quest/048/KinGba251_04829#TEXT_KINGBA251_04829_SERVANT04829_000_003",
-      "en": "<if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,1)>! Mistress Loashkana!",
-      "hash": "1CA62B39E0F14959",
+      "en": "(-???-)<if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,1)>! Mistress Loashkana!",
+      "hash": "4DB3B65CFB76DC4E",
       "unresolved": false,
       "fr": "(-???-)<if(gnum4,Mesdames <split(<string(gstr1)>, ,1)> et Loashkana,Monsieur <split(<string(gstr1)>, ,1)> et Madame Loashkana)>, je présume<nbsp>?",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,1)>様、ローシュカナ様。",

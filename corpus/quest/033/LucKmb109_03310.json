@@ -1062,8 +1062,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb109_03310#TEXT_LUCKMB109_03310_FEOUL_000_052",
-      "en": "So! My sapling has <italic(1)>finally<italic(0)> remembered about <if(gnum4,her,his)> lovely branch!",
-      "hash": "92B635FAA48B85D9",
+      "en": "(-Feo Ul-)So! My sapling has <italic(1)>finally<italic(0)> remembered about <if(gnum4,her,his)> lovely branch!",
+      "hash": "F271D307DAF6E544",
       "unresolved": false,
       "fr": "(-Voix de Feo Ul-)Pfeu<nbsp>! Mon arbrisseau a oublié que j'existais, et il voudrait que je lui réponde maintenant<nbsp>?",
       "ja": "(-フェオ＝ウル-)フーンだっ！<br>若木ったら私のこと、すっかり忘れていたでしょう。",
@@ -1088,8 +1088,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb109_03310#TEXT_LUCKMB109_03310_FEOUL_000_053",
-      "en": "But with such a half-hearted call, <if(gnum4,she,he)> may as well lop me off and cast me aside! Hmph, I have no sapling!",
-      "hash": "3970735F7D965BD4",
+      "en": "(-Feo Ul-)But with such a half-hearted call, <if(gnum4,she,he)> may as well lop me off and cast me aside! Hmph, I have no sapling!",
+      "hash": "DD950FC32580C349",
       "unresolved": false,
       "fr": "(-Voix de Feo Ul-)Tu peux te brosser<nbsp>! Surtout que tu n'as pas mis les formes en m'appelant<nbsp>!",
       "ja": "(-フェオ＝ウル-)そのそっけない呼び方も、私を頼りにしてない証なのだわ！<br>そんな若木のことなんて、しーらないっ！\u3000だわ！",
@@ -1162,8 +1162,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb109_03310#TEXT_LUCKMB109_03310_FEOUL_000_061",
-      "en": "Hmph, is that your idea of a fervent call? A sodden log could do it with more fire!",
-      "hash": "DAE03619B08A1361",
+      "en": "(-Feo Ul-)Hmph, is that your idea of a fervent call? A sodden log could do it with more fire!",
+      "hash": "4D91533D12ECD991",
       "unresolved": false,
       "fr": "(-Voix de Feo Ul-)Mmm... Non<nbsp>! Je veux rien savoir<nbsp>! Je ressens pas l'amour de l'arbrisseau pour sa branchette<nbsp>!",
       "ja": "(-フェオ＝ウル-)……し、知らないったら知らないのだわ！<br>呼びかけにだって、ぜんっぜん熱意が足りてないしっ！",

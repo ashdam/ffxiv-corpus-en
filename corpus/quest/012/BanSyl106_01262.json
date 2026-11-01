@@ -446,8 +446,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_001",
-      "en": "Sneaky ones abound, but no one will get by this one!",
-      "hash": "C03A57C4B4956BD5",
+      "en": "(-Wary Sylph-)Sneaky ones abound, but no one will get by this one!",
+      "hash": "9F6FEF6D058E66E3",
       "unresolved": false,
       "fr": "(-Dénaturé-)Que fais-tu ici, le nez dans nos préparatifs<nbsp>?<br>Disparais avant que je ne te fasse captif<nbsp>!",
       "ja": "(-悪い子シルフ-)怪しいやつでふっち！<br>これは渡さないでふっち！",
@@ -470,8 +470,8 @@
     },
     {
       "gameKey": "quest/012/BanSyl106_01262#TEXT_BANSYL106_01262_GUARD_000_002",
-      "en": "Scentpowders and sparklebeads are...gone!? Uh-oh, this one is in trouble...",
-      "hash": "CB0DAE192081024D",
+      "en": "(-Wary Sylph-)Scentpowders and sparklebeads are...gone!? Uh-oh, this one is in trouble...",
+      "hash": "7D6F42A660FDB4F4",
       "unresolved": false,
       "fr": "(-Dénaturé-)Les instruments ont disparu<nbsp>!?<br>Comment ai-je pu les perdre de vue<nbsp>?",
       "ja": "(-悪い子シルフ-)あわわ、なくなってるでふっち？<br>ささ、探さないと怒られるでふっち！",

@@ -1060,8 +1060,8 @@
     },
     {
       "gameKey": "quest/053/KinGwz001_05323#TEXT_KINGWZ001_05323_KOKKOLDANKKOL_000_040",
-      "en": "Well, bugger me! If it ain't <split(<string(gstr1)>, ,1)>!",
-      "hash": "2CA4E82CD73E008F",
+      "en": "(-???-)Well, bugger me! If it ain't <split(<string(gstr1)>, ,1)>!",
+      "hash": "EB7BC86B5E72F576",
       "unresolved": false,
       "fr": "(-???-)Ça pour une coïncidence, c'est une coïncidence\u00A0! Si je m'attendais à vous croiser ici\u00A0!",
       "ja": "(-？？？？-)おいおい、まさかこんなところで、<br>あんたに会えるなんてな！",

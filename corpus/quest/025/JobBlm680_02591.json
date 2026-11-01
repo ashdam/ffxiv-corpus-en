@@ -1434,8 +1434,8 @@
     },
     {
       "gameKey": "quest/025/JobBlm680_02591#TEXT_JOBBLM680_02591_SHATOTTO_000_111",
-      "en": "Beyond <italic(1)>your<italic(0)> understanding, perhaps, but not mine. The golems make for Sohm Al!",
-      "hash": "B094376C433EC79A",
+      "en": "(-Shatotto-)Beyond <italic(1)>your<italic(0)> understanding, perhaps, but not mine. The golems make for Sohm Al!",
+      "hash": "AF8B55FDF38BE8F3",
       "unresolved": false,
       "fr": "(-???-)... Sohm Al. Leur objectif, c'est Sohm Al.",
       "ja": "(-？？？？-)奴らが目指す方向……その目的地がわかりました。<br>霊峰ソーム・アルです……！",

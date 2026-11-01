@@ -610,8 +610,8 @@
     },
     {
       "gameKey": "quest/028/ClsFsh601_02895#TEXT_CLSFSH601_02895_GOVV_000_041",
-      "en": "Pshhh...! Wawalago! What is the meaning of thisss!? Who is this ssstrange shorewalker!?",
-      "hash": "1D35F5F198D6C941",
+      "en": "(-???-)Pshhh...! Wawalago! What is the meaning of thisss!? Who is this ssstrange shorewalker!?",
+      "hash": "8D86C958D67C6FA7",
       "unresolved": false,
       "fr": "(-???-)Fsshhhrrr<nbsp>!! Ccc'est qui, cccel<if(gnum4,le,ui)>-là<nbsp>!?",
       "ja": "(-？？？？-)フスィーッ……貴様、何奴だ！！",

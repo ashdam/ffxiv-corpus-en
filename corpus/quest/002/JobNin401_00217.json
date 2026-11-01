@@ -1720,8 +1720,8 @@
     },
     {
       "gameKey": "quest/002/JobNin401_00217#TEXT_JOBNIN401_00217_GEKKAI_000_302",
-      "en": "Grymuwil lives. Failure of this sort...does not become you, Karasu.",
-      "hash": "7959DFDD93D6DAE0",
+      "en": "(-???-)Grymuwil lives. Failure of this sort...does not become you, Karasu.",
+      "hash": "E04E99134A436FC1",
       "unresolved": false,
       "fr": "(-???-)... Tu as échoué, une fois de plus.",
       "ja": "(-？？？？-)……また、グリムウヴィルを殺しそこねたのか？",
@@ -1772,8 +1772,8 @@
     },
     {
       "gameKey": "quest/002/JobNin401_00217#TEXT_JOBNIN401_00217_GEKKAI_000_304",
-      "en": "Your job is to give me answers, Karasu, not excuses. We can ill afford to let a few stray rats foil our plans. Should they return, kill them.",
-      "hash": "3D437C44A969D9EF",
+      "en": "(-???-)Your job is to give me answers, Karasu, not excuses. We can ill afford to let a few stray rats foil our plans. Should they return, kill them.",
+      "hash": "8D16204379E908AB",
       "unresolved": false,
       "fr": "(-???-)Ne t'ai-je pas appris à te concentrer sur ta mission<nbsp>? Tu ne m'es d'aucune utilité si tu te laisses distraire par de misérables vermisseaux...",
       "ja": "(-？？？？-)お前は、任務に注力してもらわねば困る……。<br>邪魔な鼠と遊んでおらんで、早く殺せ。",
@@ -1798,8 +1798,8 @@
     },
     {
       "gameKey": "quest/002/JobNin401_00217#TEXT_JOBNIN401_00217_GEKKAI_000_306",
-      "en": "This is your final warning. The next time you fail me will be your last.",
-      "hash": "5F039887FB1B0F75",
+      "en": "(-???-)This is your final warning. The next time you fail me will be your last.",
+      "hash": "2C0C8399C06479E4",
       "unresolved": false,
       "fr": "(-???-)Si tu continues à abuser de ma patience, je vais être obligé de t'éliminer.",
       "ja": "(-？？？？-)……従わないのであれば、お前を始末するだけだ。",

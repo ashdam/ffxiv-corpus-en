@@ -544,8 +544,8 @@
     },
     {
       "gameKey": "quest/025/JobSam500_02559#TEXT_JOBSAM500_02559_MUSOSAI_000_031",
-      "en": "Well met, friend. I am Musosai, a samurai of Hingashi.",
-      "hash": "A552F6542BC6CF5C",
+      "en": "(-Musosai-)Well met, friend. I am Musosai, a samurai of Hingashi.",
+      "hash": "818BAD207B372500",
       "unresolved": false,
       "fr": "Tu es mon prochain adversaire, je présume<nbsp>? Mon nom est Musosai. Je suis un samouraï de Hingashi, un pays d'Orient.",
       "ja": "お主が次の挑戦者だな。<br>我が名は「ムソウサイ」と申す。<br>遠くひんがしの国から参った「侍」である。",
@@ -569,8 +569,8 @@
     },
     {
       "gameKey": "quest/025/JobSam500_02559#TEXT_JOBSAM500_02559_MUSOSAI_000_032",
-      "en": "Lest you wonder, samurai are swordsmen of the Far East. Yet know that the swords we wield are unlike those of this land. Katana, they are called, and for our duel I shall lend you such a blade...along with a stone─a talisman of sorts.",
-      "hash": "5576220660D0C406",
+      "en": "(-Musosai-)Lest you wonder, samurai are swordsmen of the Far East. Yet know that the swords we wield are unlike those of this land. Katana, they are called, and for our duel I shall lend you such a blade...along with a stone─a talisman of sorts.",
+      "hash": "625F8BDD56A52570",
       "unresolved": false,
       "fr": "(-Musosai-)Les samouraïs sont des guerriers orientaux dont le style de combat est basé sur le maniement du katana et les techniques qui en découlent. Je vais t'en prêter un, ainsi que cette pierre. N'y vois pas là un vulgaire caillou. Là d'où je viens, c'est une sorte de porte-bonheur.",
       "ja": "(-ムソウサイ-)侍とは「刀」という剣の技を中心とした東方の武人のこと。<br>お主に一振りの刀と、この「魂技石」を貸してやろう。<br>なに、侍が持つお守りのようなものだ。",
@@ -594,8 +594,8 @@
     },
     {
       "gameKey": "quest/025/JobSam500_02559#TEXT_JOBSAM500_02559_MUSOSAI_000_033",
-      "en": "Wear them on your person, and you shall become one of us─at least in appearance if not in sooth.",
-      "hash": "5C6ABCADD59DF868",
+      "en": "(-Musosai-)Wear them on your person, and you shall become one of us─at least in appearance if not in sooth.",
+      "hash": "04DE7C398957CC71",
       "unresolved": false,
       "fr": "(-Musosai-)Si tu t'équipes du katana et de cette pierre, cela ne fera pas de toi un samouraï... mais peut-être en auras-tu au moins l'air.",
       "ja": "(-ムソウサイ-)まずは、これらを身に着けてみよ。<br>形だけでも、侍となれるであろう……。",

@@ -932,8 +932,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx002_05228#TEXT_FESXMX002_05228_GODBERT_000_041",
-      "en": "Ho ho ho! To you who toil to make this Starlight Celebration wonderful, I would present a gift!",
-      "hash": "4089E7B65A483EA5",
+      "en": "(-???-)Ho ho ho! To you who toil to make this Starlight Celebration wonderful, I would present a gift!",
+      "hash": "ECA66207DA4F7E47",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho<nbsp>! Pas de panique, mes braves disciples<nbsp>! Nymeia m'a envoyé pour vous porter assistance<nbsp>!",
       "ja": "(-？？？？-)ホッホッホゥ！<br>星芒祭のため頑張るみなさんにプレゼントですぞ！",
@@ -1088,8 +1088,8 @@
     },
     {
       "gameKey": "quest/052/FesXmx002_05228#TEXT_FESXMX002_05228_SAULINNE_000_047",
-      "en": "Yes, sir!",
-      "hash": "9A7C84FA92F60413",
+      "en": "(-Saulinne and Tenny-)Yes, sir!",
+      "hash": "0168812453467ACD",
       "unresolved": false,
       "fr": "(-Saulinne et Tenny-)Merci, M'sieur le saint<nbsp>!",
       "ja": "(-ソリーヌとテニー-)はーい！",

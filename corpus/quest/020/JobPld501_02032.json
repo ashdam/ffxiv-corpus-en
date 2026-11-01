@@ -810,8 +810,8 @@
     },
     {
       "gameKey": "quest/020/JobPld501_02032#TEXT_JOBPLD501_02032_PAPASHAN_000_042",
-      "en": "Begging your pardons, <split(<string(gstr1)>, ,1)>.",
-      "hash": "CD8D8237A3F76212",
+      "en": "(-???-)Begging your pardons, <split(<string(gstr1)>, ,1)>.",
+      "hash": "F83E4C334FBBD32A",
       "unresolved": false,
       "fr": "(-???-)<if(gnum4,Aventurière,Aventurier)>, puis-je vous parler un instant<nbsp>?",
       "ja": "(-？？？？-)冒険者殿……。<br>ちょっと、いいですかな。",
@@ -836,8 +836,8 @@
     },
     {
       "gameKey": "quest/020/JobPld501_02032#TEXT_JOBPLD501_02032_PAPASHAN_000_043",
-      "en": "Begging your pardons, <split(<string(gstr1)>, ,1)>.",
-      "hash": "7E3EB64B5F67F089",
+      "en": "(-???-)Begging your pardons, <split(<string(gstr1)>, ,1)>.",
+      "hash": "21326109C7947A91",
       "unresolved": false,
       "fr": "(-???-)<if(gnum4,Dame,Sire)> <split(<string(gstr1)>, ,2)>, puis-je vous parler un instant<nbsp>?",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,2)>殿……。<br>ちょっと、いいですかな。",

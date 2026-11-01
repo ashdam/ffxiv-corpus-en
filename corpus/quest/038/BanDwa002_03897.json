@@ -428,8 +428,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa002_03897#TEXT_BANDWA002_03897_OZOGG_000_014",
-      "en": "Who're you calling a hobgoblin!?",
-      "hash": "D209569CF35B2BE5",
+      "en": "(-???-)Who're you calling a hobgoblin!?",
+      "hash": "7C8D0904E000531A",
       "unresolved": false,
       "fr": "(-???-)Hobgobelin toi-même<nbsp>!!!",
       "ja": "(-？？？？-)誰がホブゴブリンだ、コラァ！！！",
@@ -1546,8 +1546,8 @@
     },
     {
       "gameKey": "quest/038/BanDwa002_03897#TEXT_BANDWA002_03897_REGITT_000_100",
-      "en": "Down the hatch!",
-      "hash": "D245A15C5CF17C9A",
+      "en": "(-Regitt and Karutt-)Down the hatch!",
+      "hash": "4C7D9E26C3AB49A6",
       "unresolved": false,
       "fr": "À la nôtre<nbsp>!",
       "ja": "(-レギットとカルット-)乾杯、ラリホー、もう一杯～♪",

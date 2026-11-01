@@ -988,8 +988,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_OKKAKE_000_043",
-      "en": "Gah!",
-      "hash": "F540771D29E3E3DA",
+      "en": "(-???-)Gah!",
+      "hash": "32B1B2E247F61FE6",
       "unresolved": false,
       "fr": "(-Voix familière-)Aaaaah<nbsp>!!!",
       "ja": "(-聞き覚えのある声-)どぅわぁ～！",
@@ -2360,8 +2360,8 @@
     },
     {
       "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_SYSTEM_000_101",
-      "en": "\"You have just been robbed by the Kugane Wolf Burglar!“",
-      "hash": "CC0D3518A9795921",
+      "en": "(-Cheeky Note-)\"You have just been robbed by the Kugane Wolf Burglar!“",
+      "hash": "B81128B07CCE1DDF",
       "unresolved": false,
       "fr": "(-Message mystérieux-)Avec les amitiés du Lupin solitaire<nbsp>!",
       "ja": "(-残された書き置き-)「こそドロ一匹オオカミ、参上！」",

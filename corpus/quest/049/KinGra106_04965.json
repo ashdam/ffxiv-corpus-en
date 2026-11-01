@@ -1720,8 +1720,8 @@
     },
     {
       "gameKey": "quest/049/KinGra106_04965#TEXT_KINGRA106_04965_GABBRO_000_153",
-      "en": "Ah, there is our new light-heavyweight champion! I have been most eager to talk to you, my friend.",
-      "hash": "61AB39EDAD8920F0",
+      "en": "(-???-)Ah, there is our new light-heavyweight champion! I have been most eager to talk to you, my friend.",
+      "hash": "DB971DBA8426A7F5",
       "unresolved": false,
       "fr": "(-???-)Fé<->li<->ci<->ta<->tions pour votre titre de champion<if(gnum4,ne,)> de la catégorie des poids mi-lourds<nbsp>! J'aimerais que vous m'accordiez une interview<nbsp>!",
       "ja": "(-？？？？-)初戴冠、おめでとう！<br>ライトヘビー級、新王者のキミをぜひ取材させてほしい……！",

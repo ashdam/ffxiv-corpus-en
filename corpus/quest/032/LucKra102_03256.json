@@ -1642,8 +1642,8 @@
     },
     {
       "gameKey": "quest/032/LucKra102_03256#TEXT_LUCKRA102_03256_RYNE_000_095",
-      "en": "Be careful! Huge amounts of aether are rushing to the core! Wait... What's that!?",
-      "hash": "3F8B481BA0AF7C46",
+      "en": "(-Ryne-)Be careful! Huge amounts of aether are rushing to the core! Wait... What's that!?",
+      "hash": "0E748CE37C5625F3",
       "unresolved": false,
       "fr": "(-Voix de Ryne-)<split(<string(gstr1)>, ,1)><nbsp>! Vous m'entendez<nbsp>!? Je sens de l'énergie qui se concentre dans le Cœur d'Éden, juste là où vous êtes<nbsp>! On dirait... un clone d'Éden...<nbsp>!? Faites attention<nbsp>!",
       "ja": "(-リーンの声-)エデンコアに、急速に力が集まっています……！<br>これは……エデンの分身……！？<br><split(<string(gstr1)>, ,1)>さん、気をつけて！",

@@ -714,8 +714,8 @@
     },
     {
       "gameKey": "quest/021/FesAnv101_02134#TEXT_FESANV101_02134_WANDERINGMINSTREL_000_061",
-      "en": "Alas no, my dear... We are not free of the pests yet.",
-      "hash": "C19DFDAAF2D9615B",
+      "en": "(-???-)Alas no, my dear... We are not free of the pests yet.",
+      "hash": "B8F3C4028C954420",
       "unresolved": false,
       "fr": "(-???-)Mal<->heu<->reu<->se<->ment, il est encore trop tôt pour se réjouir. Nous ne sommes pas com<->plè<->te<->ment débarrassés de cette vermine.",
       "ja": "(-？？？？-)……いや、まだだ。<br>残念ながら、まだ危機は去っていない。",
@@ -1939,8 +1939,8 @@
     },
     {
       "gameKey": "quest/021/FesAnv101_02134#TEXT_FESANV101_02134_YOSHIDANAOKI_000_250",
-      "en": "Greetings, Warrior of Light. You have arrived on the Eighteenth Floor.",
-      "hash": "2F93D34932729ADC",
+      "en": "(-???-)Greetings, Warrior of Light. You have arrived on the Eighteenth Floor.",
+      "hash": "6FF1E4F44A1516E1",
       "unresolved": false,
       "fr": "(-???-)Salutations, <if(gnum4,Guerrière,Guerrier)> de la Lumière. Vous vous trouvez dans la salle des développeurs.",
       "ja": "(-？？？？-)光の戦士よ。<br>ようこそ、「かいはつしつ」へ……。",
@@ -1964,8 +1964,8 @@
     },
     {
       "gameKey": "quest/021/FesAnv101_02134#TEXT_FESANV101_02134_YOSHIDANAOKI_000_251",
-      "en": "This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
-      "hash": "98E9DA7D787BF0EA",
+      "en": "(-???-)This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.",
+      "hash": "4B20BA2862208AFF",
       "unresolved": false,
       "fr": "(-???-)Cette dimension existe en dehors de votre réalité. Est-ce un rêve<nbsp>? Ou peut-être une illusion, fruit de votre imagination<nbsp>? À moins que...",
       "ja": "(-？？？？-)ここは、現し世とは異なる世界……。<br>目にしているものはすべて、君の夢や幻かもしれないし、<br>そうじゃないかもしれない……。",
@@ -1989,8 +1989,8 @@
     },
     {
       "gameKey": "quest/021/FesAnv101_02134#TEXT_FESANV101_02134_YOSHIDANAOKI_000_252",
-      "en": "All those you see here are creators of incredible fervor. And every single speck of energy and passion they possess is forever channeled towards your realm─towards Eorzea!",
-      "hash": "8C2BC882B2733580",
+      "en": "(-???-)All those you see here are creators of incredible fervor. And every single speck of energy and passion they possess is forever channeled towards your realm─towards Eorzea!",
+      "hash": "1BA284ED08DC35D5",
       "unresolved": false,
       "fr": "(-???-)Toutes les personnes qui se trouvent ici ont en commun un formidable esprit créatif, et la ferveur qu'elles mettent dans leur passion. Chacun de leurs efforts est consenti pour le bien de votre monde, pour Éorzéa<nbsp>!",
       "ja": "(-？？？？-)ここに集いしは、ものづくりに強き情熱を持つ者たち。<br>そして、その情熱は、君の住まう地……<br>エオルゼアへと向けられているんだ！",

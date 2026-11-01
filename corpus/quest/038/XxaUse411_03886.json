@@ -582,8 +582,8 @@
     },
     {
       "gameKey": "quest/038/XxaUse411_03886#TEXT_XXAUSE411_03886_SHINOBI00079_000_174",
-      "en": "Greetings, good sir. Might I interest you in some Mun<-->Tuy tonic? A cup a day imbues a man with great <italic(1)>vigor<italic(0)>, if you take my meaning. Heh heh...",
-      "hash": "266A36C14DFAF445",
+      "en": "(-Peddler-)Greetings, good sir. Might I interest you in some Mun<-->Tuy tonic? A cup a day imbues a man with great <italic(1)>vigor<italic(0)>, if you take my meaning. Heh heh...",
+      "hash": "8E94255973DCB958",
       "unresolved": false,
       "fr": "(-Marchand ambulant-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)> <if([gnum11<12],<if([gnum11<4],bonsoir,bonjour)>,<if([gnum11<17],bonjour,bonsoir)>)>, mon beau monsieur. Puis-je vous proposer du tonifiant de Mun-Tuy<nbsp>? Buvez-en un verre par jour pendant une semaine et vous jouirez de meilleures performances physiques, si vous voyez ce que je veux dire... Hé hé hé<nbsp>!",
       "ja": "(-商人らしい男-)お客人……。<br>グリダニア名物「ムントゥイ豆乳」はいかがかね？",

@@ -2254,8 +2254,8 @@
     },
     {
       "gameKey": "quest/047/BanAll310_04787#TEXT_BANALL310_04787_ACALA_000_092",
-      "en": "No. Trna race.",
-      "hash": "ADEBDAEAF0018FE0",
+      "en": "(-???-)No. Trna race.",
+      "hash": "870B67D9FEF60AC2",
       "unresolved": false,
       "fr": "(-???-)Acala veut que Trna participe à la course<nbsp>!",
       "ja": "(-？？？？-)オデ、トルナに、レース参加してほしい。",
@@ -3474,8 +3474,8 @@
     },
     {
       "gameKey": "quest/047/BanAll310_04787#TEXT_BANALL310_04787_N7000_000_142",
-      "en": "Affirmative. Several shrill life-forms have come bearing word of a “hippo hustle” to take place in the nekropolis. As serving units have automatically initialized advertising protocols, this unit requests swift confirmation that these reports are accurate.",
-      "hash": "C7EFD02D60F8355B",
+      "en": "(-N-7000-)Affirmative. Several shrill life-forms have come bearing word of a “hippo hustle” to take place in the nekropolis. As serving units have automatically initialized advertising protocols, this unit requests swift confirmation that these reports are accurate.",
+      "hash": "36EB09EC3E99FBAE",
       "unresolved": false,
       "fr": "(-Voix de N-7000-)Bip bip... Pshhh... Communication établie. J'ai été informé du résultat de vos recherches par trois petites boules de poils alliées. L'annonce de la tenue d'une course a bien été relayée aux clients du café.",
       "ja": "(-N-7000-)ガガガ……通信機との接続を確認。<br>毛むくじゃら有機生命体3名の接近を検知したため、<br>経緯を聴取、カフェの顧客にもレースの件を共有済みです。",
@@ -3552,8 +3552,8 @@
     },
     {
       "gameKey": "quest/047/BanAll310_04787#TEXT_BANALL310_04787_N7000_000_145",
-      "en": "Acknowl...ed...",
-      "hash": "7BA0DE1BD85A9587",
+      "en": "(-N-7000-)Acknowl...ed...",
+      "hash": "077EA1A995F06FEE",
       "unresolved": false,
       "fr": "(-Voix de N-7000-)Bip bip... Bien re... çu...",
       "ja": "(-N-7000-)ガガガ……承知し……",
@@ -3604,8 +3604,8 @@
     },
     {
       "gameKey": "quest/047/BanAll310_04787#TEXT_BANALL310_04787_N7000_000_147",
-      "en": "Prioritizing request for managerial assistance on the customer service front. Ending transmission.",
-      "hash": "6EE4FEC8642D46D6",
+      "en": "(-N-7000-)Prioritizing request for managerial assistance on the customer service front. Ending transmission.",
+      "hash": "54B3FB781844B110",
       "unresolved": false,
       "fr": "(-Voix de N-7000-)Pshhh... Anomalie détectée dans le processus de gestion du café. Fin de la communication pour maximiser l'efficience de la correction en cours.",
       "ja": "(-N-7000-)ガガガ……カフェ運営戦線に異状を確認。<br>対応を優先するため通信を切断。",

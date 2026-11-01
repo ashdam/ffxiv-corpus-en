@@ -796,8 +796,8 @@
     },
     {
       "gameKey": "quest/041/AktKba501_04126#TEXT_AKTKBA501_04126_AYMERIC_000_021",
-      "en": "Allow me to echo that sentiment.",
-      "hash": "80F508A2902D8B1B",
+      "en": "(-Aymeric-)Allow me to echo that sentiment.",
+      "hash": "9AE8D2E320E74EA0",
       "unresolved": false,
       "fr": "(-Voix d'Aymeric-)Je n'aurais pas su mieux dire. Bienvenue à Ishgard, mon ami<if(gnum4,e,)>.",
       "ja": "(-アイメリクの声-)ああ。<br>要請に応じてくれたこと、感謝する。",
@@ -1602,8 +1602,8 @@
     },
     {
       "gameKey": "quest/041/AktKba501_04126#TEXT_AKTKBA501_04126_VARTINOIX_000_069",
-      "en": "Praise the Fury that you, at least, were spared, Deacon Clem. I cannot imagine how frightening the experience must have been.",
-      "hash": "D1CCC348B34C1841",
+      "en": "(-???-)Praise the Fury that you, at least, were spared, Deacon Clem. I cannot imagine how frightening the experience must have been.",
+      "hash": "15AD0AFE20B777B0",
       "unresolved": false,
       "fr": "(-???-)Il y a au moins une personne qui semble immunisée face à cette sorcellerie, et c'est vous, Diacre Clem. Je n'ose imaginer à quel point votre âme a dû souffrir en voyant vos camarades se changer en démons...",
       "ja": "(-？？？？-)クレム助祭、あなただけでも無事で本当に良かった。<br>同志たちが人ならざるものに変貌するのは、<br>さぞ恐ろしかったでしょう。",
@@ -2486,8 +2486,8 @@
     },
     {
       "gameKey": "quest/041/AktKba501_04126#TEXT_AKTKBA501_04126_ISHGARDIAN04126_000_130",
-      "en": "Ahhhhhh! H-Halone preserve!",
-      "hash": "63E6898F1B77C371",
+      "en": "(-Frightened Nun-)Ahhhhhh! H-Halone preserve!",
+      "hash": "C70624626F800878",
       "unresolved": false,
       "fr": "(-Religieuse effrayée-)KYAAAAAAAHHH<nbsp>!!!",
       "ja": "(-怯えた様子の修道女-)イヤアアアァァァァァッ！！！",

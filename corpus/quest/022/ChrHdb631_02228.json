@@ -710,8 +710,8 @@
     },
     {
       "gameKey": "quest/022/ChrHdb631_02228#TEXT_CHRHDB631_02228_EDMONT_000_029",
-      "en": "<if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,2)>? Inspector Cyr? What is all this commotion? We can hear you from the courtyard...",
-      "hash": "2C0DB339F096600E",
+      "en": "(-???-)<if(gnum4,Mistress,Master)> <split(<string(gstr1)>, ,2)>? Inspector Cyr? What is all this commotion? We can hear you from the courtyard...",
+      "hash": "A2A4AB0137A9FB8A",
       "unresolved": false,
       "fr": "(-???-)Moi qui me demandais d'où venait tout ce remue-ménage... J'aurais dû me douter que c'était vous.",
       "ja": "(-？？？？-)おやおや、なにやら賑やかだと思ったら……<br>あなたたちでしたか。",

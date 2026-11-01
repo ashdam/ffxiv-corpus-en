@@ -380,8 +380,8 @@
     },
     {
       "gameKey": "quest/049/KinGra103_04962#TEXT_KINGRA103_04962_YAANA_000_104",
-      "en": "In short, there's nothing lovely about her. Despite what she might claim, you're in for a bad time.",
-      "hash": "4A24A87CD5CF0239",
+      "en": "(-Black Cat-)In short, there's nothing lovely about her. Despite what she might claim, you're in for a bad time.",
+      "hash": "DFC7964C35028934",
       "unresolved": false,
       "fr": "(-Black Cat-)Metem a raison<nbsp>! Honey est une combattante bien plus coriace que son apparence peut le laisser paraîtrrre. Ça risque d'être très compliqué pour toi cette fois, si tu veux mon avis.",
       "ja": "(-ブラックキャット-)ハニー・Ｂは厄介だよ～。<br>今度はさすがに苦戦しちゃうかもね～。",
@@ -764,8 +764,8 @@
     },
     {
       "gameKey": "quest/049/KinGra103_04962#TEXT_KINGRA103_04962_YAANA_000_138",
-      "en": "I'm Yaana. I look forward to working together!",
-      "hash": "654602AB49131DD8",
+      "en": "(-Yaana-)I'm Yaana. I look forward to working together!",
+      "hash": "D1649DBF6786724F",
       "unresolved": false,
       "fr": "(-Yaana-)Je m'appelle Yaana. Enchantée, <split(<string(gstr1)>, ,1)>. Compte sur moi pour t'aider de mon mieux en tant qu'assistante<nbsp>!",
       "ja": "(-ヤーナ-)私は「ヤーナ」、これからどうぞよろしくね！",

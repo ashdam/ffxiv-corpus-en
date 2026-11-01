@@ -506,8 +506,8 @@
     },
     {
       "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_DELITAHEIRAL_000_050",
-      "en": "Ramza, dead!? You lie about as well as you carry yourself in battle, Orran.",
-      "hash": "0011EDF9C122F25C",
+      "en": "(-???-)Ramza, dead!? You lie about as well as you carry yourself in battle, Orran.",
+      "hash": "02268F533A9B5DFA",
       "unresolved": false,
       "fr": "(-???-)Qu'est-ce que j'entends, Orran<nbsp>? Ramza est mort<nbsp>!? Non... Je t'en supplie, dis-moi que ce n'est pas vrai<nbsp>!!",
       "ja": "(-？？？？-)そんな……まさか……ラムザが死んだ……だと！？<br>おまえは何を言ってるんだ、オーラン？<br>嘘だと言ってくれ……？",
@@ -3002,8 +3002,8 @@
     },
     {
       "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_MONTBLANC_000_353",
-      "en": "Mothercrystal clear, kupo!",
-      "hash": "5FCBA6ABBF635AF8",
+      "en": "(-Montblanc and Hurdy-)Mothercrystal clear, kupo!",
+      "hash": "40DCE37AD988DC5E",
       "unresolved": false,
       "fr": "(-Montblanc & Luth-)Tous nos sens sont en éveil, kupo<nbsp>!",
       "ja": "(-モンブラン&ハーディ-)わかってるクポ！！<br>頑張るクポ～！！",

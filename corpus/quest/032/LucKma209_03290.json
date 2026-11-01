@@ -428,8 +428,8 @@
     },
     {
       "gameKey": "quest/032/LucKma209_03290#TEXT_LUCKMA209_03290_KAISHIRR_000_017",
-      "en": "Ah...ugh... Aaarrrggghhh!",
-      "hash": "3D48385E1A4A7563",
+      "en": "(-Screaming Man-)Ah...ugh... Aaarrrggghhh!",
+      "hash": "4D0BB6FF27BAC566",
       "unresolved": false,
       "fr": "(-Voix d'adolescent-)Aaah... Urgh... Aaarrrggghhh<nbsp>!!!",
       "ja": "(-男性の悲鳴-)う、ぐ、あああぁぁ……ッ！",
@@ -1232,8 +1232,8 @@
     },
     {
       "gameKey": "quest/032/LucKma209_03290#TEXT_LUCKMA209_03290_DULIACHAI_000_083",
-      "en": "\\<huff> Alph... \\<puff> Alphinaud!",
-      "hash": "6EED865357B0FAF2",
+      "en": "(-???-)\\<huff> Alph... \\<puff> Alphinaud!",
+      "hash": "6483EDEE47E62BE1",
       "unresolved": false,
       "fr": "(-???-)(souffle) Alph... (souffle)... Alphinaud<nbsp>!",
       "ja": "(-？？？？-)ぜぇ、はぁ……アルフィノちゃん！",

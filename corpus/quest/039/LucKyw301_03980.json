@@ -5650,8 +5650,8 @@
     },
     {
       "gameKey": "quest/039/LucKyw301_03980#TEXT_LUCKYW301_03980_ELEZENBOY03980_600_458",
-      "en": "B-Burn out the bad... Burn out the bad!",
-      "hash": "818CD79B1742FA83",
+      "en": "(-Elezen Ward-)B-Burn out the bad... Burn out the bad!",
+      "hash": "2F9FCD52D108FC64",
       "unresolved": false,
       "fr": "(-Jeune garçon-)Allez... C-courage<nbsp>!",
       "ja": "(-エレゼン族の少年-)が……がーんばれ、がーんばれッ！",
@@ -5676,8 +5676,8 @@
     },
     {
       "gameKey": "quest/039/LucKyw301_03980#TEXT_LUCKYW301_03980_VALENSVANVARRO_700_458",
-      "en": "Burn out the bad! Burn out the bad!",
-      "hash": "27531159BE5AD9AA",
+      "en": "(-Valens's Wards-)Burn out the bad! Burn out the bad!",
+      "hash": "E46052B5B822367F",
       "unresolved": false,
       "fr": "(-Enfants de Valens-)Allez<nbsp>! Chasse le mal<nbsp>! Allez<nbsp>!",
       "ja": "(-ウァレンスと子どもたち-)がーんばれ、がーんばれッ！",
@@ -5936,8 +5936,8 @@
     },
     {
       "gameKey": "quest/039/LucKyw301_03980#TEXT_LUCKYW301_03980_MECHANIC03980_100_463",
-      "en": "Lord Valens, preparations for the Oversoul trial are complete. We await your orders.",
-      "hash": "3B7BE3F456C9C96B",
+      "en": "(-Valens's Second-in-command-)Lord Valens, preparations for the Oversoul trial are complete. We await your orders.",
+      "hash": "13E6553F76C70676",
       "unresolved": false,
       "fr": "(-Lieutenant de Valens-)Seigneur Valens, les préparatifs de l'Arme-01 sont terminés. Il est temps de procéder aux essais du mode de superposition psychique.",
       "ja": "(-ウァレンスの副官-)ウァレンス様、<br>I号機のオーバーソウルモード起動試験のお時間です。",
@@ -6404,8 +6404,8 @@
     },
     {
       "gameKey": "quest/039/LucKyw301_03980#TEXT_LUCKYW301_03980_SYSTEM_000_475",
-      "en": "Galvus combat sample ready.<br>Initiating organic core overwrite.",
-      "hash": "07A50D9538E8558D",
+      "en": "(-VIIth Legion Senior Engineer-)Galvus combat sample ready.<br>Initiating organic core overwrite.",
+      "hash": "CF59DADA48DA78D0",
       "unresolved": false,
       "fr": "(-Système d'auralithe factice-)Données de combat, code<nbsp>: Zenos yae Galvus... Préparation terminée.<br>Séquence de réécriture du cœur engagée.",
       "ja": "(-疑似聖石システム-)戦闘データ、コード「ゼノス・イェー・ガルヴァス」……スタンバイ。<br>生体コアの「上書き」を開始します。",

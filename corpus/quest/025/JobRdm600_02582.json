@@ -1348,8 +1348,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm600_02582#TEXT_JOBRDM600_02582_XRHUNTIA_000_252",
-      "en": "<italic(1)>Very good. I've just finished mopping up the flanking group, and will take up position near the airship.<italic(0)>",
-      "hash": "BD1C694181776D9B",
+      "en": "(-X'rhun Tia-)<italic(1)>Very good. I've just finished mopping up the flanking group, and will take up position near the airship.<italic(0)>",
+      "hash": "D5AE35CFE3C04B82",
       "unresolved": false,
       "fr": "(-X'rhun Tia-)Bien joué, les <if(gnum4,amies,amis)><nbsp>! J'en ai fini de mon côté, je me dépêche de vous rejoindre au Gardien du lac<nbsp>!",
       "ja": "(-シ・ルン・ティア-)上首尾だ、<split(<string(gstr1)>, ,1)>！<br>こっちもあらかた片づけたトコだ。<br>次は、飛空艇が停泊している「黙約の塔」付近へ向かう。",
@@ -1374,8 +1374,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm600_02582#TEXT_JOBRDM600_02582_XRHUNTIA_000_253",
-      "en": "<italic(1)>We continue with the charade for now. Make to board the airship as planned─<split(<string(gstr1)>, ,1)> and I will conceal ourselves nearby until Lambard makes his move.<italic(0)>",
-      "hash": "A5E69446F1CE6C0D",
+      "en": "(-X'rhun Tia-)<italic(1)>We continue with the charade for now. Make to board the airship as planned─<split(<string(gstr1)>, ,1)> and I will conceal ourselves nearby until Lambard makes his move.<italic(0)>",
+      "hash": "2AF2578721EE365B",
       "unresolved": false,
       "fr": "(-X'rhun Tia-)À vue de nez, je dirais que Lambard est à court d'assassins. Il va devoir venir en personne achever sa besogne, et nous n'aurons alors plus qu'à le cueillir<nbsp>!",
       "ja": "(-シ・ルン・ティア-)ランバードの手駒は、ほとんど残っちゃいないはずだ！<br>直接手を下すため、ヤツは必ず出てくる。",
@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm600_02582#TEXT_JOBRDM600_02582_XRHUNTIA_000_254",
-      "en": "<italic(1)>He should have few of his puppets left, and will be forced to take action directly. That's when we strike─together!<italic(0)>",
-      "hash": "EC810D24756F4B5C",
+      "en": "(-X'rhun Tia-)<italic(1)>He should have few of his puppets left, and will be forced to take action directly. That's when we strike─together!<italic(0)>",
+      "hash": "3A0E25104A135BF2",
       "unresolved": false,
       "fr": "(-X'rhun Tia-)<split(<string(gstr1)>, ,1)>, trouve-toi une cachette près de l'aéronef, j'en ferai de même. Arya, essaie d'arriver d'un pas nonchalant, comme si tu ne te doutais de rien... Bonne chance<nbsp>!",
       "ja": "(-シ・ルン・ティア-)アリアは素知らぬ顔で、飛空艇の方へ向かってくれ！<br><split(<string(gstr1)>, ,1)>は付近の物陰で待機。<br>オレも近くで、ランバードを待ち伏せる！",

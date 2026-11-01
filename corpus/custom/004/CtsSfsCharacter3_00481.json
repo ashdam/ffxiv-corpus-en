@@ -854,8 +854,8 @@
     },
     {
       "gameKey": "custom/004/CtsSfsCharacter3_00481#TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_JIKKAN_002_001",
-      "en": "And this is a source of delight for you, Hisui? Placing one's trust in land-dwellers... I cannot think of a greater folly. It will not do for this sentiment to spread.",
-      "hash": "7D9CC9D5DA6EEDCC",
+      "en": "(-???-)And this is a source of delight for you, Hisui? Placing one's trust in land-dwellers... I cannot think of a greater folly. It will not do for this sentiment to spread.",
+      "hash": "BE0C470D1275D25F",
       "unresolved": false,
       "fr": "(-???-)Je ne vois pas ce qu'il y a de réjouissant là-dedans, Hisui. Ce que je constate, c'est que de plus en plus de gens se détournent de notre mode de vie séculaire. Je savais bien que c'était pure folie que de faire confiance à ces <if(gnum4,étrangères,étrangers)>.",
       "ja": "(-？？？？-)「ヒスイ」よ、何がそんなに嬉しい。<br>陸者に頼ることが、どれほど愚かなことか……。<br>我らの生き様を軽んじる者が多いのは困ったものだ。",
@@ -1158,8 +1158,8 @@
     },
     {
       "gameKey": "custom/004/CtsSfsCharacter3_00481#TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_JIKKAN_003_002",
-      "en": "That will be enough, Princess.",
-      "hash": "231501CFAD606806",
+      "en": "(-???-)That will be enough, Princess.",
+      "hash": "D377CF3F7069CB23",
       "unresolved": false,
       "fr": "(-???-)Il suffit, Princesse.",
       "ja": "(-？？？？-)いいえ、そこまでですぞ。<br>「紅玉姫」様……！",

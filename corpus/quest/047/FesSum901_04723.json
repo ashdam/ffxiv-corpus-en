@@ -661,8 +661,8 @@
     },
     {
       "gameKey": "quest/047/FesSum901_04723#TEXT_FESSUM901_04723_MOB_000_021",
-      "en": "Get yer bloody hands off of my goods!",
-      "hash": "D185060EECC1B245",
+      "en": "(-Surly Voice-)Get yer bloody hands off of my goods!",
+      "hash": "F3A090CD132985AF",
       "unresolved": false,
       "fr": "(-Voix gutturale d'homme-)Eh, garçon<nbsp>! Éloigne-toi de mes mar<->chan<->di<->ses tout de suite ou je t'en colle une<nbsp>!",
       "ja": "(-野太い男の声-)何だアンタ、俺の荷物から離れてくれ！",
@@ -686,8 +686,8 @@
     },
     {
       "gameKey": "quest/047/FesSum901_04723#TEXT_FESSUM901_04723_LYONELL_000_022",
-      "en": "S-S-Sorry, terribly sorry! I only thought to help... The crates looked awfully heavy, you see...",
-      "hash": "6F95CF5EE07735EC",
+      "en": "(-Tremulous Youth-)S-S-Sorry, terribly sorry! I only thought to help... The crates looked awfully heavy, you see...",
+      "hash": "0B752FA07694CA94",
       "unresolved": false,
       "fr": "(-Jeune homme tremblotant-)P-p-p-pardon, pardon, Messire<nbsp>! Je vous présente toutes mes excuses<nbsp>! Je... Ça a l'air vachement lourd, ce que vous transportez là, alors je me suis dit que...",
       "ja": "(-オドオドした男-)すすすすみません、すみません！<br>よかれと思ったんですが、ごめんなさい……<br>その、重そうに見えたので、手伝えればと……。",
@@ -711,8 +711,8 @@
     },
     {
       "gameKey": "quest/047/FesSum901_04723#TEXT_FESSUM901_04723_LYONELL_000_023",
-      "en": "B-But you're right to be wroth at me! Yes, for why would you need <italic(1)>my<italic(0)> aid, with my arms thinner than sprouting reeds... I see the error of my ways. I shall shovel buffalo dung as punishment!",
-      "hash": "DC6ABB5E9ED523E2",
+      "en": "(-Tremulous Youth-)B-But you're right to be wroth at me! Yes, for why would you need <italic(1)>my<italic(0)> aid, with my arms thinner than sprouting reeds... I see the error of my ways. I shall shovel buffalo dung as punishment!",
+      "hash": "346446B999EEDA5E",
       "unresolved": false,
       "fr": "(-Jeune homme tremblotant-)Enfin, j'ai compris le message... Vous n'avez pas envie de recevoir l'aide d'une vulgaire moussemousse comme moi, voilà tout... Excusez-moi d'avoir été aussi présomptueux. Je vais me faire fouetter le derrière par la queue d'un buffle de ce pas pour expier ma faute...",
       "ja": "(-オドオドした男-)うう、でも確かに……俺みたいなへっぽこ<ruby(苔並み,モスモス)>冒険者になんて、<br>手伝われたくないですよね……でしゃばってすみません。<br>迷惑の償いに、バッファローに蹴られて反省してきます……。",

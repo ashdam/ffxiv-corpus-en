@@ -3984,8 +3984,8 @@
     },
     {
       "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_344",
-      "en": "Ah, you were right about the ship, then. Hello, G'raha, it's nice to see you again!",
-      "hash": "9DA2F0FFF8273529",
+      "en": "(-???-)Ah, you were right about the ship, then. Hello, G'raha, it's nice to see you again!",
+      "hash": "8CD200D632FD9F0C",
       "unresolved": false,
       "fr": "(-???-)Bienvenue à vous trois<nbsp>! Ça faisait longtemps, G'raha<nbsp>!",
       "ja": "(-？？？？-)あ～、おかえりぃ～。<br>グ・ラハは久しぶりだねぇ～。",
@@ -4010,8 +4010,8 @@
     },
     {
       "gameKey": "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_OJIKATSUNJIKA_000_345",
-      "en": "And it's a pleasure to finally meet <italic(1)>you<italic(0)>, <split(<string(gstr1)>, ,1)>. I've heard many a tale of your exploits.",
-      "hash": "433F2266934BC01A",
+      "en": "(-???-)And it's a pleasure to finally meet <italic(1)>you<italic(0)>, <split(<string(gstr1)>, ,1)>. I've heard many a tale of your exploits.",
+      "hash": "62C1E812DDE16894",
       "unresolved": false,
       "fr": "(-???-)Enchanté de faire votre con<->nais<->san<->ce, <split(<string(gstr1)>, ,1)><nbsp>! J'ai beaucoup entendu parler de vous.",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,1)>さんは、はじめましてぇ～。<br>お噂はかねがねぇ～。",

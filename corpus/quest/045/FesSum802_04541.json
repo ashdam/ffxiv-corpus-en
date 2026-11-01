@@ -878,8 +878,8 @@
     },
     {
       "gameKey": "quest/045/FesSum802_04541#TEXT_FESSUM802_04541_BEAUDEFOIN_000_019",
-      "en": "My, that is some <italic(1)>remarkable<italic(0)> gumption you have there little miss! Alas, I'm afraid children may not, under absolutely any circumstances, participate in the competition.",
-      "hash": "F1B28C15859AAA0F",
+      "en": "(-???-)My, that is some <italic(1)>remarkable<italic(0)> gumption you have there little miss! Alas, I'm afraid children may not, under absolutely any circumstances, participate in the competition.",
+      "hash": "15E5D8E022215F76",
       "unresolved": false,
       "fr": "(-???-)Hop là, la demoiselle<nbsp>! J'admire ta bravoure, mais les enfants n'ont pas le droit de participer<nbsp>! Question de sécurité.",
       "ja": "(-？？？？-)おーいえぇい、お嬢ちゃん！<br>その覚悟は認めるが、安全性の問題で、<br>お子様の挑戦は、ご遠慮くださいってなぁ！",
@@ -904,8 +904,8 @@
     },
     {
       "gameKey": "quest/045/FesSum802_04541#TEXT_FESSUM802_04541_BEAUDEFOIN_000_020",
-      "en": "I hope you don't mind, but I overheard your conversation. My opinion? You're a pathetic excuse for an adventurer, R'fhul. Just awful.",
-      "hash": "8B24AD16CA86038E",
+      "en": "(-Beaudefoin-)I hope you don't mind, but I overheard your conversation. My opinion? You're a pathetic excuse for an adventurer, R'fhul. Just awful.",
+      "hash": "0D7288FEF2CE0192",
       "unresolved": false,
       "fr": "J'ai entendu votre discussion... R'fhul Tia, tu nous as habitués à mieux pour un aventurier confirmé.",
       "ja": "(-ボドゥフォアン-)話は聞いていたが……<br>ル・フル・ティア、お前、<br>一人前の冒険者にしちゃあ、情けねえな。",
@@ -956,8 +956,8 @@
     },
     {
       "gameKey": "quest/045/FesSum802_04541#TEXT_FESSUM802_04541_BEAUDEFOIN_000_022",
-      "en": "Just listen to yourself, lad. You want to know what your problem is? Vanity. You've lost sight of what's truly important.",
-      "hash": "13403594920E1BC0",
+      "en": "(-Beaudefoin-)Just listen to yourself, lad. You want to know what your problem is? Vanity. You've lost sight of what's truly important.",
+      "hash": "0AB9A3969F22F1A6",
       "unresolved": false,
       "fr": "Tu recommences avec ça<nbsp>? La classe ceci, la classe cela, tu n'as que ce mot à la bouche<nbsp>? Tu oublies le plus important.",
       "ja": "(-ボドゥフォアン-)それだよ、それ。<br>てめえ、自分の格好ばかり気にして、<br>本当に大切なモノ、忘れてねえか？",
@@ -982,8 +982,8 @@
     },
     {
       "gameKey": "quest/045/FesSum802_04541#TEXT_FESSUM802_04541_BEAUDEFOIN_000_023",
-      "en": "Think back. Try to recall what Haermaga and I taught you─what it was that you admired about <split(<string(gstr1)>, ,1)> in the first place.",
-      "hash": "6374C5C05F5C65F2",
+      "en": "(-Beaudefoin-)Think back. Try to recall what Haermaga and I taught you─what it was that you admired about <split(<string(gstr1)>, ,1)> in the first place.",
+      "hash": "8F9A6F0AEA248D0C",
       "unresolved": false,
       "fr": "Souviens-toi un peu de ce que Haermaga et moi t'avons appris. De la raison pour laquelle tu admires <split(<string(gstr1)>, ,1)>.",
       "ja": "(-ボドゥフォアン-)もういっぺん、思い出してみろ。<br>俺やヘールマガが教えたことや、<br><split(<string(gstr1)>, ,1)>に憧れた理由をな。",

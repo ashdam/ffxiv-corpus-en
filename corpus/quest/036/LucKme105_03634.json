@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_ALISAIE_000_072",
-      "en": "Alphinaud, <split(<string(gstr1)>, ,1)>! Come up here! There's something I need you to see!",
-      "hash": "B9C55746C13C19E3",
+      "en": "(-Alisaie-)Alphinaud, <split(<string(gstr1)>, ,1)>! Come up here! There's something I need you to see!",
+      "hash": "9FB5312649F43F19",
       "unresolved": false,
       "fr": "(-Alisaie-)Alphinaud<nbsp>! <split(<string(gstr1)>, ,1)><nbsp>! Venez voir<nbsp>!",
       "ja": "(-アリゼー-)アルフィノ！\u3000<split(<string(gstr1)>, ,1)>！<br>ちょっとこっちに来て！",
@@ -1444,8 +1444,8 @@
     },
     {
       "gameKey": "quest/036/LucKme105_03634#TEXT_LUCKME105_03634_TRISTOL_000_145",
-      "en": "I say, aren't you the ones who saved my life?",
-      "hash": "144499AC254221CC",
+      "en": "(-???-)I say, aren't you the ones who saved my life?",
+      "hash": "505D5B244A24B8C3",
       "unresolved": false,
       "fr": "(-???-)P-pincez-moi, je rêve<nbsp>! Mes sauveurs, ici<nbsp>!?",
       "ja": "(-？？？？-)も、もしや……あなた方は、以前私を助けてくださった……！",

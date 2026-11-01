@@ -636,8 +636,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa106_03946#TEXT_LUCKSA106_03946_MIKOTO_000_080",
-      "en": "Initiating the data collection protocol.",
-      "hash": "D0D6D738FB035872",
+      "en": "(-Mikoto-)Initiating the data collection protocol.",
+      "hash": "C8E09E5259BF4F8C",
       "unresolved": false,
       "fr": "(-Mikoto-)Bien reçu, <split(<string(gstr1)>, ,1)>. Nous allons procéder à l'activation. Patientez un instant, s'il vous plaît.",
       "ja": "(-ミコト-)……ご連絡をありがとうございます。<br>それでは、こちらから遠隔操作で装置を起動しますね。",
@@ -662,8 +662,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa106_03946#TEXT_LUCKSA106_03946_MIKOTO_000_081",
-      "en": "We've confirmed activity on our end. The sensor has burrowed into the ground, yes?",
-      "hash": "9036F76C2359E225",
+      "en": "(-Mikoto-)We've confirmed activity on our end. The sensor has burrowed into the ground, yes?",
+      "hash": "75E12D51B8C00E92",
       "unresolved": false,
       "fr": "(-Mikoto-)La mise en route s'est bien passée donc<nbsp>? Ah, nous commençons à recevoir des données... Pouvez-vous me confirmer que l'éthéromètre s'est bien camouflé dans le sol comme prévu<nbsp>?",
       "ja": "(-ミコト-)……こちらでも起動を確認できました。<br>地脈観測のためと、擬装のために地面に埋設できたと思います。<br>いかがでしょうか？",
@@ -688,8 +688,8 @@
     },
     {
       "gameKey": "quest/039/LucKsa106_03946#TEXT_LUCKSA106_03946_MIKOTO_000_082",
-      "en": "Excellent. The rest we can handle from here. Return to base, and be careful.",
-      "hash": "5C653C0727156D40",
+      "en": "(-Mikoto-)Excellent. The rest we can handle from here. Return to base, and be careful.",
+      "hash": "9FDF2A20B2ACA8C9",
       "unresolved": false,
       "fr": "(-Mikoto-)Excellent, l'appareil est désormais autonome et à l'abri des regards indiscrets. Vous pouvez rentrer, <split(<string(gstr1)>, ,1)>.",
       "ja": "(-ミコト-)大丈夫なようですね。<br>それでは観測装置をそのままにし、こちらへご帰還くださいませ。",

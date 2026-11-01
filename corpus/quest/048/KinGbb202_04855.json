@@ -1374,8 +1374,8 @@
     },
     {
       "gameKey": "quest/048/KinGbb202_04855#TEXT_KINGBB202_04855_CONJURER04854_000_057",
-      "en": "Wonderful, wonderful! With this, all outstanding matters of concern have been addressed, and like the residents of the Gentry's Ward, I too may sleep soundly once more...",
-      "hash": "ADFA1CA7D92B959E",
+      "en": "(-Cheerful Hearer-)Wonderful, wonderful! With this, all outstanding matters of concern have been addressed, and like the residents of the Gentry's Ward, I too may sleep soundly once more...",
+      "hash": "C1F7AF07F75AF11A",
       "unresolved": false,
       "fr": "(-Mage embêté-)Oh, chic alors<nbsp>! Ça veut dire que l'ordre public règne à nouveau. Et que je vais pouvoir dormir comme un loir, à l'instar des habitants de ce quartier<nbsp>!",
       "ja": "(-困り果てていた道士-)おお、ありがとうございます！<br>これで頭を悩ませていた困りごとも、すべて解決……<br>近隣住民だけでなく、私もぐっすり眠れそうですよ！",
@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/048/KinGbb202_04855#TEXT_KINGBB202_04855_CONJURER04854_000_058",
-      "en": "You both have my heartfelt gratitude. May the Matron keep you wheresoever you should go.",
-      "hash": "596219876024F4E7",
+      "en": "(-Cheerful Hearer-)You both have my heartfelt gratitude. May the Matron keep you wheresoever you should go.",
+      "hash": "F0867EC1EE2FDEF0",
       "unresolved": false,
       "fr": "(-Mage embêté-)Si vous saviez à quel point je vous suis re<->con<->nais<->sant<nbsp>! Je vous souhaite le meilleur pour la suite<nbsp>; que la bénédiction de Nophica et des esprits de la forêt vous accompagne<nbsp>!",
       "ja": "(-困り果てていた道士-)おふたりとも、重ね重ね感謝を……。<br>あなた方の旅に、ノフィカ様と精霊の恵みがありますように！",

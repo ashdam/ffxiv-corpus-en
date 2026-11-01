@@ -382,8 +382,8 @@
     },
     {
       "gameKey": "quest/016/JobMch301_01697#TEXT_JOBMCH301_01697_STEPHANIVIEN_000_011",
-      "en": "I shall await you at the end of your trial, <split(<string(gstr1)>, ,1)>. I have every confidence that you shall impress our instructor with your enthusiasm and potential!",
-      "hash": "BB50F774D8BDDA71",
+      "en": "(-Stephanivien-)I shall await you at the end of your trial, <split(<string(gstr1)>, ,1)>. I have every confidence that you shall impress our instructor with your enthusiasm and potential!",
+      "hash": "B0A14AAE77480F97",
       "unresolved": false,
       "fr": "(-Stephanivien-)On se retrouve à la fin de cette épreuve. Montre-lui ce que tu sais faire et aide la manufacture de Cielacier à retrouver son instructeur.",
       "ja": "(-ステファニヴィアン-)俺は、演習の終着点で待ってるぞ。<br><split(<string(gstr1)>, ,1)>、腕前を見せつけて、<br>指南役を工房に連れ戻してくれよ。",

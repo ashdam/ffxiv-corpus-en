@@ -511,8 +511,8 @@
     },
     {
       "gameKey": "quest/051/FesHlx001_05184#TEXT_FESHLX001_05184_PIERROTFATHER_000_031",
-      "en": "...What was all that about? The clownin' and whatnot was a right laugh, but that last bit was bleedin' rubbish! Come on, let's get outta here.",
-      "hash": "2EE7A0DABC5F964F",
+      "en": "(-Disappointed Youth-)...What was all that about? The clownin' and whatnot was a right laugh, but that last bit was bleedin' rubbish! Come on, let's get outta here.",
+      "hash": "30BA6193B03D7BEE",
       "unresolved": false,
       "fr": "(-Garçon déçu-)... Ben, alors<nbsp>? Il s'est rien passé. Le clown était amusant, mais là... on s'ennuie à mourir<nbsp>! Si c'est comme ça, je rentre<nbsp>!",
       "ja": "(-不満そうな少年-)…………何も起きないじゃん。<br>ピエロのおっちゃんは面白かったのに、<br>つまんなくなっちゃた……帰ろうぜー。",
@@ -561,8 +561,8 @@
     },
     {
       "gameKey": "quest/051/FesHlx001_05184#TEXT_FESHLX001_05184_PHILCOX_000_033",
-      "en": "There you go again, shrieking the same old tune. I've had it up to my eyeball with this farce! Just because you know a few cheap tricks doesn't give you the right to treat me like that!",
-      "hash": "03DE2B9F9C555303",
+      "en": "(-Belligerent Fiend-)There you go again, shrieking the same old tune. I've had it up to my eyeball with this farce! Just because you know a few cheap tricks doesn't give you the right to treat me like that!",
+      "hash": "7122F569D870C5D5",
       "unresolved": false,
       "fr": "(-Monstre agacé-)Rhaaah<nbsp>! Tu m'énerves avec ta métamorphose par-ci, métamorphose par-là<nbsp>! C'est pas parce que toi, tu y arrives en un claquement de doigts que c'est simple pour les autres<nbsp>! Et pas la peine de me parler comme à un imbécile non plus<nbsp>!",
       "ja": "(-怒り心頭の魔物-)おまじない、おまじないって、うるさいんだよ！<br>自分がちょっと使えるからって、バカにしやがって！",
@@ -586,8 +586,8 @@
     },
     {
       "gameKey": "quest/051/FesHlx001_05184#TEXT_FESHLX001_05184_PHILCOX_100_033",
-      "en": "I can't stand the sight of you─let alone the thought of taking to the stage with you again! Good riddance!",
-      "hash": "CFDABF007A16BEB8",
+      "en": "(-Belligerent Fiend-)I can't stand the sight of you─let alone the thought of taking to the stage with you again! Good riddance!",
+      "hash": "DF7F510292075499",
       "unresolved": false,
       "fr": "(-Monstre agacé-)J'en ai ma claque de ton spectacle<nbsp>! Tu n'as qu'à te débrouiller tout seul<nbsp>!",
       "ja": "(-怒り心頭の魔物-)お前の顔を見るのは、もううんざりだ！<br>ショーなんざ、これ以上やってられるか！<br>じゃあな！",

@@ -3490,8 +3490,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz003_04581#TEXT_AKTKBZ003_04581_YOUNGRETURNEE_000_120",
-      "en": "Help! Someone, please!",
-      "hash": "AF3BC68C29D0E3DC",
+      "en": "(-???-)Help! Someone, please!",
+      "hash": "B26C64CB8E785255",
       "unresolved": false,
       "fr": "(-Voix de jeune homme-)À... à l'aide<nbsp>! Quelqu'un<nbsp>!",
       "ja": "(-若者の声-)た、助けてくれーーー！",
@@ -3958,8 +3958,8 @@
     },
     {
       "gameKey": "quest/045/AktKbz003_04581#TEXT_AKTKBZ003_04581_NERO_000_153",
-      "en": "Have you a better alternative?",
-      "hash": "B9C92E22CB04B000",
+      "en": "(-Nero tol Scaeva-)Have you a better alternative?",
+      "hash": "F6A5817B1F368DA9",
       "unresolved": false,
       "fr": "(-Voix de Nero-)Et pourquoi pas<nbsp>?",
       "ja": "(-ネロの声-)いいじゃないか……。",

@@ -1726,8 +1726,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka3Krile1_00512#TEXT_CTSERKEUREKA3KRILE1_00512_EUREKAPERSON_000_527",
-      "en": "In light <if(gnum4,she,he)> walketh...and in light <if(gnum4,she,he)> abideth. As did the one before who tried and failed to lay us low. But now we have a champion...",
-      "hash": "1FD2A0899F917E2D",
+      "en": "(-Eureka-)In light <if(gnum4,she,he)> walketh...and in light <if(gnum4,she,he)> abideth. As did the one before who tried and failed to lay us low. But now we have a champion...",
+      "hash": "E5719C096FEF88CA",
       "unresolved": false,
       "fr": "(-Interface d'Eurêka-)C'est cela même... Toi qui portes cette odieuse Lumière... tes prédécesseurs m'ont mis sous scellés... mais tu ne pourras pas en faire autant... Mon maître t'annihilera...",
       "ja": "(-創神エウレカの端末-)そういうことだ……忌々しき光を宿す者……。<br>かつてのように……我を封じることはできぬ……。<br>我が担い手が……悪を討つのだ……。",
@@ -2110,8 +2110,8 @@
     },
     {
       "gameKey": "custom/005/CtsErkEureka3Krile1_00512#TEXT_CTSERKEUREKA3KRILE1_00512_KRILE_000_561",
-      "en": "We do not!",
-      "hash": "BD8E703191FFEED7",
+      "en": "(-Krile and Ejika-)We do not!",
+      "hash": "143CBDC5145FAAE8",
       "unresolved": false,
       "fr": "(-Krile et Ejika-)P-pardon<nbsp>!?",
       "ja": "(-クルルとエジカ-)全然、仲良くない！",

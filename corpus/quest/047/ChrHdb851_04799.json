@@ -1832,8 +1832,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb851_04799#TEXT_CHRHDB851_04799_ARKASODARA04799_000_118",
-      "en": "Sorry to intrude, but aren't you the hero who helped us when folk were turning into beasts?",
-      "hash": "24636AA98020809D",
+      "en": "(-Interrupting Arkasodara-)Sorry to intrude, but aren't you the hero who helped us when folk were turning into beasts?",
+      "hash": "CDE250F77CD97AE7",
       "unresolved": false,
       "fr": "(-Homme arkasodara-)Désolé de vous déranger... Vous, là, vous faites partie des héros qui ont chassé les monstres durant l'apocalypse, n'est-ce pas<nbsp>? J'aurais besoin de votre aide de toute urgence<nbsp>!",
       "ja": "(-アルカソーダラ族の男性-)お取り込み中のところ、すみません。<br>あなた、終末騒動のときに獣と戦っておられた方ですよね？",
@@ -1858,8 +1858,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb851_04799#TEXT_CHRHDB851_04799_ARKASODARA04799_000_119",
-      "en": "Well, some nasty-looking creature just showed up outside town. One of our guards went to confront it, but I don't like her odds against that...thing.",
-      "hash": "557C85660054F66A",
+      "en": "(-Interrupting Arkasodara-)Well, some nasty-looking creature just showed up outside town. One of our guards went to confront it, but I don't like her odds against that...thing.",
+      "hash": "D5BDABE2E375B830",
       "unresolved": false,
       "fr": "(-Homme arkasodara-)Un individu lourdement armé vient d'être repéré près du port. Une sentinelle de l'Ost rayonnant est en train de l'appréhender, mais j'ai un mauvais pres<->sen<->ti<->ment... Pourriez-vous lui venir en renfort<nbsp>?",
       "ja": "(-アルカソーダラ族の男性-)実は港の近くに、武装した不審者が現れたんです。<br>星戦士団の守衛が対応に向かったのですが、心配でして……<br>どうか様子を見てきてくださいませんか？",

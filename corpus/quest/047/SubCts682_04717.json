@@ -232,8 +232,8 @@
     },
     {
       "gameKey": "quest/047/SubCts682_04717#TEXT_SUBCTS682_04717_EOTYR_000_010",
-      "en": "Oooh, you found him!",
-      "hash": "0E1520866CA2497E",
+      "en": "(-Eo Tyr-)Oooh, you found him!",
+      "hash": "DAF73BB250FD333C",
       "unresolved": false,
       "fr": "(-Eo Tyr-)Oh, c'est bien lui<nbsp>! Tu l'as trouvé<nbsp>!",
       "ja": "(-エオ＝ティルの声-)見つかったみたいでよかったわ！",
@@ -362,8 +362,8 @@
     },
     {
       "gameKey": "quest/047/SubCts682_04717#TEXT_SUBCTS682_04717_ANDENIII_100_014",
-      "en": "... ... ... ... ......... ... ...?",
-      "hash": "894E2160A1B6D255",
+      "en": "(-Anden III-)... ... ... ... ......... ... ...?",
+      "hash": "D109EB689566D899",
       "unresolved": false,
       "fr": "(-Anden III-)...<nbsp>...<nbsp>!?",
       "ja": "(-アンデンIII世-)……、……！？",

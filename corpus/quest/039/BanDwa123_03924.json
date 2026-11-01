@@ -642,8 +642,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa123_03924#TEXT_BANDWA123_03924_DWARF03923_000_140",
-      "en": "\\<pant> \\<pant> Well, that... That was an experience. You know, for some odd reason, I sort of want to try it again...",
-      "hash": "E8910FFA1AF5321A",
+      "en": "(-Wide-awake Dwarf-)\\<pant> \\<pant> Well, that... That was an experience. You know, for some odd reason, I sort of want to try it again...",
+      "hash": "046CA505144781DB",
       "unresolved": false,
       "fr": "Hah... C'était pas une partie de plaisir... Mais euh... Bon, peut-être que de temps en temps ça peut faire du bien quand même...",
       "ja": "(-お目覚めドワーフ-)はぁ、はぁ……。<br>ひ、ひどい目にあったラリな…………。<br>で、でも、これはちょっと、クセになるやつかもしれないラリ……。",
@@ -667,8 +667,8 @@
     },
     {
       "gameKey": "quest/039/BanDwa123_03924#TEXT_BANDWA123_03924_DWARF03923_000_141",
-      "en": "I think I'm ready to get back to work now. You can tell Regitt I feel...awakened...in more ways than one.",
-      "hash": "B13FE5CDD0A7CCBE",
+      "en": "(-Wide-awake Dwarf-)I think I'm ready to get back to work now. You can tell Regitt I feel...awakened...in more ways than one.",
+      "hash": "A809AAD09E77DCD6",
       "unresolved": false,
       "fr": "En tout cas, c'est sûr que j'ai plus sommeil<nbsp>! Je me remets au boulot de ce pas<nbsp>! Tu peux retourner dire à Regitt que ça a bien marché<nbsp>!",
       "ja": "(-お目覚めドワーフ-)とにかく眠気も払えたし、オイラは素材集めに戻るラリ！<br>すごく効果があったうえに、いろいろと目覚めたって、<br>「レギット」に伝えてほしいラリよ～！",

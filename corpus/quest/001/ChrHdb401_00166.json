@@ -654,8 +654,8 @@
     },
     {
       "gameKey": "quest/001/ChrHdb401_00166#TEXT_CHRHDB401_00166_HOTCH_000_034",
-      "en": "Bugger all! It's a travesty, I tell you!",
-      "hash": "060A856F1B888788",
+      "en": "(-???-)Bugger all! It's a travesty, I tell you!",
+      "hash": "63A44F8600D65871",
       "unresolved": false,
       "fr": "(-???-)Qu'est-ce qu'on va faire les gars<nbsp>?",
       "ja": "(-？？？？-)ちくしょう……なんでこんなことに！",
@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/001/ChrHdb401_00166#TEXT_CHRHDB401_00166_HUTCHIN_000_038",
-      "en": "Lower your voice, Hotch. My head stings enough without your bloody shouting.",
-      "hash": "03DD3BB5C24AE34B",
+      "en": "(-???-)Lower your voice, Hotch. My head stings enough without your bloody shouting.",
+      "hash": "0D1D7711CE396AEE",
       "unresolved": false,
       "fr": "(-???-)Ne faites donc pas ces têtes-là, je vais finir par déprimer.",
       "ja": "(-？？？？-)……陰気臭ぇ面してんじゃねぇよ。<br>怪我に響くぜ、まったく。",
@@ -1642,8 +1642,8 @@
     },
     {
       "gameKey": "quest/001/ChrHdb401_00166#TEXT_CHRHDB401_00166_ORTHRUS_000_115",
-      "en": "Give me a moment, will ya? I've only got eight arms! ...Or were they legs?",
-      "hash": "0384F0E17BA9A020",
+      "en": "(-???-)Give me a moment, will ya? I've only got eight arms! ...Or were they legs?",
+      "hash": "A58A41781A75EBE9",
       "unresolved": false,
       "fr": "(-???-)Deux minutes, je n'ai pas dix bras<nbsp>!",
       "ja": "(-？？？？-)んも～、ダワーさんってば、ヒト使い……<br>ならぬ、タコ使いが荒いわぁ……。",
@@ -1668,8 +1668,8 @@
     },
     {
       "gameKey": "quest/001/ChrHdb401_00166#TEXT_CHRHDB401_00166_ORTHRUS_000_116",
-      "en": "Ya called? I was just about to give the lovely Miss Avila the grand tour!",
-      "hash": "9D63E9B4BB2A52D4",
+      "en": "(-Slobbering Cephalopod-)Ya called? I was just about to give the lovely Miss Avila the grand tour!",
+      "hash": "FDA7BBA403C2C885",
       "unresolved": false,
       "fr": "(-Poulpe pourpre-)Je suis en train de faire visiter notre bureau à Avila. Nous devons bien quelques égards à la future championne<nbsp>!",
       "ja": "(-紫色のタコもどき-)せっかく今、優勝候補の剣闘士「アヴィラ」ちゃんに、<br>事務所の案内をしとったのに～。",

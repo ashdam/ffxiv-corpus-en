@@ -934,8 +934,8 @@
     },
     {
       "gameKey": "quest/045/AktKmh108_04533#TEXT_AKTKMH108_04533_SYSTEM_000_120",
-      "en": "<italic(1)>Today, in a world not my own, I met the most beautiful voidborn creature. She was so unlike her ravenous brethren. Eyes blazing not with hunger, but trembling─like a candle's flame, threatening to flicker out at any moment.<italic(0)>",
-      "hash": "0A9E4B34C4959DA7",
+      "en": "(-Untitled Goldsmith's Journal-)<italic(1)>Today, in a world not my own, I met the most beautiful voidborn creature. She was so unlike her ravenous brethren. Eyes blazing not with hunger, but trembling─like a candle's flame, threatening to flicker out at any moment.<italic(0)>",
+      "hash": "5A0218604FBD7518",
       "unresolved": false,
       "fr": "(-Journal d'un orfèvre inconnu-)Dans un monde étranger au nôtre, j'ai rencontré une créature à forme humaine d'une beauté fascinante... Elle était bien différente de ses congénères, obsédés par leur faim insatiable d'éther. Ses yeux brillaient d'une faible lueur qui menaçait de s'éteindre d'un moment à l'autre.",
       "ja": "(-『ある彫金師の日記』-)異界で出会った人型の美しい妖異……<br>獣のようにエーテルを求めるほかの個体と違い、<br>今にも消えてしまいそうなほど、儚い瞳をしていた……。",
@@ -960,8 +960,8 @@
     },
     {
       "gameKey": "quest/045/AktKmh108_04533#TEXT_AKTKMH108_04533_SYSTEM_000_121",
-      "en": "<italic(1)>I wonder if “she” is even the proper word. Such distinctions seem inconsequential. Insignificant, even.<italic(0)>",
-      "hash": "EFEC67310EBF1009",
+      "en": "(-Untitled Goldsmith's Journal-)<italic(1)>I wonder if “she” is even the proper word. Such distinctions seem inconsequential. Insignificant, even.<italic(0)>",
+      "hash": "7C2E9702E409028E",
       "unresolved": false,
       "fr": "(-Journal d'un orfèvre inconnu-)Je me demande même si le mot de créature est bien justifié dans son cas... Enfin, peu m'importent ces considérations futiles.",
       "ja": "(-『ある彫金師の日記』-)あの妖異は「彼女」と呼ぶべきか、それとも……？<br>いや、そんな些細なことは問題ではない。",
@@ -986,8 +986,8 @@
     },
     {
       "gameKey": "quest/045/AktKmh108_04533#TEXT_AKTKMH108_04533_SYSTEM_000_122",
-      "en": "<italic(1)>All that matters is the love I feel for this exquisite, transcendent being!<italic(0)>",
-      "hash": "C265EE9D081890BE",
+      "en": "(-Untitled Goldsmith's Journal-)<italic(1)>All that matters is the love I feel for this exquisite, transcendent being!<italic(0)>",
+      "hash": "E20532FA4839061E",
       "unresolved": false,
       "fr": "(-Journal d'un orfèvre inconnu-)Tout ce qui compte, c'est l'amour que je porte à cette beauté exquise<nbsp>!",
       "ja": "(-『ある彫金師の日記』-)美しき存在は、<br>ただそれだけで愛を捧げるに足るのだから！",

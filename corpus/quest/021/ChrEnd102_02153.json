@@ -1864,8 +1864,8 @@
     },
     {
       "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_ARCHOMBADIN_000_062",
-      "en": "Those two will tell you naught, Inspector. For they are the culprits whom you seek.",
-      "hash": "05E2A1B5D99C6330",
+      "en": "(-???-)Those two will tell you naught, Inspector. For they are the culprits whom you seek.",
+      "hash": "15CD45BC52CF903E",
       "unresolved": false,
       "fr": "(-Voix pleine d'assurance-)À quoi bon feindre l'ignorance<nbsp>? Quel est ce plan conçu dans l'urgence, comme par l'un de ces illettrés de Brouillasse<nbsp>?",
       "ja": "(-自信にみちた声-)ハッ、しらを切るつもりか。<br>学のない平民が安易に使いそうな、場しのぎの下策だな。",
@@ -1942,8 +1942,8 @@
     },
     {
       "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_LEBRASSOIR_000_065",
-      "en": "And such desperation that they would desecrate a tome in this manner! You would expect a seminarian to treat any holy text with the utmost care─even if they are but children's stories.",
-      "hash": "722BDDDF330A5B52",
+      "en": "(-Composed Student-)And such desperation that they would desecrate a tome in this manner! You would expect a seminarian to treat any holy text with the utmost care─even if they are but children's stories.",
+      "hash": "29D809DF752402C7",
       "unresolved": false,
       "fr": "(-Élève à la voix posée-)On ne sait plus quoi faire pour marquer des points auprès du scolasticat<nbsp>? Ce n'est pas si étonnant venant de personnes souhaitant par-dessus tout appartenir au haut clergé, quitte à utiliser son indigence pour se forger une image d'homme assez pieux pour se satisfaire d'un vieux livre carbonisé.",
       "ja": "(-冷徹な声の神学生-)「点数稼ぎ」に必死ですねぇ……？<br>灰となった聖典も買い換えられぬほど困窮していては、<br>財を成すため、聖職者にならんとするのも無理からぬこと……。",
@@ -2098,8 +2098,8 @@
     },
     {
       "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_JANCHETTE_000_071",
-      "en": "Just how long are you planning to lie there?",
-      "hash": "602308E93B76BB0D",
+      "en": "(-???-)Just how long are you planning to lie there?",
+      "hash": "1B1D80DC2426FD07",
       "unresolved": false,
       "fr": "(-Élève à la voix autoritaire-)C'est pas un endroit pour faire la sieste. Debout<nbsp>!",
       "ja": "(-厳格な声の神学生-)いつまで倒れていますの？<br>さっさとお立ちなさい……。",
@@ -2228,8 +2228,8 @@
     },
     {
       "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_QUIQUETIN_000_075",
-      "en": "Ah, the insurmountable wall between the highborn and lowborn. I wonder, did our ancestors build it, brick by brick? Or was it fate which drove us apart? And where shall we go from here...",
-      "hash": "D88597E608532682",
+      "en": "(-???-)Ah, the insurmountable wall between the highborn and lowborn. I wonder, did our ancestors build it, brick by brick? Or was it fate which drove us apart? And where shall we go from here...",
+      "hash": "BD2EF51DB8F11E01",
       "unresolved": false,
       "fr": "(-Voix au ton perfide-)Difficile de dire si le mur qui se dresse entre les pauvres et la noblesse est apparu là comme par magie ou s'il a été bâti par les premiers Ishgardais... Une chose est sûre, il menace de s'écrouler et je sens qu'on va bien s'amuser, hi hi hi.",
       "ja": "(-邪気に満ちた声-)貴族と平民を隔てる壁は、先祖の行いなのか、運命なのか……。<br>さあて、ついに聖戦がはじまるね……ウフフフ。",

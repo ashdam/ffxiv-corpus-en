@@ -818,8 +818,8 @@
     },
     {
       "gameKey": "quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_KOKORONIHIBIKUKOE_000_066",
-      "en": "<split(<string(gstr1)>, ,1)>...",
-      "hash": "9191A4401C9CF181",
+      "en": "(-???-)<split(<string(gstr1)>, ,1)>...",
+      "hash": "1B2FBCE49DB7FBC8",
       "unresolved": false,
       "fr": "(-???-)<split(<string(gstr1)>, ,1)>...",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,1)>……。",

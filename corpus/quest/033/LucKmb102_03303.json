@@ -1060,8 +1060,8 @@
     },
     {
       "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_080",
-      "en": "Well done, sweetie! I'm proud of you! Why, if I didn't know any better, I'd even say you enjoyed it! And now you needn't fear falling asleep on the battlefield. Just have care you don't lose any limbs out there, all right? They don't tend to grow back.",
-      "hash": "12581C467D0A4A36",
+      "en": "(-Chessamile-)Well done, sweetie! I'm proud of you! Why, if I didn't know any better, I'd even say you enjoyed it! And now you needn't fear falling asleep on the battlefield. Just have care you don't lose any limbs out there, all right? They don't tend to grow back.",
+      "hash": "E24F661592363816",
       "unresolved": false,
       "fr": "(-Chessamile-)Bravo, soldat<if(gnum4,e,)><nbsp>! Comme <if(gnum4,une grande,un grand)><nbsp>! La poudre de rêve sera sans effet sur vous, maintenant. Par contre, prenez garde aux blessures, d'accord<nbsp>?",
       "ja": "(-シェッサミール-)うふふふ……よく飲めましたぁ……。<br>これでもう眠ってしまう心配はないけれど、<br>怪我にはくれぐれも注意してね、衛兵さん……？",

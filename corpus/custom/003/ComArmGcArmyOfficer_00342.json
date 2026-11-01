@@ -3714,8 +3714,8 @@
     },
     {
       "gameKey": "custom/003/ComArmGcArmyOfficer_00342#TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_412",
-      "en": "I trust I've found the barracks of Lieutenant <split(<string(gstr1)>, ,2)> and <if(gnum4,her,his)> squadron?",
-      "hash": "7C8A0F4F29B4D825",
+      "en": "(-???-)I trust I've found the barracks of Lieutenant <split(<string(gstr1)>, ,2)> and <if(gnum4,her,his)> squadron?",
+      "hash": "EBDF3E695C2B822E",
       "unresolved": false,
       "fr": "(-???-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)>, suis-je bien dans la caserne <if(gnum4,de la lieutenante,du lieutenant)> du serpent <split(<string(gstr1)>, ,2)><nbsp>?",
       "ja": "(-？？？？-)ここが、<split(<string(gstr1)>, ,1)>中牙士が指揮する小隊の兵舎だな？<br>失礼させてもらおう。",
@@ -3890,8 +3890,8 @@
     },
     {
       "gameKey": "custom/003/ComArmGcArmyOfficer_00342#TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_412",
-      "en": "Greetings, <split(<string(gstr1)>, ,1)>. I hope I'm not interrupting anything important.",
-      "hash": "DA889657A87ADEE8",
+      "en": "(-???-)Greetings, <split(<string(gstr1)>, ,1)>. I hope I'm not interrupting anything important.",
+      "hash": "8721ACF79BAD21FD",
       "unresolved": false,
       "fr": "(-???-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)>, suis-je bien dans la caserne <if(gnum4,de la lieutenante,du lieutenant)> des tempêtes <split(<string(gstr1)>, ,2)><nbsp>?",
       "ja": "(-？？？？-)邪魔させてもらうぞ。<br>ここが<split(<string(gstr1)>, ,1)>の小隊の兵舎だな？",
@@ -4066,8 +4066,8 @@
     },
     {
       "gameKey": "custom/003/ComArmGcArmyOfficer_00342#TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_412",
-      "en": "Lieutenant <split(<string(gstr1)>, ,2)>? Good, I thought I'd wandered into the wrong barracks for a moment there.",
-      "hash": "9535E555360542D1",
+      "en": "(-???-)Lieutenant <split(<string(gstr1)>, ,2)>? Good, I thought I'd wandered into the wrong barracks for a moment there.",
+      "hash": "4ECECB0B1750364C",
       "unresolved": false,
       "fr": "(-???-)<if([gnum11<12],<if([gnum11<4],Bonsoir,Bonjour)>,<if([gnum11<17],Bonjour,Bonsoir)>)>, suis-je bien dans la caserne <if(gnum4,de la lieutenante,du lieutenant)> des sables <split(<string(gstr1)>, ,2)><nbsp>?",
       "ja": "(-？？？？-)ここが、<split(<string(gstr1)>, ,1)>中闘士が指揮する小隊の兵舎だね？<br>失礼させてもらうよ。",

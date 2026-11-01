@@ -2680,8 +2680,8 @@
     },
     {
       "gameKey": "quest/054/ChrHdb951_05481#TEXT_CHRHDB951_05481_DATATERMINAL05481_000_144",
-      "en": "Clots: These amorphous organisms inhabit dense jungle environments and demonstrate an extraordinary capability for physical mimicry. When threatened, the clot will either mirror the threat itself, or adopt a more intimidating form.",
-      "hash": "1AA59225013E7171",
+      "en": "(-Commerce Sector Data Terminal-)Clots: These amorphous organisms inhabit dense jungle environments and demonstrate an extraordinary capability for physical mimicry. When threatened, the clot will either mirror the threat itself, or adopt a more intimidating form.",
+      "hash": "F523D6391241DF49",
       "unresolved": false,
       "fr": "(-Terminal du secteur commercial-)Caillot<nbsp>: monstre forestier appartenant à la famille des mollusques. Lorsqu'il se sent menacé, il utilise ses capacités de mimétisme pour prendre l'apparence de ses agresseurs ou d'une autre forme de vie capable de les effrayer.",
       "ja": "(-コマースセクターの情報端末-)クロット……密林に生息する軟体生物。<br>優れた擬態能力を有しており、生命の危険を感じると、<br>脅威となる対象そのもの、あるいはより強大な存在に擬態する。",
@@ -2706,8 +2706,8 @@
     },
     {
       "gameKey": "quest/054/ChrHdb951_05481#TEXT_CHRHDB951_05481_DATATERMINAL05481_000_145",
-      "en": "Clots can also fuse with others of their species, and there are recorded cases of multiple clots merging into a single gigantic entity possessed of immense magical power.",
-      "hash": "364A62E98A88F9CF",
+      "en": "(-Commerce Sector Data Terminal-)Clots can also fuse with others of their species, and there are recorded cases of multiple clots merging into a single gigantic entity possessed of immense magical power.",
+      "hash": "7E36B48B42FBCB34",
       "unresolved": false,
       "fr": "(-Terminal du secteur commercial-)Des rapports indiquent que plusieurs caillots seraient également capables de fusionner pour former une entité gigantesque qui cumulerait la puissance magique de tous les individus qui la composent.",
       "ja": "(-コマースセクターの情報端末-)また、同種と融合することがあり、複数が融合したことによって、<br>巨体と大きな魔力を持つクロットも記録されている。",

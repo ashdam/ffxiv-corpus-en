@@ -128,8 +128,8 @@
     },
     {
       "gameKey": "quest/053/KinGea203_05328#TEXT_KINGEA203_05328_BAKOOLJAJA_000_005",
-      "en": "The sooner we find her, the sooner we can meet with Oblivion.",
-      "hash": "8B4A5F78A91A4237",
+      "en": "(-Bakool Ja Ja the Mystic-)The sooner we find her, the sooner we can meet with Oblivion.",
+      "hash": "3F40C877456A5F4A",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête mage-)On a encore un peu de temps avant notre rendez-vous avec Oblivion, ja. Autant en profiter pour aider Jasper à retrouver sa petite Scoria.",
       "ja": "(-魔のバクージャジャ-)オブリビオンとの約束まで、まだ時間はある。<br>ちゃちゃっと解決しちゃおうよ。",
@@ -726,8 +726,8 @@
     },
     {
       "gameKey": "quest/053/KinGea203_05328#TEXT_KINGEA203_05328_BAKOOLJAJA_000_175",
-      "en": "As resourceful as ever, I see. Well done.",
-      "hash": "7F94315E192F3803",
+      "en": "(-Bakool Ja Ja the Mystic-)As resourceful as ever, I see. Well done.",
+      "hash": "47871BB2AD4E8B23",
       "unresolved": false,
       "fr": "(-Bakool Ja Ja, tête mage-)Vous avez fait vite. C'est peut-être ça, l'avantage d'avoir un petit corps tout maigrichon, ja<nbsp>!",
       "ja": "(-魔のバクージャジャ-)おかえり。<br>あっという間に子どもを見つけるなんて、さすがだねェ。",

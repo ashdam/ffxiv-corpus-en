@@ -502,8 +502,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz221_02693#TEXT_STMBDZ221_02693_SLIMTURTLE02693_000_020",
-      "en": "I, too, can make it to the plateau, but it is from there that things become tricky. Every step must be taken with calculated precision or you risk, like me, plummeting into the waters below.",
-      "hash": "EAFAB37759DE325E",
+      "en": "(-Slender Kojin-)I, too, can make it to the plateau, but it is from there that things become tricky. Every step must be taken with calculated precision or you risk, like me, plummeting into the waters below.",
+      "hash": "D1377971F9684448",
       "unresolved": false,
       "fr": "(-Kojin maigrichon-)Je suis arrivé une fois à sauter sur ce pilier, mais je crois que je n'y arriverai plus jamaiiiis...",
       "ja": "(-細身のコウジン族-)そこまでは、オラも行けるんだぁ～。<br>だが、そこからどう跳んだらいいのか、困ってるんだなぁ～。<br>ちんたら動いてると、どうしても届かないんだぁ～。",
@@ -528,8 +528,8 @@
     },
     {
       "gameKey": "quest/026/StmBdz221_02693#TEXT_STMBDZ221_02693_SLIMTURTLE02693_000_030",
-      "en": "Ah─so that is how you must do it! I shall give it a try!",
-      "hash": "980869B24D543D9C",
+      "en": "(-Slender Kojin-)Ah─so that is how you must do it! I shall give it a try!",
+      "hash": "5346B1408BC62999",
       "unresolved": false,
       "fr": "(-Kojin maigrichon-)Ooooh, c'est donc comme ça que vous faiiiites. Je vais m'inspirer de votre méthoooode<nbsp>!",
       "ja": "(-細身のコウジン族-)ふむふむ、なるほどなぁ～。<br>そんな行き方があったのかぁ～。",

@@ -254,8 +254,8 @@
     },
     {
       "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_A_000_010",
-      "en": "Nothing to report, sir!",
-      "hash": "DE823A13D3D9AB52",
+      "en": "(-Imperial Sentry-)Nothing to report, sir!",
+      "hash": "E4D932BACF46BBFD",
       "unresolved": false,
       "fr": "(-Soldat garlemaldais-)Rien à signaler, decurio<nbsp>!",
       "ja": "(-帝国軍の哨戒兵-)……異常なしッ！",
@@ -280,8 +280,8 @@
     },
     {
       "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_B_000_011",
-      "en": "We have received an anonymous warning that insurgent forces are near.",
-      "hash": "CB3F84954482984D",
+      "en": "(-Imperial Decurion-)We have received an anonymous warning that insurgent forces are near.",
+      "hash": "78BDD9F847ACA8B6",
       "unresolved": false,
       "fr": "(-Decurio garlemaldais-)Merci du rapport. Nous venons tout juste de recevoir un message anonyme signalant la présence de rebelles dans le Mor Dhona.",
       "ja": "(-帝国軍十人長-)見回り、ご苦労である。<br>……このモードゥナに不穏分子が潜んでいると、<br>少し前に匿名の密告があったらしい。",
@@ -306,8 +306,8 @@
     },
     {
       "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_B_000_012",
-      "en": "We must redouble our vigilance. I shall recommend that patrols be increased.",
-      "hash": "C328EE5CAF03D0EF",
+      "en": "(-Imperial Decurion-)We must redouble our vigilance. I shall recommend that patrols be increased.",
+      "hash": "85456B88F9DCFDB2",
       "unresolved": false,
       "fr": "(-Decurio garlemaldais-)Je vais ordonner à ce que l'on augmente le nombre de patrouilles autour de la base. Accompagne-moi.",
       "ja": "(-帝国軍十人長-)我々は「カストルム・セントリ」に帰り、<br>哨戒隊の再編を行う。<br>見回りの頻度を上げるぞ。",

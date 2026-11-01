@@ -1016,8 +1016,8 @@
     },
     {
       "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_034",
-      "en": "N-Now, sir, you mustn't say such things. You know the overseer is a busy man.",
-      "hash": "FF87C7F90D2F5875",
+      "en": "(-Apprehensive Artisan-)N-Now, sir, you mustn't say such things. You know the overseer is a busy man.",
+      "hash": "642FA69BC433273D",
       "unresolved": false,
       "fr": "(-Artisane timide-)Fais pas cette tête, collègue. Quand on est superviseur général d'un chantier comme celui d'Azurée, on passe généralement son temps à courir à gauche et à droite. Tu peux pas lui en vouloir de faire son boulot.",
       "ja": "(-気弱そうな職人-)あ、姐さん……！<br>この街の総監さんは、きっと忙しいんですよう。<br>そんなこと言っちゃだめです……！",
@@ -1042,8 +1042,8 @@
     },
     {
       "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_035",
-      "en": "We're artisans from Limsa Lominsa, charged with imparting our techniques to the locals.",
-      "hash": "95F4DEDBCAE1A7BB",
+      "en": "(-Apprehensive Artisan-)We're artisans from Limsa Lominsa, charged with imparting our techniques to the locals.",
+      "hash": "4C56D7C6369AEF60",
       "unresolved": false,
       "fr": "(-Artisane timide-)Dites, euh... Nous sommes venues exprès de Limsa Lominsa pour travailler ici, et... pour transmettre nos techniques d'artisanat aux Ishgardais, mais... euh...",
       "ja": "(-気弱そうな職人-)あ、あの、私たち、リムサ・ロミンサの職人で……<br>イシュガルドの人々に、職人技術を伝えにきてるんです……！<br>それで、その、えっと…………。",
@@ -2366,8 +2366,8 @@
     },
     {
       "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_083",
-      "en": "\\<sob> Help! Please help!",
-      "hash": "60FE5D7474E3AE81",
+      "en": "(-???-)\\<sob> Help! Please help!",
+      "hash": "62E7D6059FB326F2",
       "unresolved": false,
       "fr": "(-???-)Monsieur Francel<nbsp>! <if(gnum4,Madame,Monsieur)> <split(<string(gstr1)>, ,1)><nbsp>! Au secours<nbsp>!",
       "ja": "(-？？？？-)うぇーーーーん！<br>さっきの<if(gnum4,お兄ちゃんとお姉ちゃん,お兄ちゃんたち)>ー！！",

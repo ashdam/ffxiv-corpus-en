@@ -930,8 +930,8 @@
     },
     {
       "gameKey": "quest/037/LucKta002_03718#TEXT_LUCKTA002_03718_ROBOT03718_000_153",
-      "en": "Intruders sighted. Eliminating with extreme prejudice.",
-      "hash": "55114C5ED1055509",
+      "en": "(-Mysterious Machina-)Intruders sighted. Eliminating with extreme prejudice.",
+      "hash": "841F2C2443D55A0B",
       "unresolved": false,
       "fr": "(-???-)Intrus détectés. Intrus détectés. Élimination immédiate requise.",
       "ja": "(-？？？？-)侵入者ハッケン、侵入者ハッケン。<br>タダチニ排除スル。",
@@ -1008,8 +1008,8 @@
     },
     {
       "gameKey": "quest/037/LucKta002_03718#TEXT_LUCKTA002_03718_2P_000_156",
-      "en": "The...the machine lifeforms...",
-      "hash": "C56F520A9F4FBD9D",
+      "en": "(-Woman in White-)The...the machine lifeforms...",
+      "hash": "D88296CCC295BDA6",
       "unresolved": false,
       "fr": "(-Jeune femme en blanc-)Urgh... L-les formes... de vie... mécaniques...",
       "ja": "(-白き衣の女性-)うっ……機械……機械生命……体が……。",

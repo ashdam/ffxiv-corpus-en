@@ -1446,8 +1446,8 @@
     },
     {
       "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_GUYDELOT_000_500",
-      "en": "The famous <string(gstr1)>, I take it?",
-      "hash": "CC920FFDF6959C7D",
+      "en": "(-???-)The famous <string(gstr1)>, I take it?",
+      "hash": "EEC7DC8283742B75",
       "unresolved": false,
       "fr": "(-???-)C'est toi, <if(gnum4,la fameuse,l'fameux)> <split(<string(gstr1)>, ,1)><nbsp>?",
       "ja": "(-？？？？-)……そこの吟遊詩人、てめぇが<split(<string(gstr1)>, ,1)>だな。",
@@ -1472,8 +1472,8 @@
     },
     {
       "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_GUYDELOT_100_500",
-      "en": "You're not half bad, <if(gnum4,sister,brother)>.",
-      "hash": "9097DAB13EE942C7",
+      "en": "(-Assertive Archer-)You're not half bad, <if(gnum4,sister,brother)>.",
+      "hash": "4465AD69B838F959",
       "unresolved": false,
       "fr": "(-Jeune homme mystérieux-)Dis donc, tu t'débrouilles pas mal... La classe.",
       "ja": "(-謎の青年-)お前…………粋だな。",
@@ -1550,8 +1550,8 @@
     },
     {
       "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_GUYDELOT_000_503",
-      "en": "Don't have a fit, old man. It isn't good for your heart. Besides, I wouldn't call it interference, seeing as I'm part of this merry band.",
-      "hash": "7D80C6CA033018FD",
+      "en": "(-Guydelot-)Don't have a fit, old man. It isn't good for your heart. Besides, I wouldn't call it interference, seeing as I'm part of this merry band.",
+      "hash": "831251918B3E47F0",
       "unresolved": false,
       "fr": "(-Homme appelé Guydelot-)Tiens donc, l'vieux est là, lui aussi<nbsp>! Et alors, mon aide vous gêne ou quoi<nbsp>? Sachez qu'on m'a désigné pour vous accompagner dans votre expédition, là...",
       "ja": "(-ギドゥロと呼ばれた青年-)よう、爺さんもいたのか。<br>試練を手伝ったって、別にいいだろ？<br>なんせ……俺ぁ調査隊に任命されたんだからな。",
@@ -1602,8 +1602,8 @@
     },
     {
       "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_GUYDELOT_000_505",
-      "en": "Aye, well, I did say those words, I'll not deny it. But seeing <split(<string(gstr1)>, ,1)> in action has changed my mind.",
-      "hash": "DE379E496E60EB40",
+      "en": "(-Guydelot-)Aye, well, I did say those words, I'll not deny it. But seeing <split(<string(gstr1)>, ,1)> in action has changed my mind.",
+      "hash": "16762D1FDD059A78",
       "unresolved": false,
       "fr": "(-Homme appelé Guydelot-)Hé, la boule de poils, tu t'gardes tes commentaires pour toi<nbsp>! J'ai changé d'avis en voyant l'niveau d'<if(gnum4,ta copine,ton copain)>.",
       "ja": "(-ギドゥロと呼ばれた青年-)オイ、白毛玉……余計なこと言ってんじゃねーぞ……。<br>道中の相方になる吟遊詩人の腕を見て、俺ぁ気が変わったんだ。",

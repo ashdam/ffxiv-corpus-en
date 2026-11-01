@@ -1056,8 +1056,8 @@
     },
     {
       "gameKey": "quest/030/StmBdc101_03022#TEXT_STMBDC101_03022_GYODO_000_061",
-      "en": "I-It has been a while, my friends. Yes, yes, a long while indeed.",
-      "hash": "700C5F40D002A77A",
+      "en": "(-???-)I-It has been a while, my friends. Yes, yes, a long while indeed.",
+      "hash": "2F4F5976DFAD726A",
       "unresolved": false,
       "fr": "(-???-)On parle de moi<nbsp>?",
       "ja": "(-？？？？-)ぺっぺっぺっ……。<br><if(gnum4,姐御,旦那)>たち、お久しぶりだっぺな。<br>到着を、首を長くしてお待ちしていたっペよ～！",

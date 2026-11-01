@@ -580,8 +580,8 @@
     },
     {
       "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_FEOUL_000_016",
-      "en": "Oh, to be called so passionately by my sweetest sapling! My spirit is all song!",
-      "hash": "8D9A09A732E857B5",
+      "en": "(-Feo Ul-)Oh, to be called so passionately by my sweetest sapling! My spirit is all song!",
+      "hash": "936DCDA13C8ECB10",
       "unresolved": false,
       "fr": "(-Voix de Feo Ul-)Aaah, être appelée si passionnément par mon petit arbrisseau<nbsp>! Je suis absolument comblée<nbsp>!",
       "ja": "(-フェオ＝ウルの声-)うふふーっ！<br><italic(1)>『かわいい若木』<italic(0)>が呼んでくれて、<br>私ったら、今とーっても機嫌がいいのだわ！",
@@ -1438,8 +1438,8 @@
     },
     {
       "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TELLINA_000_052",
-      "en": "You, there! Halt!",
-      "hash": "C775D92A1EB8E4F7",
+      "en": "(-Intimidating Voice-)You, there! Halt!",
+      "hash": "28CEF4856A3CBCAB",
       "unresolved": false,
       "fr": "(-Voix intimidante-)Halte-là<nbsp>!",
       "ja": "(-凛とした女性の声-)そこの者たち、止まりなさい……！",
@@ -1464,8 +1464,8 @@
     },
     {
       "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TELLINA_100_052",
-      "en": "...An unidentified male blundering gracelessly through the trees like a child. You're lucky the scout thought to call me before anyone else.",
-      "hash": "1E257107EC67D59F",
+      "en": "(-Intimidating Woman-)...An unidentified male blundering gracelessly through the trees like a child. You're lucky the scout thought to call me before anyone else.",
+      "hash": "0A58959E512D83C8",
       "unresolved": false,
       "fr": "(-Femme intimidante-)Les gardes m'ont informée qu'un homme me ressemblant rôdait dans la forêt, mais je ne m'attendais pas à une telle surprise...",
       "ja": "(-凛とした女性-)見知らぬヴィース族の男が森に現れたうえに、<br>その顔立ちが私に似ていると、見張りの者に聞いて来てみれば……",
@@ -1490,8 +1490,8 @@
     },
     {
       "gameKey": "quest/047/SubCts681_04716#TEXT_SUBCTS681_04716_TELLINA_000_053",
-      "en": "But to think we would meet again, Gilltet...",
-      "hash": "8037494D3470053F",
+      "en": "(-Intimidating Woman-)But to think we would meet again, Gilltet...",
+      "hash": "7D89191FDE004211",
       "unresolved": false,
       "fr": "(-Femme intimidante-)Gilltet, je ne croyais pas te revoir un jour.",
       "ja": "(-凛とした女性-)驚いたわ。<br>ジルテ、まさかあなただったなんて……。",

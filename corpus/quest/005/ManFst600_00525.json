@@ -950,8 +950,8 @@
     },
     {
       "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600600_FOURTEENASCIANS",
-      "en": "<colortype(547)>To the one true god!<colortype(0)>",
-      "hash": "6C93D95BFC1D1AE4",
+      "en": "(-Ascians-)<colortype(547)>To the one true god!<colortype(0)>",
+      "hash": "52C0AF9412B448E7",
       "unresolved": false,
       "fr": "(-Asciens-)<colortype(547)>Pour la gloire de notre Dieu<nbsp>!<colortype(0)>",
       "ja": "(-アシエンたち-)<colortype(547)>全ては、絶対の神……。<colortype(0)>",
@@ -966,8 +966,8 @@
     },
     {
       "gameKey": "quest/005/ManFst600_00525#TEXT_MANFST600_00525_600610_FOURTEENASCIANS",
-      "en": "<colortype(547)>To Zodiark!<colortype(0)>",
-      "hash": "AF015B1FC3ADB373",
+      "en": "(-Ascians-)<colortype(547)>To Zodiark!<colortype(0)>",
+      "hash": "2158CB62634A022D",
       "unresolved": false,
       "fr": "(-Asciens-)<colortype(547)>Pour Zordiarche<nbsp>!<colortype(0)>",
       "ja": "(-アシエンたち-)<colortype(547)>戒律王「ゾディアーク」様のために！<colortype(0)>",

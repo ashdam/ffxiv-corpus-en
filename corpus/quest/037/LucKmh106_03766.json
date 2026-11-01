@@ -776,8 +776,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_YSHTOLA_000_053",
-      "en": "In future, I may need you to remind me the pursuit of knowledge does not preclude other equally important duties... Such as maintaining clean quarters for said pursuit.",
-      "hash": "87DD15AD815204BD",
+      "en": "(-Y'shtola-)In future, I may need you to remind me the pursuit of knowledge does not preclude other equally important duties... Such as maintaining clean quarters for said pursuit.",
+      "hash": "5342CF8729843532",
       "unresolved": false,
       "fr": "(-Voix de Y'shtola-)J'ai passé de nombreuses lunes dans cette chambre, mais j'étais tellement plongée dans mes études que je ne l'ai jamais nettoyée con<->ve<->na<->ble<->ment.",
       "ja": "(-ヤ・シュトラの声-)長いこと過ごしたこの部屋だけど、研究に熱中しすぎて、<br>ロクに掃除もしてなかったのよ。",
@@ -802,8 +802,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_YSHTOLA_000_054",
-      "en": "\\<sigh> I will dearly miss this place. These people...",
-      "hash": "289EF233D0B956E3",
+      "en": "(-Y'shtola-)\\<sigh> I will dearly miss this place. These people...",
+      "hash": "807BFF1C738642A9",
       "unresolved": false,
       "fr": "(-Voix de Y'shtola-)Puisque je n'y reviendrai sûrement plus jamais, une fois rentrée dans le monde primitif, je me suis dit que c'était la moindre des choses de la remettre dans l'état qui était le sien à mon arrivée...",
       "ja": "(-ヤ・シュトラの声-)原初世界に帰ったら、ここにも二度と戻ってこれないでしょうから、<br>去る前に綺麗にしておかないとね……。",
@@ -828,8 +828,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_RUNAR_000_055",
-      "en": "M-Master Matoya! Pardon the interruption, but the stew is ready.",
-      "hash": "3CCD4A023E8C85C3",
+      "en": "(-Runar-)M-Master Matoya! Pardon the interruption, but the stew is ready.",
+      "hash": "2AC8D6CD27A63265",
       "unresolved": false,
       "fr": "(-Voix de Runar-)... Le repas est prêt, tout le monde à table<nbsp>!",
       "ja": "(-ルナルの声-)お、おーい！<br>食事の支度ができたよー！",
@@ -932,8 +932,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh106_03766#TEXT_LUCKMH106_03766_ALPHINAUD_000_059",
-      "en": "Y'shtola! Thank goodness you're still here.",
-      "hash": "6A8DB1AFF6076141",
+      "en": "(-???-)Y'shtola! Thank goodness you're still here.",
+      "hash": "430BA8040F95F75D",
       "unresolved": false,
       "fr": "(-???-)Ah, vous étiez bien ici...",
       "ja": "(-？？？？-)よかった、やっぱりここだったか……。",

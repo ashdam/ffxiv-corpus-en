@@ -770,8 +770,8 @@
     },
     {
       "gameKey": "quest/020/ClsTan530_02076#TEXT_CLSTAN530_02076_AUBRENARD_000_033",
-      "en": "Excuse me─I'm looking for a pair of boots, and those caught my eye. Could I try them on?",
-      "hash": "15450DE1787AA397",
+      "en": "(-Passing Fellow-)Excuse me─I'm looking for a pair of boots, and those caught my eye. Could I try them on?",
+      "hash": "9D9C8C6D36B41E4F",
       "unresolved": false,
       "fr": "(-Passant-)Eh bien<nbsp>! En voilà de belles bottes<nbsp>! Puis-je les essayer<nbsp>?",
       "ja": "(-通りすがりの客-)お、素敵なブーツじゃないか……。<br>試着させてもらっていいかい？",
@@ -796,8 +796,8 @@
     },
     {
       "gameKey": "quest/020/ClsTan530_02076#TEXT_CLSTAN530_02076_AUBRENARD_000_034",
-      "en": "My, these are easy on the feet! And I have never seen this design before. Did this <if(gnum4,lady,gentleman)> here fashion them, perchance?",
-      "hash": "22C8A59CE11DD300",
+      "en": "(-Passing Fellow-)My, these are easy on the feet! And I have never seen this design before. Did this <if(gnum4,lady,gentleman)> here fashion them, perchance?",
+      "hash": "047B4DBFBDA3C5CB",
       "unresolved": false,
       "fr": "(-Passant-)En plus d'être jolies, elles sont très confortables<nbsp>! On croirait porter des chaussons<nbsp>! Quel bonheur<nbsp>! C'est <if(gnum4,cette jeune femme,ce monsieur)> qui les a fabriquées<nbsp>?",
       "ja": "(-通りすがりの客-)こいつは、抜群の履き心地だね！<br>この辺では見ない品だが、そちらの職人さんが作ったのかい？",
@@ -848,8 +848,8 @@
     },
     {
       "gameKey": "quest/020/ClsTan530_02076#TEXT_CLSTAN530_02076_AUBRENARD_000_036",
-      "en": "Hmmm. A Gridanian master come to save the feet of Ishgard─perhaps I can find some inspiration in that... Ah, excuse me. Pray, name your price for these boots. I would like to wear them home.",
-      "hash": "B3D513DC1BB18397",
+      "en": "(-Passing Fellow-)Hmmm. A Gridanian master come to save the feet of Ishgard─perhaps I can find some inspiration in that... Ah, excuse me. Pray, name your price for these boots. I would like to wear them home.",
+      "hash": "0856F81DFF74E974",
       "unresolved": false,
       "fr": "(-Passant-)Mes pieds vous remercient, <split(<string(gstr1)>, ,1)>. Vous êtes l<if(gnum4,a,e)> digne descendant<if(gnum4,e,)> de Byregot. Mademoiselle Elde, je vous les prends.",
       "ja": "(-通りすがりの客-)フム、<split(<string(gstr1)>, ,1)>か。<br>言うなれば……異邦の名工といったところだね。<br>素晴らしい、この品を購入させてもらうよ。",
@@ -900,8 +900,8 @@
     },
     {
       "gameKey": "quest/020/ClsTan530_02076#TEXT_CLSTAN530_02076_AUBRENARD_101_036",
-      "en": "Well, that is a pity. Pray save a pair for me when you do put them to market.",
-      "hash": "81B7E880B5735ADB",
+      "en": "(-Passing Fellow-)Well, that is a pity. Pray save a pair for me when you do put them to market.",
+      "hash": "57D17AF2064DFCC7",
       "unresolved": false,
       "fr": "(-Passant-)Ah bon<nbsp>? Dans ce cas, je vais aussi vous en commander une paire.",
       "ja": "(-通りすがりの客-)それは、残念だ。<br>では、予約をしてもいいかな？",

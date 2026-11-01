@@ -1788,8 +1788,8 @@
     },
     {
       "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_208",
-      "en": "Abandon your quarrel, your tongues are sharp enough to shave an urchin! ",
-      "hash": "123BD5596AAA7286",
+      "en": "(-???-)Abandon your quarrel, your tongues are sharp enough to shave an urchin! ",
+      "hash": "D073D854B2860A1B",
       "unresolved": false,
       "fr": "(-???-)Cessez de vous quereller<nbsp>! On dirait deux enfants qui ne veulent pas partager une friandise<nbsp>!",
       "ja": "(-？？？？-)そのケンカ、待てッ！",
@@ -1814,8 +1814,8 @@
     },
     {
       "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_209",
-      "en": "Treespeak sends for the finest chocobo in Coerthas, and I have brought it thus... Now, what ails you that you would keep me waiting?",
-      "hash": "D6B1A1CAC41DBA8E",
+      "en": "(-???-)Treespeak sends for the finest chocobo in Coerthas, and I have brought it thus... Now, what ails you that you would keep me waiting?",
+      "hash": "8DC9A60B2EEFC65A",
       "unresolved": false,
       "fr": "(-???-)L'écurie des murmures commande la crème des chocobos du Coerthas, alors me voilà... Dites-moi, que se passe-t-il donc pour qu'on me fasse attendre de la sorte<nbsp>?",
       "ja": "(-？？？？-)「最高にイイチョコボが見たい」との報を受け、<br>視察も兼ねて、チョコボを連れてきてみれば……<br>何やら穏やかではないな。",

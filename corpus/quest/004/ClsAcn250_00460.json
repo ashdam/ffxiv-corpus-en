@@ -842,8 +842,8 @@
     },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_032",
-      "en": "“Seek the box at Fool Falls.”<br>“Dance a jig for your wooden audience.”<br>“Claim the secret from the opened heart.”",
-      "hash": "FDA765EFEBA2B9D6",
+      "en": "(-Slips of Parchment-)“Seek the box at Fool Falls.”<br>“Dance a jig for your wooden audience.”<br>“Claim the secret from the opened heart.”",
+      "hash": "94C52FC0665F556A",
       "unresolved": false,
       "fr": "(-Contenu des lettres-)Cherche <frnoun(EObj,2,2001895,1,1)> aux cascades des Idiots<nbsp>!<br>Et fais quelques pas de <italic(1)>danse<italic(0)> devant<nbsp>!<br>Ainsi réjoui<if(<sheet(EObj,2001895,6)>,e,)>, <if(<sheet(EObj,2001895,6)>,elle,il)> s'ouvrira pour toi<nbsp>!",
       "ja": "(-紙片の内容-)「愚か者の滝」で、箱を探せ。<br>「<sheet(EObj,2001895,0)>」に、「踊る」を披露せよ。<br>「踊る」で喜んだ木箱を開けば、命題を得るだろう。",
@@ -970,8 +970,8 @@
     },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_MEMO_000_051",
-      "en": "“If there are answers you would seek,<br>Then to the trading post now go,<br>Before the owner, be not meek,<br>With your two feet, provide a show.”",
-      "hash": "61E1624C6F0B14FE",
+      "en": "(-Slip of Parchment-)“If there are answers you would seek,<br>Then to the trading post now go,<br>Before the owner, be not meek,<br>With your two feet, provide a show.”",
+      "hash": "053C34F4EB9100F8",
       "unresolved": false,
       "fr": "(-Morceau de papier-)Si tu désires la solution, va au comptoir de Memeroon<nbsp>!<br>Là, fais quelques pas de <italic(1)>danse<italic(0)> pour ce joyeux Qiqirn<nbsp>!",
       "ja": "(-紙片の内容-)解を求めるならば、<br>メメルン交易商店のメメルンに「踊り」<br>心を開いてみせよ。",

@@ -1530,8 +1530,8 @@
     },
     {
       "gameKey": "quest/021/BanVan006_02169#TEXT_BANVAN006_02169_ZUNDUYOUNG02169_000_081",
-      "en": "Such power! Such strength! Netherling moves with fury of raging typhoon!",
-      "hash": "40D26B1A7791F17E",
+      "en": "(-Zundu Youth-)Such power! Such strength! Netherling moves with fury of raging typhoon!",
+      "hash": "4EEB9B676E0F35BD",
       "unresolved": false,
       "fr": "(-Jeune Zundu-)Quelle présence<nbsp>! Quelle force<nbsp>! Ton courage semble aussi puissant que la plus violente des tornades, humain<if(gnum4,e,)><nbsp>!",
       "ja": "(-ズンド族の若者-)なんて、なんて、力強い！<br>まるで、すべてを蹴散らす竜巻のような猛々しさだ……！！",
@@ -1556,8 +1556,8 @@
     },
     {
       "gameKey": "quest/021/BanVan006_02169#TEXT_BANVAN006_02169_ZUNDUYOUNG02169_000_082",
-      "en": "Magnificent! The White Himself cowers among the clouds!",
-      "hash": "A7E9DC0ACF423117",
+      "en": "(-Zundu Youth-)Magnificent! The White Himself cowers among the clouds!",
+      "hash": "EC3419E2F54F018E",
       "unresolved": false,
       "fr": "(-Jeune Zundu-)En te voyant danser, j'ai eu l'impression de te voir affronter l'abomination que les Vundu avaient invoquée, <if(gnum4,héroïne,héros)> des gens d'en bas<nbsp>!",
       "ja": "(-ズンド族の若者-)ありがたや、ありがたや！<br>これが、雲神さまを鎮めたヒトの勇者の「太陽の舞」か！！",
@@ -1582,8 +1582,8 @@
     },
     {
       "gameKey": "quest/021/BanVan006_02169#TEXT_BANVAN006_02169_ZUNDUYOUNG02169_000_083",
-      "en": "Our hearts stir with fury!",
-      "hash": "624C68B5C650DB98",
+      "en": "(-Zundu Youth-)Our hearts stir with fury!",
+      "hash": "CB629B91CA097B31",
       "unresolved": false,
       "fr": "(-Jeune Zundu-)Mouoooooh<nbsp>! Je sens mon courage grandir en moi<nbsp>!",
       "ja": "(-ズンド族の若者-)ぬおおおおおっ！<br>心が、心が、奮い立ってきたぞっ！！",
@@ -1608,8 +1608,8 @@
     },
     {
       "gameKey": "quest/021/BanVan006_02169#TEXT_BANVAN006_02169_ZUNDUYOUNG02169_000_084",
-      "en": "We will dance! Zundu will dance!",
-      "hash": "5BCE84F828F94FA9",
+      "en": "(-Zundu Youth-)We will dance! Zundu will dance!",
+      "hash": "32FF30BA7848DB66",
       "unresolved": false,
       "fr": "(-Jeune Zundu-)J'ai envie de faire la danse du soleil, moi aussi<nbsp>! Tous ensemble, je suis sûr que nous pourrons intimider n'importe quel adversaire<nbsp>!",
       "ja": "(-ズンド族の若者-)やろう、やろう！<br>我らも、踊ってやろうじゃないか！！",

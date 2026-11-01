@@ -566,8 +566,8 @@
     },
     {
       "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_ANSAULME_000_011",
-      "en": "A thousand pardons, Master Wawalago, but I fear there has been a change of plans. My fellow fishing enthusiast has made for Kugane, and I am here to deliver our findings in her stead.",
-      "hash": "53B0BAB888FA03D6",
+      "en": "(-???-)A thousand pardons, Master Wawalago, but I fear there has been a change of plans. My fellow fishing enthusiast has made for Kugane, and I am here to deliver our findings in her stead.",
+      "hash": "E7484A96D6C48EA5",
       "unresolved": false,
       "fr": "(-???-)Désolé de vous décevoir, Maître Wawalago, mais elle a dû se rendre à Kugane. C'est afin d'informer Govv des résultats des examens faits sur les spécimens que <split(<string(gstr1)>, ,1)> a capturés. À sa place, c'est moi qui suis chargé de tout vous expliquer.",
       "ja": "(-？？？？-)……いんや、レイナは先にクガネへ向かったよ。<br>ゴォヴって奴にも、調査結果を伝えにゃならんしな。<br>すまんが、この髭面で勘弁してくれや。",
@@ -898,8 +898,8 @@
     },
     {
       "gameKey": "quest/028/ClsFsh680_02898#TEXT_CLSFSH680_02898_SISIPU_000_040",
-      "en": "Wawalago! You stubborn, self-absorbed, slack-witted...stupid-head!",
-      "hash": "7F49DD88F3E74DA3",
+      "en": "(-???-)Wawalago! You stubborn, self-absorbed, slack-witted...stupid-head!",
+      "hash": "D390A7D6602F6B48",
       "unresolved": false,
       "fr": "(-???-)MAÎTRE WAWALAGO<nbsp>!! MAIS QUEL IDIOT VOUS FAITES<nbsp>!",
       "ja": "(-？？？？-)ワワラゴ親分の……親分の……！<br>ばかーーーーーー！！！！",

@@ -766,8 +766,8 @@
     },
     {
       "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TERRORIST_000_067",
-      "en": "Hah! The word of a heretic and kinslayer! I would sooner trust a dragon. Activate the knights! We shall show the hostages the same mercy he showed the archbishop!",
-      "hash": "3E8A5BEE2977BB49",
+      "en": "(-Simeonard of the Holiest Flame-)Hah! The word of a heretic and kinslayer! I would sooner trust a dragon. Activate the knights! We shall show the hostages the same mercy he showed the archbishop!",
+      "hash": "60278286FEE4FFE0",
       "unresolved": false,
       "fr": "(-Simeonard-)Tu ferais mieux de surveiller ton langage, mécréant<nbsp>!<br>Envoyez les cavaliers et exterminez les otages, c'est un ordre<nbsp>!",
       "ja": "(-聖火のシメオナール-)チッ、異端に堕ちた逆賊がよく言う！<br>ええい、オートナイトを起動させろッ！<br>人質を皆殺しにするのだ！",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_TERRORIST_000_068",
-      "en": "Unlike you, Ser Aymeric, I am a man of honor. By my hand, you shall receive of the Fury's judgment!",
-      "hash": "83B7766F29CF8A8E",
+      "en": "(-Simeonard of the Holiest Flame-)Unlike you, Ser Aymeric, I am a man of honor. By my hand, you shall receive of the Fury's judgment!",
+      "hash": "4C119B67234F7B60",
       "unresolved": false,
       "fr": "(-Simeonard-)Écoute-moi bien, Aymeric<nbsp>! Tout capitaine général que tu es, tu n'as pas hésité à trahir notre foi et à attiser la rébellion dans la sainte Cité<nbsp>! Je vais donc me faire un plaisir de faire couler ton sang d'hérétique<nbsp>! En garde<nbsp>!",
       "ja": "(-聖火のシメオナール-)アイメリク！<br>神殿騎士団総長の身にありながら、謀反を起こした貴様は、<br>この私が直々に、一対一の決闘で裁いてやろう！",
@@ -2524,8 +2524,8 @@
     },
     {
       "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_111",
-      "en": "It is a truth long forgotten─a tale of the beginning, and of the path we have been set upon.",
-      "hash": "2A3C597361383446",
+      "en": "(-???-)It is a truth long forgotten─a tale of the beginning, and of the path we have been set upon.",
+      "hash": "C676DB98FBC4427A",
       "unresolved": false,
       "fr": "(-???-)Tu commences enfin à entrevoir la vérité... Bientôt, tu connaîtras le devenir inéluctable de cette planète...",
       "ja": "(-？？？？-)……そうだ……今なら理解できよう。<br>星の運命と、その在るべき姿がな……。",
@@ -2550,8 +2550,8 @@
     },
     {
       "gameKey": "quest/021/HeaVnb108_02163#TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_112",
-      "en": "Our fates were ordained long ago, Archon. The Garleans are no exception. Nor the Triad. You know what must be done.",
-      "hash": "699245D599EF1F9D",
+      "en": "(-Elidibus-)Our fates were ordained long ago, Archon. The Garleans are no exception. Nor the Triad. You know what must be done.",
+      "hash": "FD383F285C812098",
       "unresolved": false,
       "fr": "(-Elidibus-)Son destin sera scellé lorsque la Triade guerrière aura accompli sa renaissance... La puissance tant convoitée par l'empire d'Allag sera alors enfin entre nos mains...",
       "ja": "(-アシエン・エリディブス-)目覚めの途にある三闘神……<br>帝国が血眼で欲するあの力を以てしてさえ、<br>この運命は、変えられはしないのだよ……。",

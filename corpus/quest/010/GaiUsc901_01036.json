@@ -2706,8 +2706,8 @@
     },
     {
       "gameKey": "quest/010/GaiUsc901_01036#TEXT_GAIUSC901_01036_ALLIEDARMIES_000_556",
-      "en": "HURRAH!",
-      "hash": "A484CC37A81081AC",
+      "en": "(-All-)HURRAH!",
+      "hash": "2A9E7C07D5109DE5",
       "unresolved": false,
       "fr": "(-Tous-)Victoire pour Éorzéa<nbsp>!",
       "ja": "(-同盟軍の将兵たち-)オー！",
@@ -3114,8 +3114,8 @@
     },
     {
       "gameKey": "quest/010/GaiUsc901_01036#TEXT_GAIUSC901_01036_LIVIANERO_000_710",
-      "en": "Yes, my lord!",
-      "hash": "BB6F0589763D1C86",
+      "en": "(-Tribuni-)Yes, my lord!",
+      "hash": "ADB24FA60A57937F",
       "unresolved": false,
       "fr": "(-Livia et Nero-)Il en sera fait selon vos ordres, Votre Excellence<nbsp>!",
       "ja": "(-リウィアとネロ-)この命にかえて。",

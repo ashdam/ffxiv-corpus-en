@@ -794,8 +794,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy702_03132#TEXT_STMBDY702_03132_SUBMANAGER03132_000_050",
-      "en": "\\<beep> Auxiliary protocol system activated. Verifying access permission... Security clearance for floor thirty-one confirmed. Initiating archive footage projection.",
-      "hash": "C75BAB16930CCF0F",
+      "en": "(-Voice from the Ten-thousand-year Pine-)\\<beep> Auxiliary protocol system activated. Verifying access permission... Security clearance for floor thirty-one confirmed. Initiating archive footage projection.",
+      "hash": "C817714393E70234",
       "unresolved": false,
       "fr": "(-Voix venant du pin de Dix-mille-ans-)Bip... Système de protocole auxiliaire activé. Vérification de l'au<->to<->ri<->sa<->tion d'accès... Permission d'accéder à l'étage trente et un accordée. Début de la projection des images d'archives...",
       "ja": "(-万年松から響く声-)アメノミハシラ補助管理システム、起動……完了。<br>突破階層確認……完了。<br>30層突破を確認……幻影、投影開始……。",
@@ -1184,8 +1184,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy702_03132#TEXT_STMBDY702_03132_SUBMANAGER03132_000_065",
-      "en": "\\<beep> Terminating archive footage projection. Auxiliary protocol system returning to standby mode.",
-      "hash": "4C677F9E12296880",
+      "en": "(-Voice from the Ten-thousand-year Pine-)\\<beep> Terminating archive footage projection. Auxiliary protocol system returning to standby mode.",
+      "hash": "B3150D709DCB3986",
       "unresolved": false,
       "fr": "(-Voix venant du pin de Dix-mille-ans-)Bip... Fin de la projection des images d'archives. Mise en veille du système de protocole auxiliaire...",
       "ja": "(-万年松から響く声-)投影終了……。<br>アメノミハシラ補助管理システム、休止状態へ移行。",

@@ -706,8 +706,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz615_02793#TEXT_STMBDZ615_02793_MAUCI_100_026",
-      "en": "Thank you, <split(<string(gstr1)>, ,1)>.",
-      "hash": "A17E5F900B771C05",
+      "en": "(-Mauci-)Thank you, <split(<string(gstr1)>, ,1)>.",
+      "hash": "B4B77E0A86E9B005",
       "unresolved": false,
       "fr": "(-Mauci-)Pfiou... Ce ne fut pas de tout repos, mais nous y sommes. Aucune créature à l'horizon... On va pouvoir souffler un peu et discuter tran<->quil<->le<->ment.",
       "ja": "(-七剣のマウシ-)ありがとう。<br>手間をかけさせたが、おかげで無事に着いたよ。<br>凶悪な魔物もそれほど多くないようだし、ここで少し話そう。",

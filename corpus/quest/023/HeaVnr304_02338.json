@@ -424,8 +424,8 @@
     },
     {
       "gameKey": "quest/023/HeaVnr304_02338#TEXT_HEAVNR304_02338_QUICKTHINXALLTHOUGHTS_000_100",
-      "en": "Tick...tock. Tick...tock.<br>Time moves on, imperfect past giving way to perfect future. Worthy or unworthy of place in new world order─Alexander will judge!",
-      "hash": "597112369D712066",
+      "en": "(-Quickthinx Allthoughts-)Tick...tock. Tick...tock.<br>Time moves on, imperfect past giving way to perfect future. Worthy or unworthy of place in new world order─Alexander will judge!",
+      "hash": "C614B6FD2C550D8D",
       "unresolved": false,
       "fr": "(-Quickthinx-)Pshhhouô... Pshhhouô... Les humains ont donc osé revenir malgré l'avertissement de Quickthinx... Ils vont subir le jugement d'Alexander<nbsp>!",
       "ja": "(-万能のクイックシンクス-)コフォ……コフォ……<br>来たな…………侵入者に、「神判」を下せ……！",
@@ -450,8 +450,8 @@
     },
     {
       "gameKey": "quest/023/HeaVnr304_02338#TEXT_HEAVNR304_02338_QUICKTHINXALLTHOUGHTS_000_101",
-      "en": "Yes! All is as Quickthinx foresees! Truthhammer of Alexander falls on uplanders! Ignorant and unworthy are not welcome in Illuminati future! Here, uplanders meet their endtimes!",
-      "hash": "3BD406C2603A338A",
+      "en": "(-Quickthinx Allthoughts-)Yes! All is as Quickthinx foresees! Truthhammer of Alexander falls on uplanders! Ignorant and unworthy are not welcome in Illuminati future! Here, uplanders meet their endtimes!",
+      "hash": "B98BD45388396292",
       "unresolved": false,
       "fr": "(-Quickthinx-)Un champ atemporel<nbsp>!<nbsp>... Pshhhouô... Excellent<nbsp>! Avec ça, ils ne pourront pas éviter cette attaque...",
       "ja": "(-万能のクイックシンクス-)時間停止フィールドを発生させたか……いいゾ！<br>目標捕捉……！",
@@ -476,8 +476,8 @@
     },
     {
       "gameKey": "quest/023/HeaVnr304_02338#TEXT_HEAVNR304_02338_QUICKTHINXALLTHOUGHTS_100_101",
-      "en": "What!? Freezetime field is deactivated!? Pshhhkohhh...no matter! Uplanders will be reduced to smolderdust! FIRE!",
-      "hash": "7B1D7D0D24F1876C",
+      "en": "(-Quickthinx Allthoughts-)What!? Freezetime field is deactivated!? Pshhhkohhh...no matter! Uplanders will be reduced to smolderdust! FIRE!",
+      "hash": "D7F21564371D63C5",
       "unresolved": false,
       "fr": "(-Quickthinx-)Pshhhmmmouôh<nbsp>!?<nbsp>... Cet<if(gnum4,te aventurière, aventurier)> est capable de résister au champ atemporel<nbsp>!?<nbsp>... Peu importe<nbsp>! Feeeuuu<nbsp>!",
       "ja": "(-万能のクイックシンクス-)…………何だと！？<br>ヤツには……時間停止が効かんのか？<br>かまうか…………撃テ！！",
@@ -966,8 +966,8 @@
     },
     {
       "gameKey": "quest/023/HeaVnr304_02338#TEXT_HEAVNR304_02338_MIDE_000_307",
-      "en": "When the final core is activated and Alexander fully awakens, its power will be such that it could entirely consume any who sought to control it. You were too craven to risk your own life─until you had no choice.",
-      "hash": "1CE6C9E2B0AF5B0A",
+      "en": "(-???-)When the final core is activated and Alexander fully awakens, its power will be such that it could entirely consume any who sought to control it. You were too craven to risk your own life─until you had no choice.",
+      "hash": "260FD9575CFE6C6E",
       "unresolved": false,
       "fr": "(-???-)Je comprends mieux pourquoi tu as préféré utiliser Roundrox jusqu'à présent, Quickthinx... Tu savais qu'en réveillant com<->plè<->te<->ment le Primordial toi-même, il aurait sûrement dévoré ton âme.",
       "ja": "(-？？？？-)…………やっと、わかったわ。<br>アレキサンダーが完全に覚醒すれば、蛮神に魂を蝕まれかねない。<br>だから……「自身で動かす」という切札は、伏せておいた。",

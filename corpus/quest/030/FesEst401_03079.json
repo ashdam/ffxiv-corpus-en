@@ -1608,8 +1608,8 @@
     },
     {
       "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_072",
-      "en": "You have the wrong spriggan!",
-      "hash": "1F360F059783F264",
+      "en": "(-???-)You have the wrong spriggan!",
+      "hash": "0469CD079F80C3A1",
       "unresolved": false,
       "fr": "(-???-)Vous vous êtes <if(gnum4,trrrompées,trrrompés)> de spriggan<nbsp>!!!",
       "ja": "(-？？？？-)その子は犯人じゃないわ！！",
@@ -3063,8 +3063,8 @@
     },
     {
       "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_LEIHALIAPOH_000_139",
-      "en": "You can't mean...",
-      "hash": "F9081C68886130C2",
+      "en": "(-Leih Aliapoh-)You can't mean...",
+      "hash": "E9A289B05D7E9AC6",
       "unresolved": false,
       "fr": "(-Leih Aliapoh-)Attends, ça ne peut pas êtrrre...",
       "ja": "(-レイ・アリアポー-)おい、まさかそれって……。",
@@ -3113,8 +3113,8 @@
     },
     {
       "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_LEIHALIAPOH_000_141",
-      "en": "Well, I'll be a spriggan's second cousin. And a first cousin to you, it seems! Now that <italic(1)>is<italic(0)> an unexpected wonder.",
-      "hash": "77F8B84FF4459279",
+      "en": "(-Leih Aliapoh-)Well, I'll be a spriggan's second cousin. And a first cousin to you, it seems! Now that <italic(1)>is<italic(0)> an unexpected wonder.",
+      "hash": "BBE802A7DAB494DC",
       "unresolved": false,
       "fr": "(-Leih Aliapoh-)... Ça alors<nbsp>! Voilà donc ce que tu entendais par “une rencontre heurrreuse et inattendue”. Si on m'avait dit que j'allais me découvrir une cousine cachée dans de telles cir<->cons<->tan<->ces...",
       "ja": "(-レイ・アリアポー-)……なんてこった。<br>こんなところで、知らなかった従姉妹と会うなんて、<br>そりゃ、嬉しい驚きの出会いって言うしかないな。",

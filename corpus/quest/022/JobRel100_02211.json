@@ -154,8 +154,8 @@
     },
     {
       "gameKey": "quest/022/JobRel100_02211#TEXT_JOBREL100_02211_ARDASHIR_000_001",
-      "en": "Pardon the intrusion, Mistress Rowena. I realize I was here only a few days ago, but I really must speak with you about─",
-      "hash": "75C0C94F4816AF87",
+      "en": "(-Dubious Youth-)Pardon the intrusion, Mistress Rowena. I realize I was here only a few days ago, but I really must speak with you about─",
+      "hash": "AB05484F996B486B",
       "unresolved": false,
       "fr": "(-Garçon à l'air déterminé-)Pardonnez-moi de vous interrompre. Mademoiselle Rowena, je sais que peu de temps s'est écoulé depuis ma dernière visite, mais...",
       "ja": "(-怪しげな少年-)お話し中、すみません。<br>ロウェナさん、少し気が早いかもしれませんが例の件は……。",
@@ -206,8 +206,8 @@
     },
     {
       "gameKey": "quest/022/JobRel100_02211#TEXT_JOBREL100_02211_ARDASHIR_000_003",
-      "en": "Excuse me, sir, but when people are talking, it is generally considered rude to interrupt. I know not what manner of business you have with Rowena, but I am quite sure it can wait.",
-      "hash": "5046C474E108A30F",
+      "en": "(-Dubious Youth-)Excuse me, sir, but when people are talking, it is generally considered rude to interrupt. I know not what manner of business you have with Rowena, but I am quite sure it can wait.",
+      "hash": "C3970FE1E24D5860",
       "unresolved": false,
       "fr": "Hé, là<nbsp>! Vous ne voyez pas que nous sommes en train de parler de quelque chose d'important<nbsp>? Attendez donc que nous ayons fini pour raconter vos histoires à dormir debout.",
       "ja": "……ちょっと、オジサン。<br>今は、このアルダシールが彼女と話しているんです。<br>くだらない内容ならば、後にしてもらえませんか？",
@@ -232,8 +232,8 @@
     },
     {
       "gameKey": "quest/022/JobRel100_02211#TEXT_JOBREL100_02211_ARDASHIR_000_004",
-      "en": "<italic(1)>As I was saying<italic(0)>, Mistress Rowena─have you perchance been able to arrange a meeting with your associates? There is much I would ask them about their work on arcane sentries.",
-      "hash": "3DA294BE7458303C",
+      "en": "(-Dubious Youth-)<italic(1)>As I was saying<italic(0)>, Mistress Rowena─have you perchance been able to arrange a meeting with your associates? There is much I would ask them about their work on arcane sentries.",
+      "hash": "A9EF63D3E8FC0469",
       "unresolved": false,
       "fr": "Alors, Mademoiselle Rowena, avez-vous eu des nouvelles de cette spécialiste des êtres arcaniques<nbsp>?",
       "ja": "それで、ロウェナさん。<br>魔法生物の権威を紹介していただきたいという話ですが、<br>その後、進展はありましたでしょうか？",

@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/041/AktKba121_04104#TEXT_AKTKBA121_04104_KANESENNA_000_066",
-      "en": "But I don't want to be a Seedseer. I never wanted to be a Padjal either. I never asked for any of this.",
-      "hash": "28D86F4E712E6CBB",
+      "en": "(-Padjali Girl-)But I don't want to be a Seedseer. I never wanted to be a Padjal either. I never asked for any of this.",
+      "hash": "F27833A1B61719FE",
       "unresolved": false,
       "fr": "(-Jeune Padjale-)Moi, j'ai aucune envie de devenir Oracle... J'ai jamais demandé à naître Padjale, d'abord<nbsp>!",
       "ja": "(-角尊の少女-)私、幻術皇になんかなりたくない。<br>角尊にだって、なりたくてなったわけじゃないもん。",
@@ -1426,8 +1426,8 @@
     },
     {
       "gameKey": "quest/041/AktKba121_04104#TEXT_AKTKBA121_04104_KANESENNA_000_067",
-      "en": "Why can't I live a normal life like everyone else? How come I don't get to grow old? Why was I cursed with these ugly horns?",
-      "hash": "5709DE602F7606C3",
+      "en": "(-Padjali Girl-)Why can't I live a normal life like everyone else? How come I don't get to grow old? Why was I cursed with these ugly horns?",
+      "hash": "5DF03A5867451AFA",
       "unresolved": false,
       "fr": "(-Jeune Padjale-)J'aurais voulu être une fille normale, qui vieillit comme tout le monde... et surtout ne pas avoir ces stupides cornes sur la tête<nbsp>!",
       "ja": "(-角尊の少女-)普通に生まれて、みんなと一緒に年をとりたかった。<br>こんなヘンテコな角、大っ嫌い。",
@@ -1452,8 +1452,8 @@
     },
     {
       "gameKey": "quest/041/AktKba121_04104#TEXT_AKTKBA121_04104_PADJALBEAST_000_068",
-      "en": "I like them. And maybe we didn't choose to be born this way, but I don't think it makes us that different from everyone else.",
-      "hash": "3B5C01ECA62522B3",
+      "en": "(-Padjali Boy-)I like them. And maybe we didn't choose to be born this way, but I don't think it makes us that different from everyone else.",
+      "hash": "95CB3393F06BF6E7",
       "unresolved": false,
       "fr": "(-Jeune Padjal-)Elles me plaisent bien, à moi... Et puis au fond, personne ne choisit ce qu'il est à la naissance.",
       "ja": "(-角尊の少年-)ぼくはこの角を気に入っているよ。<br>確かに自分で望んだわけじゃないけれど、<br>どう生まれるかなんて誰だって選べないんだ。",
@@ -1478,8 +1478,8 @@
     },
     {
       "gameKey": "quest/041/AktKba121_04104#TEXT_AKTKBA121_04104_PADJALBEAST_000_069",
-      "en": "It's a rare gift─a blessing, even!─and if we can use it to help others, then we should. Don't give up on becoming a Seedseer, Kan<-->E. We'd all be worse for it!",
-      "hash": "6A9D15F0B1D9BF60",
+      "en": "(-Padjali Boy-)It's a rare gift─a blessing, even!─and if we can use it to help others, then we should. Don't give up on becoming a Seedseer, Kan<-->E. We'd all be worse for it!",
+      "hash": "DD494555A74787C0",
       "unresolved": false,
       "fr": "(-Jeune Padjal-)Il se trouve qu'on a reçu la bénédiction des esprits, toi et moi. Si on peut mettre ce don de la nature au service des autres en devenant Oracles, alors autant le faire<nbsp>! Tu ne crois pas, Kan-E<nbsp>? ",
       "ja": "(-角尊の少年-)祝福という特別な贈り物を授かった以上、<br>ぼくはそれを人々のために役立てたいと思っている。<br>だからきみも一緒に幻術皇を目指そうよ、カヌ・エ！",

@@ -1254,8 +1254,8 @@
     },
     {
       "gameKey": "quest/002/FesNyr104_00290#TEXT_FESNYR104_00290_MOTHER_101_050",
-      "en": "Blub... Burble... Wuh... Wah...<br>WAAAAAAAAAH! WAAAAAAAAAH!",
-      "hash": "F154FDFB67E0C8C9",
+      "en": "(-Suckling Babe-)Blub... Burble... Wuh... Wah...<br>WAAAAAAAAAH! WAAAAAAAAAH!",
+      "hash": "DB0DB87B86A85C24",
       "unresolved": false,
       "fr": "(-Petit poupon-)Areuh... reuh... Ouh... Ouiiin<nbsp>!",
       "ja": "(-玉のような赤ん坊-)ばぶ……ぶ……うあ、うううーー！<br>わぁぁぁぁん、わぁぁぁぁん！",
@@ -1758,8 +1758,8 @@
     },
     {
       "gameKey": "quest/002/FesNyr104_00290#TEXT_FESNYR104_00290_MOTHER_000_072",
-      "en": "Zzzzzzzzz...",
-      "hash": "39474F1EA79A631D",
+      "en": "(-Suckling Babe-)Zzzzzzzzz...",
+      "hash": "C7268A0DD920ACF4",
       "unresolved": false,
       "fr": "(-Petit poupon-)Areuh... reuh...",
       "ja": "(-玉のような赤ん坊-)ふみゅ……ぷすぅ……。",

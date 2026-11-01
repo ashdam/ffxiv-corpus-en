@@ -208,8 +208,8 @@
     },
     {
       "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_BULUGAN_000_005",
-      "en": "Beg pardons. I am searching for a man named Adkiragh. If any of you know him, I ask that you point me in his direction.",
-      "hash": "81126C7FA80ABA2F",
+      "en": "(-Adarkim Man-)Beg pardons. I am searching for a man named Adkiragh. If any of you know him, I ask that you point me in his direction.",
+      "hash": "2D3988AB29B528FA",
       "unresolved": false,
       "fr": "(-Homme adarkim-)Je cherche un homme appelé Adkiragh. Je te serais re<->con<->nais<->sant si tu pouvais me dire où il se trouve.",
       "ja": "(-アダルキム族の男-)アドキラーという男を探しているのだが、<br>知っていたら、どこにいるか教えていただきたい。",
@@ -260,8 +260,8 @@
     },
     {
       "gameKey": "quest/031/SubCts631_03178#TEXT_SUBCTS631_03178_BULUGAN_000_007",
-      "en": "Well, if it isn't the adventurer from Reunion! The fates are kind to bring us together once more. Lest you have forgotten, you fetched me purbol flowers. Only after we went our separate ways did it occur to me that I had failed to introduce myself. That oversight, I shall now rectify.",
-      "hash": "7AABEC4DA8888E06",
+      "en": "(-Adarkim Man-)Well, if it isn't the adventurer from Reunion! The fates are kind to bring us together once more. Lest you have forgotten, you fetched me purbol flowers. Only after we went our separate ways did it occur to me that I had failed to introduce myself. That oversight, I shall now rectify.",
+      "hash": "105A1DC11CE3D427",
       "unresolved": false,
       "fr": "Hé<nbsp>! Mais je te connais, toi<nbsp>! Tu es <if(gnum4,l'aventurière,l'aventurier)> qui m'a filé un coup de main dans la steppe<nbsp>! Quelle coïncidence<nbsp>! Je suis Bulugan, le petit frère d'Adkiragh.",
       "ja": "アンタはあの時世話になった冒険者……！<br>こんなところで再会できるとは！<br>俺の名はブルガン、アドキラーの弟だ。",

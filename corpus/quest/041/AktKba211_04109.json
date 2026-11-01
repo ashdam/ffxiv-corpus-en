@@ -720,8 +720,8 @@
     },
     {
       "gameKey": "quest/041/AktKba211_04109#TEXT_AKTKBA211_04109_FORDOLA_000_009",
-      "en": "I thought I felt my ears burning...",
-      "hash": "82CE714F7E0E5EC8",
+      "en": "(-???-)I thought I felt my ears burning...",
+      "hash": "1F83BB40D16B2818",
       "unresolved": false,
       "fr": "(-Voix familière-)On t'a déjà dit que t'as la voix qui porte<nbsp>?",
       "ja": "(-？？？？-)何か言ったか？",
@@ -1470,8 +1470,8 @@
     },
     {
       "gameKey": "quest/041/AktKba211_04109#TEXT_AKTKBA211_04109_SYSTEM_000_052",
-      "en": "<italic(1)>Dear Mother,<br>I hope this letter finds you well. Time is short, so I must keep this brief. Although I have never done anything to make you proud, I promise you things will be different when the war is over. Until then, take care and know that I love you with all my heart.<italic(0)>",
-      "hash": "9DF3B89F5AFDC661",
+      "en": "(-Crumpled Letter-)<italic(1)>Dear Mother,<br>I hope this letter finds you well. Time is short, so I must keep this brief. Although I have never done anything to make you proud, I promise you things will be different when the war is over. Until then, take care and know that I love you with all my heart.<italic(0)>",
+      "hash": "BD33CB52D6F63308",
       "unresolved": false,
       "fr": "(-Vieille lettre-)Chère Maman, désolé de ne pouvoir t'adresser que ces quelques mots. Je sais que je n'ai encore rien pu faire pour toi, mais je te promets que cela changera lorsque nous aurons remporté la victoire et gagné notre liberté. En attendant, porte-toi bien.<br>Ton fils qui t'aime.",
       "ja": "(-遺族宛の手紙-)お母さん、今までなにも親孝行できなくてごめんなさい。<br>自由を勝ち取ったら、必ず迎えにいきます。<br>それまでどうか身体に気を付けて、元気でいてください。",
@@ -1802,8 +1802,8 @@
     },
     {
       "gameKey": "quest/041/AktKba211_04109#TEXT_AKTKBA211_04109_EVRAT_100_100",
-      "en": "I've finished checking the wares, sir! Everything's in order!",
-      "hash": "0CFE1C8195306984",
+      "en": "(-???-)I've finished checking the wares, sir! Everything's in order!",
+      "hash": "A66A5A991592F79A",
       "unresolved": false,
       "fr": "(-???-)Raganfrid, j'ai fini d'inspecter la marchandise<nbsp>!",
       "ja": "(-？？？？-)ラガンフリッドさん、検品終わりましたよ！",

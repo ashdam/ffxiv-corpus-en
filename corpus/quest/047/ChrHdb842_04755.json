@@ -1268,8 +1268,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb842_04755#TEXT_CHRHDB842_04755_GODBERT_000_56",
-      "en": "Oho, yet again do our paths cross in most serendipitous fashion!",
-      "hash": "0A21A12B74ADABBA",
+      "en": "(-???-)Oho, yet again do our paths cross in most serendipitous fashion!",
+      "hash": "F9A2D47CC33ECFD8",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho, quelle fine équipe athlétique que voilà<nbsp>!",
       "ja": "(-？？？？-)ホーウ、これまた奇遇ですな……。",
@@ -3218,8 +3218,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb842_04755#TEXT_CHRHDB842_04755_GODBERT_000_171",
-      "en": "Oho, that <italic(1)>does<italic(0)> sound promising!",
-      "hash": "8132E0DFEE796E1A",
+      "en": "(-???-)Oho, that <italic(1)>does<italic(0)> sound promising!",
+      "hash": "A4679177F604416B",
       "unresolved": false,
       "fr": "(-???-)Ho ho ho<nbsp>! Je vois que nos recherches respectives ont été fructueuses...",
       "ja": "(-？？？？-)ホーウ、収穫があったようでなによりですぞ……。",
@@ -3608,8 +3608,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb842_04755#TEXT_CHRHDB842_04755_GODBRAND_000_401",
-      "en": "I am Godbrand, wanderer of stars and weaponsmith extraordinaire!",
-      "hash": "1B1899A2ED4B19F5",
+      "en": "(-Godbert-like Gentleman-)I am Godbrand, wanderer of stars and weaponsmith extraordinaire!",
+      "hash": "46198A8B5919CE68",
       "unresolved": false,
       "fr": "(-Sosie de Godbert-)Regardez dans le ciel<nbsp>! C'est un ouvrier<nbsp>? C'est un forgeron<nbsp>? C'est... GOOOOOOODBRAND<nbsp>!!",
       "ja": "(-ゴッドベルトに似た男-)天越え地越え、武器造る、さすらいの鍛冶屋……。<br>ゴッドォォォォォォォォォブランドゥッ！！",
@@ -4596,8 +4596,8 @@
     },
     {
       "gameKey": "quest/047/ChrHdb842_04755#TEXT_CHRHDB842_04755_GODBERT_000_444",
-      "en": "I hope you've not been waiting long!",
-      "hash": "54879DC7822C944D",
+      "en": "(-Godbert-)I hope you've not been waiting long!",
+      "hash": "2E7CB3A9CFCE9C6F",
       "unresolved": false,
       "fr": "(-Voix de Godbert-)Navré de vous avoir fait attendre, <split(<string(gstr1)>, ,1)>.",
       "ja": "(-ゴッドベルトの声-)お待たせしましたな。",

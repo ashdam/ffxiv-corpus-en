@@ -1206,8 +1206,8 @@
     },
     {
       "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEA00232_000_92",
-      "en": "Oh, there's nothing in there but aldgoat milk. Rich and creamy aldgoat milk, to be sure, but aldgoat milk just the same.",
-      "hash": "50680AB55C51BFF2",
+      "en": "(-Suspicious-looking Milkmaid-)Oh, there's nothing in there but aldgoat milk. Rich and creamy aldgoat milk, to be sure, but aldgoat milk just the same.",
+      "hash": "A673E32D4CA134FD",
       "unresolved": false,
       "fr": "(-Paysanne louche-)Hé, qui vous a dit de fouiller dans mon coffre<nbsp>!?",
       "ja": "(-怪しげな農婦-)その箱は預かり物なのよ。<br>勝手に触らないでくれる？",
@@ -1310,8 +1310,8 @@
     },
     {
       "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLEB00232_000_97",
-      "en": "Didn't your mother teach you not to touch a lady's personal belongings?",
-      "hash": "CF595F51956A7476",
+      "en": "(-Suspicious Midwife-)Didn't your mother teach you not to touch a lady's personal belongings?",
+      "hash": "D6B6F0FDAEA157C1",
       "unresolved": false,
       "fr": "(-Femme louche-)On ne vous a jamais dit que c'est malpoli de fouiller dans les affaires d'une demoiselle<nbsp>?",
       "ja": "(-怪しげな女性-)乙女の荷物に勝手に触るなんて……無礼な方ね。",
@@ -1518,8 +1518,8 @@
     },
     {
       "gameKey": "quest/002/JobNin450_00232#TEXT_JOBNIN450_00232_BATTLED00232_000_107",
-      "en": "Whoa there, now! Are you familiar with the concept of <italic(1)>trade<italic(0)>? It's quite simple, really: it involves you giving me coin before you put your grubby little paws on my goods.",
-      "hash": "7C0C659194589906",
+      "en": "(-Suspicious-looking Trader-)Whoa there, now! Are you familiar with the concept of <italic(1)>trade<italic(0)>? It's quite simple, really: it involves you giving me coin before you put your grubby little paws on my goods.",
+      "hash": "28CBDAF8BE60E731",
       "unresolved": false,
       "fr": "(-Marchand louche-)Merci de ne PAS fouiller dans mon coffre, l'ami<if(gnum4,e,)><nbsp>!",
       "ja": "(-怪しげな商人-)おい、大切な荷物に触れるんじゃねぇよ。<br>お前はマナーって物をしらないのか？",

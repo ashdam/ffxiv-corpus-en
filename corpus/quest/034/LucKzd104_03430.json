@@ -584,8 +584,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_FAKEPIXIE03430A_000_070",
-      "en": "Let me tell you a little secret: I'm not Wyd Lor. No, the third one of us is!",
-      "hash": "7866B6B9EEE2100D",
+      "en": "(-First Wyd Lor-)Let me tell you a little secret: I'm not Wyd Lor. No, the third one of us is!",
+      "hash": "9A9DEF72676D4FD8",
       "unresolved": false,
       "fr": "(-Pixie numéro un-)Hi hi hi, est-ce que je suis Wyd Lor<nbsp>? Vous êtes choux, alors je vais vous donner la réponse<nbsp>! Wyd Lor passera en dernier<nbsp>!",
       "ja": "(-1番目の自称ウィド＝ロー-)さあて……私が本物に見える？<br>あなたたち<if(gnum4,可愛い,格好いい)>から、こっそり教えてあげる。<br>本物のウィド＝ローは、3番目に出てくる子よ！",
@@ -610,8 +610,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_WYDLOR_000_075",
-      "en": "Hmmm? You think I'm the real Wyd Lor, do you? Well, you couldn't be more wrong!",
-      "hash": "C66C2092FA2B5E9C",
+      "en": "(-Second Wyd Lor-)Hmmm? You think I'm the real Wyd Lor, do you? Well, you couldn't be more wrong!",
+      "hash": "02465E2998882F60",
       "unresolved": false,
       "fr": "(-Pixie numéro deux-)Hi hi hi, vous pensez que c'est moi Wyd Lor<nbsp>? Quel dommage<nbsp>! J'aime pas qu'on me prenne pour quelqu'un d'autre...",
       "ja": "(-2番目の自称ウィド＝ロー-)あーッ！\u3000さては、私を本物と思っているわね？<br>お生憎様！\u3000私をウィド＝ローと間違えてもらっちゃ困るわ！",
@@ -636,8 +636,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_FAKEPIXIE03430B_000_080",
-      "en": "<italic(1)>I<italic(0)> am the real Wyd Lor. Search your feelings; you know it to be true.",
-      "hash": "B54679BD78F9A4C1",
+      "en": "(-Third Wyd Lor-)<italic(1)>I<italic(0)> am the real Wyd Lor. Search your feelings; you know it to be true.",
+      "hash": "A8A153EC291C4032",
       "unresolved": false,
       "fr": "(-Pixie numéro trois-)Hi hi hi<nbsp>! C'est sûr que vous avez l'œil<nbsp>! Je sais bien que vous me reconnaissez<nbsp>! Wyd Lor, c'est bien moi<nbsp>!",
       "ja": "(-3番目の自称ウィド＝ロー-)あなたたちなら、きっと見抜いてくれるって信じているわ。<br>そう、私が本物ってことを……。",
@@ -662,8 +662,8 @@
     },
     {
       "gameKey": "quest/034/LucKzd104_03430#TEXT_LUCKZD104_03430_WYDLOR_000_090",
-      "en": "And now, for the all-important hint: all three of us are notorious liars! So, which of us is the real Wyd Lor?",
-      "hash": "257F1059CB2674D4",
+      "en": "(-Wyd Lors-)And now, for the all-important hint: all three of us are notorious liars! So, which of us is the real Wyd Lor?",
+      "hash": "15990A8F75B4C727",
       "unresolved": false,
       "fr": "(-Wyd Lor<nbsp>?-)Pour que ça soit encore plus facile, voilà un dernier indice<nbsp>! Tout ce qu'on vient de vous dire, c'est rien que des mensonges<nbsp>!",
       "ja": "(-自称ウィド＝ローたち-)それじゃ、最後に、重大ヒントをひとつ……。<br>私たちはね……全員、村でも有名な「嘘つき」なの！<br>さあ、正解を当ててご覧なさい！",

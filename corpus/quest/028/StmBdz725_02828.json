@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz725_02828#TEXT_STMBDZ725_02828_MZHETTIA_000_036",
-      "en": "<split(<string(gstr1)>, ,1)>! Are you unharmed?",
-      "hash": "1D20B00B6074CAA4",
+      "en": "(-Familiar Voice-)<split(<string(gstr1)>, ,1)>! Are you unharmed?",
+      "hash": "453B4866F9979360",
       "unresolved": false,
       "fr": "(-Voix familière-)Maîîîîtrrre<nbsp>!",
       "ja": "(-聞き覚えのある声-)師匠～！",

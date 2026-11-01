@@ -928,8 +928,8 @@
     },
     {
       "gameKey": "cut_scene/030/VoiceMan_03002#TEXT_VOICEMAN_03002_400050_DEWLALA",
-      "en": "Save your tears. The sultana yet lives.",
-      "hash": "9EB088C03ABD99FC",
+      "en": "(-???-)Save your tears. The sultana yet lives.",
+      "hash": "F9FD85A03708BB2B",
       "unresolved": false,
       "fr": "(-???-)Allons, relevez la tête. Dame Nanamo est toujours parmi nous.",
       "ja": "(-？？？？-)……ナナモ陛下は生きておいでですわ。",
@@ -960,8 +960,8 @@
     },
     {
       "gameKey": "cut_scene/030/VoiceMan_03002#TEXT_VOICEMAN_03002_400070_DEWLALA",
-      "en": "It was I who arranged this gathering.",
-      "hash": "D854BE10ED01AB64",
+      "en": "(-???-)It was I who arranged this gathering.",
+      "hash": "0C6A6A389216A7AE",
       "unresolved": false,
       "fr": "(-???-)Il me semble que c'est la première fois que je rencontre certains d'entre vous. Je suis Dulala, grande prêtresse de l'ordre de Nald'thal et membre du Cartel des Scorpions.",
       "ja": "(-？？？？-)皆さまを、ここにお呼びさせていただいたのは、<br>このワタクシですの……。",

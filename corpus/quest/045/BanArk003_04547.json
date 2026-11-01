@@ -544,8 +544,8 @@
     },
     {
       "gameKey": "quest/045/BanArk003_04547#TEXT_BANARK003_04547_GHASA_000_006",
-      "en": "B-Boss! Boss!",
-      "hash": "701838BEDAA3024B",
+      "en": "(-???-)B-Boss! Boss!",
+      "hash": "C73BA6AB612F2EC4",
       "unresolved": false,
       "fr": "(-???-)Trnaaaa<nbsp>!!!",
       "ja": "(-？？？？-)あ、姐御ーーッ！！",
@@ -1110,8 +1110,8 @@
     },
     {
       "gameKey": "quest/045/BanArk003_04547#TEXT_BANARK003_04547_HIPPOA_000_033",
-      "en": "Pooohhhhhh!",
-      "hash": "31ECBF98D62AB6B6",
+      "en": "(-Energetic Hippo Calf-)Pooohhhhhh!",
+      "hash": "CCE406805B01430E",
       "unresolved": false,
       "fr": "(-Bébé hippo guilleret-)Grok<nbsp>! Grok grok<nbsp>!",
       "ja": "(-元気なヒッポカフ-)プォッ！\u3000プォッ！",
@@ -1136,8 +1136,8 @@
     },
     {
       "gameKey": "quest/045/BanArk003_04547#TEXT_BANARK003_04547_HIPPOB_000_034",
-      "en": "P-Pohhh...",
-      "hash": "72987450F1DBB383",
+      "en": "(-Shy Hippo Calf-)P-Pohhh...",
+      "hash": "AAD4FDC79104ACF8",
       "unresolved": false,
       "fr": "(-Bébé hippo docile-)Grok... Groook<nbsp>?",
       "ja": "(-おとなしいヒッポカフ-)プ……プ、プォォ……？",

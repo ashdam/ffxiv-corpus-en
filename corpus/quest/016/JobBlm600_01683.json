@@ -758,8 +758,8 @@
     },
     {
       "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_ZHAIANELHAH_000_108",
-      "en": "They are not alone!",
-      "hash": "13E40D85A7310C74",
+      "en": "(-???-)They are not alone!",
+      "hash": "5DD092CABFFEA947",
       "unresolved": false,
       "fr": "(-???-)Qui a dit qu'<if(gnum4,elles,ils)> allaient t'affrrronter seul<if(gnum4,es,s)><nbsp>?",
       "ja": "(-？？？？-)ふたりだけじゃない……！",

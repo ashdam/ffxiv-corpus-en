@@ -1034,8 +1034,8 @@
     },
     {
       "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_GRAHATIA_000_050",
-      "en": "Bravo! That was quite a show, adventurer! Why, the spectacle proved so enthralling that all thoughts of the prize slipped my mind.",
-      "hash": "197FDB573A3F0631",
+      "en": "(-Disembodied Voice-)Bravo! That was quite a show, adventurer! Why, the spectacle proved so enthralling that all thoughts of the prize slipped my mind.",
+      "hash": "C10E499414F80E2C",
       "unresolved": false,
       "fr": "(-Voix venue de nulle part-)Voilà ce que j'appelle un beau spectacle, aventuri<if(gnum4,ère,er)><nbsp>! J'étais tellement hypnotisé parrr tes exploits que j'ai oublié de subtiliser l'éclat de foudre.",
       "ja": "(-姿なき声-)見てたぜ、あんたカッコいいな！<br>現れた敵を颯爽と蹴散らす勇姿……<br>思わず見入って、シャードを取り損ねちまった。",
@@ -1060,8 +1060,8 @@
     },
     {
       "gameKey": "quest/040/LucKmj102_04008#TEXT_LUCKMJ102_04008_GRAHATIA_000_051",
-      "en": "I appear to have forfeited our little race! Congratulations─the lightning shard is yours.",
-      "hash": "D64E32471FE77ABD",
+      "en": "(-Disembodied Voice-)I appear to have forfeited our little race! Congratulations─the lightning shard is yours.",
+      "hash": "93B8493471E2CC43",
       "unresolved": false,
       "fr": "(-Voix venue de nulle part-)On dirait bien que j'ai perrrdu par forfait. On se retrouve à notre point de rendez-vous.",
       "ja": "(-姿なき声-)……って、競争してたんだっけか。<br>残念だがオレの負けだな。<br>それはあんたが持って帰るといい。",

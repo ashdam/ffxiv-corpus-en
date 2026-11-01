@@ -298,8 +298,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy331_03165#TEXT_STMBDY331_03165_BUNCHIN_000_003",
-      "en": "Koryu's wards are on the verge of failure. Return to Reisen Temple at once, brave warrior. Worry not for the urchin─I have sent a messenger to her as well.",
-      "hash": "92ED0497198FC17C",
+      "en": "(-Genbu's Missive-)Koryu's wards are on the verge of failure. Return to Reisen Temple at once, brave warrior. Worry not for the urchin─I have sent a messenger to her as well.",
+      "hash": "A8134252EB7A6E75",
       "unresolved": false,
       "fr": "(-Contenu de la lettre-)Le sceau de la shizume-ishi est sur le point de céder. Le petit <italic(1)>zashiki-warashi<italic(0)> et toi êtes attendus de toute urgence au sanctuaire Reisen. À très vite<nbsp>!",
       "ja": "(-玄武の手紙-)鎮石の封印が今にも破れようとしている。<br>座敷わらしにも同様の文を届けさせるゆえ、<br>急ぎ醴泉神社まで来られたし。",
@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/031/StmBdy331_03165#TEXT_STMBDY331_03165_SEIRYU_000_057",
-      "en": "Nay, Genbu. You need wait no longer.",
-      "hash": "2EB9817C54ACAC3A",
+      "en": "(-???-)Nay, Genbu. You need wait no longer.",
+      "hash": "B154B44C85079959",
       "unresolved": false,
       "fr": "(-Voix sereine de jeune homme-)Votre attente touche déjà à sa fin.",
       "ja": "(-物静かな青年の声-)待たせたね、玄武。",

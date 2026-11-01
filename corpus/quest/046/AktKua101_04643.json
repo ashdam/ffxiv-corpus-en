@@ -350,8 +350,8 @@
     },
     {
       "gameKey": "quest/046/AktKua101_04643#TEXT_AKTKUA101_04643_TATARU_000_005",
-      "en": "There you are, <split(<string(gstr1)>, ,1)>!",
-      "hash": "FD0B86DBDF09145D",
+      "en": "(-???-)There you are, <split(<string(gstr1)>, ,1)>!",
+      "hash": "E3E66BFDFE41D56C",
       "unresolved": false,
       "fr": "(-???-)<split(<string(gstr1)>, ,1)><nbsp>!",
       "ja": "(-？？？？-)<split(<string(gstr1)>, ,1)>さーん！",

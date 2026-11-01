@@ -1693,8 +1693,8 @@
     },
     {
       "gameKey": "quest/047/FesAnv901_04765#TEXT_FESANV901_04765_MOBA04765_000_056",
-      "en": "You're an adventurer? Thank the Twelve!",
-      "hash": "E9B7554D62115A16",
+      "en": "(-Midlander Merchant-)You're an adventurer? Thank the Twelve!",
+      "hash": "B5E758025BEFF7F8",
       "unresolved": false,
       "fr": "(-Marchand hyurois-)Vous êtes aventuri<if(gnum4,ère,er)><nbsp>? Parfait, j'ai un travail urgent pour vous<nbsp>! J'étais en train de traverser Le Nid, quand j'ai vu au loin des brigands qui tentaient de piller une caravane chocobo<nbsp>!",
       "ja": "あんた冒険者か？\u3000よかった……！<br>実は、ついさっきクラッチ狭間を通りがかったとき、<br>キャリッジが盗賊に襲われてるのが見えたんだよ！",
@@ -1718,8 +1718,8 @@
     },
     {
       "gameKey": "quest/047/FesAnv901_04765#TEXT_FESANV901_04765_MOBA04765_000_057",
-      "en": "It's the bandits from the Quiveron Manse─they've fallen on a chocobo carriage over by the Clutch!",
-      "hash": "F29EC17C0AE1712D",
+      "en": "(-Midlander Merchant-)It's the bandits from the Quiveron Manse─they've fallen on a chocobo carriage over by the Clutch!",
+      "hash": "6C055E9DCF4B5E80",
       "unresolved": false,
       "fr": "(-Marchand hyurois-)Nul doute qu'il s'agit des Quiveron, une bande de malfrats qui prennent cette région pour leur terrain de jeux depuis bien trop longtemps... Et face à eux, il y avait un seul de vos collègues pour protéger le véhicule...",
       "ja": "奴ら、この近くを縄張りにしているキヴロン家の連中に違いねえ。<br>常に集団で人を襲う悪党どもだ。",

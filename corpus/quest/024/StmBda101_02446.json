@@ -554,8 +554,8 @@
     },
     {
       "gameKey": "quest/024/StmBda101_02446#TEXT_STMBDA101_02446_LYSE_000_043",
-      "en": "...Me? What, <italic(1)>now<italic(0)>? Um...all right, then. If you insist...",
-      "hash": "E171916455896D4E",
+      "en": "(-Lyse-)...Me? What, <italic(1)>now<italic(0)>? Um...all right, then. If you insist...",
+      "hash": "9215B378FF32127B",
       "unresolved": false,
       "fr": "(-Lyse-)Une surprise pour moi<nbsp>? Euh, d'accord...",
       "ja": "(-リセ-)ん？<br>いいけどさ……。",
@@ -580,8 +580,8 @@
     },
     {
       "gameKey": "quest/024/StmBda101_02446#TEXT_STMBDA101_02446_LYSE_000_044",
-      "en": "Heh heh heh... What do you think?",
-      "hash": "C0B83E75AC0BBCD6",
+      "en": "(-Lyse-)Heh heh heh... What do you think?",
+      "hash": "679086AB3D41B802",
       "unresolved": false,
       "fr": "(-Lyse-)Hé hé hé<nbsp>! Regardez ce que Tataru m'a offert.",
       "ja": "(-リセ-)へへへ……こんなのもらっちゃった。",

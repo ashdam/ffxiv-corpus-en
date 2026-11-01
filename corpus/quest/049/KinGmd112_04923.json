@@ -504,8 +504,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_014",
-      "en": "There you all are!",
-      "hash": "D8AD1787986ADAA0",
+      "en": "(-Wuk Lamat-)There you all are!",
+      "hash": "260D27B78CCEAEEB",
       "unresolved": false,
       "fr": "(-???-)Hé-oooh<nbsp>!",
       "ja": "(-？？？？-)おおーーい！",
@@ -1980,8 +1980,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_107",
-      "en": "What's this? Someone spreading more gossip about me?",
-      "hash": "CFCF32A915DCDBFE",
+      "en": "(-Zekowa-)What's this? Someone spreading more gossip about me?",
+      "hash": "4B772C09AB834A99",
       "unresolved": false,
       "fr": "(-???-)Eh ben<nbsp>? Est-ce qu'on parle de moi, là<nbsp>?",
       "ja": "(-？？？？-)なんだ、なんだ？\u3000俺様の噂話か！？",
@@ -2708,8 +2708,8 @@
     },
     {
       "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_136",
-      "en": "An entrance, you say? It so happens we might have an inkling where one is.",
-      "hash": "0D293385544469F5",
+      "en": "(-Shenza-)An entrance, you say? It so happens we might have an inkling where one is.",
+      "hash": "8FCD663D8832A47C",
       "unresolved": false,
       "fr": "(-???-)Si c'est une porte d'entrée dans le dôme que vous cherchez, nous devrions pouvoir vous aider<nbsp>!",
       "ja": "(-？？？？-)その出入口なら、僕たちわかるかも！",

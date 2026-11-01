@@ -298,8 +298,8 @@
     },
     {
       "gameKey": "quest/035/LucKzj102_03589#TEXT_LUCKZJ102_03589_ONDOQUEEN03589_000_005",
-      "en": "Are you worried for my well-being? Worry not. I am well and in good health. Should that change, I will send for you.",
-      "hash": "EAD4D13A70D24CDA",
+      "en": "(-Ondo Clutchmother-)Are you worried for my well-being? Worry not. I am well and in good health. Should that change, I will send for you.",
+      "hash": "885D3D88DBED2BAD",
       "unresolved": false,
       "fr": "(-Reine maternelle des Ondos-)Rassurez-vous, je ne sssens rien pour le moment. Ccce n'est pas encore l'heure de la ponte... Fssshh...",
       "ja": "(-オンドの母王-)おお、ヒトのまれびと、もしや心配して、声かけ、きたのか？<br>いまはまだ、産気づいておらぬ。<br>案ずるな。",
@@ -662,8 +662,8 @@
     },
     {
       "gameKey": "quest/035/LucKzj102_03589#TEXT_LUCKZJ102_03589_ONDOQUEEN03589_000_042",
-      "en": "Mnyiri liver! How did you know it is a favorite of mine? So soft, so sssupple it is. Too long has it been since I dined so well!",
-      "hash": "98836C24746E393F",
+      "en": "(-Ondo Clutchmother-)Mnyiri liver! How did you know it is a favorite of mine? So soft, so sssupple it is. Too long has it been since I dined so well!",
+      "hash": "07A93349CED492CC",
       "unresolved": false,
       "fr": "(-Reine maternelle des Ondos-)Oooh... Un foie de mnyiri, tendre et luisant à sssouhait<nbsp>! Comment avez-vous deviné qu'il sss'agissait de mon plat préféré<nbsp>?",
       "ja": "(-オンドの母王-)おお、このやわらかく、なめらかな肝！<br><sheet(EventItem,2002746,0)>、わらわ、好物と、知ってか！",
@@ -688,8 +688,8 @@
     },
     {
       "gameKey": "quest/035/LucKzj102_03589#TEXT_LUCKZJ102_03589_ONDOQUEEN03589_000_043",
-      "en": "My children unborn too delight in this feast. Many thanks to you, honored guest.",
-      "hash": "5E686C952261B5AC",
+      "en": "(-Ondo Clutchmother-)My children unborn too delight in this feast. Many thanks to you, honored guest.",
+      "hash": "56FC5CFAD9C22052",
       "unresolved": false,
       "fr": "(-Reine maternelle des Ondos-)Je vais me régaler, et mes futurs petits aussi<nbsp>! Merccci, <if(gnum4,voyageuse,voyageur)>, votre cadeau me va droit au cœur. Fssshh...",
       "ja": "(-オンドの母王-)腹の卵も、喜ぶであろう。<br>無論、わらわもまた、至極嬉しい。<br>ヒトのまれびと、感謝するぞ。",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/035/LucKzj102_03589#TEXT_LUCKZJ102_03589_ONDOQUEEN03589_000_055",
-      "en": "Honored guest, Xeroshs Ooan speaks true. Much as I enjoy your company and appreciate this gift of liver, I must devote my energies to my children...",
-      "hash": "2A5F3777226517B4",
+      "en": "(-Ondo Clutchmother-)Honored guest, Xeroshs Ooan speaks true. Much as I enjoy your company and appreciate this gift of liver, I must devote my energies to my children...",
+      "hash": "876B5EBCE11A439F",
       "unresolved": false,
       "fr": "(-Reine maternelle des Ondos-)<if(gnum4,Voyageuse,Voyageur)>, votre offrande est délicccieuse, et elle a le don de calmer mes nerfs. Je sssuis comblée. Fssshh...",
       "ja": "(-オンドの母王-)ヒトのまれびとよ、<br>わらわ、しばし<sheet(EventItem,2002746,0)>、食すのに、<br>集中させてもらう…………。",

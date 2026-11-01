@@ -848,8 +848,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse203_01347#TEXT_GAIUSE203_01347_YUGIRI_000_021",
-      "en": "Pray understand, good sir! We have not the leisure to lodge a formal petition. Time is of the essence.",
-      "hash": "53AFB8637A164C53",
+      "en": "(-Refugee Leader-)Pray understand, good sir! We have not the leisure to lodge a formal petition. Time is of the essence.",
+      "hash": "BC71E8AB5F4CEFAF",
       "unresolved": false,
       "fr": "(-Meneuse des réfugiés-)Je vous en prie, c'est une question de vie ou de mort<nbsp>!",
       "ja": "(-異邦の民の指導者-)そこを何とかできないだろうか！",
@@ -874,8 +874,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse203_01347#TEXT_GAIUSE203_01347_YUGIRI_000_022",
-      "en": "All I ask is that you summon your superior. Allow me to plead my case. Surely you can grant us that small kindness?",
-      "hash": "F33F1B094BC75283",
+      "en": "(-Refugee Leader-)All I ask is that you summon your superior. Allow me to plead my case. Surely you can grant us that small kindness?",
+      "hash": "543B4325B5C35B38",
       "unresolved": false,
       "fr": "(-Meneuse des réfugiés-)Nous voulons simplement parler au seigneur de ce pays. Cela ne prendra pas plus de quelques minutes, nous vous le promettons<nbsp>!",
       "ja": "(-異邦の民の指導者-)この国の王に、我々の話を聞いていただくだけでよいのだ。<br>時間を取らせるつもりもない。",
@@ -926,8 +926,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse203_01347#TEXT_GAIUSE203_01347_YUGIRI_000_024",
-      "en": "You know not what you do...",
-      "hash": "A19B01AD76B61A8C",
+      "en": "(-Refugee Leader-)You know not what you do...",
+      "hash": "0C8BF27AF8C222C8",
       "unresolved": false,
       "fr": "(-Meneuse des réfugiés-)Votre attitude me débecte<nbsp>! Hmpf<nbsp>!",
       "ja": "(-異邦の民の指導者-)……くっ！",
@@ -978,8 +978,8 @@
     },
     {
       "gameKey": "quest/013/GaiUse203_01347#TEXT_GAIUSE203_01347_YUGIRI_000_026",
-      "en": "A loyal man with a cold heart. I know his kind well.",
-      "hash": "F23574881DA862E0",
+      "en": "(-Refugee Leader-)A loyal man with a cold heart. I know his kind well.",
+      "hash": "7229783D096C4D76",
       "unresolved": false,
       "fr": "(-Meneuse des réfugiés-)Mes camarades et moi sommes venus demander audience auprès du seigneur de ce pays, mais ces idiots de gardes ne veulent pas nous laisser passer. Qu'à cela ne tienne<nbsp>! Puisqu'ils refusent de nous ouvrir, nous entrerons par la force<nbsp>!",
       "ja": "(-異邦の民の指導者-)王への謁見を願いでたのだが、にべもなく断られてな……。<br>……何としても、直談判の機会を得ねば！",

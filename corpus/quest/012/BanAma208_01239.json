@@ -370,8 +370,8 @@
     },
     {
       "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_001",
-      "en": "I never dared to hope that help was coming. Please... There may be others...",
-      "hash": "C2F4F8B0AB8F6E45",
+      "en": "(-Freed Prisoner-)I never dared to hope that help was coming. Please... There may be others...",
+      "hash": "213E69B9CB377087",
       "unresolved": false,
       "fr": "(-Prisonnier-)Je me croyais perdu<nbsp>!! Ces monstres opèrent au grand jour, à présent<nbsp>!?",
       "ja": "(-囚われた者-)助けが来るなんて思ってもみなかったよ。<br>これも、日ごろの行いってやつかね？",
@@ -394,8 +394,8 @@
     },
     {
       "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_002",
-      "en": "Thank you! Oh, thank you! I had all but resigned myself to being a beastman slave!",
-      "hash": "11960225E4A16FD3",
+      "en": "(-Freed Prisoner-)Thank you! Oh, thank you! I had all but resigned myself to being a beastman slave!",
+      "hash": "5D4E802E36EFA33A",
       "unresolved": false,
       "fr": "(-Prisonnier-)Ah, merci<nbsp>! J'ai bien cru que j'allais devenir l'esclave sans volonté d'un Primordial<nbsp>!",
       "ja": "(-囚われた者-)あ……ありがとう！<br>このまま蛮神の下僕にされるしかないと、<br>諦めていたのに！",
@@ -418,8 +418,8 @@
     },
     {
       "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_003",
-      "en": "Well, if you ain't a sight for sore eyes, <if(gnum4,miss,son)>. Ain't never been so happy to see a 'venturer!",
-      "hash": "D00F8037A3369BAB",
+      "en": "(-Freed Prisoner-)Well, if you ain't a sight for sore eyes, <if(gnum4,miss,son)>. Ain't never been so happy to see a 'venturer!",
+      "hash": "239FA64330F2E250",
       "unresolved": false,
       "fr": "(-Prisonnier-)Je ne m'attendais pas à ce qu'on vienne me libérer<nbsp>! Merci, merci mille fois<nbsp>!",
       "ja": "(-囚われた者-)まさか、救いの手が差し伸べられるとはね。<br>恩に着るよ、あんた！",
@@ -442,8 +442,8 @@
     },
     {
       "gameKey": "quest/012/BanAma208_01239#TEXT_BANAMA208_01239_PRISONER_001_004",
-      "en": "\\<sob> Thank the gods! And you, of course! But mostly the gods!",
-      "hash": "ED2A82C7B11AF383",
+      "en": "(-Freed Prisoner-)\\<sob> Thank the gods! And you, of course! But mostly the gods!",
+      "hash": "74CF43A57C5234E0",
       "unresolved": false,
       "fr": "(-Prisonnière-)Ah<nbsp>! Merci<nbsp>! Je vous dois la vie<nbsp>!",
       "ja": "(-囚われた者-)うわああああん、助かった～！<br>ありがとう、本当にありがとう！",

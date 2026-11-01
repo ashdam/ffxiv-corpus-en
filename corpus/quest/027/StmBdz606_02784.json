@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz606_02784#TEXT_STMBDZ606_02784_JELME_000_022",
-      "en": "<italic(1)>Dear Mister Esugen,<br>I am writing this letter to thank you. Your delicious food was one of the few things that helped me to overcome the pain of losing my parents.<italic(0)>",
-      "hash": "CFA3F72B9950C5B0",
+      "en": "(-Letter from Jelme-)<italic(1)>Dear Mister Esugen,<br>I am writing this letter to thank you. Your delicious food was one of the few things that helped me to overcome the pain of losing my parents.<italic(0)>",
+      "hash": "B384287BE7BE33D0",
       "unresolved": false,
       "fr": "(-Lettre de Jelme-)“Cher Grand-père Esugen, je voulais te dire merci pour la cuisine que tu nous prépares tous les jours. J'étais très triste quand mon papa et ma maman sont morts, mais tes bons petits plats m'ont réchauffé le cœur.",
       "ja": "(-ジェルメからの手紙-)おじさん、いつもおいしいご飯をありがとう。<br>お父さんとお母さんが死んじゃって、<br>つらかったとき、作ってくれたご飯があっためてくれました。",
@@ -584,8 +584,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz606_02784#TEXT_STMBDZ606_02784_JELME_000_023",
-      "en": "<italic(1)>While you may not be the strongest or the bravest, you are the kindest. I really hope you will do well in the upcoming tournament. Please know that I will be cheering you on the whole way.<italic(0)>",
-      "hash": "1C986939830C1242",
+      "en": "(-Letter from Jelme-)<italic(1)>While you may not be the strongest or the bravest, you are the kindest. I really hope you will do well in the upcoming tournament. Please know that I will be cheering you on the whole way.<italic(0)>",
+      "hash": "98CCE27B6C8AB4AA",
       "unresolved": false,
       "fr": "(-Lettre de Jelme-)Pour moi, tu es la personne la plus gentille de la tribu, et l'une de celles que je préfère. Bon courage pour le tournoi des frères. Je suis de tout cœur avec toi. - Jelme",
       "ja": "(-ジェルメからの手紙-)僕は、そんな優しいおじさんが、大好きです。<br>今度の兄弟闘技も、僕は応援しています。<br>がんばってください。",
@@ -610,8 +610,8 @@
     },
     {
       "gameKey": "quest/027/StmBdz606_02784#TEXT_STMBDZ606_02784_JELME_000_024",
-      "en": "<italic(1)>P.S. The stew you made last night was scrumptious. I hope you will make it again sometime.<italic(0)>",
-      "hash": "495169DC161A870B",
+      "en": "(-Letter from Jelme-)<italic(1)>P.S. The stew you made last night was scrumptious. I hope you will make it again sometime.<italic(0)>",
+      "hash": "889F5A8AFD090750",
       "unresolved": false,
       "fr": "(-Lettre de Jelme-)PS<nbsp>: j'espère que tu resteras toujours notre cuisinier. Personne ne fait d'aussi bons plats que toi.“",
       "ja": "(-ジェルメからの手紙-)おじさんの作ってくれる料理も、大好きです。<br>これからも作ってくれると、嬉しいです。",

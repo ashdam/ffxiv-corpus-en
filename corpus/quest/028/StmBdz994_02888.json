@@ -790,8 +790,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz994_02888#TEXT_STMBDZ994_02888_EXCITINGBOY02889_000_031",
-      "en": "So this is Ala Mhigo? It's amazing!",
-      "hash": "F85A0E66AD670974",
+      "en": "(-Boisterous Boy-)So this is Ala Mhigo? It's amazing!",
+      "hash": "6383F3BA2FDEB8F2",
       "unresolved": false,
       "fr": "(-Garçon excité-)Mon grand-père m'a tellement parlé de cet endroit... Je peux enfin l'admirer de mes propres yeux<nbsp>! C'est tellement beau<nbsp>!",
       "ja": "(-わくわくしている男の子-)へぇ～、これがおじいちゃんが言ってたアラミゴなんだね！<br><if(gnum4,おねえさん,おにいさん)>が言ってたとおり、<br>すっごいところだなぁ～！",

@@ -508,8 +508,8 @@
     },
     {
       "gameKey": "quest/000/ClsLnc002_00035#TEXT_CLSLNC002_00035_FOULQUES_000_20",
-      "en": "Congratulations. You have obtained the false Stone of Courage.",
-      "hash": "73454F9E16384802",
+      "en": "(-???-)Congratulations. You have obtained the false Stone of Courage.",
+      "hash": "841F41FCCCB2A43C",
       "unresolved": false,
       "fr": "(-???-)Fé<->li<->ci<->ta<->tions, tu as obtenu une fausse pierre du courage.",
       "ja": "(-？？？？-)おめでとうございます。<br>課せられた試練を、果たせたようですね。",
@@ -534,8 +534,8 @@
     },
     {
       "gameKey": "quest/000/ClsLnc002_00035#TEXT_CLSLNC002_00035_FOULQUES_000_21",
-      "en": "Aye, you heard me right─<italic(1)>false<italic(0)>. What does that say about your courage, I wonder?",
-      "hash": "C022D9C24FC78DF0",
+      "en": "(-???-)Aye, you heard me right─<italic(1)>false<italic(0)>. What does that say about your courage, I wonder?",
+      "hash": "3F13E50BE84B2CCB",
       "unresolved": false,
       "fr": "(-???-)Oui, j'ai bien dit <italic(1)>fausse<italic(0)>. Une pierre parfaite pour les lâches de la guilde.",
       "ja": "(-？？？？-)その偽物の「勇気の丸石」……<br>あなた方「臆病者」に、実によくお似合いですよ。",

@@ -1264,8 +1264,8 @@
     },
     {
       "gameKey": "quest/021/FesSum205_02140#TEXT_FESSUM205_02140_HAERMAGA_000_050",
-      "en": "In times of desperate need, we hope for a hero. We look to the heavens and pray that someone, somewhere, is watching over us. However, my friend, in doing so, we sometimes overlook the true heroes that walk among us!",
-      "hash": "B8B70E12F58E6C9B",
+      "en": "(-???-)In times of desperate need, we hope for a hero. We look to the heavens and pray that someone, somewhere, is watching over us. However, my friend, in doing so, we sometimes overlook the true heroes that walk among us!",
+      "hash": "AB2C5D76E12B3883",
       "unresolved": false,
       "fr": "(-Individu débordant d'assurance-)Lorsque les forces du mal tentent de détruire notre univers, qui leur montre qu'ils débordent de courage, de puissance et de savoir<nbsp>? Les bombattants<nbsp>! Car la témérité des plus valeureux des héros est sans égale<nbsp>!",
       "ja": "(-響き渡る野太い声-)巨大な炎獣迫るとき、みなの希望を守るため、<br>戦士の炎、心に宿し、炎も怖れず立ち向かう！",
@@ -1290,8 +1290,8 @@
     },
     {
       "gameKey": "quest/021/FesSum205_02140#TEXT_FESSUM205_02140_HAERMAGA_000_051",
-      "en": "Without you, Warrior of Light, the Go Go Posing Rangers would have stood no chance against the blazing summer heat, and it is in <if(gnum4,women,men)> like you that we find our courage─our power!",
-      "hash": "D0451CD329A0AE26",
+      "en": "(-???-)Without you, Warrior of Light, the Go Go Posing Rangers would have stood no chance against the blazing summer heat, and it is in <if(gnum4,women,men)> like you that we find our courage─our power!",
+      "hash": "7DD0D16F4108ED68",
       "unresolved": false,
       "fr": "Ô Guerri<if(gnum4,ère,er)> de la Lumière, prête-nous ta force...<br>Bombattant, en avant<nbsp>!",
       "ja": "古の英雄「光の戦士」よ……我らに力を！<br>ファーイト\u3000ファイヤー！！",

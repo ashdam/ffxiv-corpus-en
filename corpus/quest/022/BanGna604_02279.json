@@ -244,8 +244,8 @@
     },
     {
       "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010",
-      "en": "\\<click> \\<click> Fleshling, how dare you lay your hands upon our precious censers!",
-      "hash": "CD736292A0A6DFEA",
+      "en": "(-Firedrone Scout-)\\<click> \\<click> Fleshling, how dare you lay your hands upon our precious censers!",
+      "hash": "5ACC5AEDC68CD977",
       "unresolved": false,
       "fr": "(-Soldat gnathe-)KSSSS<nbsp>!! Bas les pattes, humain<if(gnum4,e,)><nbsp>!",
       "ja": "(-グナース族の雑兵-)シシシシシ……我らの香炉に何をする！？<br>不届き者め、排除してくれるわ！",
@@ -269,8 +269,8 @@
     },
     {
       "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011",
-      "en": "\\<click> \\<click> You defy the will of the Overmind for the last time!",
-      "hash": "E8835AC5F107FBC2",
+      "en": "(-Firedrone Scout-)\\<click> \\<click> You defy the will of the Overmind for the last time!",
+      "hash": "9126DF5708CB3BED",
       "unresolved": false,
       "fr": "(-Soldat gnathe-)Kssss<nbsp>!!! Je t'ai vu<if(gnum4,e,)> éteindre l'encensoir<nbsp>! Tu vas payer cet affront de ta vie<nbsp>!",
       "ja": "(-グナース族の雑兵-)シシシシシ……香炉を止めたな！<br>我らの邪魔をする者は、排除するのみ！",

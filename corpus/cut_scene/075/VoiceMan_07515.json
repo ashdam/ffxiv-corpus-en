@@ -6,8 +6,8 @@
   "entries": [
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000000_CEFCA",
-      "en": "I wield the greatest power in existence!",
-      "hash": "377891174C43B1FD",
+      "en": "(-Kefka-)I wield the greatest power in existence!",
+      "hash": "BA0DD441671B3D1D",
       "unresolved": false,
       "fr": "(-Kefka-)Je suis l'être le plus puissant de l'univers<nbsp>!",
       "ja": "(-ケフカ-)この世界で一番の力を、私は取り込んだ……",
@@ -22,8 +22,8 @@
     },
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000010_CEFCA",
-      "en": "You may as well be the dirt on the bottom of my boots! Or the dirt stuck to the bottom of that dirt!",
-      "hash": "BF2502B8581153E4",
+      "en": "(-Kefka-)You may as well be the dirt on the bottom of my boots! Or the dirt stuck to the bottom of that dirt!",
+      "hash": "7CBB8C69A19D8071",
       "unresolved": false,
       "fr": "(-Kefka-)Vous n'êtes rien<nbsp>! Moins que rien<nbsp>! Rien du tout<nbsp>! Rien de rien<nbsp>!",
       "ja": "(-ケフカ-)それ以外の者などカスだ！<br>カス以下だ！\u3000カス以下の<ruby(以下,ゲソ)>だ！！",
@@ -38,8 +38,8 @@
     },
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000020_CEFCA",
-      "en": "I will destroy everything! I will create a monument to non-existence!",
-      "hash": "1A2F42DCF0006790",
+      "en": "(-Kefka-)I will destroy everything! I will create a monument to non-existence!",
+      "hash": "816D7CD98D52D80F",
       "unresolved": false,
       "fr": "(-Kefka-)En détruisant tout, je créerai mon empire de la mort<nbsp>!",
       "ja": "(-ケフカ-)ゼ～ンブ破壊して、死の世界をつくるのだ！",
@@ -54,8 +54,8 @@
     },
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000030_CEFCA",
-      "en": "I... I lost!? How is this possible!?",
-      "hash": "EC92D9D29B2126A2",
+      "en": "(-Kefka-)I... I lost!? How is this possible!?",
+      "hash": "6AB2876631C0E083",
       "unresolved": false,
       "fr": "(-Kefka-)Commeeent<nbsp>!? C'est pas vrai<nbsp>! J'ai perdu, moi<nbsp>!?",
       "ja": "(-ケフカ-)カーッ！<br>なんで俺が負けるんだ！",
@@ -70,8 +70,8 @@
     },
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000040_CEFCA",
-      "en": "Inconceivable!",
-      "hash": "FE466BA4277EBB77",
+      "en": "(-Kefka-)Inconceivable!",
+      "hash": "896646D86475871B",
       "unresolved": false,
       "fr": "(-Kefka-)Je n'arrive pas à y croiiire<nbsp>!",
       "ja": "(-ケフカ-)シンジラレナーイ！！！",
@@ -86,8 +86,8 @@
     },
     {
       "gameKey": "cut_scene/075/VoiceMan_07515#TEXT_VOICEMAN_07515_000050_CEFCA",
-      "en": "<icon(54)>Thanks for the fun!<icon(55)>",
-      "hash": "8DBAB746D6055486",
+      "en": "(-Kefka-)<icon(54)>Thanks for the fun!<icon(55)>",
+      "hash": "03979D95E0834E96",
       "unresolved": false,
       "fr": "(-Kefka-)<icon(54)>C'était génial<nbsp>!<icon(55)>",
       "ja": "(-ケフカ-)<icon(54)>お疲れ様でした。<icon(55)>",

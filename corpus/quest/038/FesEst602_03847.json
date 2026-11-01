@@ -856,8 +856,8 @@
     },
     {
       "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_150",
-      "en": "Oho! If it isn't <split(<string(gstr1)>, ,1)>, my dear son's boon companion!",
-      "hash": "67EE5E34EBB03F4D",
+      "en": "(-???-)Oho! If it isn't <split(<string(gstr1)>, ,1)>, my dear son's boon companion!",
+      "hash": "BB27004D03977D10",
       "unresolved": false,
       "fr": "(-???-)Ho ho<nbsp>! Si je m'attendais à revoir l'ami<if(gnum4,e,)> de mon fiston ici<nbsp>! Le monde est petit<nbsp>!",
       "ja": "(-？？？？-)ホゥ！<br>あなたは、息子の友人の<split(<string(gstr1)>, ,1)>殿！",
@@ -882,8 +882,8 @@
     },
     {
       "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_151",
-      "en": "Oho! I trust you are here for the eggs?",
-      "hash": "3990AAE1B8131E9D",
+      "en": "(-???-)Oho! I trust you are here for the eggs?",
+      "hash": "E1397EA496030289",
       "unresolved": false,
       "fr": "(-???-)Ho ho... Alors comme ça, on vient chercher mes œufs<nbsp>?",
       "ja": "(-？？？？-)ホゥ！<br>キミが飾りタマゴの受け取り人ですな？",

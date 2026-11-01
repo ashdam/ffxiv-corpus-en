@@ -1258,8 +1258,8 @@
     },
     {
       "gameKey": "quest/021/FesEst205_02132#TEXT_FESEST205_02132_GYSOL_000_050",
-      "en": "\\<pant> \\<pant> Am I too late? I was so busy clearing a space in the stable that─<split(<string(gstr1)>, ,1)>?",
-      "hash": "5F283E41A8DD4467",
+      "en": "(-???-)\\<pant> \\<pant> Am I too late? I was so busy clearing a space in the stable that─<split(<string(gstr1)>, ,1)>?",
+      "hash": "829A1BEE3EF69E67",
       "unresolved": false,
       "fr": "(-???-)Mince<nbsp>! J'étais tellement occupé à nettoyer l'étable que... <split(<string(gstr1)>, ,1)><nbsp>!?",
       "ja": "(-？？？？-)あれっ！？<br>もしかして、<split(<string(gstr1)>, ,2)>さんじゃありませんか！？",

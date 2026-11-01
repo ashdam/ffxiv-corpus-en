@@ -1938,8 +1938,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm520_02578#TEXT_JOBRDM520_02578_MERCHANTSLETTER02578_000_291",
-      "en": "<italic(1)>You have my eternal gratitude. Twice now has my life been saved by red mages. And twice by one in particular.<italic(0)>",
-      "hash": "80A78F63B1F8609E",
+      "en": "(-Wilkin's Note-)<italic(1)>You have my eternal gratitude. Twice now has my life been saved by red mages. And twice by one in particular.<italic(0)>",
+      "hash": "09FE3A3B20E9BC65",
       "unresolved": false,
       "fr": "(-Lettre de Wilkin-)“X'rhun Tia, <split(<string(gstr1)>, ,1)>, veuillez accepter cette modique somme en gage de ma gratitude, pour avoir sauvé non seulement la vie de mes filles, mais également la mienne. X'rhun Tia, saviez-vous que ce n'est pas la première fois que vous me sauvez la mise<nbsp>?",
       "ja": "(-ウィルキンの礼状-)シ・ルン様と<split(<string(gstr1)>, ,1)>様に感謝いたします。<br>特にシ・ルン様には、娘のみならず、私自身も、<br>二度までも命を救っていただいたことになります。",
@@ -1964,8 +1964,8 @@
     },
     {
       "gameKey": "quest/025/JobRdm520_02578#TEXT_JOBRDM520_02578_MERCHANTSLETTER02578_000_292",
-      "en": "<italic(1)>Mayhap you remember the day, twenty years ago, when the Crimson Duelists fought to save the life of a child. I remember you, Master X'rhun, for your scarlet garb was forever etched into my memory.<italic(0)>",
-      "hash": "83CC3EC6253EDB76",
+      "en": "(-Wilkin's Note-)<italic(1)>Mayhap you remember the day, twenty years ago, when the Crimson Duelists fought to save the life of a child. I remember you, Master X'rhun, for your scarlet garb was forever etched into my memory.<italic(0)>",
+      "hash": "0C05E56E99B5BD3B",
       "unresolved": false,
       "fr": "(-Lettre de Wilkin-)Vous l'avez peut-être oublié... Il y a vingt ans, au plus fort de la révolte, vous et les autres membres de l'Ouragan pourpre avez secouru un petit garçon blessé... C'était moi. Votre rougeoyante silhouette est restée gravée dans ma mémoire jusqu'à aujourd'hui. Merci, tout simplement.“ ",
       "ja": "(-ウィルキンの礼状-)20年前の動乱のさなか……私は「紅の疾風」に命を救われた、<br>避難民の子どものひとりです。<br>当時と変わらぬあなた様の装束、見紛うはずもありません……。",

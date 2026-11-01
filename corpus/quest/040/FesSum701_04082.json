@@ -828,8 +828,8 @@
     },
     {
       "gameKey": "quest/040/FesSum701_04082#TEXT_FESSUM701_04082_BEACHGUY03966_000_026",
-      "en": "Ye gads! That poor girl's drowning out there!",
-      "hash": "EE239301B7F12C9B",
+      "en": "(-Faire-goer-)Ye gads! That poor girl's drowning out there!",
+      "hash": "E0120C1EA117F7E2",
       "unresolved": false,
       "fr": "(-Voix paniquée-)À l'aide<nbsp>!! Quelqu'un est en train de se noyer<nbsp>!",
       "ja": "(-慌てた様子の声-)うわぁ……！<br>だ、誰か溺れてるぞーーーッ！？",
@@ -853,8 +853,8 @@
     },
     {
       "gameKey": "quest/040/FesSum701_04082#TEXT_FESSUM701_04082_NEKEKE_000_027",
-      "en": "Glub...glub...glub...!",
-      "hash": "13AD77E1BC48F12D",
+      "en": "(-???-)Glub...glub...glub...!",
+      "hash": "A899876E1C733D48",
       "unresolved": false,
       "fr": "(-???-)Glourb... Blourb...",
       "ja": "(-？？？？-)ガボボベベベ……。",
@@ -1722,8 +1722,8 @@
     },
     {
       "gameKey": "quest/040/FesSum701_04082#TEXT_FESSUM701_04082_THRACIE_000_063",
-      "en": "...Say no more, Master Haermaga. I stand ever at the ready, my friends!",
-      "hash": "4F4F55C02ABCE9B0",
+      "en": "(-???-)...Say no more, Master Haermaga. I stand ever at the ready, my friends!",
+      "hash": "479A800AFB3C410E",
       "unresolved": false,
       "fr": "(-???-)Pas besoin, nous sommes déjà là<nbsp>!",
       "ja": "(-？？？？-)それには及ばないわッッ！！",

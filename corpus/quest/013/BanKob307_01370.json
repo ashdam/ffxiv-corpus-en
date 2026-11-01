@@ -557,8 +557,8 @@
     },
     {
       "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_040",
-      "en": "This is Zo Ga's! Keep your dirty paws off!",
-      "hash": "E0C6D167C305FD09",
+      "en": "(-13th Order Patrolman-)This is Zo Ga's! Keep your dirty paws off!",
+      "hash": "57A6ADCC80186410",
       "unresolved": false,
       "fr": "(-Patrouilleur du 13e ordre-)Hé<nbsp>! Qu'est-ce que tu fais à notre <frnoun(EObj,12,2003906,1,1)>, ouais, qu'est-ce que t'y fiches<nbsp>!?",
       "ja": "(-13オーダー・パトロールマン-)オレたーちの\u3000<sheet(EObj,2003906,0)>に\u3000何すーる！",
@@ -582,8 +582,8 @@
     },
     {
       "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_041",
-      "en": "Hands off! Don't touch! Keep back!",
-      "hash": "144AB990838ADF65",
+      "en": "(-13th Order Patrolman-)Hands off! Don't touch! Keep back!",
+      "hash": "8CA6FBC6B876D70F",
       "unresolved": false,
       "fr": "(-Patrouilleur du 13e ordre-)Hé, humain<if(gnum4,e,)><nbsp>! Touche pas à notre <frnoun(EObj,12,2003906,1,1)>, non, pas touche<nbsp>!",
       "ja": "(-13オーダー・パトロールマン-)こーら！\u3000そいつに触るーんじゃ\u3000なーい！",
@@ -607,8 +607,8 @@
     },
     {
       "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_042",
-      "en": "Overdweller! I'll bring your head to Zo Ga on a platter─a dish, a plate, a platter!",
-      "hash": "0D123D30A225FA37",
+      "en": "(-13th Order Patrolman-)Overdweller! I'll bring your head to Zo Ga on a platter─a dish, a plate, a platter!",
+      "hash": "EF03CB1222DBCE44",
       "unresolved": false,
       "fr": "(-Patrouilleur du 13e ordre-)Un<if(gnum4,e,)> humain<if(gnum4,e,)><nbsp>! Il y a un<if(gnum4,e,)> humain<if(gnum4,e,)> ici<nbsp>!",
       "ja": "(-13オーダー・パトロールマン-)ヒトーだぁ！\u3000ヒトーがいーる！<br>こんなところーで\u3000何してやがーる！？",

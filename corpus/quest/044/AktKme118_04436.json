@@ -886,8 +886,8 @@
     },
     {
       "gameKey": "quest/044/AktKme118_04436#TEXT_AKTKME118_04436_METEION_000_080",
-      "en": "Why can't I fly? Are my functions being restricted!?",
-      "hash": "5A81B0E2D4EF571C",
+      "en": "(-Meteion-)Why can't I fly? Are my functions being restricted!?",
+      "hash": "48D2BF3923CCD404",
       "unresolved": false,
       "fr": "(-Météion-)J-j'arrive plus à m'envoler<nbsp>! Est-ce que c'est parce que ma conscience est sur le point de disparaître...<nbsp>!?",
       "ja": "(-メーティオン-)翔べない……！<br>自我のシャットダウンが近いから……！？",
@@ -912,8 +912,8 @@
     },
     {
       "gameKey": "quest/044/AktKme118_04436#TEXT_AKTKME118_04436_METEION_000_081",
-      "en": "Hide─yes, I'll just have to hide, then. Where no one can find me...",
-      "hash": "F2DE6FF37F21A52B",
+      "en": "(-Meteion-)Hide─yes, I'll just have to hide, then. Where no one can find me...",
+      "hash": "0B68A180B5786DF0",
       "unresolved": false,
       "fr": "(-Météion-)Tant pis, je vais devoir me cacher, en espérant que personne ne me trouve...<nbsp>!",
       "ja": "(-メーティオン-)だったら、隠れなきゃ……みんなに見つからないところへ……！",

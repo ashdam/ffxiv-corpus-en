@@ -1708,8 +1708,8 @@
     },
     {
       "gameKey": "quest/002/ClsGla200_00263#TEXT_CLSGLA200_00263_ZANA_000_507",
-      "en": "Such brittle blades, so easily broken. Perhaps the First Sword is made of stronger steel.",
-      "hash": "202229C92428134F",
+      "en": "(-???-)Such brittle blades, so easily broken. Perhaps the First Sword is made of stronger steel.",
+      "hash": "6D60B212FA3C2F3E",
       "unresolved": false,
       "fr": "(-???-)Ces lames sont si frrragiles et cassent si facilement. Peut-être que le maître de guilde est fait d'un acier plus dur.",
       "ja": "(-？？？？-)……脆い……刃こぼれにも等しい剣……<br>……口ほどにも……ない……",
@@ -1734,8 +1734,8 @@
     },
     {
       "gameKey": "quest/002/ClsGla200_00263#TEXT_CLSGLA200_00263_REHWOLDT_000_508",
-      "en": "Leave her, Zana. Our business here is over.",
-      "hash": "6AEE2828A1439EBF",
+      "en": "(-???-)Leave her, Zana. Our business here is over.",
+      "hash": "C80DC1376E4003E2",
       "unresolved": false,
       "fr": "(-???-)Laisse-la, Zana. Nous n'avons plus rien à faire ici.",
       "ja": "(-？？？？-)雑魚にかまうな。<br>いくぞ、ザナ。",

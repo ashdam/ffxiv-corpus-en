@@ -560,8 +560,8 @@
     },
     {
       "gameKey": "quest/001/ManSea003_00109#TEXT_MANSEA003_00109_SUNDHIMAL_000_20",
-      "en": "Ah, another novice adventurer. Aye, Baderon has sent more than a few of your kind this way of late.",
-      "hash": "8642FD025FAE7103",
+      "en": "(-???-)Ah, another novice adventurer. Aye, Baderon has sent more than a few of your kind this way of late.",
+      "hash": "1E24FDBE57D95E98",
       "unresolved": false,
       "fr": "Salutations, jeune <if(gnum4,demoiselle,homme)>. Je vois que tu as suivi les consignes de Baderon. C'est très bien<nbsp>!",
       "ja": "おう、新米冒険者だな？<br>バデロンの言いつけを<br>律儀に守ってるとは、感心、感心。",

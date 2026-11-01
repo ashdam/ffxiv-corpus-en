@@ -782,8 +782,8 @@
     },
     {
       "gameKey": "quest/041/AktKba401_04120#TEXT_AKTKBA401_04120_UNSETTLEDVILLAGER_000_030",
-      "en": "Lord Hien!",
-      "hash": "87D449986E67B149",
+      "en": "(-???-)Lord Hien!",
+      "hash": "2410A10F114B7D70",
       "unresolved": false,
       "fr": "(-???-)S... Seigneur Hien<nbsp>!",
       "ja": "(-？？？？-)ヒ、ヒエン様！",
@@ -1250,8 +1250,8 @@
     },
     {
       "gameKey": "quest/041/AktKba401_04120#TEXT_AKTKBA401_04120_TONBO_000_062",
-      "en": "Why...",
-      "hash": "1BED9858A12F1613",
+      "en": "(-Frightened Youth-)Why...",
+      "hash": "30088442E6F3E935",
       "unresolved": false,
       "fr": "Comment...",
       "ja": "(-怯えた様子の少年-)よくも……。",
@@ -1276,8 +1276,8 @@
     },
     {
       "gameKey": "quest/041/AktKba401_04120#TEXT_AKTKBA401_04120_TONBO_000_063",
-      "en": "Why did you kill my brother!?",
-      "hash": "C92C7E1DD2F69AFB",
+      "en": "(-Frightened Youth-)Why did you kill my brother!?",
+      "hash": "6215DDC6E9A20DA7",
       "unresolved": false,
       "fr": "Comment avez-vous osé tuer mon frère<nbsp>!?",
       "ja": "(-怯えた様子の少年-)よくも、兄貴を殺したな……！！",
@@ -1380,8 +1380,8 @@
     },
     {
       "gameKey": "quest/041/AktKba401_04120#TEXT_AKTKBA401_04120_TONBO_000_065",
-      "en": "No! No, you're wrong! You killed him! Murdered him! I hate you!",
-      "hash": "9A1F8FB7FB0B2D49",
+      "en": "(-Frightened Youth-)No! No, you're wrong! You killed him! Murdered him! I hate you!",
+      "hash": "BDA0AA9C25D32233",
       "unresolved": false,
       "fr": "(-Jeune garçon apeuré-)... Je vous déteste<nbsp>!!!",
       "ja": "(-怯えた様子の少年-)お前なんか大っ嫌いだ！！",

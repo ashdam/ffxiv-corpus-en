@@ -761,8 +761,8 @@
     },
     {
       "gameKey": "quest/013/BanSah002_01375#TEXT_BANSAH002_01375_SAHUAGINA01375_000_032",
-      "en": "Away with you, finless one!",
-      "hash": "DCA48706D6C24097",
+      "en": "(-Halfstone Shoalscale-)Away with you, finless one!",
+      "hash": "90EB56C7EE43348B",
       "unresolved": false,
       "fr": "(-Écaille-d'écueil de Demipierre-)Dégage, sssans-branchies<nbsp>!",
       "ja": "(-ハーフストーン・スケール-)フスィーッ……ヒレナシめ！<br>関係ねぇ奴は、ひっこんでろっ！",
@@ -786,8 +786,8 @@
     },
     {
       "gameKey": "quest/013/BanSah002_01375#TEXT_BANSAH002_01375_SAHUAGINB01375_000_033",
-      "en": "This concerns you not, shhhorewalker!",
-      "hash": "2D6D949D4DA35D0E",
+      "en": "(-Halfstone Shoalclaw-)This concerns you not, shhhorewalker!",
+      "hash": "1944D4EC71B4BEB8",
       "unresolved": false,
       "fr": "(-Griffe-d'écueil de Demipierre-)Fsshhh<nbsp>! T'as rien à faire ici<nbsp>!",
       "ja": "(-ハーフストーン・クロウ-)フスィーッ……なんだてめぇは！？<br>邪魔すんな！",

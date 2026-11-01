@@ -714,8 +714,8 @@
     },
     {
       "gameKey": "quest/020/JobPld520_02033#TEXT_JOBPLD520_02033_PAPASHAN_000_036",
-      "en": "<split(<string(gstr1)>, ,1)>, this is Papashan. Have you found Solkzagyl?",
-      "hash": "03978BC009AADF98",
+      "en": "(-Papashan-)<split(<string(gstr1)>, ,1)>, this is Papashan. Have you found Solkzagyl?",
+      "hash": "3063E64784A6074B",
       "unresolved": false,
       "fr": "(-Papashan-)Allô, <if(gnum4,Dame,Messire)> <split(<string(gstr1)>, ,2)>, avez-vous découvert quelque chose<nbsp>?",
       "ja": "(-パパシャン-)<split(<string(gstr1)>, ,2)>殿。<br>ソルクザギルについて、何か情報は得られましたかな？<br>……そんな……奴は死んだというのですか……！？",
@@ -740,8 +740,8 @@
     },
     {
       "gameKey": "quest/020/JobPld520_02033#TEXT_JOBPLD520_02033_PAPASHAN_000_037",
-      "en": "Gods almighty, slain by Death's Embrace!? I heard some of those bastards were still skulking about, but I never thought they would try to...",
-      "hash": "F53BF2060878A62B",
+      "en": "(-Papashan-)Gods almighty, slain by Death's Embrace!? I heard some of those bastards were still skulking about, but I never thought they would try to...",
+      "hash": "400B01CA9BA45FFD",
       "unresolved": false,
       "fr": "(-Papashan-)... Quoi<nbsp>!? Vous dites que Solkzagyl est mort<nbsp>!? Je ne peux le croire...<nbsp>! Certains membres des Dards invisibles sont devenus des bandits de grand chemin après avoir été abandonnés par les monétaristes, à ce que j'avais entendu dire.",
       "ja": "(-パパシャン-)「見えざる毒尾」……。<br>先の一件で共和派に捨てられた彼らの残党が、<br>野盗化しているとの噂は聞いていたのですが……。",
@@ -766,8 +766,8 @@
     },
     {
       "gameKey": "quest/020/JobPld520_02033#TEXT_JOBPLD520_02033_PAPASHAN_000_038",
-      "en": "Wait─could it be that they were the ones who held Oathkeeper? And that they killed Solkzagyl when he tried to take it back?",
-      "hash": "E3EFF1F8D897334C",
+      "en": "(-Papashan-)Wait─could it be that they were the ones who held Oathkeeper? And that they killed Solkzagyl when he tried to take it back?",
+      "hash": "86A3B8A8A5B4FD6D",
       "unresolved": false,
       "fr": "(-Papashan-)Si Solkzagyl avait bel et bien l'Épée sacrée, c'est peut-être à ces gredins qu'il l'a reprise... Et dans ce cas, il est possible qu'il ait été assassiné en re<->pré<->sail<->les.",
       "ja": "(-パパシャン-)……ソルクザギルが見つけたという聖剣「オウスキーパー」。<br>まさか「見えざる毒尾」の連中が隠し持っていたのでは……<br>そして、復讐のために殺された……。",
@@ -792,8 +792,8 @@
     },
     {
       "gameKey": "quest/020/JobPld520_02033#TEXT_JOBPLD520_02033_PAPASHAN_000_039",
-      "en": "Damn it all, we've still no answers. Though there is still the boy... Hm. Get after him and find out what he knows.",
-      "hash": "9AF0A296221C7559",
+      "en": "(-Papashan-)Damn it all, we've still no answers. Though there is still the boy... Hm. Get after him and find out what he knows.",
+      "hash": "BE75CE43445F450A",
       "unresolved": false,
       "fr": "(-Papashan-)Pourriez-vous interroger le jeune homme que vous avez croisé pour essayer d'en savoir plus<nbsp>? Je vais quant à moi essayer de découvrir ce qu'il est arrivé aux autres membres de la bande.",
       "ja": "(-パパシャン-)<split(<string(gstr1)>, ,2)>殿。<br>その少年に詳しい事情を聞いてもらえぬでしょうか。<br>私も「見えざる毒尾」について、詳しい情報を探りましょうぞ。",

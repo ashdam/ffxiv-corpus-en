@@ -938,8 +938,8 @@
     },
     {
       "gameKey": "quest/002/FesXms005_00251#TEXT_FESXMS005_00251_AMHGARANJY_000_043",
-      "en": "<italic(1)>There's no such thing as a Starlight miracle! If you, the saint, and the little helpers were real, you'd bring back my father!<italic(0)>",
-      "hash": "6A1F9F176795898A",
+      "en": "(-Letter to the Spinner-)<italic(1)>There's no such thing as a Starlight miracle! If you, the saint, and the little helpers were real, you'd bring back my father!<italic(0)>",
+      "hash": "3ED63237BFF59D57",
       "unresolved": false,
       "fr": "(-Message-)<italic(1)>La fête des étoiles n'est rien d'autre qu'une gigantesque supercherie<nbsp>! Si le saint de Nymeia ou ses disciples existaient vraiment, ils feraient revenir mon papa<nbsp>!<italic(0)>",
       "ja": "(-カードに書かれたメッセージ-)星神様も、聖人様も、従者様もいるはずない！<br>いるんだったら、死んだ父ちゃんを連れてきてくれよ！",

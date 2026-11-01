@@ -636,8 +636,8 @@
     },
     {
       "gameKey": "quest/043/AktKzh007_04302#TEXT_AKTKZH007_04302_FLOWERA04302_000_021",
-      "en": "Hm. No reaction. Interesting. Let's try a more powerful one, shall we?",
-      "hash": "CFA1C67E3089B01C",
+      "en": "(-Familiar Aficionado-)Hm. No reaction. Interesting. Let's try a more powerful one, shall we?",
+      "hash": "98ACD7E8116C1A4F",
       "unresolved": false,
       "fr": "(-Amateur de familiers-)Rien avec celle-ci, donc... Bien, intéressant<nbsp>! Poursuivons l'expérience avec une fleur un peu plus grande.",
       "ja": "(-使い魔の愛好家-)ふむふむ、この程度は問題なし、と。<br>いいね、いいね、その調子で試していこう！<br>次は、もうちょっと大きいのを試してみようか。",
@@ -686,8 +686,8 @@
     },
     {
       "gameKey": "quest/043/AktKzh007_04302#TEXT_AKTKZH007_04302_FLOWERB04302_000_023",
-      "en": "Still nothing? Well, let's see how you fare against an exceptionally large one.",
-      "hash": "CD6522BFA7125152",
+      "en": "(-Familiar Aficionado-)Still nothing? Well, let's see how you fare against an exceptionally large one.",
+      "hash": "DA094D66D83B08AB",
       "unresolved": false,
       "fr": "(-Amateur de familiers-)Toujours aucun effet, à ce que je vois<nbsp>! Très bien. Celle-ci est de taille relativement standard, mais faisons un dernier test avec un spécimen énorme dont je ne suis pas peu fier<nbsp>!",
       "ja": "(-使い魔の愛好家-)ほうほう、まだ大丈夫そうだね！<br>この大きさが歌花の標準的なものなんだけど、<br>最後に、僕が丹精込めて創った大きい花を試そう！",

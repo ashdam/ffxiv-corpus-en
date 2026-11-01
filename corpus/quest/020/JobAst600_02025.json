@@ -1878,8 +1878,8 @@
     },
     {
       "gameKey": "quest/020/JobAst600_02025#TEXT_JOBAST600_02025_LEVEVA_000_092",
-      "en": "Why the surprise? Ah, but I believe I know the answer. Your senses are doubtless reeling <italic(1)>from having witnessed poor Lady Leveva's tragic end<italic(0)> in the hinterlands. \\<wink>",
-      "hash": "DB015DD40F71D7D4",
+      "en": "(-Rufin-)Why the surprise? Ah, but I believe I know the answer. Your senses are doubtless reeling <italic(1)>from having witnessed poor Lady Leveva's tragic end<italic(0)> in the hinterlands. \\<wink>",
+      "hash": "AA475E010597C294",
       "unresolved": false,
       "fr": "(-Rufin<nbsp>?-)Allons, <split(<string(gstr1)>, ,1)>, ne faites pas cette tête d'ahuri<if(gnum4,e,)><nbsp>! Leveva n'est-elle pas portée disparue<nbsp>? Il fallait bien que je fasse quelque chose pour rendre tout ça un peu plus vraisemblable, non<nbsp>?",
       "ja": "(-ルフィン？-)……そんな顔をするでない。<br>「レヴェヴァ」が廃都で死んだことになっておる。<br>そのため、父上の名を借りたのだ。",
@@ -1904,8 +1904,8 @@
     },
     {
       "gameKey": "quest/020/JobAst600_02025#TEXT_JOBAST600_02025_LEVEVA_100_093",
-      "en": "<italic(1)>Contrary to popular opinion<italic(0)>, I was not murdered at all, but merely on a long and winding journey that has finally brought me back to Ishgard so that I may teach the secrets of Sharlayan astrology once again.",
-      "hash": "2E3480F6717DBBDB",
+      "en": "(-Rufin-)<italic(1)>Contrary to popular opinion<italic(0)>, I was not murdered at all, but merely on a long and winding journey that has finally brought me back to Ishgard so that I may teach the secrets of Sharlayan astrology once again.",
+      "hash": "2B314BE8FCA96FAE",
       "unresolved": false,
       "fr": "(-Rufin<nbsp>?-)À partir d'aujourd'hui, Rufin sera le professeur principal du collège Saint-Guenriol, et s'occupera également de prêcher les bienfaits de l'astromancie à tous ceux qui voudront l'écouter en Éorzéa<nbsp>!",
       "ja": "(-ルフィン？-)今後は、占星院で教鞭を執る傍ら、<br>各地に赴き、占星術普及のために尽力していくつもりだ。<br>わしは運命に抗い、新たな道を歩む……！",
@@ -1930,8 +1930,8 @@
     },
     {
       "gameKey": "quest/020/JobAst600_02025#TEXT_JOBAST600_02025_LEVEVA_000_093",
-      "en": "I mean to show the people that fate is a path that need not be walked in darkness. That the stars can be used to light the way.",
-      "hash": "3E78471694B81663",
+      "en": "(-Rufin-)I mean to show the people that fate is a path that need not be walked in darkness. That the stars can be used to light the way.",
+      "hash": "63C7099BC4A02E6A",
       "unresolved": false,
       "fr": "(-Rufin<nbsp>?-)Je compte sur vous pour faire de même, mes amis<nbsp>! Que l'astromancie devienne le salut de tous les guerriers, maraudeurs, bardes, chevaliers dragon et j'en passe<nbsp>!",
       "ja": "(-ルフィン？-)だが、それは汝も同じこと……。<br>占星術を修めた冒険者として、<br>不条理な運命に縛られた者を救うのだ！",
@@ -1956,8 +1956,8 @@
     },
     {
       "gameKey": "quest/020/JobAst600_02025#TEXT_JOBAST600_02025_LEVEVA_000_094",
-      "en": "And my <italic(1)>first<italic(0)> lesson? That those who oppose this celestial guidance shall find their foes burning on and on without end.",
-      "hash": "B50603910FA91529",
+      "en": "(-Rufin-)And my <italic(1)>first<italic(0)> lesson? That those who oppose this celestial guidance shall find their foes burning on and on without end.",
+      "hash": "7124CBBEA462ADC8",
       "unresolved": false,
       "fr": "(-Rufin<nbsp>?-)Pour finir, <split(<string(gstr1)>, ,1)>, vous avez bien mérité d'apprendre votre ultime technique, “Opposition céleste”. Elle sera celle qui vous permettra de remporter toutes vos futures batailles, faites-moi confiance<nbsp>!",
       "ja": "(-ルフィン？-)<split(<string(gstr1)>, ,1)>、奥義「星天対抗」を伝授しよう。<br>あの厳しい戦いで、占星魔法の真髄を掴んだ汝であれば、<br>この術を使いこなし、運命を切り開いてくれると信じているぞ！",

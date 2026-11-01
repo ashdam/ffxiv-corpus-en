@@ -173,8 +173,8 @@
     },
     {
       "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERA03050_000_011",
-      "en": "Ah, finally! I've been aching for a nice cup of tea and <if([gnum11<12],<if([gnum11<4],a comfortable ssspot to sssit,a ssspot in the shade)>,<if([gnum11<17],a ssspot in the shade,a comfortable ssspot to sssit)>)>.",
-      "hash": "DBED06A1C571F830",
+      "en": "(-Distant Scout-)Ah, finally! I've been aching for a nice cup of tea and <if([gnum11<12],<if([gnum11<4],a comfortable ssspot to sssit,a ssspot in the shade)>,<if([gnum11<17],a ssspot in the shade,a comfortable ssspot to sssit)>)>.",
+      "hash": "FAA7CD91E4C7FF77",
       "unresolved": false,
       "fr": "(-Garde-frontière lointaine-)Le signal de la relève, enfin<nbsp>! J'ai hâte de me refaire une beauté. Ssss...",
       "ja": "(-遠くから聞こえる隊士の声-)シュー……狼煙が上がったか！<br>やっと交代の時間か……帰還して休むとするか。",
@@ -198,8 +198,8 @@
     },
     {
       "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERA03050_000_012",
-      "en": "I hope the next ssscout has more luck tracking that big antlion than I did...",
-      "hash": "D2BF748596169F5B",
+      "en": "(-Distant Scout-)I hope the next ssscout has more luck tracking that big antlion than I did...",
+      "hash": "5CE2107ADA37A586",
       "unresolved": false,
       "fr": "(-Garde-frontière lointaine-)Zut, c'est déjà l'heure<nbsp>? Alors que je viens tout juste de repérer un gros monstre... La relève va devoir s'en occuper. Ssss...",
       "ja": "(-遠くから聞こえる隊士の声-)シュー……交代の狼煙か。<br>それでは、見つけた魔物の退治は代わりの者に任せるとしよう。",
@@ -223,8 +223,8 @@
     },
     {
       "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERB03050_000_013",
-      "en": "Already? My report will be a dull one, but I sssuppose those are the mossst welcome.",
-      "hash": "B997D8060F8FC2D8",
+      "en": "(-Nearby Scout-)Already? My report will be a dull one, but I sssuppose those are the mossst welcome.",
+      "hash": "85C2D1085B4B35E1",
       "unresolved": false,
       "fr": "(-Garde-frontière lointaine-)Encore un tour de garde qui s'achève sans encombre. Pas de nouvelles, bonnes nouvelles<nbsp>! Ssss...",
       "ja": "(-どこからか聞こえる隊士の声-)シュー……おや、もう交代の時間か。<br>特に変わった点もなく、普段どおり終われて何よりだったな。",
@@ -248,8 +248,8 @@
     },
     {
       "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERB03050_000_014",
-      "en": "Time to head back. I needed to sharpen my blade again in any case.",
-      "hash": "9976D8F9C3A59968",
+      "en": "(-Nearby Scout-)Time to head back. I needed to sharpen my blade again in any case.",
+      "hash": "922157BB159B8781",
       "unresolved": false,
       "fr": "(-Garde-frontière lointaine-)Allez, c'est l'heure de rentrer au bercail. J'en profiterai pour refaire aiguiser ma lame. Ssss...",
       "ja": "(-どこからか聞こえる隊士の声-)シュー……どうやら、交代のようだな。<br>帰ったら武器の手入れをせねばな。",

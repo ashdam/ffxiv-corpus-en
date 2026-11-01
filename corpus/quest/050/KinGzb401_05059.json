@@ -1120,8 +1120,8 @@
     },
     {
       "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_YOKHUYENEMYA_000_039",
-      "en": "And that one is friend to Wuk Lamat, who bested Valigarmanda on holy ground!",
-      "hash": "09DBA3D242C0B4FA",
+      "en": "(-Charitable Chirwagur-)And that one is friend to Wuk Lamat, who bested Valigarmanda on holy ground!",
+      "hash": "735C782AF00C5005",
       "unresolved": false,
       "fr": "(-Yok Huy de Chirwagur en armure-)Et <if(gnum4,elle,lui)>, là-bas... Être <if(gnum4,alliée,allié)> de princesse Wuk Lamat... Avoir vaincu VALIGARMANDA dans terre sacrée...",
       "ja": "(-鎧を着たチーワグーの一族-)隣の、者……ウクラマト、仲間……<br>聖地で、ヴァリガルマンダ、討った。",
@@ -1380,8 +1380,8 @@
     },
     {
       "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_YOKHUYENEMYA_000_049",
-      "en": "Corrupted crystals...turn fire to earth? Fill soil with life and Urqopacha with green?",
-      "hash": "7DC30BF7B117A28B",
+      "en": "(-Charitable Chirwagur-)Corrupted crystals...turn fire to earth? Fill soil with life and Urqopacha with green?",
+      "hash": "9FE948812BDDB0CB",
       "unresolved": false,
       "fr": "(-Yok Huy de Chirwagur en armure-)Avec cristaux corrompus, nous VRAIMENT pouvoir changer feu en terre...<nbsp>? Améliorer sols Urqopacha...<nbsp>?",
       "ja": "(-鎧を着たチーワグーの一族-)偏属性クリスタル……。<br>火、エーテル、土、エーテルに、変える……<br>オルコ・パチャ、豊かする、できる？",
@@ -1432,8 +1432,8 @@
     },
     {
       "gameKey": "quest/050/KinGzb401_05059#TEXT_KINGZB401_05059_YOKHUYENEMYA_000_051",
-      "en": "I will trust and trade divine blessing for your crystal.",
-      "hash": "35A0680F82B74249",
+      "en": "(-Charitable Chirwagur-)I will trust and trade divine blessing for your crystal.",
+      "hash": "E372C4268015D27C",
       "unresolved": false,
       "fr": "(-Yok Huy de Chirwagur en armure-)Moi ACCEPTER échanger blanc trésor contre cristaux.",
       "ja": "(-鎧を着たチーワグーの一族-)俺、宝の施し、売る、お前に……。<br>代わり、偏属性クリスタル、もらう。",

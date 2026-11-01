@@ -962,8 +962,8 @@
     },
     {
       "gameKey": "quest/013/BanKob207_01341#TEXT_BANKOB207_01341_KOBOLD01341_000_040",
-      "en": "This is Zo Ga's workshop, you ain't Zo Ga, no, no. So it follows, someone who ain't Zo Ga's got no business here!",
-      "hash": "D9E58D4C3E95846F",
+      "en": "(-13th Order Watchman-)This is Zo Ga's workshop, you ain't Zo Ga, no, no. So it follows, someone who ain't Zo Ga's got no business here!",
+      "hash": "39B89A5844931315",
       "unresolved": false,
       "fr": "(-Surveillant du 13e ordre-)Hé<nbsp>! Saleté d'humain<if(gnum4,e,)><nbsp>!<br>Personne n'entre dans le laboratoire de môssieur Zo Ga, non, personne<nbsp>!",
       "ja": "(-13オーダー・ウォッチマン-)おうおーう\u3000なんーだ\u3000てめぇーはっ！<br>ここはゾ・ガさんの錬金工房だ\u3000勝手に入るんじゃーねぇ！",
@@ -987,8 +987,8 @@
     },
     {
       "gameKey": "quest/013/BanKob207_01341#TEXT_BANKOB207_01341_KOBOLD01341_000_041",
-      "en": "Here now, where did you come from anyway? Seems to me this is an inside job─black treachery, dissension in the ranks, an inside job!",
-      "hash": "1C19D47B43270411",
+      "en": "(-13th Order Watchman-)Here now, where did you come from anyway? Seems to me this is an inside job─black treachery, dissension in the ranks, an inside job!",
+      "hash": "62D52DCC4007D2FC",
       "unresolved": false,
       "fr": "(-Surveillant du 13e ordre-)Ouah<nbsp>! Quelqu'un de la surface, ouais<nbsp>!<br>Va-t'en vite d'ici si tu veux pas mourir, ouais, va-t'en<nbsp>!",
       "ja": "(-13オーダー・ウォッチマン-)なんーで\u3000こんなとーこに\u3000ヒトがいーる！？<br>さっさと出てかねぇーと\u3000ブッころーす！",
@@ -1012,8 +1012,8 @@
     },
     {
       "gameKey": "quest/013/BanKob207_01341#TEXT_BANKOB207_01341_KOBOLD01341_000_042",
-      "en": "Intruder, yes, yes! None who breach the 13th Order Dig shall live to tell, no, no!",
-      "hash": "D6F68AA41A7317CE",
+      "en": "(-13th Order Watchman-)Intruder, yes, yes! None who breach the 13th Order Dig shall live to tell, no, no!",
+      "hash": "5F98773C14D76003",
       "unresolved": false,
       "fr": "(-Surveillant du 13e ordre-)Par où es-tu rentré<if(gnum4,e,)>, ouais, humain<if(gnum4,e,)><nbsp>!?<br>Je vais t'apprendre à te mêler des affaires du 13e ordre, ouais, tu vas voir<nbsp>!",
       "ja": "(-13オーダー・ウォッチマン-)シンニュウシャーめ！<br>オレたち「第13洞穴団」に\u3000刃向かうヤツは\u3000容赦しなーい！",

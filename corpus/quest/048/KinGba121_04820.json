@@ -1782,8 +1782,8 @@
     },
     {
       "gameKey": "quest/048/KinGba121_04820#TEXT_KINGBA121_04820_HOUSEDURENDAIRESCOUT_000_220",
-      "en": "Wh-Who the hells are you!? How'd you get past the guards!?",
-      "hash": "7D89878F6B7BD6B6",
+      "en": "(-Frightened Voice-)Wh-Who the hells are you!? How'd you get past the guards!?",
+      "hash": "87B20C4D8193EB71",
       "unresolved": false,
       "fr": "(-Voix d'homme-)Q-q-qui êtes-vous<nbsp>!? Où sont passés les templiers qui devaient monter la garde<nbsp>!?",
       "ja": "(-男の叫び声-)ぬぬっ、貴様たちは何者だ！？<br>表で見張りをしていた神殿騎士たちはどうしたのだ……！",
@@ -1938,8 +1938,8 @@
     },
     {
       "gameKey": "quest/048/KinGba121_04820#TEXT_KINGBA121_04820_LEOPHYNE_000_404",
-      "en": "Ah, as I thought. Just when I was becoming bored, I sighted a familiar face among these slumbering knights. I simply had to come and make sure it was you.",
-      "hash": "52F40EC9B9690E88",
+      "en": "(-Menacing Woman-)Ah, as I thought. Just when I was becoming bored, I sighted a familiar face among these slumbering knights. I simply had to come and make sure it was you.",
+      "hash": "E1E0428D3F62093E",
       "unresolved": false,
       "fr": "(-Femme au front balafré-)Tiens tiens... J'ai bien fait de ne pas prendre mes cliques et mes claques tout de suite, j'aurais loupé des retrouvailles d'anthologie<nbsp>! Alors, qu'est-ce qui t'amène aux bergeries de Gorgagne, mon petit Tentoawa<nbsp>?",
       "ja": "(-額に傷のある女-)これはこれは……もう引き上げようとしてたのに、<br>な～んか見覚えのある奴が牧場に近寄ってくからさぁ。<br>ついつい確かめに戻ってきてみれば。",
@@ -1990,8 +1990,8 @@
     },
     {
       "gameKey": "quest/048/KinGba121_04820#TEXT_KINGBA121_04820_LEOPHYNE_000_406",
-      "en": "What did they call you, again? “The Wide Eye.” You must have had quite the journey to come this far.",
-      "hash": "AA56FDAE3BCF699E",
+      "en": "(-Menacing Woman-)What did they call you, again? “The Wide Eye.” You must have had quite the journey to come this far.",
+      "hash": "35CB9B7800FC8985",
       "unresolved": false,
       "fr": "(-Femme au front balafré-)Tu portes le titre de “guerrier insomniaque”, si mes souvenirs sont exacts. En effet, tu n'as pas dû beaucoup dormir pour débarquer en Éorzéa aussi rapidement...",
       "ja": "(-額に傷のある女-)あんた、たしか「眠らずの勇士」だっけ？<br>トラル大陸からこんなとこまで、ご苦労なこった。",

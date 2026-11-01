@@ -2998,8 +2998,8 @@
     },
     {
       "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSHAHN_000_222",
-      "en": "Ah, I did not expect to find you here.",
-      "hash": "C570EF0CE925A87C",
+      "en": "(-???-)Ah, I did not expect to find you here.",
+      "hash": "D781D306F49D9498",
       "unresolved": false,
       "fr": "(-Voix familière-)Tiens. Je ne m'attendais pas à te croiser à l'Agora.",
       "ja": "(-？？？？-)おや……？<br>ここで君と出会うとは、予想外だ。",
@@ -3666,8 +3666,8 @@
     },
     {
       "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_EMMANELLAIN_000_248",
-      "en": "Ugh... Where must I go to get a meal with some <italic(1)>flavor<italic(0)> in this wasteland of taste...?",
-      "hash": "144FEADE26BD6990",
+      "en": "(-???-)Ugh... Where must I go to get a meal with some <italic(1)>flavor<italic(0)> in this wasteland of taste...?",
+      "hash": "ADA55604DD609339",
       "unresolved": false,
       "fr": "(-Voix familière-)Argh... Mon estomac crie famine<nbsp>! Vite, il me faut une collation avant de tomber d'inanition<nbsp>!",
       "ja": "(-？？？？-)ううぅ……腹減ったぁ……！",
@@ -4050,8 +4050,8 @@
     },
     {
       "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_HANCOCK_000_263",
-      "en": "Well, well, is that <split(<string(gstr1)>, ,1)> and Tataru I spy?",
-      "hash": "8B5FB1F44705C3E4",
+      "en": "(-???-)Well, well, is that <split(<string(gstr1)>, ,1)> and Tataru I spy?",
+      "hash": "97C92CCF439B7036",
       "unresolved": false,
       "fr": "(-Voix familière-)Oh<nbsp>! Regardez qui voilà<nbsp>! Si ce n'est pas <if(gnum4,ma chère,mon cher)> <split(<string(gstr1)>, ,1)>, et accompagné<if(gnum4,e,)> de ma<->de<->moi<->sel<->le Tataru, en prime<nbsp>!",
       "ja": "(-？？？？-)オォ～！<br><split(<string(gstr1)>, ,1)>さんと、タタルさんではありませんか！",
@@ -4564,8 +4564,8 @@
     },
     {
       "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_BIGGS_000_283",
-      "en": "Ah, <split(<string(gstr1)>, ,1)>. Decided to spend your time at the markets, did you?",
-      "hash": "5671631A374B8988",
+      "en": "(-???-)Ah, <split(<string(gstr1)>, ,1)>. Decided to spend your time at the markets, did you?",
+      "hash": "CD4E7CBD20598155",
       "unresolved": false,
       "fr": "(-Voix familière-)Hé, mais c'est <split(<string(gstr1)>, ,1)><nbsp>! Toi aussi, tu es venu<if(gnum4,e,)> t'approvisionner à l'Agora<nbsp>?",
       "ja": "(-？？？？-)おっ、<split(<string(gstr1)>, ,2)>じゃないか。<br>お前も買い出しか？",

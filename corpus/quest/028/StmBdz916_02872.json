@@ -436,8 +436,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_DODOGUN_000_022",
-      "en": "Ahem. Forgive the intrusion, but judging by his uniform, I'm not so sure he was a member of the Resistance to begin with. Well, I wouldn't call it a uniform so much as an unconvincing costume. He likely stole bits and pieces off of fallen soldiers. ",
-      "hash": "F450AC86967EE079",
+      "en": "(-Flame Sergeant Dodogun-)Ahem. Forgive the intrusion, but judging by his uniform, I'm not so sure he was a member of the Resistance to begin with. Well, I wouldn't call it a uniform so much as an unconvincing costume. He likely stole bits and pieces off of fallen soldiers. ",
+      "hash": "EFFA7D15B03D5F42",
       "unresolved": false,
       "fr": "(-Voix de Dodogun-)Ou peut-être que c'étaient des brigands déguisés en soldats<nbsp>? Vu leur accoutrement, ça me paraît être une possibilité non négligeable. Leurs pièces d'équipement proviennent toutes d'armures différentes. À mon avis, ils les ont récupérées sur des cadavres un peu partout dans la région.",
       "ja": "(-ドドグン闘軍曹の声-)話はリンクパールを通じて聞いていた。<br>まず、そいつらは正規の解放軍ではない可能性が高い。<br>装備に統一性がないのは、多分、戦場で死体から盗んだものだから。",
@@ -462,8 +462,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_DODOGUN_000_023",
-      "en": "I also very much doubt he was here for crystals. You can clearly see the jewelry hanging out of his satchel. Nothing but a petty thief if you ask me.",
-      "hash": "8AD0B40829BC78D5",
+      "en": "(-Flame Sergeant Dodogun-)I also very much doubt he was here for crystals. You can clearly see the jewelry hanging out of his satchel. Nothing but a petty thief if you ask me.",
+      "hash": "050C272D7C24E225",
       "unresolved": false,
       "fr": "(-Voix de Dodogun-)Le chaos provoqué par la guerre a dû les convaincre que c'était le bon moment pour se déguiser et faire une razzia. Voyez un peu tous ces bijoux qui dépassent de leurs poches<nbsp>!",
       "ja": "(-ドドグン闘軍曹の声-)戦後の混乱を狙った、野盗ってとこかな。<br>確かに、クリスタルが目的のように偽装してるけど、<br>見てみなよ……懐から宝飾品が、はみ出してるよ。",
@@ -514,8 +514,8 @@
     },
     {
       "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_DODOGUN_000_025",
-      "en": "There's a reason <italic(1)>I'm<italic(0)> stationed up here and not you, soldier. If you're well enough to walk I suggest you return to base immediately. <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, report to Serpent Marshal Brookstone.",
-      "hash": "DAB56CD8D92B9B9C",
+      "en": "(-Flame Sergeant Dodogun-)There's a reason <italic(1)>I'm<italic(0)> stationed up here and not you, soldier. If you're well enough to walk I suggest you return to base immediately. <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>, report to Serpent Marshal Brookstone.",
+      "hash": "3AF4ED24EDD246A3",
       "unresolved": false,
       "fr": "(-Voix de Dodogun-)J'ai onze sur dix aux deux yeux, ha ha<nbsp>! Mais trêve de plai<->san<->te<->ries. Ta mission est terminée, soldat. Quant à vous, aventuri<if(gnum4,ère,er)>, je vous laisse retourner auprès du grand maréchal Brookstone pour lui faire votre rapport.",
       "ja": "(-ドドグン闘軍曹の声-)視力がいいのは知ってるだろう？<br>怪我がないのなら、お前はすぐに戻ってこい。<br>「スウェスリク大牙将」への報告は、冒険者君に任せるよ。",

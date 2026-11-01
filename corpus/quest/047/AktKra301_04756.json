@@ -1072,8 +1072,8 @@
     },
     {
       "gameKey": "quest/047/AktKra301_04756#TEXT_AKTKRA301_04756_ATHENA_000_500",
-      "en": "Impressive work, <split(<string(gstr1)>, ,1)>. Their memories of your tenacity were not embellished in the slightest.",
-      "hash": "AD9B4523323E68DB",
+      "en": "(-???-)Impressive work, <split(<string(gstr1)>, ,1)>. Their memories of your tenacity were not embellished in the slightest.",
+      "hash": "02AC0CB6A4C746B8",
       "unresolved": false,
       "fr": "(-???-)Bravo <split(<string(gstr1)>, ,1)>. Tu es aussi redoutable que dans mes souvenirs.",
       "ja": "(-？？？？-)さすが、<split(<string(gstr1)>, ,1)>。<br>「記憶」に違わぬ実力ね。",
@@ -1098,8 +1098,8 @@
     },
     {
       "gameKey": "quest/047/AktKra301_04756#TEXT_AKTKRA301_04756_ATHENA_000_501",
-      "en": "Do not be alarmed. A proper introduction shall set your mind at ease.",
-      "hash": "42AF932DAEA9E0BA",
+      "en": "(-???-)Do not be alarmed. A proper introduction shall set your mind at ease.",
+      "hash": "31B25B083535FB77",
       "unresolved": false,
       "fr": "(-???-)Ravie de te rencontrer. J'aimerais que nous partions sur des bases amicales, alors permets-moi de me présenter.",
       "ja": "(-？？？？-)はじめまして。<br>友好的な関係を築くためにも、まずは名乗らせてちょうだい。",

@@ -2774,8 +2774,8 @@
     },
     {
       "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_001680_ISSE",
-      "en": "Get back! I'm warning you!",
-      "hash": "5B938B3FD57CFC1E",
+      "en": "(-???-)Get back! I'm warning you!",
+      "hash": "84EC9878FCB07DB5",
       "unresolved": false,
       "fr": "(-???-)Arrêtez<nbsp>! Laissez ma sœur tranquille<nbsp>!",
       "ja": "(-？？？？-)や、やめろっ！<br>妹に手出しをするなっ！",
@@ -4580,8 +4580,8 @@
     },
     {
       "gameKey": "cut_scene/042/VoiceMan_04200#TEXT_VOICEMAN_04200_002740_ROBEMAN",
-      "en": "Fine. Now leave me.",
-      "hash": "90E7724D33D7DE5D",
+      "en": "(-???-)Fine. Now leave me.",
+      "hash": "B095A5525F1B25FE",
       "unresolved": false,
       "fr": "(-???-)... Bien. Laisse-moi seul, à présent.",
       "ja": "(-殿下と呼ばれた男-)…………問題はない。<br>下がれ。",

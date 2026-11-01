@@ -592,8 +592,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc007_03216#TEXT_LUCKBC007_03216_ZHAIANELHAH_000_006",
-      "en": "Well, fancy that! I come to check up on Lalai here, and who do I find but our old friend <split(<string(gstr1)>, ,1)>.",
-      "hash": "3EE8DDB0C089B243",
+      "en": "(-???-)Well, fancy that! I come to check up on Lalai here, and who do I find but our old friend <split(<string(gstr1)>, ,1)>.",
+      "hash": "72489E70FF7952AB",
       "unresolved": false,
       "fr": "(-???-)Je viens rendre visite à Lalai, et qui vois-je<nbsp>? <split(<string(gstr1)>, ,1)><nbsp>! Deux mages noirs pour le prrrix d'un<nbsp>!",
       "ja": "(-？？？？-)ラライの様子を見に来れば、<br>なんと、<split(<string(gstr1)>, ,1)>までいるとは……。",
@@ -1958,8 +1958,8 @@
     },
     {
       "gameKey": "quest/032/LucKbc007_03216#TEXT_LUCKBC007_03216_LALAI_000_168",
-      "en": "Delay the hearing!? Have you lost what little wits you had!? Why, if word got out that my condition was the result of my pursuit of the dark arts, it would all but seal Yayake's case against me!",
-      "hash": "5B6B7A4D1A91CA67",
+      "en": "(-???-)Delay the hearing!? Have you lost what little wits you had!? Why, if word got out that my condition was the result of my pursuit of the dark arts, it would all but seal Yayake's case against me!",
+      "hash": "DA1111327654ED01",
       "unresolved": false,
       "fr": "(-???-)Ah non, pas question de remettre ça à plus tard<nbsp>! Si le camp d'en face apprend que je suis souffrante à cause de la magie noire, il aura un argument imparable à faire valoir<nbsp>! ",
       "ja": "(-？？？？-)延期はいけません！<br>反対派に原因を探られ、黒魔法に関する事件のせいだと知れれば、<br>格好の攻撃材料を与えてしまう……。",

@@ -1264,8 +1264,8 @@
     },
     {
       "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_66",
-      "en": "<colortype(547)>O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!<colortype(0)>",
-      "hash": "82D3F175B9D276E3",
+      "en": "(-???-)<colortype(547)>O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!<colortype(0)>",
+      "hash": "AAA22DC84833B901",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Ô essences primitives de la création<nbsp>!<br>Habitez d'un semblant d'âme cette enveloppe de pierre inanimée<nbsp>!<br>Ô idole née de la transcendance, prends vie<nbsp>!<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>示せ、創世の理の嘆き声よ。<br>物世に有りし石棺に偽魂を宿さん……。<br>為せ、真理の偶像よ！<colortype(0)>",
@@ -1394,8 +1394,8 @@
     },
     {
       "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_70",
-      "en": "<colortype(547)>That the golem could be vanquished...<colortype(0)>",
-      "hash": "C64E04E4C25CFB36",
+      "en": "(-???-)<colortype(547)>That the golem could be vanquished...<colortype(0)>",
+      "hash": "1F0276F28A7614F3",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Quelle force incroyable<nbsp>! Qui peut-<if(gnum4,elle,il)> bien être...<nbsp>? Certainement pas un<if(gnum4,e,)> aventuri<if(gnum4,ère,er)> ordinaire.<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>なんだヤツの力は……。<br>それに、あの<sheet(ClassJob,gnum68,0)>。<br>ただの冒険者ではないようだな。<colortype(0)>",
@@ -1420,8 +1420,8 @@
     },
     {
       "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_71",
-      "en": "<colortype(547)>That <if(gnum4,woman,man)> is no ordinary adventurer.<colortype(0)>",
-      "hash": "7EFA54A579525D13",
+      "en": "(-???-)<colortype(547)>That <if(gnum4,woman,man)> is no ordinary adventurer.<colortype(0)>",
+      "hash": "22BD466DAAFB2B1C",
       "unresolved": false,
       "fr": "(-???-)<colortype(547)>Qu'<if(gnum4,elle,il)> ait pu défaire un golem en est une preuve suffisante...<colortype(0)>",
       "ja": "(-？？？？-)<colortype(547)>石人形ごときでは通じぬというのか……。<colortype(0)>",

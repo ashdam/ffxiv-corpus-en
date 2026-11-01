@@ -324,8 +324,8 @@
     },
     {
       "gameKey": "quest/048/KinGba441_04840#TEXT_KINGBA441_04840_CEETOLJA_100_002",
-      "en": "<italic(1)><split(<string(gstr1)>, ,1)> is to come to the Ala Mhigan Quarter and meet with a man in spectacles.<italic(0)>",
-      "hash": "A754312833D4A404",
+      "en": "(-Letter from an Unknown Correspondent-)<italic(1)><split(<string(gstr1)>, ,1)> is to come to the Ala Mhigan Quarter and meet with a man in spectacles.<italic(0)>",
+      "hash": "1CB02B797981418B",
       "unresolved": false,
       "fr": "(-Lettre anonyme-)Rendez-vous au Faubourg mhigois et entrez en contact avec un homme portant des lunettes.",
       "ja": "(-差出人不明の手紙-)<split(<string(gstr1)>, ,1)>を、<br>アラミガン・クォーターに向かわせ、<br>眼鏡をかけた男性と接触させるべし。",
@@ -350,8 +350,8 @@
     },
     {
       "gameKey": "quest/048/KinGba441_04840#TEXT_KINGBA441_04840_CEETOLJA_000_003",
-      "en": "<italic(1)><if(gnum4,She,He)> must arrive incognito.<italic(0)>",
-      "hash": "01C6C7A56E8B2A73",
+      "en": "(-Letter from an Unknown Correspondent-)<italic(1)><if(gnum4,She,He)> must arrive incognito.<italic(0)>",
+      "hash": "B6B84C50C0C267DC",
       "unresolved": false,
       "fr": "(-Lettre anonyme-)Par précaution, <split(<string(gstr1)>, ,1)> doit impérativement se présenter incognito.",
       "ja": "(-差出人不明の手紙-)ただし、<split(<string(gstr1)>, ,1)>には、<br>身元がわからぬよう変装させておくこと。",
@@ -1100,8 +1100,8 @@
     },
     {
       "gameKey": "quest/048/KinGba441_04840#TEXT_KINGBA441_04840_AVENEL_000_211",
-      "en": "What!? But Kaqool Ja is Chalteaufite's right-hand man!",
-      "hash": "87B5F1C0D8D561DF",
+      "en": "(-Avenel-)What!? But Kaqool Ja is Chalteaufite's right-hand man!",
+      "hash": "360A15967395AA93",
       "unresolved": false,
       "fr": "(-Avenel-)Kaqool Ja se rebelle contre Chalteaufite<nbsp>!? Qu'est-ce qui s'est passé<nbsp>?",
       "ja": "(-アヴェネル-)カクージャさんはシャルトフィット様の側近……。<br>仲違いなんて、そ、相当の理由なんじゃ……！？",

@@ -432,8 +432,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog151_00145#TEXT_CLSROG151_00145_PIRATE00145_000_024",
-      "en": "An' who are you to just sidle in an' set loose our 'ard-won prizes? Hm?",
-      "hash": "7995364BCAE57CE4",
+      "en": "(-???-)An' who are you to just sidle in an' set loose our 'ard-won prizes? Hm?",
+      "hash": "D0D04FCBEB4E6286",
       "unresolved": false,
       "fr": "(-???-)Désolé, mais nous ne pouvons pas laisser nos mar<->chan<->di<->ses partir sans même nous avoir dit au revoir...",
       "ja": "(-？？？？-)我ら「クフサド商船団」の大切な商品を、<br>勝手に逃がされては困りますね。",
@@ -926,8 +926,8 @@
     },
     {
       "gameKey": "quest/001/ClsRog151_00145#TEXT_CLSROG151_00145_MILALA_000_058",
-      "en": "I assume you are the citizens who were abducted by the Jolly Merchants?",
-      "hash": "58271E16580092B0",
+      "en": "(-Yellowjacket Soldier-)I assume you are the citizens who were abducted by the Jolly Merchants?",
+      "hash": "47CE94C8286ACC3C",
       "unresolved": false,
       "fr": "(-Casaque jaune-)C'est bien vous qui avez été enlevés par le Camelot fringant, n'est-ce pas<nbsp>?",
       "ja": "(-イエロージャケット警備兵-)「クフサド商船団」に拐われた方々ですわね？",

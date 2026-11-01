@@ -560,8 +560,8 @@
     },
     {
       "gameKey": "quest/037/FesVlt607_03758#TEXT_FESVLT607_03758_YWAIN_000_020",
-      "en": "My apologies. I hope I have not kept you waiting overlong.",
-      "hash": "7C95507E40B41F0F",
+      "en": "(-Pining Gridanian-)My apologies. I hope I have not kept you waiting overlong.",
+      "hash": "744750EEBDA4405A",
       "unresolved": false,
       "fr": "(-Gridanien langoureux-)Désolé pour l'attente.",
       "ja": "(-愛に悩める男性-)すまない、待たせただろうか？",
@@ -898,8 +898,8 @@
     },
     {
       "gameKey": "quest/037/FesVlt607_03758#TEXT_FESVLT607_03758_SYLPHIE_000_033",
-      "en": "...Brother E<-->Sumi. Somehow I don't think that's the kind of love your friend is seeking.",
-      "hash": "6B57C43938AEDD4B",
+      "en": "(-Girl's Voice-)...Brother E<-->Sumi. Somehow I don't think that's the kind of love your friend is seeking.",
+      "hash": "3D637A632B2BB3DC",
       "unresolved": false,
       "fr": "(-Voix de jeune fille-)Maître E-Sumi, attendez<nbsp>! Ce n'est pas ce que vous croyez<nbsp>!",
       "ja": "(-謎の女性-)エ・スミ様、待って……違うわ！",

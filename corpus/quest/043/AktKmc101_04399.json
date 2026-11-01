@@ -1030,8 +1030,8 @@
     },
     {
       "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_MEMORYA04399_000_071",
-      "en": "<colortype(547)>Daily summary: no abnormalities detected...<br>Daily summary: no abnormalities detected...<br>Daily summary: no abnormalities detected...<colortype(0)>",
-      "hash": "2D73C0926EC65214",
+      "en": "(-Crystalline Memories-)<colortype(547)>Daily summary: no abnormalities detected...<br>Daily summary: no abnormalities detected...<br>Daily summary: no abnormalities detected...<colortype(0)>",
+      "hash": "0FE1CD176E047F1D",
       "unresolved": false,
       "fr": "(-Souvenirs cristallins-)<colortype(547)>Rapport quotidien<nbsp>: aucune anomalie détectée...<br>Rapport quotidien<nbsp>: aucune anomalie détectée...<br>Rapport quotidien<nbsp>: aucune anomalie détectée...<colortype(0)>",
       "ja": "(-クリスタルから響く記憶-)<colortype(547)>本日は異常なし……。<br>本日は異常なし…………。<br>本日は異常なし………………。<colortype(0)>",
@@ -1272,8 +1272,8 @@
     },
     {
       "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_MEMORYB04399_000_102",
-      "en": "<colortype(547)>It is clear he and his brethren have a keen interest in freeing Zodiark from His prison, and yet they have made no attempt to destroy the brands. Perhaps they prefer He remain hidden from mortal eyes until the final Rejoining.<colortype(0)>",
-      "hash": "DD41A66BFC1C9B2F",
+      "en": "(-Crystalline Memories-)<colortype(547)>It is clear he and his brethren have a keen interest in freeing Zodiark from His prison, and yet they have made no attempt to destroy the brands. Perhaps they prefer He remain hidden from mortal eyes until the final Rejoining.<colortype(0)>",
+      "hash": "8533EC952A6D2E9B",
       "unresolved": false,
       "fr": "(-Souvenirs cristallins-)<colortype(547)>Cette fois encore, Elidibus s'est contenté d'observer le sceau sans tenter de le briser. Je soupçonne qu'il commence à réaliser que la lune sera la prison de Zordiarche tant que le monde ne sera pas réunifié.<colortype(0)>",
       "ja": "(-クリスタルから響く記憶-)<colortype(547)>エリディブスは此度も、封印に手出しすることはなかった。<br>彼らにとって月は、残りの統合が遂げられるまで、<br>現生生命の好奇心からゾディアークを護る揺り籠なのだ。<colortype(0)>",
@@ -1298,8 +1298,8 @@
     },
     {
       "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_MEMORYB04399_000_103",
-      "en": "<colortype(547)>Perhaps they realize we would never dare bring harm to Zodiark, so long as He remains imprisoned.<colortype(0)>",
-      "hash": "2CEF2E687C1EE421",
+      "en": "(-Crystalline Memories-)<colortype(547)>Perhaps they realize we would never dare bring harm to Zodiark, so long as He remains imprisoned.<colortype(0)>",
+      "hash": "4B93B155B59D036A",
       "unresolved": false,
       "fr": "(-Souvenirs cristallins-)<colortype(547)>Lui et ses compagnons ont compris que nous n'essayerons pas de détruire le Primordial, tant qu'il restera sous notre contrôle...<colortype(0)>",
       "ja": "(-クリスタルから響く記憶-)<colortype(547)>彼らはもう理解している。<br>ここから解放しないかぎりにおいて、<br>我々が、決してゾディアークを消したりはしないことを……。<colortype(0)>",

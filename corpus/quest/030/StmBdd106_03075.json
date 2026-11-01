@@ -634,8 +634,8 @@
     },
     {
       "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_THANCRED_000_027",
-      "en": "Thal's gilded...halls. Whatever are you talking about?",
-      "hash": "9BEBDC6865F3473D",
+      "en": "(-???-)Thal's gilded...halls. Whatever are you talking about?",
+      "hash": "DD6BE04B46A0FA8A",
       "unresolved": false,
       "fr": "(-???-)C'est quoi ces sornettes<nbsp>?",
       "ja": "(-？？？？-)おいおい、まったくどうなってるんだ……？",
@@ -1490,8 +1490,8 @@
     },
     {
       "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_ROBEMAN_000_081",
-      "en": "More than clear. The eikon in question was summarily dispatched by the Warrior of Light. The summoner is dead, and the rite beyond repeating.",
-      "hash": "86242EFCB2E48044",
+      "en": "(-Zenos-)More than clear. The eikon in question was summarily dispatched by the Warrior of Light. The summoner is dead, and the rite beyond repeating.",
+      "hash": "BC0FF42920B24562",
       "unresolved": false,
       "fr": "(-Zenos<nbsp>?-)Je vous ai par<->fai<->te<->ment entendu. Vous constaterez qu'au bout du compte, la Primordiale en question a été éradiquée par notre con<->nais<->san<->ce mutuelle, et l'humaine qui servait de réceptacle n'a pas survécu, rendant toute nouvelle invocation impossible.",
       "ja": "(-ゼノスの顔を持つ男-)もちろん、覚えているとも……。<br>件の蛮神は、ほどなく彼の英雄によって処理された。<br>召喚者は死に、再召喚の可能性もない。",
@@ -1516,8 +1516,8 @@
     },
     {
       "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_ROBEMAN_000_082",
-      "en": "Everything proceeded according to plan─every party behaving exactly as required.",
-      "hash": "7F36214F6D3B8C82",
+      "en": "(-Zenos-)Everything proceeded according to plan─every party behaving exactly as required.",
+      "hash": "1890470DEB660F45",
       "unresolved": false,
       "fr": "(-Zenos<nbsp>?-)Tout se passe comme nous l'avions prévu. Les rouages de notre plan s'engrènent par<->fai<->te<->ment.",
       "ja": "(-ゼノスの顔を持つ男-)すべては計画の内……<br>事態は完全に掌握できている、問題はない。",
@@ -1542,8 +1542,8 @@
     },
     {
       "gameKey": "quest/030/StmBdd106_03075#TEXT_STMBDD106_03075_ROBEMAN_000_083",
-      "en": "My methods may seem extreme, but there is no cause for concern. I work only to ensure the salvation of this star.",
-      "hash": "877A2E16E0D5969D",
+      "en": "(-Zenos-)My methods may seem extreme, but there is no cause for concern. I work only to ensure the salvation of this star.",
+      "hash": "BC8D1B98A1D0FDF0",
       "unresolved": false,
       "fr": "(-Zenos<nbsp>?-)Restez serein. Comme je vous l'ai déjà dit, je ne cherche qu'à sauver ce monde.",
       "ja": "(-ゼノスの顔を持つ男-)案ずるな……。<br>私の望みは星の救済なのだから……。",

@@ -724,8 +724,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse409_00077#TEXT_GAIUSE409_00077_TEMPLEKNIGHT02400_000_012",
-      "en": "Yes, Lord Commander.",
-      "hash": "12BA1C7AC17417FC",
+      "en": "(-Temple Knight Herald-)Yes, Lord Commander.",
+      "hash": "B29203AB387FCC8F",
       "unresolved": false,
       "fr": "(-Héraut des templiers-)À vos ordres, Capitaine général<nbsp>!",
       "ja": "(-伝令の神殿騎士-)ハッ、伝令いたします！",
@@ -1504,8 +1504,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse409_00077#TEXT_GAIUSE409_00077_LUCIA_100_050",
-      "en": "Harry the enemy when he is entrenched. Retreat from his advance, and attack his flanks when he withdraws. Aye, Iceheart is no fool.",
-      "hash": "A316EB097C52B941",
+      "en": "(-Taciturn Temple Knight-)Harry the enemy when he is entrenched. Retreat from his advance, and attack his flanks when he withdraws. Aye, Iceheart is no fool.",
+      "hash": "FB900D1C477AF7A6",
       "unresolved": false,
       "fr": "(-Chevalière taciturne-)Cœur-de-glace est une fine tacticienne. Je ne sais pas si c'est inné chez elle ou si elle a reçu une formation militaire, toujours est-il qu'elle dirige ses hommes de main de maître. C'est une adversaire à ne pas sous-estimer.",
       "ja": "隠れ、潜み、不意を突く……。<br>戦力的に劣る者にとって、まさに定石の手法。<br>「氷の巫女」は、油断ならぬ相手のようだ。",
@@ -2100,8 +2100,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse409_00077#TEXT_GAIUSE409_00077_HERETICTRADER00077_000_141",
-      "en": "<italic(1)>How<italic(0)>? The woods are crawling with those bluecoats, and the knights are searching every wagon that passes through the gates!",
-      "hash": "2CD457DA35811A39",
+      "en": "(-Suspicious Merchant-)<italic(1)>How<italic(0)>? The woods are crawling with those bluecoats, and the knights are searching every wagon that passes through the gates!",
+      "hash": "392A164FE0D8E999",
       "unresolved": false,
       "fr": "(-Marchand suspect-)Comment<nbsp>? Les bois grouillent de types en tunique bleue et les chevaliers contrôlent tous les convois en circulation<nbsp>!",
       "ja": "(-商人らしき男-)噂に聞く「クリスタルブレイブ」とかいう連中か？<br>まずいな、その調子だと直にここにも……。",
@@ -2256,8 +2256,8 @@
     },
     {
       "gameKey": "quest/000/GaiUse409_00077#TEXT_GAIUSE409_00077_HERETICTRADER00077_000_147",
-      "en": "N-No! I have done no wrong!",
-      "hash": "379A513B1D208985",
+      "en": "(-Suspicious Merchant-)N-No! I have done no wrong!",
+      "hash": "615551AE87A5C16B",
       "unresolved": false,
       "fr": "(-Marchand suspect-)V... Vous vous trompez<nbsp>! On a rien fait de mal, j'vous jure<nbsp>!",
       "ja": "(-商人らしき男-)ふ、ふざけやがって！",

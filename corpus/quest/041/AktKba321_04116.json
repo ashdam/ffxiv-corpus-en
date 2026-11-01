@@ -1194,8 +1194,8 @@
     },
     {
       "gameKey": "quest/041/AktKba321_04116#TEXT_AKTKBA321_04116_WHEISKAET_000_101",
-      "en": "...And here I swore five years ago that I was done playing hero.",
-      "hash": "D88B1D76E4C76564",
+      "en": "(-???-)...And here I swore five years ago that I was done playing hero.",
+      "hash": "0EF126E16D6B764B",
       "unresolved": false,
       "fr": "(-Homme à la voix grave et profonde-)Tiens donc, <if(gnum4,cette bonne vieille,ce bon vieux)> <split(<string(gstr1)>, ,1)><nbsp>! Je ne savais pas que tu étais <if(gnum4,invitée,invité)> à cette petite réunion surprise, toi aussi.",
       "ja": "(-野太い男の声-)まったく……急に呼び出されたと思えば、<br>見覚えのある顔ばかりいやがる。<br>大方、ロクな要件じゃないんだろうな。",
@@ -3504,8 +3504,8 @@
     },
     {
       "gameKey": "quest/041/AktKba321_04116#TEXT_AKTKBA321_04116_LANDENEL_000_254",
-      "en": "Ho there, Commander! Just give the word, and I'll come running!",
-      "hash": "06E8CAF7832C8E9F",
+      "en": "(-Landenel-)Ho there, Commander! Just give the word, and I'll come running!",
+      "hash": "E0FC6727993A9D8A",
       "unresolved": false,
       "fr": "(-Voix de Landenel-)Salut, Capitaine<nbsp>! On attend que votre signal pour aller casser du monstre<nbsp>!",
       "ja": "(-ランドゥネルの声-)よう、団長代行さんよォ！<br>誰でもいいからとっととぶっ潰しに行こうや！",
@@ -3530,8 +3530,8 @@
     },
     {
       "gameKey": "quest/041/AktKba321_04116#TEXT_AKTKBA321_04116_UODHNUNH_000_255",
-      "en": "Lowerrr your godsdamned voice, will you?",
-      "hash": "BEACF8C44399C00B",
+      "en": "(-U'odh Nunh-)Lowerrr your godsdamned voice, will you?",
+      "hash": "1F5E8CF4AD0DB31C",
       "unresolved": false,
       "fr": "(-Voix de U'odh Nunh-)Ferrrme un peu ton clapet au lieu de raconter des bêtises, tu veux<nbsp>?",
       "ja": "(-ウ・オド・ヌンの声-)五月蝿いぞ、意味のない発言をするな……。",
@@ -3556,8 +3556,8 @@
     },
     {
       "gameKey": "quest/041/AktKba321_04116#TEXT_AKTKBA321_04116_LANDENEL_000_256",
-      "en": "Watch your tongue, or I'll track you down and rip yours out!",
-      "hash": "6265E5895E853447",
+      "en": "(-Landenel-)Watch your tongue, or I'll track you down and rip yours out!",
+      "hash": "396D6B49A12B74F4",
       "unresolved": false,
       "fr": "(-Voix de Landenel-)Hein<nbsp>!? Tu perds rien pour attendre, c'est toi que je vais embrocher<nbsp>!",
       "ja": "(-ランドゥネルの声-)んだとォ……てめェから串刺しにしてやろうか！",

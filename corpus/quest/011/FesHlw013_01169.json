@@ -430,8 +430,8 @@
     },
     {
       "gameKey": "quest/011/FesHlw013_01169#TEXT_FESHLW013_01169_IMPA_000_030",
-      "en": "<italic(1)>This one...still draws breath. Return to your bed, living one...lest you ne'er wake to see the dawn.<italic(0)>",
-      "hash": "9C5507219F10D1FB",
+      "en": "(-Disembodied Voice-)<italic(1)>This one...still draws breath. Return to your bed, living one...lest you ne'er wake to see the dawn.<italic(0)>",
+      "hash": "24722EA4F3F84DA2",
       "unresolved": false,
       "fr": "(-Voix intangible-)Ouooooh... <if(gnum4,Une vivante,Un vivant)>... Retourne dans ton lit, mortel<if(gnum4,le,)>, cette nuit appartient aux défunts... Ouooooh...",
       "ja": "(-怪しい旅芸人の声-)ダメダメ、衣装を着てって言ったでしょ？<br>「<sheet(Item,6108,0)>」を着たお仲間じゃないと、<br><sheet(EventItem,2000041,0)>も燃えないヨ！",

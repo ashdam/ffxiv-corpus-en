@@ -696,8 +696,8 @@
     },
     {
       "gameKey": "quest/047/FesEst902_04722#TEXT_FESEST902_04722_NONOTTA_000_025",
-      "en": "Profound, I'm sure. I must say, Hamlyn, your unflagging devotion to all things tonberry is both remarkable and admirable...",
-      "hash": "3A95F759B193DFEE",
+      "en": "(-Nonotta-)Profound, I'm sure. I must say, Hamlyn, your unflagging devotion to all things tonberry is both remarkable and admirable...",
+      "hash": "D68AAD1280043762",
       "unresolved": false,
       "fr": "(-Nonotta-)Hamlyn voit toujours les choses du bon côté, j'aimerais être comme lui...",
       "ja": "(-ノノッタ-)おおう……。<br>ハムリンさんの底抜けに前向きなところ、見習いたいですぅ～。",
@@ -722,8 +722,8 @@
     },
     {
       "gameKey": "quest/047/FesEst902_04722#TEXT_FESEST902_04722_RESIDENTSB04722_000_026",
-      "en": "Erm, pardon me!",
-      "hash": "65996BC3F69ABC17",
+      "en": "(-???-)Erm, pardon me!",
+      "hash": "B7E4BD059B85997F",
       "unresolved": false,
       "fr": "(-Voix de femme-)Euh, excusez-moi<nbsp>!",
       "ja": "(-呼びかける女性の声-)あ、あのっ！",

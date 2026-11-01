@@ -544,8 +544,8 @@
     },
     {
       "gameKey": "quest/035/LucKzi005_03541#TEXT_LUCKZI005_03541_FRIGHTENEDGIRL03541_000_032",
-      "en": "<italic(1)>My dear girl, you served my husband and me with unrelenting diligence. And we repaid your efforts with vulgarity and violence, wounding you in heart and body alike.<italic(0)>",
-      "hash": "C46D5BCA6314649F",
+      "en": "(-Letter of Contrition-)<italic(1)>My dear girl, you served my husband and me with unrelenting diligence. And we repaid your efforts with vulgarity and violence, wounding you in heart and body alike.<italic(0)>",
+      "hash": "C3E3D160C9446C4F",
       "unresolved": false,
       "fr": "(-Lettre d'excuses-)Chère enfant, alors que tu t'es toujours montrée assidue au service de mon mari et moi, ce n'est qu'avec vulgarité et violence que nous avons récompensé tes efforts, te laissant avec des sequelles au corps et au cœur.",
       "ja": "(-謝罪の手紙-)……あなたは、わたくしたち夫婦のために尽くしてくれました。<br>ですが、その行いに対して、わたくしたちは欲望と嫉妬で応じ、<br>身も心も傷つけてしまったのです。",
@@ -570,8 +570,8 @@
     },
     {
       "gameKey": "quest/035/LucKzi005_03541#TEXT_LUCKZI005_03541_FRIGHTENEDGIRL03541_000_033",
-      "en": "<italic(1)>I am deserving of your hatred. Of your fear. Words of apology can do little to salve the suffering I've caused, yet I would speak them nonetheless. I await your pleasure at Top Rung...<italic(0)>",
-      "hash": "B82131A3902B1C4A",
+      "en": "(-Letter of Contrition-)<italic(1)>I am deserving of your hatred. Of your fear. Words of apology can do little to salve the suffering I've caused, yet I would speak them nonetheless. I await your pleasure at Top Rung...<italic(0)>",
+      "hash": "22C157F5EF8CA354",
       "unresolved": false,
       "fr": "(-Lettre d'excuses-)La méprise et la haine que tu voues à notre égard sont par<->fai<->te<->ment justifiées. Aucune parole ne pourrait réparer tout le mal que je t'ai causé, et pourtant j'aimerais te présenter mes excuses de vive voix. Je t'attendrai à l'Échelon supérieur...",
       "ja": "(-謝罪の手紙-)あなたが、わたくしたちを恐れ憎むことは無理もありません。<br>ですがもし、謝罪の言葉に耳を傾けてくださるのであれば、<br>どうかトップラングにいらしてください……。",

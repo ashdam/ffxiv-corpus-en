@@ -1274,8 +1274,8 @@
     },
     {
       "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_056",
-      "en": "<split(<string(gstr1)>, ,1)>, are you there!? Please, you must come to Frondale's Phrontistery right away! Something dire has happened to Greinfarr!",
-      "hash": "AFBFDB70B6713580",
+      "en": "(-F'lhaminn-)<split(<string(gstr1)>, ,1)>, are you there!? Please, you must come to Frondale's Phrontistery right away! Something dire has happened to Greinfarr!",
+      "hash": "F94294D857B95189",
       "unresolved": false,
       "fr": "(-Voix de F'lhaminn-)Allô, <split(<string(gstr1)>, ,1)><nbsp>!? Je suis à l'Académie médicale de Frondale<nbsp>! Greinfarr... Il est... Grrrands Dieux, c'est trop horrible<nbsp>! Venez im<->mé<->dia<->te<->ment, je vous en supplie<nbsp>!",
       "ja": "(-フ・ラミンの声-)もしもし、<split(<string(gstr1)>, ,1)>さん！？<br>今すぐ「フロンデール薬学院」に来て！！<br>グレインファルが……グレインファルが……！！",

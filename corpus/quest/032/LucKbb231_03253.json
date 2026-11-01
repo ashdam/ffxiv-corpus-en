@@ -1348,8 +1348,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb231_03253#TEXT_LUCKBB231_03253_POORMAN03253_000_250",
-      "en": "When I received a sudden invitation to this performance, I didn't know what to expect. But that...that was simply remarkable! Ever since the show ended, my mind is clear, and all my troubles just don't seem so bad anymore.",
-      "hash": "5F04D8F682436EDC",
+      "en": "(-Dignified Indigent-)When I received a sudden invitation to this performance, I didn't know what to expect. But that...that was simply remarkable! Ever since the show ended, my mind is clear, and all my troubles just don't seem so bad anymore.",
+      "hash": "2DC21E4CF38ADFD0",
       "unresolved": false,
       "fr": "(-Villageois démuni-)Franchement je savais pas à quoi m'attendre quand on m'a parlé de ce spectacle, mais c'était fantastique<nbsp>! J'ai eu l'impression de renaître... Et puis le combat final contre ces créatures, quel réalisme<nbsp>! On s'y serait cru<nbsp>!",
       "ja": "(-貧しい身なりの男性-)突然、舞踏公演があると聞いたときには、何事かと思ったが……<br>まるで心に光が灯ったような、見事な踊りだった！<br>それに、最後の魔物が登場する演出も見事だったな！",
@@ -1374,8 +1374,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb231_03253#TEXT_LUCKBB231_03253_POORLADY03253_000_251",
-      "en": "And I the same. I must say, that last scene where those fearsome shadow-beasts appeared was particularly dramatic and invigorating!",
-      "hash": "40B05EAAAD270B86",
+      "en": "(-Principled Pauper-)And I the same. I must say, that last scene where those fearsome shadow-beasts appeared was particularly dramatic and invigorating!",
+      "hash": "15E8DDD3074F69BF",
       "unresolved": false,
       "fr": "(-Villageoise démunie-)Tu m'enlèves les mots de la bouche<nbsp>! Pendant un instant, j'ai même cru que ces monstres sortaient de mon corps<nbsp>! On pouvait sentir que vous étiez venu<if(gnum4,e,)>s danser spé<->cia<->le<->ment pour nous, et que vous donniez tout ce que vous aviez<nbsp>!",
       "ja": "(-貧しい身なりの女性-)本当……一瞬、魔物が私の身体から出てきたかと思ったもの！<br>それに、ふたりとも、私たちのために踊ってくれているのが、<br>すごく伝わってきて……素晴らしかったわ！",
@@ -1400,8 +1400,8 @@
     },
     {
       "gameKey": "quest/032/LucKbb231_03253#TEXT_LUCKBB231_03253_POORMAN03253_000_252",
-      "en": "It's the strangest feeling. Even though my lot in life hasn't changed one bit, I feel like I'll be able to face tomorrow with my head held high.",
-      "hash": "4A18AD9B5D9BDF7A",
+      "en": "(-Dignified Indigent-)It's the strangest feeling. Even though my lot in life hasn't changed one bit, I feel like I'll be able to face tomorrow with my head held high.",
+      "hash": "ED3AA0320DFFAE3F",
       "unresolved": false,
       "fr": "(-Villageois démuni-)C'est bizarre, je me sens vraiment plus léger...",
       "ja": "(-貧しい身なりの男性-)ああ、不思議なもんだな……。<br>明日をも不安な身なのは変わらないのに、心が軽くなったよ。",

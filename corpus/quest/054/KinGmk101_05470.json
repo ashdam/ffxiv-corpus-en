@@ -480,8 +480,8 @@
     },
     {
       "gameKey": "quest/054/KinGmk101_05470#TEXT_KINGMK101_05470_YSHTOLA_000_010",
-      "en": "Can you hear me?",
-      "hash": "D205E91CD7AD35A0",
+      "en": "(-Y'shtola-)Can you hear me?",
+      "hash": "DA97B350FE328A71",
       "unresolved": false,
       "fr": "(-Y'shtola-)Est-ce que tout le monde m'entend\u00A0?",
       "ja": "(-ヤ・シュトラ-)皆、聞こえるかしら？",
@@ -506,8 +506,8 @@
     },
     {
       "gameKey": "quest/054/KinGmk101_05470#TEXT_KINGMK101_05470_YSHTOLA_000_011",
-      "en": "Shale and I have been reviewing the decrypted files, and have uncovered some intriguing details. Would you care to join us?",
-      "hash": "11F0AF4AF6E51F3F",
+      "en": "(-Y'shtola-)Shale and I have been reviewing the decrypted files, and have uncovered some intriguing details. Would you care to join us?",
+      "hash": "E3F124DD364DFEE1",
       "unresolved": false,
       "fr": "(-Y'shtola-)Nous étions en train d'examiner les données que nous avons extraites avec Shale, et certaines d'entre elles valent par<->ti<->cu<->liè<->rement le détour. Vous pourriez venir au labo\u00A0?",
       "ja": "(-ヤ・シュトラ-)シェールと一緒に解読処理が済んだデータを見ているのだけれど、<br>さっそく興味深い情報を見つけたの。<br>こちらへ来てもらえないかしら？",
@@ -558,8 +558,8 @@
     },
     {
       "gameKey": "quest/054/KinGmk101_05470#TEXT_KINGMK101_05470_YSHTOLA_000_013",
-      "en": "Excellent. Shale seems rather eager to speak with you all. Come and find us in the deuterolab when you're ready.",
-      "hash": "079652040DD2F62E",
+      "en": "(-Y'shtola-)Excellent. Shale seems rather eager to speak with you all. Come and find us in the deuterolab when you're ready.",
+      "hash": "7D941E48142E106E",
       "unresolved": false,
       "fr": "(-Y'shtola-)Merci. Nous serons dans la salle d'ex<->pé<->ri<->men<->ta<->tion n°2. Sachez que Shale vous attend avec impatience...",
       "ja": "(-ヤ・シュトラ-)ありがとう、じゃあ第二実験室に来て頂戴。<br>シェールが話をしたくてたまらない、という感じだから。",

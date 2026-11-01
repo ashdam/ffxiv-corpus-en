@@ -766,8 +766,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa201_04025#TEXT_LUCKSA201_04025_RESISTANCESOLDIER04025_000_077",
-      "en": "Commander! We've received word of another summoning!",
-      "hash": "C7503D4568C3A147",
+      "en": "(-Resistance Soldier-)Commander! We've received word of another summoning!",
+      "hash": "54550B75C9D22E9A",
       "unresolved": false,
       "fr": "(-Soldat de la résistance-)J'ai un message de la plus haute importance<nbsp>! La divinité guerrière est à nouveau apparue sur le front<nbsp>! Conformément à vos ordres, nos unités ont commencé à se replier<nbsp>!",
       "ja": "(-レジスタンス兵-)報告致します！<br>またもや南方ボズヤ戦線に闘神が出現したとのこと！<br>展開していた部隊は撤退しております！！",
@@ -896,8 +896,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa201_04025#TEXT_LUCKSA201_04025_VORON_000_150",
-      "en": "Lowborn traitor!",
-      "hash": "ACE4FE896449F1FE",
+      "en": "(-Voron-)Lowborn traitor!",
+      "hash": "346E523F56D30E6C",
       "unresolved": false,
       "fr": "(-Voron-)Sale traîtresse<nbsp>! C'est bien ce que je pensais... les gens sans rang comme toi ont pas une onz de patriotisme<nbsp>!",
       "ja": "(-ヴォロン-)こ、この裏切り者めッ！！<br>やはり、平民出のクソヤローには愛国心の欠片もないらしい……！",
@@ -922,8 +922,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa201_04025#TEXT_LUCKSA201_04025_ZWYNBHRUDA_000_151",
-      "en": "Don't, Voron! You'll only provoke her!",
-      "hash": "B7AA9834A2356979",
+      "en": "(-Zwynbhruda-)Don't, Voron! You'll only provoke her!",
+      "hash": "91629741AF194FF6",
       "unresolved": false,
       "fr": "(-Zwynbhruda-)L-la provoque pas<nbsp>!",
       "ja": "(-ズヴィンブルダ-)よ、よせッ！",
@@ -974,8 +974,8 @@
     },
     {
       "gameKey": "quest/040/LucKsa201_04025#TEXT_LUCKSA201_04025_AMIGART_000_153",
-      "en": "Wait, please! Don't!",
-      "hash": "2216B75D5A87D40E",
+      "en": "(-Amigart-)Wait, please! Don't!",
+      "hash": "61614C4BBDA4DB7F",
       "unresolved": false,
       "fr": "(-Amigart-)N-non<nbsp>! Pas ça<nbsp>!",
       "ja": "(-アミガート-)や、やめてくれ！！",

@@ -848,8 +848,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_SOLDIER03608_000_040",
-      "en": "My apologies, Captain Lyna. An elderly gentleman asked that I escort him to Clearmelt. It...took longer than I anticipated.",
-      "hash": "DD591EF13AF93537",
+      "en": "(-Honest Soldier-)My apologies, Captain Lyna. An elderly gentleman asked that I escort him to Clearmelt. It...took longer than I anticipated.",
+      "hash": "143138FBE667BAD9",
       "unresolved": false,
       "fr": "(-Soldat intègre-)Désolé pour le retard<nbsp>! J'ai croisé une personne âgée qui se plaignait de ses rhumatismes, et j'ai pris la peine de l'accompagner jusqu'aux sources du Névé<nbsp>!",
       "ja": "(-実直な衛兵-)申し訳ございません！<br>温泉に行きたいというご老人に頼まれ、<br>クリアメルトまで護衛していたため、遅れてしまいました……。",
@@ -900,8 +900,8 @@
     },
     {
       "gameKey": "quest/037/LucKmh103_03763#TEXT_LUCKMH103_03763_SOLDIER03608_000_042",
-      "en": "It won't happen again.",
-      "hash": "65C7B16F17385EA6",
+      "en": "(-Honest Soldier-)It won't happen again.",
+      "hash": "1947ED6C8833FC01",
       "unresolved": false,
       "fr": "(-Soldat intègre-)Toutes mes excuses<nbsp>! Je vous promets que ça ne se reproduira pas<nbsp>!",
       "ja": "(-実直な衛兵-)大変、失礼いたしました！",

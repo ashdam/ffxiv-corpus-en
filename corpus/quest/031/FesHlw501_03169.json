@@ -1116,8 +1116,8 @@
     },
     {
       "gameKey": "quest/031/FesHlw501_03169#TEXT_FESHLW501_03169_CHEERFULGHOST03169_000_035",
-      "en": "Psst! I'm watching yooou. Ooo...",
-      "hash": "168911A9270B3D9F",
+      "en": "(-???-)Psst! I'm watching yooou. Ooo...",
+      "hash": "BCD94BD75E8FD52A",
       "unresolved": false,
       "fr": "(-???-)Eh, toi, là<nbsp>! Viens un peu par ici<nbsp>!",
       "ja": "(-？？？？-)そこの<if(gnum4,オネーサン,オニーサン)>！<br>こっち、こっち！",
@@ -1218,8 +1218,8 @@
     },
     {
       "gameKey": "quest/031/FesHlw501_03169#TEXT_FESHLW501_03169_CHEERFULGHOST03169_000_036",
-      "en": "Over heeere! Woooooo...",
-      "hash": "A4366DC9C03ED64A",
+      "en": "(-???-)Over heeere! Woooooo...",
+      "hash": "884F58729443E84E",
       "unresolved": false,
       "fr": "(-???-)Par ici<nbsp>! Allez, dépêche-toi<nbsp>!",
       "ja": "(-？？？？-)もっとこっちにおいで！<br>早く、早く！",
@@ -1268,8 +1268,8 @@
     },
     {
       "gameKey": "quest/031/FesHlw501_03169#TEXT_FESHLW501_03169_PUMPKIN_000_040",
-      "en": "Delighted to be alive at last, aren't we, little ones?",
-      "hash": "C6546E7AABC694E9",
+      "en": "(-???-)Delighted to be alive at last, aren't we, little ones?",
+      "hash": "5714CEA6BC50FC4F",
       "unresolved": false,
       "fr": "(-???-)Hé hé hé... Ravie de vous voir en pleine forme, mes petits choux...",
       "ja": "(-？？？？-)クス……クスクス……。<br>あなたたち、仮初めの命を手に入れたことが、<br>よっぽど嬉しいのね……。",

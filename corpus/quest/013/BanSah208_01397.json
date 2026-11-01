@@ -542,8 +542,8 @@
     },
     {
       "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_040",
-      "en": "Pshhh! You dare take what belongs to Lord Leviathan!?",
-      "hash": "494E7CC31C19A8CE",
+      "en": "(-Shelfclaw Guard-)Pshhh! You dare take what belongs to Lord Leviathan!?",
+      "hash": "658A891AF8D7A3BC",
       "unresolved": false,
       "fr": "(-Garde griffe-des-profondeurs-)Fsshhh<nbsp>! Comment oses-tu toucher à notre offrande au seigneur Léviathan<nbsp>!!",
       "ja": "(-シェルフクロウ・ガード-)フスィーッ……てめぇ！<br>よくも水神「リヴァイアサン」様の大事なイケニエを……！",
@@ -567,8 +567,8 @@
     },
     {
       "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_041",
-      "en": "Another shhhoul that shhheeks to be drowned! Your innermost wish I shhhall grant!",
-      "hash": "0501BDB5FAD8E61F",
+      "en": "(-Shelfclaw Guard-)Another shhhoul that shhheeks to be drowned! Your innermost wish I shhhall grant!",
+      "hash": "A199B2277AA53C4A",
       "unresolved": false,
       "fr": "(-Garde griffe-des-profondeurs-)Fsshhhahah, un<if(gnum4,e,)> volontaire pour la sssubjugation, ccc'est trop gentil<nbsp>!",
       "ja": "(-シェルフクロウ・ガード-)フスィーッ……ヒレナシの兵隊どもの仲間かっ！？<br>貴様もテンパードにしてやるっ！",
@@ -592,8 +592,8 @@
     },
     {
       "gameKey": "quest/013/BanSah208_01397#TEXT_BANSAH208_01397_SAHUAGIN01397_000_042",
-      "en": "The Coral Tridents take no prisoners! Well, except this lot. But never you mind that─prepare to die!",
-      "hash": "19417E9A44969FA0",
+      "en": "(-Shelfclaw Guard-)The Coral Tridents take no prisoners! Well, except this lot. But never you mind that─prepare to die!",
+      "hash": "DE3F800C996AF7E7",
       "unresolved": false,
       "fr": "(-Garde griffe-des-profondeurs-)Fsshhh, tu es <if(gnum4,folle ou inconsssciente,fou ou inconssscient)> de défier les Tridents du corail. Tu ne sssortiras pas vivant<if(gnum4,e,)> d'ici<nbsp>!",
       "ja": "(-シェルフクロウ・ガード-)「珊瑚の銛」に刃向かうたぁ、いい度胸だ！<br>生かしてこの産卵地から帰さねぇ、フスィーッ……！",

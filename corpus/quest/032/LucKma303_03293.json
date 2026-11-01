@@ -258,8 +258,8 @@
     },
     {
       "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_MEMO03293_000_010",
-      "en": "Table cactus ─ Thon Ton<br>Iron ore ─ Thol Tol",
-      "hash": "FECB45D7702C95A2",
+      "en": "(-Market Receipt-)Table cactus ─ Thon Ton<br>Iron ore ─ Thol Tol",
+      "hash": "565BEEA281BC0A94",
       "unresolved": false,
       "fr": "(-Liste d'achats-)- 1 cactus comestible (à collecter chez Thon Ton)<br>- 1 morceau de minerai de fer (à collecter chez Thol Tol)",
       "ja": "(-カサードのメモ-)トーントンに頼んだ「食用サボテン」、<br>トールトルに頼んだ「鉄鉱石」。",
@@ -284,8 +284,8 @@
     },
     {
       "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_MEMO03293_000_011",
-      "en": "Nabaath Areng antiques ─ Mhil Mil (to be collected from Mhul Mul)",
-      "hash": "2D6A19CD42D87F06",
+      "en": "(-Market Receipt-)Nabaath Areng antiques ─ Mhil Mil (to be collected from Mhul Mul)",
+      "hash": "3D7767E8174F9172",
       "unresolved": false,
       "fr": "(-Liste d'achats-)- Lot d'antiquités de Nabaath Areng<br>  (payé à Mhil Mil, à collecter chez Mhul Mul)",
       "ja": "(-カサードのメモ-)「ナバスアレンの骨董品」については、<br>ミールミルに手配を依頼。<br>ムールムルからの受取になるとのこと。",
@@ -1004,8 +1004,8 @@
     },
     {
       "gameKey": "quest/032/LucKma303_03293#TEXT_LUCKMA303_03293_TESLEEN_000_055",
-      "en": "...Cassard? It feels like an age since I last saw you!",
-      "hash": "061ACC3DE28B319E",
+      "en": "(-???-)...Cassard? It feels like an age since I last saw you!",
+      "hash": "C9DAD50FA8AFE3D9",
       "unresolved": false,
       "fr": "(-???-)Cassard<nbsp>!? Ça fait un bail que je ne t'avais pas vu<nbsp>!",
       "ja": "(-？？？？-)あれっ、カサードさん？<br>久しぶりだねぇ！",

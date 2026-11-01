@@ -2332,8 +2332,8 @@
     },
     {
       "gameKey": "quest/048/KinGbb102_04849#TEXT_KINGBB102_04849_INNOCENTSTORCK_000_315",
-      "en": "So those are the ones who slew my pets. Interlopers on the hunt for my next darling prize...",
-      "hash": "BA9EB1C6219F272F",
+      "en": "(-???-)So those are the ones who slew my pets. Interlopers on the hunt for my next darling prize...",
+      "hash": "F40ABA70F71C0F7B",
       "unresolved": false,
       "fr": "(-???-)Tiens, tiens... Voici donc les chasseurs qui ont eu l'audace d'exterminer les bêtes que j'avais sciemment relâchées. Tout porte à croire qu'ils pourchassent aussi cette rarissime créature sur laquelle j'ai jeté mon dévolu.",
       "ja": "(-？？？？-)せっかく解き放った魔物を、<br>退治した輩がいるというので見にきてみれば……。<br>どうやら、私が狙う獲物とも関係があるようですね。",
@@ -2358,8 +2358,8 @@
     },
     {
       "gameKey": "quest/048/KinGbb102_04849#TEXT_KINGBB102_04849_INNOCENTSTORCK_000_316",
-      "en": "Little do they know it's lost interest in Thanalan. Heh, just as well. Its fickle nature may yet bring us greater delights..",
-      "hash": "B445C84E2BE1DA19",
+      "en": "(-???-)Little do they know it's lost interest in Thanalan. Heh, just as well. Its fickle nature may yet bring us greater delights..",
+      "hash": "CF5C1732D4B11313",
       "unresolved": false,
       "fr": "(-???-)D'après mes sources, elle s'éloignerait doucement mais sûrement du Thanalan... C'est peut-être l'occasion pour moi d'en profiter.",
       "ja": "(-？？？？-)こちらの情報によれば、<br>獲物はザナラーンから徐々に離れるように移動しているはず。<br>これは、好都合かもしれませんね……。",
