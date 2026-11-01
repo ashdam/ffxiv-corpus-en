@@ -1,4 +1,4 @@
-name: Check localization App
+name: Check localization Apps
 
 on:
   workflow_dispatch:
@@ -12,21 +12,46 @@ jobs:
     steps:
       - name: Check credentials
         env:
-          CLIENT_ID: ${{ vars.LOCALIZATION_APP_CLIENT_ID }}
-          PRIVATE_KEY: ${{ secrets.LOCALIZATION_APP_PRIVATE_KEY }}
+          READER_ID: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
+          READER_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+          WRITER_ID: ${{ vars.LOCALIZATION_WRITER_CLIENT_ID }}
+          WRITER_KEY: ${{ secrets.LOCALIZATION_WRITER_PRIVATE_KEY }}
         run: |
           set -euo pipefail
-          if [[ -z "$CLIENT_ID" || -z "$PRIVATE_KEY" ]]; then
-            echo "::error::Set LOCALIZATION_APP_CLIENT_ID and LOCALIZATION_APP_PRIVATE_KEY in this repository."
+          if [[ -z "$READER_ID" || -z "$READER_KEY" || -z "$WRITER_ID" || -z "$WRITER_KEY" ]]; then
+            echo "::error::Set both LOCALIZATION_READER and LOCALIZATION_WRITER client ID variables and private key secrets."
             exit 1
           fi
 
-      - name: Create scoped installation token
-        id: app
+      - name: Create Reader token
+        id: reader
         uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
         with:
-          client-id: ${{ vars.LOCALIZATION_APP_CLIENT_ID }}
-          private-key: ${{ secrets.LOCALIZATION_APP_PRIVATE_KEY }}
+          client-id: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
+          private-key: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+          owner: ashdam
+          repositories: |
+            corpus-extractor
+            ffxiv-game-sheets
+          permission-contents: read
+
+      - name: Check dependency access
+        env:
+          GH_TOKEN: ${{ steps.reader.outputs.token }}
+        run: |
+          set -euo pipefail
+          printf '| Reader repository | Contents |\n|---|---|\n' >> "$GITHUB_STEP_SUMMARY"
+          for repo in corpus-extractor ffxiv-game-sheets; do
+            gh api "repos/ashdam/$repo/contents/README.md" --silent
+            printf '| %s | Accessible |\n' "$repo" >> "$GITHUB_STEP_SUMMARY"
+          done
+
+      - name: Create Writer token
+        id: writer
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.LOCALIZATION_WRITER_CLIENT_ID }}
+          private-key: ${{ secrets.LOCALIZATION_WRITER_PRIVATE_KEY }}
           owner: ashdam
           repositories: |
             ffxiv-language-pack-es-es
@@ -38,10 +63,10 @@ jobs:
 
       - name: Check language pack access
         env:
-          GH_TOKEN: ${{ steps.app.outputs.token }}
+          GH_TOKEN: ${{ steps.writer.outputs.token }}
         run: |
           set -euo pipefail
-          printf '| Repository | Main branch | Pull requests |\n|---|---|---|\n' >> "$GITHUB_STEP_SUMMARY"
+          printf '\n| Writer repository | Main branch | Pull requests |\n|---|---|---|\n' >> "$GITHUB_STEP_SUMMARY"
           for pack in es-es it pl pt-br; do
             repo="ashdam/ffxiv-language-pack-$pack"
             gh api "repos/$repo/branches/main" --silent

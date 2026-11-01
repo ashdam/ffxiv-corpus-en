@@ -1,0 +1,20 @@
+name: Sync language packs
+
+on:
+  push:
+    branches: [main]
+    paths: ['corpus/**/*.json']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    uses: ashdam/ffxiv-language-pack-ci/.github/workflows/sync.yml@main
+    with:
+      reader-client-id: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
+      writer-client-id: ${{ vars.LOCALIZATION_WRITER_CLIENT_ID }}
+    secrets:
+      LOCALIZATION_READER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+      LOCALIZATION_WRITER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_WRITER_PRIVATE_KEY }}
