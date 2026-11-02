@@ -28,7 +28,7 @@ Report missing English text or a missing native preview mapping to the shared ma
 | `ffxiv-language-pack-<language>/` | `corpus/ui/banners.json` | Translated banner text in `target` | Target sync; translators |
 | `ffxiv-language-pack-<language>/` | `ui/icon/<folder>/en/<id>.tex` | Translated normal-resolution image | FontGenerator or an asset editor |
 | `ffxiv-language-pack-<language>/` | `ui/icon/<folder>/en/<id>_hr1.tex` | Translated HD image | FontGenerator or an asset editor |
-| `ffxiv-language-pack-<language>/` | `layouts/<name>.json` | Font-size and position changes for one ULD | LP maintainers |
+| `ffxiv-language-pack-<language>/` | `layouts/<name>.json` | Text-node font-size, position, and dimension changes for one ULD | LP maintainers |
 | `ffxiv-game-sheets/` | `ui/uld/<name>.uld` | Original ULD bytes for builds without the game installed | Game-sheet export |
 | `ffxiv-game-sheets/` | `original-fingerprints.json` | Original TEX, font and ULD fingerprints | Game-sheet export |
 | Built pack | `dev/banner-translations.json` | Combined English and translated labels for Gubal Dev | PackBuilder |
@@ -152,7 +152,7 @@ PackBuilder validates TEX pairs and copies them to the same paths in the built p
 **LP reviewer:** check the translated interface in game and identify any required size or position
 adjustments. The LP maintainer prepares and validates the patch below.
 
-A ULD defines interface layout. Its JSON patch changes text-node font sizes or positions; it does
+A ULD defines interface layout. Its JSON patch changes text-node font sizes, positions, or dimensions; it does
 not translate words. Translate those words in the matching text sheet under the LP's `corpus/`.
 
 There is no ULD translation file in `ffxiv-corpus-en`. Put one patch per ULD in **the LP's `layouts/`**:
@@ -183,10 +183,12 @@ Example LP patch:
 | `nodeId`, `textId` | Expected text-node identifiers from the original ULD |
 | `expectedFontSize`, `fontSize` | Original and replacement sizes, from 1 to 255; supply both and change the value |
 | `expectedPosition`, `position` | Original and replacement coordinates relative to the parent, such as `{"x":20,"y":8}` |
+| `expectedSize`, `size` | Original and replacement dimensions, such as `{"width":202}`; values from 1 to 65535 |
 
-Each node must change its size, position or both. Position objects must specify the same axes;
-omit an axis to preserve it. Coordinates range from -32768 to 32767. A node may occur only once
-within its component. Other ULD properties are not supported.
+Each node must change its font size, position, or dimensions. Original and replacement objects must
+specify the same axes or dimensions; omit a field to preserve it. Coordinates range from -32768
+to 32767. A node may occur only once within its component. Component patches apply to all instances,
+including repeated list rows. Other ULD properties are not supported.
 
 PackBuilder checks the original hash, node type, identifiers and expected values, then applies and
 verifies the changes. After a game update, review changed originals before updating hashes or
