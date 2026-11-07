@@ -1,23 +1,63 @@
-name: Sync language packs
+name: Validate corpus and sync language packs
 
 on:
   push:
     branches: [main]
     paths:
       - 'corpus/**/*.json'
+      - 'config/**'
+      - 'metadata/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
+  scope:
+    name: Check sync scope
+    runs-on: ubuntu-latest
+    outputs:
+      sync: ${{ steps.changes.outputs.sync }}
+    steps:
+      - name: Checkout the source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Check corpus changes
+        id: changes
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          if [[ "$EVENT_NAME" == workflow_dispatch ]]; then
+            echo 'sync=true' >> "$GITHUB_OUTPUT"
+          else
+            if [[ "$BEFORE" =~ ^0+$ ]]; then
+              BEFORE=$(git hash-object -t tree /dev/null)
+            fi
+            status=0
+            git diff --quiet "$BEFORE" "$AFTER" -- ':(glob)corpus/**/*.json' || status=$?
+            case "$status" in
+              0) echo 'sync=false' >> "$GITHUB_OUTPUT" ;;
+              1) echo 'sync=true' >> "$GITHUB_OUTPUT" ;;
+              *) exit "$status" ;;
+            esac
+          fi
+
   validate:
     uses: ./.github/workflows/validate.yml
     secrets:
       LOCALIZATION_READER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
 
   sync:
-    needs: validate
+    needs: [validate, scope]
+    if: needs.scope.outputs.sync == 'true'
     uses: ashdam/ffxiv-language-pack-ci/.github/workflows/sync.yml@main
     with:
       reader-client-id: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
