@@ -1,0 +1,87 @@
+name: Validate corpus
+
+on:
+  pull_request:
+    paths:
+      - 'corpus/**/*.json'
+      - 'config/**'
+      - 'metadata/**'
+      - '.github/workflows/**'
+  workflow_call:
+    secrets:
+      LOCALIZATION_READER_PRIVATE_KEY:
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Checkout the English source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: ${{ github.sha }}
+          path: corpus-en
+          persist-credentials: false
+
+      - name: Create dependency read token
+        id: read-token
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
+          private-key: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+          owner: ashdam
+          repositories: corpus-extractor
+          permission-contents: read
+
+      - name: Checkout the tools
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          repository: ashdam/corpus-extractor
+          ref: 878f339f6b0d40d0217b2ea6b69c5b4ae4a63710
+          path: Tools
+          token: ${{ steps.read-token.outputs.token }}
+          persist-credentials: false
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@26b0ec14cb23fa6904739307f278c14f94c95bf1
+        with:
+          dotnet-version: 10.0.402
+
+      - name: Validate the source corpus
+        env:
+          VALIDATOR_RULES: >-
+            corpus-structure-json,
+            corpus-structure-file-identity,
+            corpus-structure-unique-game-key,
+            corpus-structure-game-version-unique,
+            corpus-structure-source-exclusions,
+            corpus-structure-gender-overrides
+        run: |
+          set -euo pipefail
+          dotnet run --project Tools/CorpusValidator -c Release -- \
+            --corpus "$GITHUB_WORKSPACE/corpus-en" \
+            --rules "$VALIDATOR_RULES" \
+            --json "$RUNNER_TEMP/corpus-validation.json" \
+            --markdown "$RUNNER_TEMP/corpus-validation.md"
+
+      - name: Report the result
+        if: always()
+        run: |
+          if [[ -f "$RUNNER_TEMP/corpus-validation.md" ]]; then
+            cat "$RUNNER_TEMP/corpus-validation.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload the validation report
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: corpus-validation
+          path: ${{ runner.temp }}/corpus-validation.json
+          if-no-files-found: ignore

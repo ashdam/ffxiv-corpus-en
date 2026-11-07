@@ -35,6 +35,14 @@ Language packs can also contain translated textures and interface layout changes
 See [Shared configuration](config/config.md) for extraction settings, gender overrides and source exclusions.
 See [Shared metadata](metadata/metadata.md) for common game data. Language-specific decisions belong in each pack.
 
+## Validation
+
+[Validate corpus](.github/workflows/validate.yml) checks corpus structure, file identities, unique keys,
+game versions, source exclusions and gender overrides on pull requests.
+[Sync language packs](.github/workflows/sync-language-packs.yml) runs the same validation on `main`
+before synchronization. A failed validation blocks synchronization. Results include a job summary and a JSON artifact.
+The workflow selects explicit corpus rules and pins Tools to a commit that supports them.
+
 ## File structure example
 
 `corpus/flat/DefaultTalk.json`, one entry:
