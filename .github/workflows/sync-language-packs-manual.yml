@@ -1,0 +1,26 @@
+name: Validate and sync language packs manually
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    permissions:
+      contents: read
+      pull-requests: write
+    uses: ./.github/workflows/validate.yml
+    secrets:
+      LOCALIZATION_READER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+
+  sync:
+    needs: validate
+    uses: ashdam/ffxiv-language-pack-ci/.github/workflows/sync.yml@main
+    with:
+      reader-client-id: ${{ vars.LOCALIZATION_READER_CLIENT_ID }}
+      writer-client-id: ${{ vars.LOCALIZATION_WRITER_CLIENT_ID }}
+    secrets:
+      LOCALIZATION_READER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}
+      LOCALIZATION_WRITER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_WRITER_PRIVATE_KEY }}

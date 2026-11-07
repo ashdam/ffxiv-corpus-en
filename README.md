@@ -41,7 +41,9 @@ See [Shared metadata](metadata/metadata.md) for common game data. Language-speci
 game versions, source exclusions and gender overrides on pull requests.
 PR validation covers changes to corpus JSON files, configuration, metadata and workflows.
 [Sync language packs](.github/workflows/sync-language-packs.yml) runs on `main` for corpus JSON changes
-without repeating PR validation. Manual runs validate the corpus before synchronization and stop if validation fails.
+without repeating PR validation.
+[Manual sync](.github/workflows/sync-language-packs-manual.yml) validates the corpus before synchronization
+and stops if validation fails. Both entry points use the shared LP sync workflow.
 Changes must enter `main` through a validated PR. Direct pushes do not run validation before synchronization.
 Validation results include a job summary and a JSON artifact.
 Pull requests also receive a results table with links to the full report and the Actions run.
