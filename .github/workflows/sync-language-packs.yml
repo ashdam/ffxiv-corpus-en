@@ -5,9 +5,6 @@ on:
     branches: [main]
     paths:
       - 'corpus/**/*.json'
-      - 'config/**'
-      - 'metadata/**'
-      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
