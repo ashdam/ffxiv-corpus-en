@@ -51,6 +51,9 @@ jobs:
           fi
 
   validate:
+    permissions:
+      contents: read
+      pull-requests: write
     uses: ./.github/workflows/validate.yml
     secrets:
       LOCALIZATION_READER_PRIVATE_KEY: ${{ secrets.LOCALIZATION_READER_PRIVATE_KEY }}

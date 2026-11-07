@@ -43,6 +43,7 @@ game versions, source exclusions and gender overrides on pull requests.
 on `main` for changes to corpus JSON files, configuration, metadata and workflows.
 LP synchronization runs only for corpus JSON changes or a manual run, after validation succeeds.
 A failed validation blocks synchronization. Results include a job summary and a JSON artifact.
+Pull requests also receive a results table with links to the full report and the Actions run.
 The workflow selects explicit corpus rules and pins Tools to a commit that supports them.
 
 ## File structure example
