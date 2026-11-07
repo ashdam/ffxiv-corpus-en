@@ -39,9 +39,9 @@ See [Shared metadata](metadata/metadata.md) for common game data. Language-speci
 
 [Validate corpus](.github/workflows/validate.yml) checks corpus structure, file identities, unique keys,
 game versions, source exclusions and gender overrides on pull requests.
-[Validate corpus and sync language packs](.github/workflows/sync-language-packs.yml) runs the same validation
-on `main` for changes to corpus JSON files, configuration, metadata and workflows.
-LP synchronization runs only for corpus JSON changes or a manual run, after validation succeeds.
+PR validation covers changes to corpus JSON files, configuration, metadata and workflows.
+[Validate corpus and sync language packs](.github/workflows/sync-language-packs.yml) runs on `main`
+only for corpus JSON changes or a manual run. It validates the corpus before LP synchronization.
 A failed validation blocks synchronization. Results include a job summary and a JSON artifact.
 Pull requests also receive a results table with links to the full report and the Actions run.
 The workflow selects explicit corpus rules and pins Tools to a commit that supports them.
