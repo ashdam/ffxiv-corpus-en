@@ -19,6 +19,18 @@
       "sheet": "ContentsTutorial"
     },
     {
+      "gameKey": "ContentsTutorial#1.10",
+      "en": "",
+      "hash": "9B74B9CF4979FE8B",
+      "unresolved": false,
+      "ja": "南方ボズヤ戦線",
+      "conversation": "ContentsTutorial#1",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
       "gameKey": "ContentsTutorial#2.9",
       "en": "Dungeons",
       "hash": "D4FA57659D1F9014",
@@ -28,6 +40,18 @@
       "de": "Dungeon-Inhalte",
       "conversation": "ContentsTutorial#2",
       "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#2.10",
+      "en": "",
+      "hash": "21A29E3243955BC4",
+      "unresolved": false,
+      "ja": "ダンジョンの攻略",
+      "conversation": "ContentsTutorial#2",
+      "seq": 10,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentsTutorial"
@@ -47,6 +71,18 @@
       "sheet": "ContentsTutorial"
     },
     {
+      "gameKey": "ContentsTutorial#3.10",
+      "en": "",
+      "hash": "4FACC0EF6C17DF84",
+      "unresolved": false,
+      "ja": "ヴァリアントダンジョン",
+      "conversation": "ContentsTutorial#3",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
       "gameKey": "ContentsTutorial#4.9",
       "en": "Island Sanctuary",
       "hash": "F8E1A988C900F4AC",
@@ -56,6 +92,18 @@
       "de": "Das Inselparadies",
       "conversation": "ContentsTutorial#4",
       "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#4.10",
+      "en": "",
+      "hash": "46DF8657C51824F4",
+      "unresolved": false,
+      "ja": "無人島開拓",
+      "conversation": "ContentsTutorial#4",
+      "seq": 10,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentsTutorial"
@@ -75,6 +123,18 @@
       "sheet": "ContentsTutorial"
     },
     {
+      "gameKey": "ContentsTutorial#5.10",
+      "en": "",
+      "hash": "FEE3A2B372ABCBC2",
+      "unresolved": false,
+      "ja": "初心者の館",
+      "conversation": "ContentsTutorial#5",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
       "gameKey": "ContentsTutorial#6.9",
       "en": "Hall of the Novice",
       "hash": "828A06518FEDE749",
@@ -84,6 +144,18 @@
       "de": "Anfänger-Arena",
       "conversation": "ContentsTutorial#6",
       "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#6.10",
+      "en": "",
+      "hash": "A476C14519470434",
+      "unresolved": false,
+      "ja": "初心者の館",
+      "conversation": "ContentsTutorial#6",
+      "seq": 10,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentsTutorial"
@@ -103,6 +175,18 @@
       "sheet": "ContentsTutorial"
     },
     {
+      "gameKey": "ContentsTutorial#7.10",
+      "en": "",
+      "hash": "F40A33C4F7E75904",
+      "unresolved": false,
+      "ja": "蜃気楼の島 クレセントアイル",
+      "conversation": "ContentsTutorial#7",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
       "gameKey": "ContentsTutorial#8.9",
       "en": "Cosmic Exploration",
       "hash": "80C0C45CB37A3DA5",
@@ -112,6 +196,18 @@
       "de": "Kosmo-Erkundung",
       "conversation": "ContentsTutorial#8",
       "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsTutorial"
+    },
+    {
+      "gameKey": "ContentsTutorial#8.10",
+      "en": "",
+      "hash": "20688C890B9B4EF1",
+      "unresolved": false,
+      "ja": "コスモエクスプローラー",
+      "conversation": "ContentsTutorial#8",
+      "seq": 10,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentsTutorial"

@@ -13,7 +13,7 @@
       "ja": "どうする？",
       "de": "Was möchtest du tun?",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 1,
+      "seq": 0,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -27,7 +27,7 @@
       "ja": "何をする？",
       "de": "Was möchtest du kaufen?",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 2,
+      "seq": 1,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -41,7 +41,7 @@
       "ja": "報酬を購入する（シェルダレースクリップ:青船貨）",
       "de": "Blaue Cieldaläen-Kauris einlösen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 3,
+      "seq": 2,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -55,7 +55,7 @@
       "ja": "報酬を購入する（シェルダレースクリップ:緑島貨）",
       "de": "Grüne Cieldaläen-Kauris einlösen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 4,
+      "seq": 3,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -69,7 +69,7 @@
       "ja": "「建築許可書」を交換する",
       "de": "Eine Baugenehmigung erwerben",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 5,
+      "seq": 4,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -83,7 +83,7 @@
       "ja": "説明を聞く",
       "de": "Einer Erklärung lauschen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 6,
+      "seq": 5,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -97,7 +97,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 7,
+      "seq": 6,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -111,7 +111,7 @@
       "ja": "報酬を交換する（ねこみみさんの手形）",
       "de": "Miaurizius' Miarken eintauschen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 8,
+      "seq": 7,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -125,7 +125,7 @@
       "ja": "報酬を交換する（マウント引換券）",
       "de": "Gemüsescheine eintauschen",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 9,
+      "seq": 8,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -139,7 +139,7 @@
       "ja": "おみせやさん特選品の購入",
       "de": "Ladmillas spezielle Waren",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 10,
+      "seq": 9,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -153,7 +153,7 @@
       "ja": "装備・家具の購入",
       "de": "Ausrüstung und Möbel",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 11,
+      "seq": 10,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -167,7 +167,7 @@
       "ja": "マテリア・消耗品の購入",
       "de": "Materia und Verbrauchsgüter",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 12,
+      "seq": 11,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -181,7 +181,7 @@
       "ja": "キャンセル",
       "de": "Nichts",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 13,
+      "seq": 12,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -195,7 +195,7 @@
       "ja": "ここではシェルダレースクリップを、<br>様々なものと交換できるんだ。<br>是非、たくさん利用してほしいな！",
       "de": "Hallo und herzlich willkommen im bescheidenen Kaurilädchen von Ladmilla! Ladmilla, das ist meine Wenigkeit. Bei mir kannst du deine hart erworbenen Kauris gegen allerlei Spezialitäten und Besonderheiten tauschen. Echte Raritäten, das garantiere ich dir!",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 14,
+      "seq": 13,
       "speaker": "OMISE",
       "speakerKind": "character",
       "speakerGender": "unknown",
@@ -211,7 +211,7 @@
       "ja": "「おみせやさん」では、<br>2種のシェルダレースクリップを支払うことで、<br>様々なアイテムを購入できます。",
       "de": "Ladmilla verkauft dir allerlei Gegenstände für sowohl blaue als auch grüne Cieldaläen-Kauris.",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 15,
+      "seq": 14,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiSpecialShop_00789"
@@ -225,7 +225,7 @@
       "ja": "やぁ、こんにちは。<br>こちらは島主様専用の施設となっているよ。<br>お客様にはご案内できないんだ。",
       "de": "Hallo und herzlich willkommen im bescheidenen Kaurilädchen von Ladmilla! So gern ich dir mein ausladendes Angebot von Raritäten und Spezialitäten zeigen würde, aber<nbsp>... Ich verkaufe leider nicht an Außerinsulaner<if(gnum4,innen,)>. Bitte nimm's mir nicht übel!",
       "conversation": "custom/007/CtsMjiSpecialShop_00789",
-      "seq": 16,
+      "seq": 15,
       "speaker": "OMISE",
       "speakerKind": "character",
       "speakerGender": "unknown",

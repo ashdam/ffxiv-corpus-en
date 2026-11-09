@@ -45,6 +45,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#1.9",
+      "en": "",
+      "hash": "12EF113694DC7B71",
+      "unresolved": false,
+      "fr": "soldat 3e classe des tempêtes",
+      "de": "Sturmmariner 3. Klasse",
+      "conversation": "GCRankLimsaFemaleText#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#2.0",
       "en": "Storm Private Second Class",
       "hash": "49FDB7E1DE2187C2",
@@ -80,6 +93,19 @@
       "de": "Sturmmariner",
       "conversation": "GCRankLimsaFemaleText#2",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#2.9",
+      "en": "",
+      "hash": "FE739580DBDD14E9",
+      "unresolved": false,
+      "fr": "soldat 2e classe des tempêtes",
+      "de": "Sturmmariner 2. Klasse",
+      "conversation": "GCRankLimsaFemaleText#2",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -125,6 +151,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#3.9",
+      "en": "",
+      "hash": "7F94CE9ED47A96FD",
+      "unresolved": false,
+      "fr": "soldat 1re classe des tempêtes",
+      "de": "Sturmmariner 1. Klasse",
+      "conversation": "GCRankLimsaFemaleText#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#4.0",
       "en": "Storm Corporal",
       "hash": "7295F8A5A79CA1DB",
@@ -160,6 +199,19 @@
       "de": "Großsturmmariner",
       "conversation": "GCRankLimsaFemaleText#4",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#4.9",
+      "en": "",
+      "hash": "CD9A45BE7E9EE03A",
+      "unresolved": false,
+      "fr": "caporale des tempêtes",
+      "de": "Großsturmmariner",
+      "conversation": "GCRankLimsaFemaleText#4",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -205,6 +257,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#5.9",
+      "en": "",
+      "hash": "3BB9ED5EB5E1D954",
+      "unresolved": false,
+      "fr": "adjudante des tempêtes",
+      "de": "Sturmmaat 3. Klasse",
+      "conversation": "GCRankLimsaFemaleText#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#6.0",
       "en": "Storm Sergeant Second Class",
       "hash": "1EFBB640F0D8E039",
@@ -240,6 +305,19 @@
       "de": "Sturmmaat",
       "conversation": "GCRankLimsaFemaleText#6",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#6.9",
+      "en": "",
+      "hash": "9CD9DC81DD2BB954",
+      "unresolved": false,
+      "fr": "sergente des tempêtes",
+      "de": "Sturmmaat 2. Klasse",
+      "conversation": "GCRankLimsaFemaleText#6",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -285,6 +363,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#7.9",
+      "en": "",
+      "hash": "CAB6AFB3FB384DA9",
+      "unresolved": false,
+      "fr": "sergent-major des tempêtes",
+      "de": "Sturmmaat 1. Klasse",
+      "conversation": "GCRankLimsaFemaleText#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#8.0",
       "en": "Chief Storm Sergeant",
       "hash": "F064381ACC54AE98",
@@ -320,6 +411,19 @@
       "de": "Großsturmmaat",
       "conversation": "GCRankLimsaFemaleText#8",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#8.9",
+      "en": "",
+      "hash": "AB33F8759341668C",
+      "unresolved": false,
+      "fr": "major des tempêtes",
+      "de": "Großsturmmaat",
+      "conversation": "GCRankLimsaFemaleText#8",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -365,6 +469,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#9.9",
+      "en": "",
+      "hash": "62FAD42DD8AB3EE1",
+      "unresolved": false,
+      "fr": "sous-lieutenante des tempêtes",
+      "de": "Zweiter Sturmbootsmann",
+      "conversation": "GCRankLimsaFemaleText#9",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#10.0",
       "en": "First Storm Lieutenant",
       "hash": "829CC6E6D78E793D",
@@ -400,6 +517,19 @@
       "de": "Sturmbootsmann",
       "conversation": "GCRankLimsaFemaleText#10",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#10.9",
+      "en": "",
+      "hash": "33074483BE3FF055",
+      "unresolved": false,
+      "fr": "lieutenante des tempêtes",
+      "de": "Erster Sturmbootsmann",
+      "conversation": "GCRankLimsaFemaleText#10",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -445,6 +575,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#11.9",
+      "en": "",
+      "hash": "103E025C276525CD",
+      "unresolved": false,
+      "fr": "capitaine des tempêtes",
+      "de": "Großsturmbootsmann",
+      "conversation": "GCRankLimsaFemaleText#11",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#12.0",
       "en": "Second Storm Commander",
       "hash": "30E56DDBE362C2F2",
@@ -480,6 +623,19 @@
       "de": "Sturmkapitänleutnant",
       "conversation": "GCRankLimsaFemaleText#12",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#12.9",
+      "en": "",
+      "hash": "9F8C9B9B704C9863",
+      "unresolved": false,
+      "fr": "sous-commandante des tempêtes",
+      "de": "Zweiter Sturmkapitänleutnant",
+      "conversation": "GCRankLimsaFemaleText#12",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -525,6 +681,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#13.9",
+      "en": "",
+      "hash": "6BCC7D9A9EB0AE50",
+      "unresolved": false,
+      "fr": "commandante des tempêtes",
+      "de": "Erster Sturmkapitänleutnant",
+      "conversation": "GCRankLimsaFemaleText#13",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#14.0",
       "en": "High Storm Commander",
       "hash": "EB92004FB5C72C6C",
@@ -560,6 +729,19 @@
       "de": "Großsturmkapitänleutnant",
       "conversation": "GCRankLimsaFemaleText#14",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#14.9",
+      "en": "",
+      "hash": "896B375968D26504",
+      "unresolved": false,
+      "fr": "colonelle des tempêtes",
+      "de": "Großsturmkapitänleutnant",
+      "conversation": "GCRankLimsaFemaleText#14",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -605,6 +787,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#15.9",
+      "en": "",
+      "hash": "2D3C2E69A492C255",
+      "unresolved": false,
+      "fr": "sous-maréchale des tempêtes",
+      "de": "Galeerenkapitän",
+      "conversation": "GCRankLimsaFemaleText#15",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#16.0",
       "en": "Vice Storm Marshal",
       "hash": "68362445A2C10104",
@@ -640,6 +835,19 @@
       "de": "Galeassenkapitän",
       "conversation": "GCRankLimsaFemaleText#16",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#16.9",
+      "en": "",
+      "hash": "C7F60ED684EF6249",
+      "unresolved": false,
+      "fr": "vice-maréchale des tempêtes",
+      "de": "Galeassenkapitän",
+      "conversation": "GCRankLimsaFemaleText#16",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"
@@ -685,6 +893,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#17.9",
+      "en": "",
+      "hash": "13EC71BD9B39CDD8",
+      "unresolved": false,
+      "fr": "maréchale des tempêtes",
+      "de": "Galeonenkapitän",
+      "conversation": "GCRankLimsaFemaleText#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#18.0",
       "en": "Grand Storm Marshal",
       "hash": "BA0A31AB57F6BFFB",
@@ -725,6 +946,19 @@
       "sheet": "GCRankLimsaFemaleText"
     },
     {
+      "gameKey": "GCRankLimsaFemaleText#18.9",
+      "en": "",
+      "hash": "0968E1530FA8107B",
+      "unresolved": false,
+      "fr": "grande maréchale des tempêtes",
+      "de": "Konteradmiral",
+      "conversation": "GCRankLimsaFemaleText#18",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
       "gameKey": "GCRankLimsaFemaleText#19.0",
       "en": "Storm Champion",
       "hash": "8024BF6FA45CCAD2",
@@ -760,6 +994,19 @@
       "de": "Admiral",
       "conversation": "GCRankLimsaFemaleText#19",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankLimsaFemaleText"
+    },
+    {
+      "gameKey": "GCRankLimsaFemaleText#19.9",
+      "en": "",
+      "hash": "CF2F1837AA1E0541",
+      "unresolved": false,
+      "fr": "générale des tempêtes",
+      "de": "Admiral",
+      "conversation": "GCRankLimsaFemaleText#19",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankLimsaFemaleText"

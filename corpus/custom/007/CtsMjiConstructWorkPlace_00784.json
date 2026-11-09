@@ -13,7 +13,7 @@
       "ja": "どうする？",
       "de": "Was möchtest du tun?",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 1,
+      "seq": 0,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -27,7 +27,7 @@
       "ja": "施設の建築",
       "de": "Ein Gebäude bauen",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 2,
+      "seq": 1,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -41,7 +41,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 3,
+      "seq": 2,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -55,7 +55,7 @@
       "ja": "開拓工房 I ",
       "de": "Inselatelier I",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 4,
+      "seq": 3,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -69,7 +69,7 @@
       "ja": "開拓工房 II ",
       "de": "Inselatelier II",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 5,
+      "seq": 4,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -83,7 +83,7 @@
       "ja": "開拓工房 III",
       "de": "Inselatelier III",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 6,
+      "seq": 5,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -97,7 +97,7 @@
       "ja": "開拓工房 IV ",
       "de": "Inselatelier IV",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 7,
+      "seq": 6,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -111,7 +111,7 @@
       "ja": "開拓工房 V",
       "de": "Inselatelier V",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 8,
+      "seq": 7,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -125,7 +125,7 @@
       "ja": "グラナリーオフィス I ",
       "de": "Kornkammer I",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 9,
+      "seq": 8,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -139,7 +139,7 @@
       "ja": "グラナリーオフィス II ",
       "de": "Kornkammer II",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 10,
+      "seq": 9,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -153,7 +153,7 @@
       "ja": "グラナリーオフィス III ",
       "de": "Kornkammer III",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 11,
+      "seq": 10,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -167,7 +167,7 @@
       "ja": "グラナリーオフィス IV ",
       "de": "Kornkammer IV",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 12,
+      "seq": 11,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -181,7 +181,7 @@
       "ja": "グラナリーオフィス V",
       "de": "Kornkammer V",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 13,
+      "seq": 12,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -195,7 +195,7 @@
       "ja": "<string(lstr1)>が建っている。<br>どうする？",
       "de": "Was möchtest du tun?",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 14,
+      "seq": 13,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -209,7 +209,7 @@
       "ja": "<string(lstr1)>の改築",
       "de": "Das Gebäude umbauen",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 15,
+      "seq": 14,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -223,7 +223,7 @@
       "ja": "<string(lstr1)>の外観変更",
       "de": "Das Aussehen des Gebäudes ändern",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 16,
+      "seq": 15,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -237,7 +237,7 @@
       "ja": "<string(lstr1)>の移築",
       "de": "Das Gebäude verlegen",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 17,
+      "seq": 16,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -251,7 +251,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 18,
+      "seq": 17,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -265,7 +265,7 @@
       "ja": "土地管理用の看板のようだ。",
       "de": "Dies scheint die Leittafel für ein Grundstück zu sein.",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 19,
+      "seq": 18,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -279,7 +279,7 @@
       "ja": "建築完了までには一定の時間を要します。<br>完成予定時刻は、その土地の管理板より確認することができます。<br>他のことをしながら、完成するのを待ってみましょう！",
       "de": "Wann der Bau des Gebäudes abgeschlossen ist, kannst du der Leittafel am Grundstück selbst entnehmen.",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 20,
+      "seq": 19,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -293,7 +293,7 @@
       "ja": "改築完了までには一定の時間を要します。<br>完成予定時刻は、その土地の管理板より確認することができます。<br>他のことをしながら、完成するのを待ってみましょう！",
       "de": "Wann der Umbau des Gebäudes abgeschlossen ist, kannst du der Leittafel am Grundstück selbst entnehmen.",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 21,
+      "seq": 20,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"
@@ -307,7 +307,7 @@
       "ja": "グラナリーオフィスの建築が完了しました！<br>アイランドホール付近にいる「おふぃさーさん」から、<br>開拓素材の収集の依頼ができます。",
       "de": "Der Bau deiner Kornkammer ist abgeschlossen! Nun kannst du bei Kornelius Expeditionen ausschicken, die dir allerlei Materialien zurückbringen.",
       "conversation": "custom/007/CtsMjiConstructWorkPlace_00784",
-      "seq": 22,
+      "seq": 21,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructWorkPlace_00784"

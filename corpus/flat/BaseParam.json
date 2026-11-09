@@ -509,6 +509,18 @@
       "sheet": "BaseParam"
     },
     {
+      "gameKey": "BaseParam#25.2",
+      "en": "",
+      "hash": "D3241214441B6973",
+      "unresolved": false,
+      "de": "not in use",
+      "conversation": "BaseParam#25",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BaseParam"
+    },
+    {
       "gameKey": "BaseParam#26.1",
       "en": "Critical Hit Resilience",
       "hash": "E7BAAEEE006E5CBC",
@@ -924,6 +936,18 @@
       "de": "Magieresistenz",
       "conversation": "BaseParam#43",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "BaseParam"
+    },
+    {
+      "gameKey": "BaseParam#43.2",
+      "en": "",
+      "hash": "DED21514DFCC3DE6",
+      "unresolved": false,
+      "de": "Magieresistenz: Vermindert durch Magie erlittenen Schaden.",
+      "conversation": "BaseParam#43",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "BaseParam"

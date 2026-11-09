@@ -45,6 +45,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#1.9",
+      "en": "",
+      "hash": "E00DC0A52D6FC5E6",
+      "unresolved": false,
+      "fr": "soldat 3e classe des sables",
+      "de": "Legionärin 3. Klasse",
+      "conversation": "GCRankUldahFemaleText#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#2.0",
       "en": "Flame Private Second Class",
       "hash": "D492D43834CA306A",
@@ -80,6 +93,19 @@
       "de": "Legionärin",
       "conversation": "GCRankUldahFemaleText#2",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#2.9",
+      "en": "",
+      "hash": "1D24784B01112A45",
+      "unresolved": false,
+      "fr": "soldat 2e classe des sables",
+      "de": "Legionärin 2. Klasse",
+      "conversation": "GCRankUldahFemaleText#2",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -125,6 +151,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#3.9",
+      "en": "",
+      "hash": "6E6F972C501C4DA9",
+      "unresolved": false,
+      "fr": "soldat 1re classe des sables",
+      "de": "Legionärin 1. Klasse",
+      "conversation": "GCRankUldahFemaleText#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#4.0",
       "en": "Flame Corporal",
       "hash": "A9984DD0506CBB59",
@@ -160,6 +199,19 @@
       "de": "Phönixlegionärin",
       "conversation": "GCRankUldahFemaleText#4",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#4.9",
+      "en": "",
+      "hash": "A8C427DA73C35D7D",
+      "unresolved": false,
+      "fr": "caporale des sables",
+      "de": "Phönixlegionärin",
+      "conversation": "GCRankUldahFemaleText#4",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -205,6 +257,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#5.9",
+      "en": "",
+      "hash": "C6E54D5EA1F0D0A9",
+      "unresolved": false,
+      "fr": "adjudante des sables",
+      "de": "Legionsgefreite 3. Klasse",
+      "conversation": "GCRankUldahFemaleText#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#6.0",
       "en": "Flame Sergeant Second Class",
       "hash": "ECE6B5FBE3A1B8B5",
@@ -240,6 +305,19 @@
       "de": "Legionsgefreite",
       "conversation": "GCRankUldahFemaleText#6",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#6.9",
+      "en": "",
+      "hash": "89E9CA47C9DD9861",
+      "unresolved": false,
+      "fr": "sergente des sables",
+      "de": "Legionsgefreite 2. Klasse",
+      "conversation": "GCRankUldahFemaleText#6",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -285,6 +363,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#7.9",
+      "en": "",
+      "hash": "A3DF17949E9E8582",
+      "unresolved": false,
+      "fr": "sergent-major des sables",
+      "de": "Legionsgefreite 1. Klasse",
+      "conversation": "GCRankUldahFemaleText#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#8.0",
       "en": "Chief Flame Sergeant",
       "hash": "65E5247222508F78",
@@ -320,6 +411,19 @@
       "de": "Phönixgefreite",
       "conversation": "GCRankUldahFemaleText#8",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#8.9",
+      "en": "",
+      "hash": "CFC9FE25F5F7A1E5",
+      "unresolved": false,
+      "fr": "major des sables",
+      "de": "Phönixgefreite",
+      "conversation": "GCRankUldahFemaleText#8",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -365,6 +469,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#9.9",
+      "en": "",
+      "hash": "318C8FFFDA64983F",
+      "unresolved": false,
+      "fr": "sous-lieutenante des sables",
+      "de": "Zweiter Legionsfähnrich",
+      "conversation": "GCRankUldahFemaleText#9",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#10.0",
       "en": "First Flame Lieutenant",
       "hash": "1C6931F591E2D010",
@@ -400,6 +517,19 @@
       "de": "Legionsfähnrich",
       "conversation": "GCRankUldahFemaleText#10",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#10.9",
+      "en": "",
+      "hash": "7B9E0E6C58289D9E",
+      "unresolved": false,
+      "fr": "lieutenante des sables",
+      "de": "Erster Legionsfähnrich",
+      "conversation": "GCRankUldahFemaleText#10",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -445,6 +575,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#11.9",
+      "en": "",
+      "hash": "CE1C48BB0A949288",
+      "unresolved": false,
+      "fr": "capitaine des sables",
+      "de": "Phönixfähnrich",
+      "conversation": "GCRankUldahFemaleText#11",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#12.0",
       "en": "Second Flame Commander",
       "hash": "4B00D08D599AB2FE",
@@ -480,6 +623,19 @@
       "de": "Legionshauptmann",
       "conversation": "GCRankUldahFemaleText#12",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#12.9",
+      "en": "",
+      "hash": "1A6200F8CBED5DA5",
+      "unresolved": false,
+      "fr": "sous-commandante des sables",
+      "de": "Zweite Legionshauptmann",
+      "conversation": "GCRankUldahFemaleText#12",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -525,6 +681,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#13.9",
+      "en": "",
+      "hash": "0EB50275139FCC3E",
+      "unresolved": false,
+      "fr": "commandante des sables",
+      "de": "Erste Legionshauptmann",
+      "conversation": "GCRankUldahFemaleText#13",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#14.0",
       "en": "High Flame Commander",
       "hash": "6BEA0DDA6E5357A8",
@@ -560,6 +729,19 @@
       "de": "Phönixhauptmann",
       "conversation": "GCRankUldahFemaleText#14",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#14.9",
+      "en": "",
+      "hash": "2C577935A4617059",
+      "unresolved": false,
+      "fr": "colonelle des sables",
+      "de": "Phönixhauptmann",
+      "conversation": "GCRankUldahFemaleText#14",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -605,6 +787,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#15.9",
+      "en": "",
+      "hash": "6E5862FB88ADF4AC",
+      "unresolved": false,
+      "fr": "sous-maréchale des sables",
+      "de": "Major der Legion",
+      "conversation": "GCRankUldahFemaleText#15",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#16.0",
       "en": "Vice Flame Marshal",
       "hash": "AAA9F6352495858F",
@@ -640,6 +835,19 @@
       "de": "Oberst",
       "conversation": "GCRankUldahFemaleText#16",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#16.9",
+      "en": "",
+      "hash": "3EDD1FBD1F4EE499",
+      "unresolved": false,
+      "fr": "vice-maréchale des sables",
+      "de": "Oberst der Legion",
+      "conversation": "GCRankUldahFemaleText#16",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"
@@ -685,6 +893,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#17.9",
+      "en": "",
+      "hash": "F8DDDA05D678E766",
+      "unresolved": false,
+      "fr": "maréchale des sables",
+      "de": "Generalmajor der Legion",
+      "conversation": "GCRankUldahFemaleText#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#18.0",
       "en": "Grand Flame Marshal",
       "hash": "C960D94E9D239BEE",
@@ -725,6 +946,19 @@
       "sheet": "GCRankUldahFemaleText"
     },
     {
+      "gameKey": "GCRankUldahFemaleText#18.9",
+      "en": "",
+      "hash": "3032EB58A6A819F2",
+      "unresolved": false,
+      "fr": "grande maréchale des sables",
+      "de": "General der Legion",
+      "conversation": "GCRankUldahFemaleText#18",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
       "gameKey": "GCRankUldahFemaleText#19.0",
       "en": "Flame Champion",
       "hash": "DC52BB9049D26CE3",
@@ -760,6 +994,19 @@
       "de": "Phönixgeneral",
       "conversation": "GCRankUldahFemaleText#19",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahFemaleText"
+    },
+    {
+      "gameKey": "GCRankUldahFemaleText#19.9",
+      "en": "",
+      "hash": "4387E2A91BECE237",
+      "unresolved": false,
+      "fr": "générale des sables",
+      "de": "Phönixgeneral",
+      "conversation": "GCRankUldahFemaleText#19",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahFemaleText"

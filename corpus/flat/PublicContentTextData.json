@@ -6641,6 +6641,30 @@
       "sheet": "PublicContentTextData"
     },
     {
+      "gameKey": "PublicContentTextData#2569",
+      "en": "",
+      "hash": "88B24ED028A5D3E6",
+      "unresolved": false,
+      "fr": "Les autres ont réussi<nbsp>! La passerelle s'est abaissée<nbsp>!",
+      "conversation": "PublicContentTextData#2569",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PublicContentTextData"
+    },
+    {
+      "gameKey": "PublicContentTextData#2570",
+      "en": "",
+      "hash": "E7D39A95AEE2C9C2",
+      "unresolved": false,
+      "fr": "En avant<nbsp>! Il est temps de pénétrer dans le ventre de la bête<nbsp>!",
+      "conversation": "PublicContentTextData#2570",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PublicContentTextData"
+    },
+    {
       "gameKey": "PublicContentTextData#2571",
       "en": "The main force must press onward. We also need one unit down the left and right corridors.",
       "hash": "D0701688B932D613",
@@ -6957,6 +6981,18 @@
       "ja": "な、なんて、奴らだ……！",
       "de": "Das ist doch nicht möglich! Die Bozianer sind nicht von dieser Welt!",
       "conversation": "PublicContentTextData#2593",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "PublicContentTextData"
+    },
+    {
+      "gameKey": "PublicContentTextData#2594",
+      "en": "",
+      "hash": "A5908FB6252994AF",
+      "unresolved": false,
+      "fr": "Infiltrez-vous sans vous faire repérer<nbsp>!",
+      "conversation": "PublicContentTextData#2594",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

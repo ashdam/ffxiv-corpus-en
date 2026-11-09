@@ -33,6 +33,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#0.2",
+      "en": "",
+      "hash": "63923AC9BEF33ACF",
+      "unresolved": false,
+      "de": "Phantom-Freiberuflerin",
+      "conversation": "MKDSupportJob#0",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#0.3",
       "en": "Reminiscences of journeys just begun and those long ended embody the freelancer's myriad supportive techniques.",
       "hash": "3953277178CB9660",
@@ -84,6 +96,18 @@
       "de": "Ph-Ritter",
       "conversation": "MKDSupportJob#1",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#1.2",
+      "en": "",
+      "hash": "D6E5445777B590D9",
+      "unresolved": false,
+      "de": "Phantom-Ritterin",
+      "conversation": "MKDSupportJob#1",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -145,6 +169,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#2.2",
+      "en": "",
+      "hash": "2D6CBC4E19C6165B",
+      "unresolved": false,
+      "de": "Phantom-Berserkerin",
+      "conversation": "MKDSupportJob#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#2.3",
       "en": "Savagery and unfailing courage characterize the recollections of this former berserker. These techniques entail great risk and even greater reward.",
       "hash": "E669094F2B1A4CD3",
@@ -196,6 +232,18 @@
       "de": "Ph-Mönch",
       "conversation": "MKDSupportJob#3",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#3.2",
+      "en": "",
+      "hash": "FEE741222DB922F6",
+      "unresolved": false,
+      "de": "Phantom-Mönchin",
+      "conversation": "MKDSupportJob#3",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -257,6 +305,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#4.2",
+      "en": "",
+      "hash": "9AF4549BC1019113",
+      "unresolved": false,
+      "de": "Phantom-Jägerin",
+      "conversation": "MKDSupportJob#4",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#4.3",
       "en": "Channel these memories of a proud, passionate ranger and learn to call forth the forces of nature in battle.",
       "hash": "A8D4B3F06ADAF857",
@@ -308,6 +368,18 @@
       "de": "Ph-Samurai",
       "conversation": "MKDSupportJob#5",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#5.2",
+      "en": "",
+      "hash": "18945F66F9422797",
+      "unresolved": false,
+      "de": "Phantom-Samurai",
+      "conversation": "MKDSupportJob#5",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -369,6 +441,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#6.2",
+      "en": "",
+      "hash": "090407FB7C0566E1",
+      "unresolved": false,
+      "de": "Phantom-Bardin",
+      "conversation": "MKDSupportJob#6",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#6.3",
       "en": "These memories echo with the vivid imagery of a bard's lilting song. Utilize them to employ the very same ballads in battle.",
       "hash": "4AEE4A89EAF12ED2",
@@ -420,6 +504,18 @@
       "de": "Ph-Geomant",
       "conversation": "MKDSupportJob#7",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#7.2",
+      "en": "",
+      "hash": "93F041C3F5949455",
+      "unresolved": false,
+      "de": "Phantom-Geomantin",
+      "conversation": "MKDSupportJob#7",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -481,6 +577,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#8.2",
+      "en": "",
+      "hash": "2BFD6A665E9C84DC",
+      "unresolved": false,
+      "de": "Phantom-Zeitmagierin",
+      "conversation": "MKDSupportJob#8",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#8.3",
       "en": "The memories of this former time mage reveal much about the laws of time and how to manipulate them to your advantage.",
       "hash": "EC6B14041C7FED64",
@@ -532,6 +640,18 @@
       "de": "Ph-Grenadier",
       "conversation": "MKDSupportJob#9",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#9.2",
+      "en": "",
+      "hash": "C3FC40286A72619B",
+      "unresolved": false,
+      "de": "Phantom-Grenadierin",
+      "conversation": "MKDSupportJob#9",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -593,6 +713,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#10.2",
+      "en": "",
+      "hash": "6C1F26C081BE7739",
+      "unresolved": false,
+      "de": "Phantom-Alchemistin",
+      "conversation": "MKDSupportJob#10",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#10.3",
       "en": "This chemist's memories offer knowledge of ancient medicinal theory, including restorative techniques sure to turn the tide of battle in your favor.",
       "hash": "AEC479FDD0A03016",
@@ -644,6 +776,18 @@
       "de": "Ph-Seher",
       "conversation": "MKDSupportJob#11",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#11.2",
+      "en": "",
+      "hash": "C0FDCF2A61B72858",
+      "unresolved": false,
+      "de": "Phantom-Seherin",
+      "conversation": "MKDSupportJob#11",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -705,6 +849,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#12.2",
+      "en": "",
+      "hash": "76B81C094496871D",
+      "unresolved": false,
+      "de": "Phantom-Diebin",
+      "conversation": "MKDSupportJob#12",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#12.3",
       "en": "These recollections of a dextrous, principled thief grant access to survival techniques that will doubtless prove useful upon the isle.",
       "hash": "82D4D91A9FF89098",
@@ -756,6 +912,18 @@
       "de": "Ph-Paladin",
       "conversation": "MKDSupportJob#13",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#13.2",
+      "en": "",
+      "hash": "A1904DD18F199EC6",
+      "unresolved": false,
+      "de": "Phantom-Paladin",
+      "conversation": "MKDSupportJob#13",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -817,6 +985,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#14.2",
+      "en": "",
+      "hash": "741C555E2BE5B093",
+      "unresolved": false,
+      "de": "Phantom-Gladiatorin",
+      "conversation": "MKDSupportJob#14",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#14.3",
       "en": "This fierce, indomitable gladiator's recollections promise the mastery of myriad offensive and defensive skills.",
       "hash": "683446439DBC4214",
@@ -868,6 +1048,18 @@
       "de": "Ph-Tänzer",
       "conversation": "MKDSupportJob#15",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#15.2",
+      "en": "",
+      "hash": "D7862791E38AF438",
+      "unresolved": false,
+      "de": "Phantom-Tänzerin",
+      "conversation": "MKDSupportJob#15",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -929,6 +1121,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#16.2",
+      "en": "",
+      "hash": "5A167D165AC1051E",
+      "unresolved": false,
+      "de": "Phantom-Ninja",
+      "conversation": "MKDSupportJob#16",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#16.3",
       "en": "These recollections of a ninja's stealth and stillness will prove useful in a great many precarious situations.",
       "hash": "9B8B077ECB331126",
@@ -980,6 +1184,18 @@
       "de": "Ph-Weißmagier",
       "conversation": "MKDSupportJob#17",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#17.2",
+      "en": "",
+      "hash": "91B4D52E8E6AC046",
+      "unresolved": false,
+      "de": "Phantom-Weißmagierin",
+      "conversation": "MKDSupportJob#17",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -1041,6 +1257,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#18.2",
+      "en": "",
+      "hash": "F766AE212318B209",
+      "unresolved": false,
+      "de": "Phantom-Schwarzmagierin",
+      "conversation": "MKDSupportJob#18",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#18.3",
       "en": "Imbued with a black mage's dedicated research and experimentation, these recollections shall bestow unto you the arcane art of destruction.",
       "hash": "C86FDA97E5196C90",
@@ -1092,6 +1320,18 @@
       "de": "Ph-Dragoon",
       "conversation": "MKDSupportJob#19",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#19.2",
+      "en": "",
+      "hash": "C525A6573462569D",
+      "unresolved": false,
+      "de": "Phantom-Dragoon",
+      "conversation": "MKDSupportJob#19",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -1153,6 +1393,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#20.2",
+      "en": "",
+      "hash": "785EF9213018262A",
+      "unresolved": false,
+      "de": "Phantom-Beschwörerin",
+      "conversation": "MKDSupportJob#20",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#20.3",
       "en": "Channel the reminiscences of an educated, practiced summoner and learn to call forth powerful creatures adept at both offense and defense.",
       "hash": "3385F14B21EA5D19",
@@ -1204,6 +1456,18 @@
       "de": "Ph-Blaumagier",
       "conversation": "MKDSupportJob#21",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#21.2",
+      "en": "",
+      "hash": "F2ABCEC2C7F64508",
+      "unresolved": false,
+      "de": "Phantom-Blaumagierin",
+      "conversation": "MKDSupportJob#21",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"
@@ -1265,6 +1529,18 @@
       "sheet": "MKDSupportJob"
     },
     {
+      "gameKey": "MKDSupportJob#22.2",
+      "en": "",
+      "hash": "29F87B840E98871E",
+      "unresolved": false,
+      "de": "Phantom-Rotmagierin",
+      "conversation": "MKDSupportJob#22",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
       "gameKey": "MKDSupportJob#22.3",
       "en": "These recollections of a witty wandering red mage will allow you to wield black and white magicks in perfect balance.",
       "hash": "18FA63CFE418CB82",
@@ -1316,6 +1592,18 @@
       "de": "Ph-Nekromant",
       "conversation": "MKDSupportJob#23",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MKDSupportJob"
+    },
+    {
+      "gameKey": "MKDSupportJob#23.2",
+      "en": "",
+      "hash": "ED7771228426C5A2",
+      "unresolved": false,
+      "de": "Phantom-Nekromantin",
+      "conversation": "MKDSupportJob#23",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MKDSupportJob"

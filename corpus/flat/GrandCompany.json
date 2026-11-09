@@ -33,6 +33,19 @@
       "sheet": "GrandCompany"
     },
     {
+      "gameKey": "GrandCompany#1.8",
+      "en": "",
+      "hash": "616EB38ADDE46873",
+      "unresolved": false,
+      "fr": "<switch(lnum1,le Maelstrom,au Maelstrom,du Maelstrom)>",
+      "de": "<switch(lnum1,zum Mahlstrom,beim Mahlstrom,vom Mahlstrom,im Mahlstrom,Mahlstrom)>",
+      "conversation": "GrandCompany#1",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
       "gameKey": "GrandCompany#2.0",
       "en": "Order of the Twin Adder",
       "hash": "79281ACCD1DC6BD8",
@@ -47,6 +60,19 @@
       "sheet": "GrandCompany"
     },
     {
+      "gameKey": "GrandCompany#2.8",
+      "en": "",
+      "hash": "9D24AD4BFFB41299",
+      "unresolved": false,
+      "fr": "<switch(lnum1,l'ordre des Deux Vipères,à l'ordre des Deux Vipères,de l'ordre des Deux Vipères)>",
+      "de": "<switch(lnum1,zur Bruderschaft der Morgenviper,bei der Bruderschaft der Morgenviper,von der Bruderschaft,in der Bruderschaft,Bruderschaft)>",
+      "conversation": "GrandCompany#2",
+      "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
       "gameKey": "GrandCompany#3.0",
       "en": "Immortal Flames",
       "hash": "FAAAF53C3BBBB732",
@@ -56,6 +82,19 @@
       "de": "Legion[p] der Unsterblichen",
       "conversation": "GrandCompany#3",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GrandCompany"
+    },
+    {
+      "gameKey": "GrandCompany#3.8",
+      "en": "",
+      "hash": "7B2494DA544E5F0D",
+      "unresolved": false,
+      "fr": "<switch(lnum1,les Immortels,aux Immortels,des Immortels)>",
+      "de": "<switch(lnum1,zur Legion der Unsterblichen,bei der Legion der Unsterblichen,von der Legion,in der Legion,Legion)>",
+      "conversation": "GrandCompany#3",
+      "seq": 8,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GrandCompany"

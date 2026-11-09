@@ -85909,6 +85909,34 @@
       "sheet": "NpcYell"
     },
     {
+      "gameKey": "NpcYell#6498",
+      "en": "",
+      "hash": "D69EC6C156FD8AEB",
+      "unresolved": false,
+      "fr": "Noble acier<nbsp>! Conduis-moi à la domination<nbsp>!",
+      "ja": "鉄よ！<br>鉄の覇道を進め！",
+      "de": "Zur Herrschaft! Zu ewiger Herrschaft!",
+      "conversation": "NpcYell#6498",
+      "seq": 13,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "NpcYell"
+    },
+    {
+      "gameKey": "NpcYell#6499",
+      "en": "",
+      "hash": "B48925A7CE84D5AF",
+      "unresolved": false,
+      "fr": "Ô lumière lunaire, j'avance sur la voie de la domination grâce à toi<nbsp>!",
+      "ja": "我、鉄の覇道を<br>月に照らされ進まん！",
+      "de": "Dir gebührt die Herrschaft, o roter Mond!",
+      "conversation": "NpcYell#6499",
+      "seq": 13,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "NpcYell"
+    },
+    {
       "gameKey": "NpcYell#6500",
       "en": "Fleeting light!<br>Amid a rain of stars,<br>exalt you the red moon!",
       "hash": "3013CD29F2543EEC",

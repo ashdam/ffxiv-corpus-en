@@ -5,6 +5,18 @@
   "conversation": "ContentsNoteCategory",
   "entries": [
     {
+      "gameKey": "ContentsNoteCategory#0",
+      "en": "",
+      "hash": "328E0917D23FAA44",
+      "unresolved": false,
+      "de": "* Nicht länger als \"Staatliche Gesellschaft\"",
+      "conversation": "ContentsNoteCategory#0",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentsNoteCategory"
+    },
+    {
       "gameKey": "ContentsNoteCategory#1",
       "en": "Battles",
       "hash": "F28EE389FB59D7ED",

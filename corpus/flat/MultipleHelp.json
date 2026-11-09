@@ -19,6 +19,18 @@
       "sheet": "MultipleHelp"
     },
     {
+      "gameKey": "MultipleHelp#2.2",
+      "en": "",
+      "hash": "92530A78D11682D9",
+      "unresolved": false,
+      "ja": "レイドファインダーヘルプ",
+      "conversation": "MultipleHelp#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
       "gameKey": "MultipleHelp#3.1",
       "en": "Duty Finder Help",
       "hash": "8E86506509EF7F8B",
@@ -28,6 +40,18 @@
       "de": "HILFE FÜR INHALTSSUCHE",
       "conversation": "MultipleHelp#3",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#3.2",
+      "en": "",
+      "hash": "2D6E407522DE1DB2",
+      "unresolved": false,
+      "ja": "コンテンツファインダー解説",
+      "conversation": "MultipleHelp#3",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MultipleHelp"
@@ -47,6 +71,18 @@
       "sheet": "MultipleHelp"
     },
     {
+      "gameKey": "MultipleHelp#4.2",
+      "en": "",
+      "hash": "310165738DC85523",
+      "unresolved": false,
+      "ja": "特殊ダンジョン探索の解説",
+      "conversation": "MultipleHelp#4",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
       "gameKey": "MultipleHelp#5.1",
       "en": "Party Member Portraits Help",
       "hash": "5CE7446B6CDAE786",
@@ -61,6 +97,18 @@
       "sheet": "MultipleHelp"
     },
     {
+      "gameKey": "MultipleHelp#5.2",
+      "en": "",
+      "hash": "43AD6045C3C523A8",
+      "unresolved": false,
+      "ja": "パーティメンバー紹介ヘルプ",
+      "conversation": "MultipleHelp#5",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
       "gameKey": "MultipleHelp#6.1",
       "en": "Command Panel Help",
       "hash": "479D82D716679C0F",
@@ -70,6 +118,18 @@
       "de": "HILFE FÜR KOMMANDOTAFEL",
       "conversation": "MultipleHelp#6",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "MultipleHelp"
+    },
+    {
+      "gameKey": "MultipleHelp#6.2",
+      "en": "",
+      "hash": "B9B73712E56D2D51",
+      "unresolved": false,
+      "ja": "クイックパネル解説",
+      "conversation": "MultipleHelp#6",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "MultipleHelp"

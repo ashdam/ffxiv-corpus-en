@@ -33,6 +33,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604482.4",
+      "en": "",
+      "hash": "25F96724165403DF",
+      "unresolved": false,
+      "ja": "ドマ式麻雀解説",
+      "conversation": "Description#3604482",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604483.2",
       "en": "Rival Wings Rules",
       "hash": "51DFA537F5FDB752",
@@ -61,6 +73,19 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604483.4",
+      "en": "",
+      "hash": "FEB707BE75EB0F91",
+      "unresolved": false,
+      "ja": "ライバルウィングズ解説",
+      "de": "Regeln",
+      "conversation": "Description#3604483",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604484.2",
       "en": "Housing Inquiries",
       "hash": "4A5A9271F1E6822F",
@@ -84,6 +109,18 @@
       "de": "UNTERKÜNFTE",
       "conversation": "Description#3604484",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604484.4",
+      "en": "",
+      "hash": "7495A78B6BF1C613",
+      "unresolved": false,
+      "ja": "ハウジング解説",
+      "conversation": "Description#3604484",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -145,6 +182,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604486.4",
+      "en": "",
+      "hash": "868B983F1CD005E2",
+      "unresolved": false,
+      "ja": "フロントライン解説",
+      "conversation": "Description#3604486",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604487.2",
       "en": "Ocean Fishing",
       "hash": "73E1CBAF15FBE6B2",
@@ -168,6 +217,18 @@
       "de": "AUF GROSSER FAHRT",
       "conversation": "Description#3604487",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604487.4",
+      "en": "",
+      "hash": "92D764C3B93042F1",
+      "unresolved": false,
+      "ja": "オーシャンフィッシング解説",
+      "conversation": "Description#3604487",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -201,6 +262,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604488.4",
+      "en": "",
+      "hash": "91CB5F4E0BAFDACF",
+      "unresolved": false,
+      "ja": "ソーチョーの幻想盤解説",
+      "conversation": "Description#3604488",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604489.2",
       "en": "The Bozjan Southern Front",
       "hash": "00BB9CBEE13915C4",
@@ -224,6 +297,18 @@
       "de": "BOZJA-SÜDFRONT",
       "conversation": "Description#3604489",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604489.4",
+      "en": "",
+      "hash": "58BC717FA9099434",
+      "unresolved": false,
+      "ja": "南方ボズヤ戦線解説",
+      "conversation": "Description#3604489",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -257,6 +342,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604490.4",
+      "en": "",
+      "hash": "3AB45171F7286EC6",
+      "unresolved": false,
+      "ja": "レジスタンスランク解説",
+      "conversation": "Description#3604490",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604491.2",
       "en": "Lost Actions",
       "hash": "C672DA86402C8929",
@@ -280,6 +377,18 @@
       "de": "VERSCHOLLENE KOMMANDOS",
       "conversation": "Description#3604491",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604491.4",
+      "en": "",
+      "hash": "AC5D592B1B234438",
+      "unresolved": false,
+      "ja": "ロストアクション解説",
+      "conversation": "Description#3604491",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -313,6 +422,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604492.4",
+      "en": "",
+      "hash": "BFE7A882A513C2FB",
+      "unresolved": false,
+      "ja": "ボズヤクラスター解説",
+      "conversation": "Description#3604492",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604493.2",
       "en": "Triple Triad Tournaments: Short Modes",
       "hash": "CC8B9CB9D98A614C",
@@ -336,6 +457,18 @@
       "de": "TRIPLE TRIAD-TURNIERE",
       "conversation": "Description#3604493",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604493.4",
+      "en": "",
+      "hash": "9190FDB65FE6B807",
+      "unresolved": false,
+      "ja": "トリプルトライアドトーナメント解説",
+      "conversation": "Description#3604493",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -369,6 +502,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604496.4",
+      "en": "",
+      "hash": "7C5BF207B1DEC77A",
+      "unresolved": false,
+      "ja": "レジスタンス勲章解説",
+      "conversation": "Description#3604496",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604497.2",
       "en": "Zadnor",
       "hash": "AE75E9AFDFEBD203",
@@ -392,6 +537,18 @@
       "de": "ZADNOR",
       "conversation": "Description#3604497",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604497.4",
+      "en": "",
+      "hash": "61EAC598FDB0BB39",
+      "unresolved": false,
+      "ja": "ザトゥノル高原解説",
+      "conversation": "Description#3604497",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -425,6 +582,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604498.4",
+      "en": "",
+      "hash": "D979396703523B71",
+      "unresolved": false,
+      "ja": "PvP解説",
+      "conversation": "Description#3604498",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604499.2",
       "en": "Crystalline Conflict",
       "hash": "27EE97C179633F97",
@@ -448,6 +617,19 @@
       "de": "CRYSTALLINE CONFLICT",
       "conversation": "Description#3604499",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604499.4",
+      "en": "",
+      "hash": "39E095EA1B2499BF",
+      "unresolved": false,
+      "ja": "クリスタルコンフリクト解説",
+      "de": "Regeln",
+      "conversation": "Description#3604499",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -481,6 +663,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604500.4",
+      "en": "",
+      "hash": "679177DE6185CFF2",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "Description#3604500",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604501.2",
       "en": "Deep Dungeons",
       "hash": "3D1068F471BDB256",
@@ -504,6 +698,18 @@
       "de": "TIEFES GEWÖLBE",
       "conversation": "Description#3604501",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604501.4",
+      "en": "",
+      "hash": "A6E77B83D430C1F0",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "Description#3604501",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -537,6 +743,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604502.4",
+      "en": "",
+      "hash": "1952356C5DC7568C",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "Description#3604502",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604503.2",
       "en": "Small Talk",
       "hash": "77DE64779E9393EE",
@@ -560,6 +778,18 @@
       "de": "STOLPERVILLE",
       "conversation": "Description#3604503",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604503.4",
+      "en": "",
+      "hash": "3D368E146AF1FF94",
+      "unresolved": false,
+      "ja": "ブランダーヴィルの説明",
+      "conversation": "Description#3604503",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -593,6 +823,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604504.4",
+      "en": "",
+      "hash": "AD86718D0EBE367E",
+      "unresolved": false,
+      "ja": "バトルの解説",
+      "conversation": "Description#3604504",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604505.2",
       "en": "Deep Dungeons",
       "hash": "07144D6776D23016",
@@ -621,6 +863,31 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604505.4",
+      "en": "",
+      "hash": "DCEE0ACB09500CAA",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "Description#3604505",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604506.2",
+      "en": "",
+      "hash": "DB9376E15083BBD1",
+      "unresolved": false,
+      "fr": "Se renseigner sur l'exploration cosmique",
+      "de": "Erkundungsgrundlagen ",
+      "conversation": "Description#3604506",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604506.3",
       "en": "Cosmic Exploration",
       "hash": "F8750C173C4537A3",
@@ -630,6 +897,18 @@
       "de": "KOSMO-ERKUNDUNG",
       "conversation": "Description#3604506",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604506.4",
+      "en": "",
+      "hash": "09EE0E1E004BE142",
+      "unresolved": false,
+      "ja": "惑星探索のすすめ",
+      "conversation": "Description#3604506",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -663,6 +942,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604507.4",
+      "en": "",
+      "hash": "C3D7A94565177622",
+      "unresolved": false,
+      "ja": "クレセントアイル解説",
+      "conversation": "Description#3604507",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604508.2",
       "en": "Sprig Cleaning",
       "hash": "D7AE22A855B76FBA",
@@ -686,6 +977,18 @@
       "de": "DAS GROSSE JÄTEN",
       "conversation": "Description#3604508",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604508.4",
+      "en": "",
+      "hash": "4A7A5862B96D0FF4",
+      "unresolved": false,
+      "ja": "スプリグ・クリーニング解説",
+      "conversation": "Description#3604508",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"
@@ -719,6 +1022,18 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604509.4",
+      "en": "",
+      "hash": "E9EF322C862A9002",
+      "unresolved": false,
+      "ja": "お得意様取引の解説",
+      "conversation": "Description#3604509",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604510.2",
       "en": "Keybound Brawler",
       "hash": "951B773AA5E5FA24",
@@ -747,6 +1062,19 @@
       "sheet": "Description"
     },
     {
+      "gameKey": "Description#3604510.4",
+      "en": "",
+      "hash": "E17270026190EB9F",
+      "unresolved": false,
+      "ja": "キーバウンド・ブロウラー解説",
+      "de": "Regeln",
+      "conversation": "Description#3604510",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
       "gameKey": "Description#3604511.2",
       "en": "Crucible of the Unbroken",
       "hash": "F73262FD6177AA00",
@@ -770,6 +1098,19 @@
       "de": "BRETT DER BESTIE",
       "conversation": "Description#3604511",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Description"
+    },
+    {
+      "gameKey": "Description#3604511.4",
+      "en": "",
+      "hash": "4AF8CACB2A81B5CA",
+      "unresolved": false,
+      "ja": "闘獣練の解説",
+      "de": "Regeln",
+      "conversation": "Description#3604511",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Description"

@@ -35121,6 +35121,20 @@
       "sheet": "DefaultTalk"
     },
     {
+      "gameKey": "DefaultTalk#591553.21",
+      "en": "",
+      "hash": "DFFE2A5ACD8016B0",
+      "unresolved": false,
+      "fr": "0",
+      "ja": "0",
+      "de": "0",
+      "conversation": "DefaultTalk#591553",
+      "seq": 21,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DefaultTalk"
+    },
+    {
       "gameKey": "DefaultTalk#591554.20",
       "en": "Sorry, but I've my hands full assisting Eginolf with his orders. You're free to stand there and gape at the shelves all you wish, but if you need aught else, I'm afraid I cannot be of any assistance.",
       "hash": "27AB536437F18EFE",

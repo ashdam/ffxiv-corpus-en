@@ -159,6 +159,19 @@
       "sheet": "ClassJobActionUICategory"
     },
     {
+      "gameKey": "ClassJobActionUICategory#10.1",
+      "en": "",
+      "hash": "40356ACA4E6C7BFD",
+      "unresolved": false,
+      "fr": "Actions utilisables lors de la récolte.",
+      "ja": "採集に使用するアクションです。",
+      "conversation": "ClassJobActionUICategory#10",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJobActionUICategory"
+    },
+    {
       "gameKey": "ClassJobActionUICategory#11.0",
       "en": "Collectables",
       "hash": "149D658A460ABABF",
@@ -201,6 +214,20 @@
       "sheet": "ClassJobActionUICategory"
     },
     {
+      "gameKey": "ClassJobActionUICategory#12.1",
+      "en": "",
+      "hash": "55F481FE49146A65",
+      "unresolved": false,
+      "fr": "Actions communes aux disciples de la terre, hors récolte. ",
+      "ja": "採集中以外も使用可能なギャザラークラス共通アクションです。",
+      "de": "Allgemeine Kommandos aller Sammler, die nicht nur während des Sammelns verwendet werden.",
+      "conversation": "ClassJobActionUICategory#12",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJobActionUICategory"
+    },
+    {
       "gameKey": "ClassJobActionUICategory#13.0",
       "en": "Basic Fishing",
       "hash": "52DF1323AA32C5A8",
@@ -210,6 +237,19 @@
       "de": "ANGELN",
       "conversation": "ClassJobActionUICategory#13",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJobActionUICategory"
+    },
+    {
+      "gameKey": "ClassJobActionUICategory#13.1",
+      "en": "",
+      "hash": "DA942319CFB7008A",
+      "unresolved": false,
+      "fr": "Actions fondamentales de la pêche.",
+      "ja": "釣りの基本となるアクションです。",
+      "conversation": "ClassJobActionUICategory#13",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJobActionUICategory"
@@ -285,6 +325,19 @@
       "sheet": "ClassJobActionUICategory"
     },
     {
+      "gameKey": "ClassJobActionUICategory#16.1",
+      "en": "",
+      "hash": "46151AFD2E9647BF",
+      "unresolved": false,
+      "fr": "Actions utilisables lors de la pêche au harpon.",
+      "ja": "刺突漁に使用するアクションです。",
+      "conversation": "ClassJobActionUICategory#16",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJobActionUICategory"
+    },
+    {
       "gameKey": "ClassJobActionUICategory#17.0",
       "en": "Other",
       "hash": "872B66B70C281CDF",
@@ -294,6 +347,20 @@
       "de": "SONSTIGE",
       "conversation": "ClassJobActionUICategory#17",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ClassJobActionUICategory"
+    },
+    {
+      "gameKey": "ClassJobActionUICategory#17.1",
+      "en": "",
+      "hash": "DC834E821C0B0CBF",
+      "unresolved": false,
+      "fr": "Actions communes à la pêche et à la pêche au harpon.",
+      "ja": "釣り・刺突漁共通アクションです。",
+      "de": "Kommandos, die sowohl beim Angeln als auch beim Speerfischen verwendet werden können.",
+      "conversation": "ClassJobActionUICategory#17",
+      "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ClassJobActionUICategory"

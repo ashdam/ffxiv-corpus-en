@@ -1333,7 +1333,7 @@
       "ja": "スリの少年の「尾行」に、再挑戦しますか？",
       "de": "Möchtest du die Verfolgung des kleinen Langfingers erneut aufnehmen?",
       "conversation": "quest/044/AktKza204_04492",
-      "seq": 54,
+      "seq": 52,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "questId": "AktKza204_04492",

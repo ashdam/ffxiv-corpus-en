@@ -33,6 +33,18 @@
       "sheet": "EventItemCategory"
     },
     {
+      "gameKey": "EventItemCategory#3",
+      "en": "",
+      "hash": "2BE747ABE56FB36C",
+      "unresolved": false,
+      "ja": "[古の武器・アートマ]",
+      "conversation": "EventItemCategory#3",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemCategory"
+    },
+    {
       "gameKey": "EventItemCategory#4",
       "en": "The Hunt",
       "hash": "46D0BCCB84EB1209",

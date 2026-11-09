@@ -40003,6 +40003,18 @@
       "sheet": "Fate"
     },
     {
+      "gameKey": "Fate#1599.2",
+      "en": "",
+      "hash": "949F83C2EF994974",
+      "unresolved": false,
+      "fr": " ",
+      "conversation": "Fate#1599",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Fate"
+    },
+    {
       "gameKey": "Fate#1600.0",
       "en": "Unrest for the Wicked",
       "hash": "46662E61309BBF26",
@@ -45528,6 +45540,18 @@
       "de": "Zeig deine unbedingte Feierlaune, indem du das Maskottchen anvisierst und die geforderte Pose ausführst.<br>(Teilnahme nur als Handwerker oder Sammler)",
       "conversation": "Fate#1712",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Fate"
+    },
+    {
+      "gameKey": "Fate#1712.2",
+      "en": "",
+      "hash": "9270305E2B50DF33",
+      "unresolved": false,
+      "de": "Achtung:<br>Nur Handwerker und Sammler werden vergütet.",
+      "conversation": "Fate#1712",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Fate"

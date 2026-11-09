@@ -19,6 +19,20 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#2.2",
+      "en": "",
+      "hash": "28679EB6E9F54CD0",
+      "unresolved": false,
+      "fr": "- Archives",
+      "ja": "- アーカイブ",
+      "de": "- Archive",
+      "conversation": "DescriptionStandAloneTransient#2",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#3.1",
       "en": "New Game+",
       "hash": "A4337C7217202974",
@@ -28,6 +42,18 @@
       "de": "NEUES SPIEL+",
       "conversation": "DescriptionStandAloneTransient#3",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#3.2",
+      "en": "",
+      "hash": "1607B2574627C86B",
+      "unresolved": false,
+      "ja": "つよくてニューゲーム解説",
+      "conversation": "DescriptionStandAloneTransient#3",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -47,6 +73,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#4.2",
+      "en": "",
+      "hash": "6FB0E0EC2825DF68",
+      "unresolved": false,
+      "ja": "ロストアクション解説",
+      "conversation": "DescriptionStandAloneTransient#4",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#5.1",
       "en": "Portraits",
       "hash": "BD60958A43A6779A",
@@ -56,6 +94,18 @@
       "de": "PORTRAITS",
       "conversation": "DescriptionStandAloneTransient#5",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#5.2",
+      "en": "",
+      "hash": "4C82F7B3FD79DC97",
+      "unresolved": false,
+      "ja": "ポートレート機能解説",
+      "conversation": "DescriptionStandAloneTransient#5",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -75,6 +125,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#6.2",
+      "en": "",
+      "hash": "DE450AC2E835ED78",
+      "unresolved": false,
+      "ja": "アドベンチャラープレート解説",
+      "conversation": "DescriptionStandAloneTransient#6",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#7.1",
       "en": "Island Sanctuary",
       "hash": "F69D500B571F474C",
@@ -84,6 +146,18 @@
       "de": "INSELPARADIES",
       "conversation": "DescriptionStandAloneTransient#7",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#7.2",
+      "en": "",
+      "hash": "14C7140418B77CC3",
+      "unresolved": false,
+      "ja": "無人島開拓解説",
+      "conversation": "DescriptionStandAloneTransient#7",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -103,6 +177,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#8.2",
+      "en": "",
+      "hash": "FC7C50137E8CB2D5",
+      "unresolved": false,
+      "ja": "開拓工房\u3000入門マニュアル",
+      "conversation": "DescriptionStandAloneTransient#8",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#9.1",
       "en": "Deep Dungeons",
       "hash": "6F3F6E4AAA97498F",
@@ -112,6 +198,18 @@
       "de": "TIEFES GEWÖLBE",
       "conversation": "DescriptionStandAloneTransient#9",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#9.2",
+      "en": "",
+      "hash": "DF9E13EAC17683A0",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "DescriptionStandAloneTransient#9",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -131,6 +229,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#10.2",
+      "en": "",
+      "hash": "F42206FE3544FFA2",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "DescriptionStandAloneTransient#10",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#11.1",
       "en": "Deep Dungeons",
       "hash": "152E19A59ED86C5D",
@@ -140,6 +250,18 @@
       "de": "TIEFES GEWÖLBE",
       "conversation": "DescriptionStandAloneTransient#11",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#11.2",
+      "en": "",
+      "hash": "B95FBCD287557AFE",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "DescriptionStandAloneTransient#11",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -159,6 +281,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#12.2",
+      "en": "",
+      "hash": "BF5594A80F3A0DEB",
+      "unresolved": false,
+      "ja": "ファッションアクセサリー解説",
+      "conversation": "DescriptionStandAloneTransient#12",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#13.1",
       "en": "Gear Sets",
       "hash": "F314C5EFAA6E3995",
@@ -168,6 +302,18 @@
       "de": "AUSRÜSTUNGSSETS",
       "conversation": "DescriptionStandAloneTransient#13",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#13.2",
+      "en": "",
+      "hash": "CCE8D74CD2EB296E",
+      "unresolved": false,
+      "ja": "ギアセット機能解説",
+      "conversation": "DescriptionStandAloneTransient#13",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -187,6 +333,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#14.2",
+      "en": "",
+      "hash": "DDC7ECACE029E25C",
+      "unresolved": false,
+      "ja": "PvP解説",
+      "conversation": "DescriptionStandAloneTransient#14",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#15.1",
       "en": "Rival Wings",
       "hash": "3EEDC27E648CEAA9",
@@ -196,6 +354,18 @@
       "de": "STAHLSCHWINGEN",
       "conversation": "DescriptionStandAloneTransient#15",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#15.2",
+      "en": "",
+      "hash": "8834243B94C66402",
+      "unresolved": false,
+      "ja": "ライバルウィングズ解説",
+      "conversation": "DescriptionStandAloneTransient#15",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -215,6 +385,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#16.2",
+      "en": "",
+      "hash": "A3E73F5A31B45EFE",
+      "unresolved": false,
+      "ja": "フロントライン解説",
+      "conversation": "DescriptionStandAloneTransient#16",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#17.1",
       "en": "Crystalline Conflict",
       "hash": "5F63B7EE9A6E913A",
@@ -224,6 +406,18 @@
       "de": "CRYSTALLINE CONFLICT",
       "conversation": "DescriptionStandAloneTransient#17",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#17.2",
+      "en": "",
+      "hash": "F3C57BBE2E14C6CD",
+      "unresolved": false,
+      "ja": "クリスタルコンフリクト解説",
+      "conversation": "DescriptionStandAloneTransient#17",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -243,6 +437,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#18.2",
+      "en": "",
+      "hash": "BC6315529F9451CB",
+      "unresolved": false,
+      "ja": "モグモグ★コレクション解説",
+      "conversation": "DescriptionStandAloneTransient#18",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#19.1",
       "en": "Glamour Guide",
       "hash": "271E1948E0D7E201",
@@ -252,6 +458,18 @@
       "de": "MODEFUNKTIONEN",
       "conversation": "DescriptionStandAloneTransient#19",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#19.2",
+      "en": "",
+      "hash": "B2AD8CB306F3F0E5",
+      "unresolved": false,
+      "ja": "コーディネート機能解説",
+      "conversation": "DescriptionStandAloneTransient#19",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -271,6 +489,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#20.2",
+      "en": "",
+      "hash": "A84DFF892230CCC3",
+      "unresolved": false,
+      "ja": "バトルの解説",
+      "conversation": "DescriptionStandAloneTransient#20",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#21.1",
       "en": "Mahjong Rules",
       "hash": "4E1FC788DC99DE51",
@@ -280,6 +510,18 @@
       "de": "DOMANISCHES MAHJONG",
       "conversation": "DescriptionStandAloneTransient#21",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#21.2",
+      "en": "",
+      "hash": "39EF3F7DD77A1055",
+      "unresolved": false,
+      "ja": "ドマ式麻雀解説",
+      "conversation": "DescriptionStandAloneTransient#21",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -299,6 +541,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#22.2",
+      "en": "",
+      "hash": "2B845E100348277E",
+      "unresolved": false,
+      "ja": "ディープダンジョンの説明",
+      "conversation": "DescriptionStandAloneTransient#22",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#23.1",
       "en": "The Occult Crescent",
       "hash": "52DACA390A98058D",
@@ -308,6 +562,18 @@
       "de": "KRESZENTIA",
       "conversation": "DescriptionStandAloneTransient#23",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#23.2",
+      "en": "",
+      "hash": "AEA88FDBB51211EF",
+      "unresolved": false,
+      "ja": "クレセントアイル解説",
+      "conversation": "DescriptionStandAloneTransient#23",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -327,6 +593,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#24.2",
+      "en": "",
+      "hash": "EB448FCFE895423D",
+      "unresolved": false,
+      "ja": "惑星探索のすすめ",
+      "conversation": "DescriptionStandAloneTransient#24",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#25.1",
       "en": "Strategy Board",
       "hash": "DEC13B8E99BE67C6",
@@ -336,6 +614,18 @@
       "de": "STRATEGIEBRETTER",
       "conversation": "DescriptionStandAloneTransient#25",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#25.2",
+      "en": "",
+      "hash": "50926B9A80002B79",
+      "unresolved": false,
+      "ja": "ストラテジーボード",
+      "conversation": "DescriptionStandAloneTransient#25",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"
@@ -355,6 +645,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#26.2",
+      "en": "",
+      "hash": "2ABCB61DC59C7D87",
+      "unresolved": false,
+      "ja": "探検手帳の解説",
+      "conversation": "DescriptionStandAloneTransient#26",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#27.1",
       "en": "Custom Deliveries",
       "hash": "898B4040E88A58CE",
@@ -369,6 +671,18 @@
       "sheet": "DescriptionStandAloneTransient"
     },
     {
+      "gameKey": "DescriptionStandAloneTransient#27.2",
+      "en": "",
+      "hash": "359ED69359864389",
+      "unresolved": false,
+      "ja": "お得意様取引の解説",
+      "conversation": "DescriptionStandAloneTransient#27",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
       "gameKey": "DescriptionStandAloneTransient#28.1",
       "en": "Crucible of the Unbroken",
       "hash": "AE4369A1E451861E",
@@ -378,6 +692,18 @@
       "de": "BRETT DER BESTIE",
       "conversation": "DescriptionStandAloneTransient#28",
       "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionStandAloneTransient"
+    },
+    {
+      "gameKey": "DescriptionStandAloneTransient#28.2",
+      "en": "",
+      "hash": "C9ACAD7F4C00A888",
+      "unresolved": false,
+      "ja": "闘獣練の解説",
+      "conversation": "DescriptionStandAloneTransient#28",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "DescriptionStandAloneTransient"

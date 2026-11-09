@@ -7915,6 +7915,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#777.44",
+      "en": "",
+      "hash": "B805F27EC66C5C61",
+      "unresolved": false,
+      "de": "Paglth'an",
+      "conversation": "ContentFinderCondition#777",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#778.43",
       "en": "Zadnor",
       "hash": "01BCF32A15CC9361",
@@ -9273,6 +9285,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#872.44",
+      "en": "",
+      "hash": "2EE0195C3FAAD469",
+      "unresolved": false,
+      "de": "Abyssos - Fünfter Kreis",
+      "conversation": "ContentFinderCondition#872",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#873.43",
       "en": "Abyssos: The Fifth Circle (Savage)",
       "hash": "E4B5BC6C976AB6BF",
@@ -9282,6 +9306,18 @@
       "de": "Abyssos - Fünfter Kreis (episch)",
       "conversation": "ContentFinderCondition#873",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#873.44",
+      "en": "",
+      "hash": "77ACB561775DBC80",
+      "unresolved": false,
+      "de": "Abyssos - Fünfter Kreis (episch)",
+      "conversation": "ContentFinderCondition#873",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -9315,6 +9351,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#876.44",
+      "en": "",
+      "hash": "7C38CEDEEEAF6D84",
+      "unresolved": false,
+      "de": "Abyssos - Siebter Kreis",
+      "conversation": "ContentFinderCondition#876",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#877.43",
       "en": "Abyssos: The Seventh Circle (Savage)",
       "hash": "49DB147A1FDE9E13",
@@ -9324,6 +9372,18 @@
       "de": "Abyssos - Siebter Kreis (episch)",
       "conversation": "ContentFinderCondition#877",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#877.44",
+      "en": "",
+      "hash": "389645E96D368162",
+      "unresolved": false,
+      "de": "Abyssos - Siebter Kreis (episch)",
+      "conversation": "ContentFinderCondition#877",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -9371,6 +9431,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#880.44",
+      "en": "",
+      "hash": "7107B57CC39A09C5",
+      "unresolved": false,
+      "de": "Abyssos - Sechster Kreis",
+      "conversation": "ContentFinderCondition#880",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#881.43",
       "en": "Abyssos: The Sixth Circle (Savage)",
       "hash": "A1FEEA2C815A0C2A",
@@ -9380,6 +9452,18 @@
       "de": "Abyssos - Sechster Kreis (episch)",
       "conversation": "ContentFinderCondition#881",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#881.44",
+      "en": "",
+      "hash": "D2FA079D57B28CFA",
+      "unresolved": false,
+      "de": "Abyssos - Sechster Kreis (episch)",
+      "conversation": "ContentFinderCondition#881",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -9399,6 +9483,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#883.44",
+      "en": "",
+      "hash": "30344866D72614A4",
+      "unresolved": false,
+      "de": "Abyssos - Achter Kreis",
+      "conversation": "ContentFinderCondition#883",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#884.43",
       "en": "Abyssos: The Eighth Circle (Savage)",
       "hash": "73355D30CA76EE25",
@@ -9408,6 +9504,18 @@
       "de": "Abyssos - Achter Kreis (episch)",
       "conversation": "ContentFinderCondition#884",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#884.44",
+      "en": "",
+      "hash": "8154E8CDE8083F5E",
+      "unresolved": false,
+      "de": "Abyssos - Achter Kreis (episch)",
+      "conversation": "ContentFinderCondition#884",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11233,6 +11341,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1019.44",
+      "en": "",
+      "hash": "BCA65F24A650618E",
+      "unresolved": false,
+      "de": "Schwergewicht R1",
+      "conversation": "ContentFinderCondition#1019",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1020.43",
       "en": "AAC Cruiserweight M1 (Savage)",
       "hash": "8F030568A05703FC",
@@ -11242,6 +11362,18 @@
       "de": "Arkadion - Schwergewicht R1 (episch)",
       "conversation": "ContentFinderCondition#1020",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1020.44",
+      "en": "",
+      "hash": "57D08CB478181A7F",
+      "unresolved": false,
+      "de": "Schwergewicht R1 (episch)",
+      "conversation": "ContentFinderCondition#1020",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11261,6 +11393,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1021.44",
+      "en": "",
+      "hash": "35E6F54F1857C062",
+      "unresolved": false,
+      "de": "Schwergewicht R2",
+      "conversation": "ContentFinderCondition#1021",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1022.43",
       "en": "AAC Cruiserweight M2 (Savage)",
       "hash": "9BD74A28855F0C48",
@@ -11270,6 +11414,18 @@
       "de": "Arkadion - Schwergewicht R2 (episch)",
       "conversation": "ContentFinderCondition#1022",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1022.44",
+      "en": "",
+      "hash": "8A0A7FAA3E8A0D92",
+      "unresolved": false,
+      "de": "Schwergewicht R2 (episch)",
+      "conversation": "ContentFinderCondition#1022",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11289,6 +11445,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1023.44",
+      "en": "",
+      "hash": "1AE91A48F16B0EF7",
+      "unresolved": false,
+      "de": "Schwergewicht R3",
+      "conversation": "ContentFinderCondition#1023",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1024.43",
       "en": "AAC Cruiserweight M3 (Savage)",
       "hash": "E924AA2D68E14223",
@@ -11298,6 +11466,18 @@
       "de": "Arkadion - Schwergewicht R3 (episch)",
       "conversation": "ContentFinderCondition#1024",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1024.44",
+      "en": "",
+      "hash": "B5DC89445D637F48",
+      "unresolved": false,
+      "de": "Schwergewicht R3 (episch)",
+      "conversation": "ContentFinderCondition#1024",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11317,6 +11497,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1025.44",
+      "en": "",
+      "hash": "81208F6C62B83AD3",
+      "unresolved": false,
+      "de": "Schwergewicht R4",
+      "conversation": "ContentFinderCondition#1025",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1026.43",
       "en": "AAC Cruiserweight M4 (Savage)",
       "hash": "3A53CDB95A54F197",
@@ -11326,6 +11518,18 @@
       "de": "Arkadion - Schwergewicht R4 (episch)",
       "conversation": "ContentFinderCondition#1026",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1026.44",
+      "en": "",
+      "hash": "0E913C59A9C9D91D",
+      "unresolved": false,
+      "de": "Schwergewicht R4 (episch)",
+      "conversation": "ContentFinderCondition#1026",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11877,6 +12081,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1068.44",
+      "en": "",
+      "hash": "0998E8A53D60ADEF",
+      "unresolved": false,
+      "de": "Superschwergewicht R1",
+      "conversation": "ContentFinderCondition#1068",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1069.43",
       "en": "AAC Heavyweight M1 (Savage)",
       "hash": "3BA5BBABC3B42478",
@@ -11886,6 +12102,18 @@
       "de": "Arkadion - Superschwergewicht R1 (episch)",
       "conversation": "ContentFinderCondition#1069",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1069.44",
+      "en": "",
+      "hash": "49CA52FF9D41174F",
+      "unresolved": false,
+      "de": "Superschwergewicht R1 (episch)",
+      "conversation": "ContentFinderCondition#1069",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11905,6 +12133,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1070.44",
+      "en": "",
+      "hash": "B1728FCDE171D23B",
+      "unresolved": false,
+      "de": "Superschwergewicht R2",
+      "conversation": "ContentFinderCondition#1070",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1071.43",
       "en": "AAC Heavyweight M2 (Savage)",
       "hash": "B63BEC74B245E464",
@@ -11914,6 +12154,18 @@
       "de": "Arkadion - Superschwergewicht R2 (episch)",
       "conversation": "ContentFinderCondition#1071",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1071.44",
+      "en": "",
+      "hash": "62E03EA1A1C05AEF",
+      "unresolved": false,
+      "de": "Superschwergewicht R2 (episch)",
+      "conversation": "ContentFinderCondition#1071",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11933,6 +12185,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1072.44",
+      "en": "",
+      "hash": "A489556942A5A6C7",
+      "unresolved": false,
+      "de": "Superschwergewicht R3",
+      "conversation": "ContentFinderCondition#1072",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1073.43",
       "en": "AAC Heavyweight M3 (Savage)",
       "hash": "4952A16CDE92D14A",
@@ -11942,6 +12206,18 @@
       "de": "Arkadion - Superschwergewicht R3 (episch)",
       "conversation": "ContentFinderCondition#1073",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1073.44",
+      "en": "",
+      "hash": "39018322AF6EA379",
+      "unresolved": false,
+      "de": "Superschwergewicht R3 (episch)",
+      "conversation": "ContentFinderCondition#1073",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"
@@ -11961,6 +12237,18 @@
       "sheet": "ContentFinderCondition"
     },
     {
+      "gameKey": "ContentFinderCondition#1074.44",
+      "en": "",
+      "hash": "58073C3ED9B20064",
+      "unresolved": false,
+      "de": "Superschwergewicht R4",
+      "conversation": "ContentFinderCondition#1074",
+      "seq": 44,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
       "gameKey": "ContentFinderCondition#1075.43",
       "en": "AAC Heavyweight M4 (Savage)",
       "hash": "D91C8BB4367F810D",
@@ -11970,6 +12258,18 @@
       "de": "Arkadion - Superschwergewicht R4 (episch)",
       "conversation": "ContentFinderCondition#1075",
       "seq": 43,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ContentFinderCondition"
+    },
+    {
+      "gameKey": "ContentFinderCondition#1075.44",
+      "en": "",
+      "hash": "252828F6CF40D600",
+      "unresolved": false,
+      "de": "Superschwergewicht R4 (episch)",
+      "conversation": "ContentFinderCondition#1075",
+      "seq": 44,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "ContentFinderCondition"

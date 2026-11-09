@@ -4986,6 +4986,19 @@
       "sheet": "Treasure"
     },
     {
+      "gameKey": "Treasure#1363.2",
+      "en": "",
+      "hash": "4CA26C77C031A7B2",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1363",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
       "gameKey": "Treasure#1364.0",
       "en": "personal spoils",
       "hash": "561E1526108BB175",
@@ -4995,6 +5008,19 @@
       "de": "persönlich[a] Beute",
       "conversation": "Treasure#1364",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
+      "gameKey": "Treasure#1364.2",
+      "en": "",
+      "hash": "05270998177DBB86",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1364",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Treasure"
@@ -5014,6 +5040,19 @@
       "sheet": "Treasure"
     },
     {
+      "gameKey": "Treasure#1365.2",
+      "en": "",
+      "hash": "BC62C6023CE7F67B",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1365",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
       "gameKey": "Treasure#1366.0",
       "en": "personal spoils",
       "hash": "2E4EF1BCACD9FF4D",
@@ -5023,6 +5062,19 @@
       "de": "persönlich[a] Beute",
       "conversation": "Treasure#1366",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
+      "gameKey": "Treasure#1366.2",
+      "en": "",
+      "hash": "6BB53B1DC69E2764",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1366",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Treasure"
@@ -5042,6 +5094,19 @@
       "sheet": "Treasure"
     },
     {
+      "gameKey": "Treasure#1367.2",
+      "en": "",
+      "hash": "DC496AFBB11541C1",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1367",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
       "gameKey": "Treasure#1368.0",
       "en": "personal spoils",
       "hash": "558A69B45FD7225A",
@@ -5051,6 +5116,19 @@
       "de": "persönlich[a] Beute",
       "conversation": "Treasure#1368",
       "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Treasure"
+    },
+    {
+      "gameKey": "Treasure#1368.2",
+      "en": "",
+      "hash": "21FDA299922D5F32",
+      "unresolved": false,
+      "fr": "butins personnels",
+      "de": "persönlich[a] Beuten",
+      "conversation": "Treasure#1368",
+      "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Treasure"

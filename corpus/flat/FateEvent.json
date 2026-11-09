@@ -733,6 +733,18 @@
       "sheet": "FateEvent"
     },
     {
+      "gameKey": "FateEvent#22.60",
+      "en": "",
+      "hash": "04D906EA2574026F",
+      "unresolved": false,
+      "de": "Ah, du bist ein Goldschatz! Pass auf, da kommt er schon! ",
+      "conversation": "FateEvent#22",
+      "seq": 60,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
       "gameKey": "FateEvent#22.62",
       "en": "Then who ever will save us!?",
       "hash": "C815A8E2A22FB156",
@@ -1027,6 +1039,18 @@
       "sheet": "FateEvent"
     },
     {
+      "gameKey": "FateEvent#32.63",
+      "en": "",
+      "hash": "11A43540C3285FEA",
+      "unresolved": false,
+      "fr": "Les oranges ont été cueillies et sont rangées dans leurs caisses. Je n'ai plus qu'à attendre que la caravane vienne les prendre...",
+      "conversation": "FateEvent#32",
+      "seq": 63,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
       "gameKey": "FateEvent#33.56",
       "en": "Listen carefully, adventurer. Qiqirn bandits have kidnapped several Highbridge residents and are looking to sell them off to the Amalj'aa for tempering.",
       "hash": "CCFF5BDDEDFA5175",
@@ -1092,6 +1116,18 @@
       "de": "Wie du meinst. Wir Messingklingen werden vor unserer Verantwortung nicht davonlaufen.",
       "conversation": "FateEvent#33",
       "seq": 62,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
+      "gameKey": "FateEvent#33.63",
+      "en": "",
+      "hash": "B37F2817F851C313",
+      "unresolved": false,
+      "fr": "Ah, <if(gnum4,aventurière,aventurier)><nbsp>! J'ai besoin de votre aide<nbsp>! Des bandits qiqirns ont enlevé plusieurs habitants du Viaduc. Je crois qu'ils cherchent à les vendre aux Amalj'aa<nbsp>!",
+      "conversation": "FateEvent#33",
+      "seq": 63,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "FateEvent"
@@ -15235,6 +15271,18 @@
       "sheet": "FateEvent"
     },
     {
+      "gameKey": "FateEvent#413.57",
+      "en": "",
+      "hash": "25D7F44E718EB85C",
+      "unresolved": false,
+      "de": "So mancher Unwissende nennt diese Verbindung eine Ehe, doch es ist eher eine tiefe, ewig haltende Freund<->schaft. Es muss schmerzen, so einen Freund zu verlieren<nbsp>...",
+      "conversation": "FateEvent#413",
+      "seq": 57,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
       "gameKey": "FateEvent#414.56",
       "en": "The Goro hunter still sleeps. The passing of her steed has wounded her more than any tusk or spear ever could.",
       "hash": "885EB5B04E277677",
@@ -20317,6 +20365,17 @@
       "sheet": "FateEvent"
     },
     {
+      "gameKey": "FateEvent#587.60",
+      "en": " ",
+      "hash": "C49B30A3B460BC43",
+      "unresolved": false,
+      "conversation": "FateEvent#587",
+      "seq": 60,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
       "gameKey": "FateEvent#588.56",
       "en": "There you are! Do you have some ceruleum for me?",
       "hash": "F4A868E8DB444A13",
@@ -22515,6 +22574,18 @@
       "sheet": "FateEvent"
     },
     {
+      "gameKey": "FateEvent#653.57",
+      "en": "",
+      "hash": "8171E11678B2AAFF",
+      "unresolved": false,
+      "fr": "Vision X activée... Présence des objets requis confirmée.<br>Veuillez remettre les matériaux rares demandés.",
+      "conversation": "FateEvent#653",
+      "seq": 57,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
       "gameKey": "FateEvent#653.60",
       "en": "Preciousness of scrap confirmed. Reinitiating gratitude protocol.",
       "hash": "67F3C4EB0E802FFF",
@@ -22580,6 +22651,18 @@
       "de": "Scan abgeschlossen. Zielvorgabe nicht erreicht. Erbitte Lieferung der Kommunikator-Bauteile.",
       "conversation": "FateEvent#655",
       "seq": 56,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FateEvent"
+    },
+    {
+      "gameKey": "FateEvent#655.57",
+      "en": "",
+      "hash": "66D564F6A5F1C039",
+      "unresolved": false,
+      "fr": "Vision X activée... Présence des objets requis confirmée.<br>Veuillez remettre les matériaux rares demandés.",
+      "conversation": "FateEvent#655",
+      "seq": 57,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "FateEvent"

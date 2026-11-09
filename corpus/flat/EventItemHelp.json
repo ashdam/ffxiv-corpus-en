@@ -13221,6 +13221,18 @@
       "sheet": "EventItemHelp"
     },
     {
+      "gameKey": "EventItemHelp#2001085",
+      "en": "",
+      "hash": "6D19AA2734E48288",
+      "unresolved": false,
+      "de": "Verbandsmaterial zur Versorgung leichter Verletzungen.",
+      "conversation": "EventItemHelp#2001085",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemHelp"
+    },
+    {
       "gameKey": "EventItemHelp#2001086",
       "en": "A defenseless baby coeurl.",
       "hash": "B5AE80FB2617A846",
@@ -34116,6 +34128,32 @@
       "ja": "きれいに咲き誇ったイル・メグの花",
       "de": "Blumen, die in voller Blüte stehen.",
       "conversation": "EventItemHelp#2002642",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemHelp"
+    },
+    {
+      "gameKey": "EventItemHelp#2002643",
+      "en": "",
+      "hash": "D756A8349D4C2481",
+      "unresolved": false,
+      "fr": "Une fleur d'Il Mheg qui est en pleine floraison.",
+      "de": "Blumen, die in voller Blüte stehen.",
+      "conversation": "EventItemHelp#2002643",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "EventItemHelp"
+    },
+    {
+      "gameKey": "EventItemHelp#2002644",
+      "en": "",
+      "hash": "E27164EF1476FEC5",
+      "unresolved": false,
+      "fr": "Une fleur d'Il Mheg qui est en pleine floraison.",
+      "de": "Blumen, die in voller Blüte stehen.",
+      "conversation": "EventItemHelp#2002644",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

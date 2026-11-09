@@ -19437,6 +19437,44 @@
       "sheet": "Balloon"
     },
     {
+      "gameKey": "Balloon#2513",
+      "en": "",
+      "hash": "7DC396AF6A80E046",
+      "unresolved": false,
+      "de": "Weiter in diese Richtung, <if(gnum4,Deinige,Deiniger)>!",
+      "conversation": "Balloon#2513",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Balloon"
+    },
+    {
+      "gameKey": "Balloon#2514",
+      "en": "",
+      "hash": "D04F7B58FD5035FA",
+      "unresolved": false,
+      "fr": "Allez-y<nbsp>!<br>C'est par ici<nbsp>!",
+      "de": "Hier entlang. Schnellig!",
+      "conversation": "Balloon#2514",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Balloon"
+    },
+    {
+      "gameKey": "Balloon#2515",
+      "en": "",
+      "hash": "54B2367718E7693A",
+      "unresolved": false,
+      "fr": "Poursuivez ce chemin.<br>C'est un peu plus loin.",
+      "de": "Hier irgendwo könnten die Bündigen sein!",
+      "conversation": "Balloon#2515",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Balloon"
+    },
+    {
       "gameKey": "Balloon#2516",
       "en": "Blood and thunder,<br>the Fury keep me!",
       "hash": "88B705656518B86A",

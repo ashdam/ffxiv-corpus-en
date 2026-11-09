@@ -19,6 +19,18 @@
       "sheet": "FCAuthority"
     },
     {
+      "gameKey": "FCAuthority#1",
+      "en": "",
+      "hash": "09078AF666098530",
+      "unresolved": false,
+      "de": "Rekrutierung",
+      "conversation": "FCAuthority#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCAuthority"
+    },
+    {
       "gameKey": "FCAuthority#2",
       "en": "Rank Settings",
       "hash": "EADFE1A50DCD7AE7",
@@ -125,6 +137,18 @@
       "ja": "カンパニーボードの編集",
       "de": "Anschlagbrett bearbeiten",
       "conversation": "FCAuthority#9",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "FCAuthority"
+    },
+    {
+      "gameKey": "FCAuthority#10",
+      "en": "",
+      "hash": "E4AAB442F08A7C08",
+      "unresolved": false,
+      "de": "Chat",
+      "conversation": "FCAuthority#10",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

@@ -4653,6 +4653,18 @@
       "sheet": "GoldSaucerTalk"
     },
     {
+      "gameKey": "GoldSaucerTalk#296.18",
+      "en": "",
+      "hash": "A8954322189A7103",
+      "unresolved": false,
+      "fr": ".",
+      "conversation": "GoldSaucerTalk#296",
+      "seq": 18,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GoldSaucerTalk"
+    },
+    {
       "gameKey": "GoldSaucerTalk#297.17",
       "en": "<colortype(500)><edgecolortype(501)>Stamina Tablet<edgecolortype(0)><colortype(0)><br>Prevents stamina reduction for 10 seconds. If stamina is zero, a small amount is restored.",
       "hash": "52B882C96EA75578",

@@ -5,6 +5,20 @@
   "conversation": "RacingChocoboName",
   "entries": [
     {
+      "gameKey": "RacingChocoboName#1",
+      "en": " ",
+      "hash": "9C9CAE6205A2177A",
+      "unresolved": false,
+      "fr": " ",
+      "ja": " ",
+      "de": " ",
+      "conversation": "RacingChocoboName#1",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "RacingChocoboName"
+    },
+    {
       "gameKey": "RacingChocoboName#3",
       "en": "Teioh",
       "hash": "B7E0C2A90A541F24",
