@@ -37822,6 +37822,30 @@
       "sheet": "InstanceContentTextData"
     },
     {
+      "gameKey": "InstanceContentTextData#18729",
+      "en": "",
+      "hash": "2DBF6FD4D184C1F0",
+      "unresolved": false,
+      "fr": "Je pensais vous révéler <if([lnum1==1],une carte,<switch(lnum1,une,deux,trois,quatre,cinq,six)> cartes)>, mais comme vous n'avez pas abandonné au cours de la première épreuve malgré vos difficultés, en voilà <switch(lnum2,une,deux,trois,quatre,cinq,six)>, kupo<nbsp>!",
+      "conversation": "InstanceContentTextData#18729",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
+      "gameKey": "InstanceContentTextData#18730",
+      "en": "",
+      "hash": "C25004B901983308",
+      "unresolved": false,
+      "fr": "Entre nous, je ne révèle d'ordinaire <if([lnum1==1],qu'une carte,que <switch(lnum1,une,deux,trois,quatre,cinq,six)> cartes)>, mais vous vous êtes si bien débrouillé sur la première épreuve que j'ai décidé de vous en montrer <switch(lnum2,une,deux,trois,quatre,cinq,six)><nbsp>!",
+      "conversation": "InstanceContentTextData#18730",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
       "gameKey": "InstanceContentTextData#18731",
       "en": "Have yourself a good eyeful before I put them away.",
       "hash": "73B855926AC66E48",
@@ -37830,6 +37854,18 @@
       "ja": "ちゃんと覚えたクポ？<br>あと「5秒」で、サービスタイムも終了クポよ？",
       "de": "Schaut euch die Karten gut an, bevor ich sie wieder umdrehe, kupo.",
       "conversation": "InstanceContentTextData#18731",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
+      "gameKey": "InstanceContentTextData#18732",
+      "en": "",
+      "hash": "5F5CF95BE3C484D4",
+      "unresolved": false,
+      "fr": "Et voici la première carte, kupo<nbsp>!",
+      "conversation": "InstanceContentTextData#18732",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -62508,6 +62544,18 @@
       "sheet": "InstanceContentTextData"
     },
     {
+      "gameKey": "InstanceContentTextData#25112",
+      "en": "",
+      "hash": "9033E6EB2A500CA0",
+      "unresolved": false,
+      "de": "<split(<string(gstr1)>, ,1)>, sieh! Noch mehr meiner verlorenen Geschwister!",
+      "conversation": "InstanceContentTextData#25112",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
       "gameKey": "InstanceContentTextData#25113",
       "en": "Preparing to fire...",
       "hash": "29596B4F5917AC50",
@@ -66827,6 +66875,20 @@
       "sheet": "InstanceContentTextData"
     },
     {
+      "gameKey": "InstanceContentTextData#25907",
+      "en": "",
+      "hash": "F5CBBCF399B2BEE0",
+      "unresolved": false,
+      "fr": "ポロッゴの案内に従うんだよ……！",
+      "ja": "ポロッゴの案内に従うんだよ……！",
+      "de": "ポロッゴの案内に従うんだよ……！",
+      "conversation": "InstanceContentTextData#25907",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
       "gameKey": "InstanceContentTextData#25908",
       "en": "Next, we need to get the water flowing again.",
       "hash": "0608BD8CE76FD989",
@@ -68085,6 +68147,20 @@
       "ja": "提督として覚悟を決めてここにきたのだ。<br>何としてでも、コボルド族との融和を果たしてみせる！",
       "de": "Ich kam mit gestähltem Herzen hierher. Limsa Lominsa wird ihren Frieden haben, ganz gleich, was es mich kostet!",
       "conversation": "InstanceContentTextData#26321",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
+      "gameKey": "InstanceContentTextData#26322",
+      "en": "",
+      "hash": "185F768EB76018C9",
+      "unresolved": false,
+      "fr": "私とて、かつては海賊の頭領だったのだ……<br>この身はそんなにやわではない！",
+      "ja": "私とて、かつては海賊の頭領だったのだ……<br>この身はそんなにやわではない！",
+      "de": "私とて、かつては海賊の頭領だったのだ……<br>この身はそんなにやわではない！",
+      "conversation": "InstanceContentTextData#26322",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -93028,6 +93104,18 @@
       "sheet": "InstanceContentTextData"
     },
     {
+      "gameKey": "InstanceContentTextData#34824",
+      "en": "",
+      "hash": "51B43044986FF224",
+      "unresolved": false,
+      "fr": "Le plus gros s'apprête à charger, attention<nbsp>!",
+      "conversation": "InstanceContentTextData#34824",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
       "gameKey": "InstanceContentTextData#34825",
       "en": "We must defeat their champion at all costs!",
       "hash": "777CB011ECA151AA",
@@ -93120,6 +93208,18 @@
       "ja": "蒼の竜騎士の力、見せてやる……！",
       "de": "Sie werden den Zorn des Azur-Dracheneiters zu spüren bekommen!",
       "conversation": "InstanceContentTextData#34831",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
+    },
+    {
+      "gameKey": "InstanceContentTextData#34832",
+      "en": "",
+      "hash": "E3541CD32CD0875D",
+      "unresolved": false,
+      "fr": "Le gros dragon prépare une attaque<nbsp>! Reculez, vite<nbsp>!",
+      "conversation": "InstanceContentTextData#34832",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -112186,6 +112286,17 @@
       "kind": "ambient",
       "sheet": "InstanceContentTextData",
       "scope": "territory/1199"
+    },
+    {
+      "gameKey": "InstanceContentTextData#38737",
+      "en": " ",
+      "hash": "88E544887E8986AF",
+      "unresolved": false,
+      "conversation": "InstanceContentTextData#38737",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "InstanceContentTextData"
     },
     {
       "gameKey": "InstanceContentTextData#38740",

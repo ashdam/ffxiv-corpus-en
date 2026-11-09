@@ -272,7 +272,7 @@
       "ja": "うむ、よくやってくれた！<br>敵の砦は奴らの仲間で溢れているが、<br>お前の一撃が、きっと我々の突破口になるだろう！",
       "de": "Du konntest drei der Rotbäuche ausschalten?! Ausgezeichnet! Das könnte die entscheidende Lücke in ihren Verteidigungsring geschlagen haben! Wir werden sofort einen Angriffsplan ausarbeiten.",
       "conversation": "quest/007/GaiUsa608_00770",
-      "seq": 12,
+      "seq": 11,
       "speaker": "FAUCERTAUX",
       "speakerKind": "character",
       "speakerGender": "male",

@@ -235,7 +235,7 @@
       "ja": "冒険者さん、ありがとうございました。<br>これで巡礼者の方々も、安心してお参りできるでしょう。",
       "de": "Danke, dass du die Gegend um Thals Rast ein bisschen sicherer gemacht hast, Abenteurer<if(gnum4,in,)>. Das sollte es seinen Schäflein erleichtern, wieder zu ihrem Herrn zu finden.",
       "conversation": "quest/007/GaiUsa502_00754",
-      "seq": 10,
+      "seq": 9,
       "speaker": "KYOKYOZO",
       "speakerKind": "character",
       "speakerGender": "female",

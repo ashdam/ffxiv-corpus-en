@@ -675,6 +675,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#17.9",
+      "en": "",
+      "hash": "5A2F27B81116DF7F",
+      "unresolved": false,
+      "de": "Bahamut",
+      "conversation": "QuestRedoChapterUI#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#17.10",
       "en": "Ripped from the heavens by the nefarious designs of Nael van Darnus, the false moon Dalamud hurtled into Vylbrand, its shattering impact forming a network of labyrinthine caverns beneath the surface. Braving dangers untold, the Warrior of Light plumbs the subterranean depths, that the truth behind the Seventh Umbral Calamity may be unearthed.",
       "hash": "BFDBE995E6FCAF82",
@@ -698,6 +710,18 @@
       "de": "Kristallturm",
       "conversation": "QuestRedoChapterUI#18",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#18.9",
+      "en": "",
+      "hash": "CEFBB22C2EFE1F39",
+      "unresolved": false,
+      "de": "Kristallturm",
+      "conversation": "QuestRedoChapterUI#18",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -731,6 +755,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#19.9",
+      "en": "",
+      "hash": "E17F07226D8A9687",
+      "unresolved": false,
+      "de": "Alexander",
+      "conversation": "QuestRedoChapterUI#19",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#19.10",
       "en": "This clockwork colossus emerged from the rushing waters of the Thaliak to loom over the lush hinterlands of Dravania. Summoned to stave off the threat of the sleeping primal before it stirs, the Warrior of Light steps within, and the curtain rises on a battle that will transcend space and time...",
       "hash": "800E4626E5FC1606",
@@ -754,6 +790,18 @@
       "de": "Schatten von Mhach",
       "conversation": "QuestRedoChapterUI#20",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#20.9",
+      "en": "",
+      "hash": "A652D93E59CF8CB8",
+      "unresolved": false,
+      "de": "Schatten von Mhach",
+      "conversation": "QuestRedoChapterUI#20",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -787,6 +835,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#21.9",
+      "en": "",
+      "hash": "B59A555674684002",
+      "unresolved": false,
+      "de": "Kriegstriade",
+      "conversation": "QuestRedoChapterUI#21",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#21.10",
       "en": "Sealed deep within a research facility on Azys Lla are three eikons, beings of fearsome power that have slumbered there since the fall of the Allag. When one eikon─Sephirot, the Fiend─threatens to stir, the Warrior of Light sets off at the behest of the enigmatic Unukalhai to face it in an epic struggle...",
       "hash": "D90B6EDA497527EB",
@@ -810,6 +870,18 @@
       "de": "Omega",
       "conversation": "QuestRedoChapterUI#22",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#22.9",
+      "en": "",
+      "hash": "B8F0F381653C3C77",
+      "unresolved": false,
+      "de": "Omega",
+      "conversation": "QuestRedoChapterUI#22",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -843,6 +915,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#23.9",
+      "en": "",
+      "hash": "CF0D98B91CD81747",
+      "unresolved": false,
+      "de": "Rückkehr nach Ivalice",
+      "conversation": "QuestRedoChapterUI#23",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#23.10",
       "en": "Fresh off their widely acclaimed performance of <italic(1)>The Zodiac Brave Story<italic(0)> in Garlemald, the airborne theater troupe <italic(1)>Prima Vista<italic(0)> sets anchor in Kugane with a new story to be told. What brings them to these far lands? Sit back and let them regale you with a tale of the fabled kingdom of Ivalice, and perhaps you will understand...",
       "hash": "2A725D3F849509A0",
@@ -866,6 +950,18 @@
       "de": "Der Mythos der vier Tierheiligen",
       "conversation": "QuestRedoChapterUI#24",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#24.9",
+      "en": "",
+      "hash": "698CEAC95214C83B",
+      "unresolved": false,
+      "de": "Die vier Tierheiligen",
+      "conversation": "QuestRedoChapterUI#24",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -899,6 +995,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#25.9",
+      "en": "",
+      "hash": "764FB11D43079873",
+      "unresolved": false,
+      "fr": "A Realm Reborn",
+      "de": "Hildibrands Fälle",
+      "conversation": "QuestRedoChapterUI#25",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#25.10",
       "en": "Feared lost forever when the Calamity struck, a true Eorzean hero and legend has returned to the realm! Join Hildibrand Manderville, agent of enquiry, inspector extraordinaire, and his talented and charming assistant Nashu Mhakaracca as they scour all creation to solve the most perplexing cases to plague the people of Eorzea.",
       "hash": "E0846F9BE1535BAC",
@@ -922,6 +1031,19 @@
       "de": "Hildibrands Fälle (Heavensward)",
       "conversation": "QuestRedoChapterUI#26",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#26.9",
+      "en": "",
+      "hash": "50363124201C871F",
+      "unresolved": false,
+      "fr": "Heavensward",
+      "de": "Hildibrands Fälle (Heavensward)",
+      "conversation": "QuestRedoChapterUI#26",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -955,6 +1077,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#27.9",
+      "en": "",
+      "hash": "187D1D67781F159A",
+      "unresolved": false,
+      "fr": "Stormblood",
+      "de": "Hildibrands Fälle (Stormblood)",
+      "conversation": "QuestRedoChapterUI#27",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#27.10",
       "en": "When Hildibrand, as is his wont, is sent sailing through the skies across the Ruby Sea, Nashu Mhakaracca sets her sights eastward. No sooner does she arrive in the port city of Kugane than she hears rumors of a dastardly thief known as the Wolf Burglar. And so the stage is set for a new chapter of intrigue and adventure...",
       "hash": "4FACFC53EBE9E4CF",
@@ -983,6 +1118,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#28.9",
+      "en": "",
+      "hash": "548F11467F3DA1AB",
+      "unresolved": false,
+      "de": "Sankt Endalim-Theologikum",
+      "conversation": "QuestRedoChapterUI#28",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#28.10",
       "en": "The dreadful truth behind the Dragonsong War laid bare by the Warrior of Light, the Ishgardian populace was cast into confusion and despair─the entire basis of their history and faith shaken to the core. In these uncertain times, even the young students at this storied academy cannot avoid being embroiled in a web of uncertainty and intrigue...",
       "hash": "72F7010A5A93D1C0",
@@ -1006,6 +1153,19 @@
       "de": "Drachenkrieg (Epilog)",
       "conversation": "QuestRedoChapterUI#29",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#29.9",
+      "en": "",
+      "hash": "7E1840316E33C901",
+      "unresolved": false,
+      "fr": "Réminiscences",
+      "de": "Drachenkrieg (Epilog)",
+      "conversation": "QuestRedoChapterUI#29",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -2392,6 +2552,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#63.9",
+      "en": "",
+      "hash": "8B3753DD101D4352",
+      "unresolved": false,
+      "fr": "Gladiateur",
+      "de": "Gladiator",
+      "conversation": "QuestRedoChapterUI#63",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#63.10",
       "en": "In Ul'dah, no form of entertainment is held in higher regard than the gladiatorial arts on display at the Coliseum, many of whose champions cut their teeth at the Gladiators' Guild. Drawn to the blade and shield, you take up training under Guildmaster Mylla, but soon you discover there is more to the Coliseum than meets the eye.",
       "hash": "03CE924F699B8B98",
@@ -2415,6 +2588,19 @@
       "de": "Marodeur",
       "conversation": "QuestRedoChapterUI#64",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#64.9",
+      "en": "",
+      "hash": "5780494A08232C9C",
+      "unresolved": false,
+      "fr": "Maraudeur",
+      "de": "Marodeur",
+      "conversation": "QuestRedoChapterUI#64",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -2448,6 +2634,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#65.9",
+      "en": "",
+      "hash": "64318526BB81AEFF",
+      "unresolved": false,
+      "fr": "Élémentaliste",
+      "de": "Druide",
+      "conversation": "QuestRedoChapterUI#65",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#65.10",
       "en": "Conjury is an arcane art which evolved from man's communion with the elementals, and preserving its ways and imparting its secrets is the domain of the Conjurers' Guild. During your training under Brother E<-->Sumi<-->Yan, you encounter a strong-willed young conjurer-in-training, with whom you will learn what it truly means to be one with nature.",
       "hash": "44063D257878403A",
@@ -2471,6 +2670,19 @@
       "de": "Hermetiker",
       "conversation": "QuestRedoChapterUI#66",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#66.9",
+      "en": "",
+      "hash": "F4F7DF30EA623E55",
+      "unresolved": false,
+      "fr": "Arcaniste",
+      "de": "Hermetiker",
+      "conversation": "QuestRedoChapterUI#66",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -2504,6 +2716,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#67.9",
+      "en": "",
+      "hash": "2471BF1462B1EE00",
+      "unresolved": false,
+      "fr": "Pugiliste",
+      "de": "Faustkämpfer",
+      "conversation": "QuestRedoChapterUI#67",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#67.10",
       "en": "Pugilism can be traced back to bare-handed battles in the Coliseum, and a legendary brawler whose unrivaled strength and skill inspired the founding of the Pugilists' Guild. It is there that you begin your training under Hamon Holyfist, a legend in his own right, but a shocking revelation threatens to shake the guild to its very foundation.",
       "hash": "37A0413D8DE3D8B5",
@@ -2527,6 +2752,19 @@
       "de": "Pikenier",
       "conversation": "QuestRedoChapterUI#68",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#68.9",
+      "en": "",
+      "hash": "D5D5BC5ED751BD73",
+      "unresolved": false,
+      "fr": "Maître d'hast",
+      "de": "Pikenier",
+      "conversation": "QuestRedoChapterUI#68",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -2560,6 +2798,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#69.9",
+      "en": "",
+      "hash": "EAB6C43FCF88A89E",
+      "unresolved": false,
+      "fr": "Surineur",
+      "de": "Schurke",
+      "conversation": "QuestRedoChapterUI#69",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#69.10",
       "en": "The Dutiful Sisters of the Edelweiss. A seemingly innocent convent that, in truth, is the base of operations for the Rogues' Guild, the collective of men and women who work from the shadows to preserve peace in Limsa Lominsa. Here you learn the tricks of the trade under the watchful eye of Guildmaster Jacke, and discover the dark underbelly of La Noscea.",
       "hash": "39717DAC7ADAAB6C",
@@ -2588,6 +2839,19 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#70.9",
+      "en": "",
+      "hash": "52A26A06490E67E8",
+      "unresolved": false,
+      "fr": "Archer",
+      "de": "Waldläufer",
+      "conversation": "QuestRedoChapterUI#70",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#70.10",
       "en": "A fusion of styles from Elezen and Miqo'te archery gave rise to the bowmanship boasted by the Archers' Guild of Gridania, and it is there you train to sharpen your eye under the guidance of Luciane, master of the guild. Though but a fledgling archer, your skills with a bow are soon put to the test when outlaws threaten the sanctity of the Twelveswood.",
       "hash": "F8E4BB4F13C4BA10",
@@ -2611,6 +2875,19 @@
       "de": "Thaumaturg",
       "conversation": "QuestRedoChapterUI#71",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#71.9",
+      "en": "",
+      "hash": "9965CB3A638C0E73",
+      "unresolved": false,
+      "fr": "Occultiste",
+      "de": "Thaumaturg",
+      "conversation": "QuestRedoChapterUI#71",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -5749,6 +6026,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#152.9",
+      "en": "",
+      "hash": "A9014D1F5A7B546E",
+      "unresolved": false,
+      "de": "Weiser",
+      "conversation": "QuestRedoChapterUI#152",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#152.10",
       "en": "Experts in medicine, aetherology, and sorcery, sages are highly trained practitioners of both healing and combat. One such somanoutic spellcaster is Lalah Jinjahl, a Forum operative come to Limsa Lominsa on the trail of dangerous fugitives. Together, you set out to apprehend a trio of criminals wanted for murder and larceny, but there may be more to this case than meets the eye...",
       "hash": "22E4B42C61D0B0AB",
@@ -5772,6 +6061,18 @@
       "de": "Schnitter",
       "conversation": "QuestRedoChapterUI#153",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#153.9",
+      "en": "",
+      "hash": "9731BC44AF0D9F57",
+      "unresolved": false,
+      "de": "Schnitter",
+      "conversation": "QuestRedoChapterUI#153",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -6092,6 +6393,18 @@
       "de": "Hildibrands Rückkehr",
       "conversation": "QuestRedoChapterUI#164",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#164.9",
+      "en": "",
+      "hash": "4A67D8473C2A3BFD",
+      "unresolved": false,
+      "fr": "Endwalker",
+      "conversation": "QuestRedoChapterUI#164",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -6677,6 +6990,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#184.9",
+      "en": "",
+      "hash": "1324C6E0E7EC1C97",
+      "unresolved": false,
+      "fr": "L'Arcadion",
+      "conversation": "QuestRedoChapterUI#184",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#184.10",
       "en": "Here at the Arcadion, you'll find a grand spectacle unlike any other. The realm's greatest fighters pit fist against fist and magick against magick, putting their lives on the line as crowds howl and clamor, each clash more visceral than the last. Step into the arena if you dare, and either rise to become champion, or fall forever in ignominy.",
       "hash": "94BE82DAFFE7B496",
@@ -6884,6 +7209,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#191.9",
+      "en": "",
+      "hash": "E0AD04EBBEF1D2DF",
+      "unresolved": false,
+      "fr": "Endwalker",
+      "conversation": "QuestRedoChapterUI#191",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#191.10",
       "en": "The Studium is in no short supply of research and scholars, and yet they are ever want for capable assistants to aid in their search for the rare and peculiar. Being one such individual yourself, it was only a matter of course that Qih Aliapoh would approach you with a proposition─to become an assistant to the faculty. That their demands should seem unreasonable is assured, and yet you are nevertheless willing to lend them your expertise. What new discoveries await on the horizon?",
       "hash": "9EFCFFCB22E18696",
@@ -6907,6 +7244,18 @@
       "de": "Aufträge des Instituts für Archäologie",
       "conversation": "QuestRedoChapterUI#192",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#192.9",
+      "en": "",
+      "hash": "3B0C4CB71F78965F",
+      "unresolved": false,
+      "fr": "Rurusha",
+      "conversation": "QuestRedoChapterUI#192",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -6940,6 +7289,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#193.9",
+      "en": "",
+      "hash": "8D8AE58EB20C556D",
+      "unresolved": false,
+      "fr": "Jude",
+      "conversation": "QuestRedoChapterUI#193",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#193.10",
       "en": "<colortype(500)><edgecolortype(501)>Certain delivery objectives will be completed automatically.<edgecolortype(0)><colortype(0)><br>You have been introduced to Jude, member of both the Faculty of Astronomy and Classical Astronomer's Association. Despite its illustrious title, he is the sole member of the latter, remaining to make use of a telescope he has found to be in disrepair. With your assistance, it may be possible to fashion a new one, and at last realize his heart's desire─to find the Azure Star.",
       "hash": "2CD1C242AE112B79",
@@ -6963,6 +7324,18 @@
       "de": "Aufträge des Medizinischen Instituts",
       "conversation": "QuestRedoChapterUI#194",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#194.9",
+      "en": "",
+      "hash": "947D8D8495C3C95D",
+      "unresolved": false,
+      "fr": "Debroye",
+      "conversation": "QuestRedoChapterUI#194",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -6996,6 +7369,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#195.9",
+      "en": "",
+      "hash": "DCD27F68FF493C5E",
+      "unresolved": false,
+      "fr": "Hinageshi",
+      "conversation": "QuestRedoChapterUI#195",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#195.10",
       "en": "<colortype(500)><edgecolortype(501)>Certain delivery objectives will be completed automatically.<edgecolortype(0)><colortype(0)><br>Hinageshi would ask that you assist Professor Tankin in his research─that being, the recreation of other cultures' lifestyles to better ascertain which might enrich the lives of the people of Sharlayan. Indeed, he is squarely focused on his work and naught else. So much so, that he has failed to notice the affection of his assistant, Hinageshi. It is her hope you can aid in pursuits both academic and romantic.",
       "hash": "31BFD43506E3601A",
@@ -7019,6 +7404,18 @@
       "de": "Aufträge des Ätherologischen Instituts",
       "conversation": "QuestRedoChapterUI#196",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#196.9",
+      "en": "",
+      "hash": "E02391AA2CA44013",
+      "unresolved": false,
+      "fr": "T'laqa Tia",
+      "conversation": "QuestRedoChapterUI#196",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -7052,6 +7449,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#197.9",
+      "en": "",
+      "hash": "E2757AF3336C6E93",
+      "unresolved": false,
+      "fr": "Endwalker",
+      "conversation": "QuestRedoChapterUI#197",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#197.10",
       "en": "Scholarch Montichaigne has proposed a meeting of the minds, which sees you tasked with bringing together the eminent representatives of five separate fields of study. Join Searchingway, your passionately curious lunar visitor, in auditing this intellectual assembly, and help steer proceedings to a mutually beneficial conclusion.",
       "hash": "DF8B442A5B477373",
@@ -7075,6 +7484,18 @@
       "de": "Aufträge von Wachumeqimeqi (Handwerker/Sammler): Auftakt",
       "conversation": "QuestRedoChapterUI#198",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#198.9",
+      "en": "",
+      "hash": "E46F755E9E709F38",
+      "unresolved": false,
+      "fr": "Dawntrail",
+      "conversation": "QuestRedoChapterUI#198",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -7108,6 +7529,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#199.9",
+      "en": "",
+      "hash": "152AAB3488575955",
+      "unresolved": false,
+      "fr": "Rral Soj",
+      "conversation": "QuestRedoChapterUI#199",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#199.10",
       "en": "<colortype(500)><edgecolortype(501)>Certain delivery objectives will be completed automatically.<edgecolortype(0)><colortype(0)><br>If there's one code Rral Soj lives by, it's to never keep a customer waiting. Essential metalwares are her expertise, and having them ready in a timely fashion is a matter of pride. Her new assistant Papawni, however, is a former potsworn who prefers a more elaborate process, specializing in lavish novelties. You must help these two complete opposites work in tandem by lighting the spark of collaboration between them, and hope that given time, they may forge an unbreakable bond of trust.",
       "hash": "FF34792D4D942322",
@@ -7131,6 +7564,18 @@
       "de": "Aufträge von Pamekas Briefwerkstatt",
       "conversation": "QuestRedoChapterUI#200",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#200.9",
+      "en": "",
+      "hash": "06F15CA0AFED4069",
+      "unresolved": false,
+      "fr": "Pameka",
+      "conversation": "QuestRedoChapterUI#200",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -7164,6 +7609,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#201.9",
+      "en": "",
+      "hash": "856BF0DF4AA2346F",
+      "unresolved": false,
+      "fr": "Xeerol Ja",
+      "conversation": "QuestRedoChapterUI#201",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#201.10",
       "en": "<colortype(500)><edgecolortype(501)>Certain delivery objectives will be completed automatically.<edgecolortype(0)><colortype(0)><br>Although Xeerol Ja has given her all to keep her beverage business afloat, the menu of bland brews has failed to attract new clientele, and her funds are dwindling by the day. To breathe new life into the Mamool Ja's establishment, you and the Moblin gatherer Halnaruk must contribute your respective expertise to develop fresh new blends that will excite the palate, nourish the body, and attract crowds from every corner of Tuliyollal.",
       "hash": "9E4E993D65C019D5",
@@ -7187,6 +7644,18 @@
       "de": "Aufträge von Shunyes Apotheke",
       "conversation": "QuestRedoChapterUI#202",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#202.9",
+      "en": "",
+      "hash": "97121B1C48595DB8",
+      "unresolved": false,
+      "fr": "Shunye",
+      "conversation": "QuestRedoChapterUI#202",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"
@@ -7220,6 +7689,18 @@
       "sheet": "QuestRedoChapterUI"
     },
     {
+      "gameKey": "QuestRedoChapterUI#203.9",
+      "en": "",
+      "hash": "5EE6F8B089DBEE58",
+      "unresolved": false,
+      "fr": "Donuhanu",
+      "conversation": "QuestRedoChapterUI#203",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
       "gameKey": "QuestRedoChapterUI#203.10",
       "en": "<colortype(500)><edgecolortype(501)>Certain delivery objectives will be completed automatically.<edgecolortype(0)><colortype(0)><br>Peddler of fish both fancy and fantastic, Donuhanu is struggling to stay profitable in Tuliyollal's busiest marketplace. Fortune smiles upon the fishmonger with the arrival of Pashenine, a Whalaqee lad desiring to expand his repertoire of piscatory phantasms. To aid these two odd fish in their endeavors, you will need to think outside the tank and reel in catches the likes of which you can only dream...",
       "hash": "83917D9178E40CF9",
@@ -7243,6 +7724,18 @@
       "de": "Aufträge von Wachumeqimeqi (Handwerker/Sammler): Abschluss",
       "conversation": "QuestRedoChapterUI#204",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "QuestRedoChapterUI"
+    },
+    {
+      "gameKey": "QuestRedoChapterUI#204.9",
+      "en": "",
+      "hash": "F408B763D024626E",
+      "unresolved": false,
+      "fr": "Dawntrail",
+      "conversation": "QuestRedoChapterUI#204",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "QuestRedoChapterUI"

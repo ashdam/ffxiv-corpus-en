@@ -13,7 +13,7 @@
       "ja": "よお、シェルダレー諸島に行きたいのか？",
       "de": "Ahoi, <if(gnum4,Mädel,Bursche)>. Du willst in die sonnigen Cieldaläen, nehme ich an?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 1,
+      "seq": 0,
       "speaker": "BARDIN",
       "speakerKind": "character",
       "speakerGender": "unknown",
@@ -29,7 +29,7 @@
       "ja": "自分の島に向かうには、ホームワールドに戻る必要があります。",
       "de": "Um zu deiner Insel fahren zu können, musst du auf deine Stammwelt zurückkehren.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 2,
+      "seq": 1,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -43,7 +43,7 @@
       "ja": "どうする？",
       "de": "Was möchtest du tun?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 3,
+      "seq": 2,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -57,7 +57,7 @@
       "ja": "あなたの島へ向かいますか？",
       "de": "Zu deiner Insel fahren?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 4,
+      "seq": 3,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -71,7 +71,7 @@
       "ja": "誰の島に行く？",
       "de": "Zu wessen Insel möchtest du fahren?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 5,
+      "seq": 4,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -85,7 +85,7 @@
       "ja": "何を聞く？",
       "de": "Was möchtest du fragen?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 6,
+      "seq": 5,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -99,7 +99,7 @@
       "ja": "「自分の島」に行く",
       "de": "Zur eigenen Insel fahren",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 7,
+      "seq": 6,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -113,7 +113,7 @@
       "ja": "「知り合いの島」に行く",
       "de": "Zu einer anderen Insel fahren",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 8,
+      "seq": 7,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -127,7 +127,7 @@
       "ja": "説明を聞く",
       "de": "Etwas fragen",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 9,
+      "seq": 8,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -141,7 +141,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 10,
+      "seq": 9,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -155,7 +155,7 @@
       "ja": "「自分の島」とは？",
       "de": "Ich habe eine eigene Insel?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 11,
+      "seq": 10,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -169,7 +169,7 @@
       "ja": "「自分の島」とは？",
       "de": "Meine eigene Insel?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 12,
+      "seq": 11,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -183,7 +183,7 @@
       "ja": "「知り合いの島」とは？",
       "de": "Andere Leute haben ihre eigenen Inseln?",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 13,
+      "seq": 12,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -197,7 +197,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 14,
+      "seq": 13,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -211,7 +211,7 @@
       "ja": "フレンド",
       "de": "Zu einem Freund",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 15,
+      "seq": 14,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -225,7 +225,7 @@
       "ja": "フリーカンパニーメンバー",
       "de": "Zu einem Mitglied meiner Freien Ge<->sell<->schaft",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 16,
+      "seq": 15,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -239,7 +239,7 @@
       "ja": "パーティメンバー",
       "de": "Zu einem Grup<->pen<->mit<->glied",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 17,
+      "seq": 16,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -253,7 +253,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 18,
+      "seq": 17,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -267,7 +267,7 @@
       "ja": "シェルダレー諸島にあるっていう、アンタの島のことだろ？<br>タタルの嬢ちゃんから譲ってもらったんだってな。<br>夢があっていいじゃねぇか！",
       "de": "Ja, deine Insel in den Cieldaläen. Von der Dame Tataru. Ha, ich kann mir vorstellen, dass sich das nach wie vor wie ein Traum anfühlt. Aber nein, du hast tatsächlich deine eigene Insel.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 19,
+      "seq": 18,
       "speaker": "BARDIN",
       "speakerKind": "character",
       "speakerGender": "unknown",
@@ -283,7 +283,7 @@
       "ja": "自分の島では、自由に島を探索したり、<br>畑作りや動物の飼育をしたりだとか、気ままに過ごせるみてぇだ。<br>お前もいつか、自分の島を持てるといいな！",
       "de": "Geh sie erkunden oder sonne dich einfach im Sand! Wenn dir der Sinn nach Gärtnern steht, baust du eben ein bisschen Gemüse an, oder du hältst dir ein paar Tierchen. Dir sind keine Grenzen gesetzt.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 20,
+      "seq": 19,
       "speaker": "BARDIN",
       "speakerKind": "character",
       "speakerGender": "unknown",
@@ -299,7 +299,7 @@
       "ja": "無人島開拓を開放するには、<br>クエスト「暁月のフィナーレ」をコンプリートし、<br>クエスト「出航！ いざ、無人島へ！」を進める必要があります。",
       "de": "Um dein eigenes Inselparadies freispielen zu können, müssen die Aufträge „Endschreiter“ des Hauptszenarios (Endwalker) sowie „Sonne, Sand und Inselstrand“ abgeschlossen sein.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 21,
+      "seq": 20,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -313,7 +313,7 @@
       "ja": "無人島開拓を開放するには、<br>オールド・シャーレアンの「大繁盛商店の新人店員」から受注できる、<br>クエスト「出航！ いざ、無人島へ！」を進める必要があります。",
       "de": "Um dein eigenes Inselparadies freispielen zu können, muss der Auftrag „Sonne, Sand und Inselstrand“ abgeschlossen sein. Du kannst ihn in Alt-Sharlayan bei dem Marktschreier der Wohlstandsmanufaktur beginnen.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 22,
+      "seq": 21,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -327,7 +327,7 @@
       "ja": "シェルダレー諸島のいくつかの島を、<br>冒険者たちがこぞって開拓しているんだとよ。<br>知り合いの島に行きたいときは、俺が乗せてってやるぜ！",
       "de": "Einige der Inseln in den Cieldaläen gehören jetzt <if(gnum4,Aben<->teu<->re<->rin<->nen,Abenteurern)> wie dir. Wenn du jemanden kennst, der sich derart glücklich schätzen darf, bring ich dich gerne hin!",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 23,
+      "seq": 22,
       "speaker": "BARDIN",
       "speakerKind": "character",
       "speakerGender": "unknown",
@@ -343,7 +343,7 @@
       "ja": "あなたのパーティメンバー、<br>フリーカンパニーメンバー、フレンドが島を所持している場合、<br>遊びに行くことができます。",
       "de": "Du kannst die Inseln deiner Freunde, Grup<->pen<->mit<->glieder und Mitglieder deiner Freien Ge<->sell<->schaft besuchen.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 24,
+      "seq": 23,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -357,7 +357,7 @@
       "ja": "ただし、島に誰もいない場合や、訪問者上限の15名が入島中の場合、<br>島主が入場禁止にしている場合は、その島に入ることはできません。",
       "de": "Allerdings geht das nur, wenn der Inselbesitzer dies auch erlaubt oder sich nicht bereits 15 Leute auf der entsprechenden Insel tummeln.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 25,
+      "seq": 24,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"
@@ -371,7 +371,7 @@
       "ja": "また、その島主のホームワールド以外からは、<br>知り合いの島へ入島することはできません。",
       "de": "Beachte bitte auch, dass du auf jemandes Stammwelt sein musst, um dessen Insel besuchen zu können.",
       "conversation": "custom/007/CtsMjiEntrance_00798",
-      "seq": 26,
+      "seq": 25,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiEntrance_00798"

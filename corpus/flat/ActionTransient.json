@@ -6580,6 +6580,18 @@
       "sheet": "ActionTransient"
     },
     {
+      "gameKey": "ActionTransient#3497",
+      "en": "",
+      "hash": "5E2AAF798DE7A80D",
+      "unresolved": false,
+      "de": "Du fügst dem Ziel feuerbasierten magischen Schaden zu.<br>Attacke-Wert: 170<br>Zusatzeffekt: Entfernt <colortype(506)><edgecolortype(507)>Schatteneis<edgecolortype(0)><colortype(0)> oder, falls nicht in diesem Status, bewirkt <colortype(506)><edgecolortype(507)>Lichtfeuer<edgecolortype(0)><colortype(0)>.<br>Dauer: 10 Sekunden<if([gnum72>=42],<if([gnum68==7],<br>Zusatzeffekt: 40 % Wahr<->schein<->lich<->keit\\, dass das nächste <colortype(502)><edgecolortype(503)>Feuga<edgecolortype(0)><colortype(0)> sofort und ohne MP-Verbrauch gewirkt wird.<br>Dauer: 12 Sekunden,<if([gnum68==25],<br>Zusatzeffekt: 40 % Wahr<->schein<->lich<->keit\\, dass das nächste <colortype(502)><edgecolortype(503)>Feuga<edgecolortype(0)><colortype(0)> sofort und ohne MP-Verbrauch gewirkt wird.<br>Dauer: 12 Sekunden,)>)>,)>",
+      "conversation": "ActionTransient#3497",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "ActionTransient"
+    },
+    {
       "gameKey": "ActionTransient#3504",
       "en": "Delivers a ranged attack.",
       "hash": "4EA47D822845F517",

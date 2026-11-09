@@ -94113,6 +94113,20 @@
       "sheet": "LogMessage"
     },
     {
+      "gameKey": "LogMessage#9503",
+      "en": "",
+      "hash": "9FC9B161C017B468",
+      "unresolved": false,
+      "fr": "エデンがエーテルを加速させはじめた！",
+      "ja": "エデンがエーテルを加速させはじめた！",
+      "de": "エデンがエーテルを加速させはじめた！",
+      "conversation": "LogMessage#9503",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "LogMessage"
+    },
+    {
       "gameKey": "LogMessage#9504",
       "en": "Ready to unleash Eternal Breath.",
       "hash": "2B062AE8F62AB8B3",
@@ -98321,6 +98335,30 @@
       "ja": "魔導タレットが出現した……！",
       "de": "Der Feind hat Geschütze aufgestellt!",
       "conversation": "LogMessage#9812",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "LogMessage"
+    },
+    {
+      "gameKey": "LogMessage#9813",
+      "en": "",
+      "hash": "C0970A6F9879CE8C",
+      "unresolved": false,
+      "de": "Der Ablenkungsangriff hat begonnen!",
+      "conversation": "LogMessage#9813",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "LogMessage"
+    },
+    {
+      "gameKey": "LogMessage#9814",
+      "en": "",
+      "hash": "693FD16912C680BB",
+      "unresolved": false,
+      "de": "Das Kriegsschiff ist außer Gefecht gesetzt!",
+      "conversation": "LogMessage#9814",
       "seq": 5,
       "speakerKind": "unknown",
       "kind": "ambient",

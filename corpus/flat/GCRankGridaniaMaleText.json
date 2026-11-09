@@ -45,6 +45,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#1.9",
+      "en": "",
+      "hash": "99019B240D7CE2B8",
+      "unresolved": false,
+      "fr": "soldat 3e classe du serpent",
+      "de": "Dritter Novize",
+      "conversation": "GCRankGridaniaMaleText#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#2.0",
       "en": "Serpent Private Second Class",
       "hash": "1213359188D568B6",
@@ -80,6 +93,19 @@
       "de": "Novize",
       "conversation": "GCRankGridaniaMaleText#2",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#2.9",
+      "en": "",
+      "hash": "19923FCD5E7BDBAA",
+      "unresolved": false,
+      "fr": "soldat 2e classe du serpent",
+      "de": "Zweiter Novize",
+      "conversation": "GCRankGridaniaMaleText#2",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -125,6 +151,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#3.9",
+      "en": "",
+      "hash": "BD046B333CAE9778",
+      "unresolved": false,
+      "fr": "soldat 1re classe du serpent",
+      "de": "Erster Novize",
+      "conversation": "GCRankGridaniaMaleText#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#4.0",
       "en": "Serpent Corporal",
       "hash": "47EEEBE6D08147F9",
@@ -160,6 +199,19 @@
       "de": "Novize",
       "conversation": "GCRankGridaniaMaleText#4",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#4.9",
+      "en": "",
+      "hash": "BEB7EEB5C18FB70A",
+      "unresolved": false,
+      "fr": "caporal du serpent",
+      "de": "Erleuchteter Novize",
+      "conversation": "GCRankGridaniaMaleText#4",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -205,6 +257,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#5.9",
+      "en": "",
+      "hash": "4BD35E64BAF070AF",
+      "unresolved": false,
+      "fr": "adjudant du serpent",
+      "de": "Dritter Schlangenjünger",
+      "conversation": "GCRankGridaniaMaleText#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#6.0",
       "en": "Serpent Sergeant Second Class",
       "hash": "09BA3C1C6AE8D452",
@@ -240,6 +305,19 @@
       "de": "Schlangenjünger",
       "conversation": "GCRankGridaniaMaleText#6",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#6.9",
+      "en": "",
+      "hash": "7A31E98676A99A2D",
+      "unresolved": false,
+      "fr": "sergent du serpent",
+      "de": "Zweiter Schlangenjünger",
+      "conversation": "GCRankGridaniaMaleText#6",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -285,6 +363,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#7.9",
+      "en": "",
+      "hash": "BDDEE7F2D5271367",
+      "unresolved": false,
+      "fr": "sergent-major du serpent",
+      "de": "Erster Schlangenjünger",
+      "conversation": "GCRankGridaniaMaleText#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#8.0",
       "en": "Chief Serpent Sergeant",
       "hash": "23AC5ED4A9BDE47F",
@@ -320,6 +411,19 @@
       "de": "Schlangenjünger",
       "conversation": "GCRankGridaniaMaleText#8",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#8.9",
+      "en": "",
+      "hash": "83898788AD967309",
+      "unresolved": false,
+      "fr": "major du serpent",
+      "de": "Erleuchteter Schlangenjünger",
+      "conversation": "GCRankGridaniaMaleText#8",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -365,6 +469,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#9.9",
+      "en": "",
+      "hash": "A0FE28B2E6EEDE37",
+      "unresolved": false,
+      "fr": "sous-lieutenant du serpent",
+      "de": "Zweiter Schlangenpriester",
+      "conversation": "GCRankGridaniaMaleText#9",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#10.0",
       "en": "First Serpent Lieutenant",
       "hash": "4FDD167E7D58AD81",
@@ -400,6 +517,19 @@
       "de": "Schlangenpriester",
       "conversation": "GCRankGridaniaMaleText#10",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#10.9",
+      "en": "",
+      "hash": "B0E6416AE2AB4B01",
+      "unresolved": false,
+      "fr": "lieutenant du serpent",
+      "de": "Erster Schlangenpriester",
+      "conversation": "GCRankGridaniaMaleText#10",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -445,6 +575,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#11.9",
+      "en": "",
+      "hash": "B221D5A344CD115E",
+      "unresolved": false,
+      "fr": "capitaine du serpent",
+      "de": "Erleuchteter Schlangenpriester",
+      "conversation": "GCRankGridaniaMaleText#11",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#12.0",
       "en": "Second Serpent Commander",
       "hash": "1A73C451CE6C84A3",
@@ -480,6 +623,19 @@
       "de": "Prior",
       "conversation": "GCRankGridaniaMaleText#12",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#12.9",
+      "en": "",
+      "hash": "CBADBC95DFF525F5",
+      "unresolved": false,
+      "fr": "sous-commandant du serpent",
+      "de": "Zweiter Prior",
+      "conversation": "GCRankGridaniaMaleText#12",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -525,6 +681,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#13.9",
+      "en": "",
+      "hash": "FDD67E18853B0559",
+      "unresolved": false,
+      "fr": "commandant du serpent",
+      "de": "Erster Prior",
+      "conversation": "GCRankGridaniaMaleText#13",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#14.0",
       "en": "High Serpent Commander",
       "hash": "92B22B80340B5826",
@@ -560,6 +729,19 @@
       "de": "Prior",
       "conversation": "GCRankGridaniaMaleText#14",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#14.9",
+      "en": "",
+      "hash": "D66398B3BB7D61BE",
+      "unresolved": false,
+      "fr": "colonel du serpent",
+      "de": "Erleuchteter Prior",
+      "conversation": "GCRankGridaniaMaleText#14",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -605,6 +787,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#15.9",
+      "en": "",
+      "hash": "13DEE0EFDCF3FD2F",
+      "unresolved": false,
+      "fr": "sous-maréchal du serpent",
+      "de": "Einäugiger Seher",
+      "conversation": "GCRankGridaniaMaleText#15",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#16.0",
       "en": "Vice Serpent Marshal",
       "hash": "E42E2D434FF78C3E",
@@ -640,6 +835,19 @@
       "de": "Seher",
       "conversation": "GCRankGridaniaMaleText#16",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#16.9",
+      "en": "",
+      "hash": "EB77230FA06EA1B2",
+      "unresolved": false,
+      "fr": "vice-maréchal du serpent",
+      "de": "Zweiäugiger Seher",
+      "conversation": "GCRankGridaniaMaleText#16",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"
@@ -685,6 +893,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#17.9",
+      "en": "",
+      "hash": "419294A22009DADC",
+      "unresolved": false,
+      "fr": "maréchal du serpent",
+      "de": "Dreiäugiger Seher",
+      "conversation": "GCRankGridaniaMaleText#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#18.0",
       "en": "Grand Serpent Marshal",
       "hash": "F71A0316383BC78C",
@@ -725,6 +946,19 @@
       "sheet": "GCRankGridaniaMaleText"
     },
     {
+      "gameKey": "GCRankGridaniaMaleText#18.9",
+      "en": "",
+      "hash": "A3F69EA223CC42AA",
+      "unresolved": false,
+      "fr": "grand maréchal du serpent",
+      "de": "Auge der Schlange",
+      "conversation": "GCRankGridaniaMaleText#18",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaMaleText#19.0",
       "en": "Serpent Champion",
       "hash": "939C1FD1B3A200EC",
@@ -760,6 +994,19 @@
       "de": "Saatseher",
       "conversation": "GCRankGridaniaMaleText#19",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaMaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaMaleText#19.9",
+      "en": "",
+      "hash": "CAA6CFE17A386207",
+      "unresolved": false,
+      "fr": "général du serpent",
+      "de": "Saatseher",
+      "conversation": "GCRankGridaniaMaleText#19",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaMaleText"

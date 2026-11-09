@@ -45,6 +45,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#1.9",
+      "en": "",
+      "hash": "93B964B5C3994426",
+      "unresolved": false,
+      "fr": "soldat 3e classe des sables",
+      "de": "Legionär 3. Klasse",
+      "conversation": "GCRankUldahMaleText#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#2.0",
       "en": "Flame Private Second Class",
       "hash": "BB2CEA0D42BE7736",
@@ -80,6 +93,19 @@
       "de": "Legionär",
       "conversation": "GCRankUldahMaleText#2",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#2.9",
+      "en": "",
+      "hash": "45A36B3C29A0F5BB",
+      "unresolved": false,
+      "fr": "soldat 2e classe des sables",
+      "de": "Legionär 2. Klasse",
+      "conversation": "GCRankUldahMaleText#2",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -125,6 +151,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#3.9",
+      "en": "",
+      "hash": "D91C611CECF745EF",
+      "unresolved": false,
+      "fr": "soldat 1re classe des sables",
+      "de": "Legionär 1. Klasse",
+      "conversation": "GCRankUldahMaleText#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#4.0",
       "en": "Flame Corporal",
       "hash": "4DD41902B50B2133",
@@ -160,6 +199,19 @@
       "de": "Phönixlegionär",
       "conversation": "GCRankUldahMaleText#4",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#4.9",
+      "en": "",
+      "hash": "A77FDBD7F9544861",
+      "unresolved": false,
+      "fr": "caporal des sables",
+      "de": "Phönixlegionär",
+      "conversation": "GCRankUldahMaleText#4",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -205,6 +257,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#5.9",
+      "en": "",
+      "hash": "9E14A33550117105",
+      "unresolved": false,
+      "fr": "adjudant des sables",
+      "de": "Legionsgefreiter 3. Klasse",
+      "conversation": "GCRankUldahMaleText#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#6.0",
       "en": "Flame Sergeant Second Class",
       "hash": "103F33E4B52D4CC4",
@@ -240,6 +305,19 @@
       "de": "Legionsgefreiter",
       "conversation": "GCRankUldahMaleText#6",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#6.9",
+      "en": "",
+      "hash": "4388380EE02DDDDC",
+      "unresolved": false,
+      "fr": "sergent des sables",
+      "de": "Legionsgefreiter 2. Klasse",
+      "conversation": "GCRankUldahMaleText#6",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -285,6 +363,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#7.9",
+      "en": "",
+      "hash": "E37BC27396F75818",
+      "unresolved": false,
+      "fr": "sergent-major des sables",
+      "de": "Legionsgefreiter 1. Klasse",
+      "conversation": "GCRankUldahMaleText#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#8.0",
       "en": "Chief Flame Sergeant",
       "hash": "D9FE490B9388AE77",
@@ -320,6 +411,19 @@
       "de": "Phönixgefreiter",
       "conversation": "GCRankUldahMaleText#8",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#8.9",
+      "en": "",
+      "hash": "02AAF36BCD954823",
+      "unresolved": false,
+      "fr": "major des sables",
+      "de": "Phönixgefreiter",
+      "conversation": "GCRankUldahMaleText#8",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -365,6 +469,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#9.9",
+      "en": "",
+      "hash": "2E27BC1E61020CBB",
+      "unresolved": false,
+      "fr": "sous-lieutenant des sables",
+      "de": "Zweiter Legionsfähnrich",
+      "conversation": "GCRankUldahMaleText#9",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#10.0",
       "en": "First Flame Lieutenant",
       "hash": "64A6C2EEC7EFBE0A",
@@ -400,6 +517,19 @@
       "de": "Legionsfähnrich",
       "conversation": "GCRankUldahMaleText#10",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#10.9",
+      "en": "",
+      "hash": "7776736C94696EE1",
+      "unresolved": false,
+      "fr": "lieutenant des sables",
+      "de": "Erster Legionsfähnrich",
+      "conversation": "GCRankUldahMaleText#10",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -445,6 +575,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#11.9",
+      "en": "",
+      "hash": "B3A517457D0690AD",
+      "unresolved": false,
+      "fr": "capitaine des sables",
+      "de": "Phönixfähnrich",
+      "conversation": "GCRankUldahMaleText#11",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#12.0",
       "en": "Second Flame Commander",
       "hash": "1A9D9EAF589656F9",
@@ -480,6 +623,19 @@
       "de": "Legionshauptmann",
       "conversation": "GCRankUldahMaleText#12",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#12.9",
+      "en": "",
+      "hash": "83EB1E34862DB841",
+      "unresolved": false,
+      "fr": "sous-commandant des sables",
+      "de": "Zweiter Legionshauptmann",
+      "conversation": "GCRankUldahMaleText#12",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -525,6 +681,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#13.9",
+      "en": "",
+      "hash": "8B31A6F8BD216030",
+      "unresolved": false,
+      "fr": "commandant des sables",
+      "de": "Erster Legionshauptmann",
+      "conversation": "GCRankUldahMaleText#13",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#14.0",
       "en": "High Flame Commander",
       "hash": "1C7E67AB19C6D964",
@@ -560,6 +729,19 @@
       "de": "Phönixhauptmann",
       "conversation": "GCRankUldahMaleText#14",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#14.9",
+      "en": "",
+      "hash": "63551DAD78A3BEF6",
+      "unresolved": false,
+      "fr": "colonel des sables",
+      "de": "Phönixhauptmann",
+      "conversation": "GCRankUldahMaleText#14",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -605,6 +787,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#15.9",
+      "en": "",
+      "hash": "3040558CEB3DCEAD",
+      "unresolved": false,
+      "fr": "sous-maréchal des sables",
+      "de": "Major der Legion",
+      "conversation": "GCRankUldahMaleText#15",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#16.0",
       "en": "Vice Flame Marshal",
       "hash": "C381CDD3E9A00B2B",
@@ -640,6 +835,19 @@
       "de": "Oberst",
       "conversation": "GCRankUldahMaleText#16",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#16.9",
+      "en": "",
+      "hash": "AD5F4081488F5291",
+      "unresolved": false,
+      "fr": "vice-maréchal des sables",
+      "de": "Oberst der Legion",
+      "conversation": "GCRankUldahMaleText#16",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"
@@ -685,6 +893,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#17.9",
+      "en": "",
+      "hash": "8CBCB5A635E60B4B",
+      "unresolved": false,
+      "fr": "maréchal des sables",
+      "de": "Generalmajor der Legion",
+      "conversation": "GCRankUldahMaleText#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#18.0",
       "en": "Grand Flame Marshal",
       "hash": "C4A75701B5081E96",
@@ -725,6 +946,19 @@
       "sheet": "GCRankUldahMaleText"
     },
     {
+      "gameKey": "GCRankUldahMaleText#18.9",
+      "en": "",
+      "hash": "0DB259CAA808D115",
+      "unresolved": false,
+      "fr": "grand maréchal des sables",
+      "de": "General der Legion",
+      "conversation": "GCRankUldahMaleText#18",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
       "gameKey": "GCRankUldahMaleText#19.0",
       "en": "Flame Champion",
       "hash": "AC5EBFDD8E3049A7",
@@ -760,6 +994,19 @@
       "de": "Phönixgeneral",
       "conversation": "GCRankUldahMaleText#19",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankUldahMaleText"
+    },
+    {
+      "gameKey": "GCRankUldahMaleText#19.9",
+      "en": "",
+      "hash": "667EC667E40A526E",
+      "unresolved": false,
+      "fr": "général des sables",
+      "de": "Phönixgeneral",
+      "conversation": "GCRankUldahMaleText#19",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankUldahMaleText"

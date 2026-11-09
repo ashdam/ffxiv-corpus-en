@@ -19857,6 +19857,20 @@
       "sheet": "DescriptionString"
     },
     {
+      "gameKey": "DescriptionString#1513",
+      "en": "",
+      "hash": "CF858F55A754D511",
+      "unresolved": false,
+      "fr": "Divers objets peuvent être placés, comme des icones de classe/job, des marques au sol ou des attaques à zone d'effet.",
+      "ja": "ストラテジーボードの図面には、クラス・ジョブアイコンや、フィールドマーカー、敵の攻撃範囲などをオブジェクトとして配置することができます。",
+      "de": "Neben Bodenmarkierungen und Klassen- bzw. Job-Icons lassen sich unter anderem auch Symbole für Boss-Gegner und deren Angriffe platzieren.",
+      "conversation": "DescriptionString#1513",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "DescriptionString"
+    },
+    {
       "gameKey": "DescriptionString#1514",
       "en": "■Multiple Object Selection<br>When using a mouse, hold Ctrl and left-click the icons you wish to select together.<br>When using a <lower(<switchplatform(1)>)>, press <icon2(11)> to select multiple objects.<br>※Multiple objects cannot be selected when real-time sharing.",
       "hash": "DE1C7168143264FA",

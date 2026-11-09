@@ -45,6 +45,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#1.9",
+      "en": "",
+      "hash": "47076BFB694F0F55",
+      "unresolved": false,
+      "fr": "soldat 3e classe du serpent",
+      "de": "Dritte Novizin",
+      "conversation": "GCRankGridaniaFemaleText#1",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#2.0",
       "en": "Serpent Private Second Class",
       "hash": "21DF56FCA738980F",
@@ -80,6 +93,19 @@
       "de": "Novizin",
       "conversation": "GCRankGridaniaFemaleText#2",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#2.9",
+      "en": "",
+      "hash": "88D14D84DCD15DA0",
+      "unresolved": false,
+      "fr": "soldat 2e classe du serpent",
+      "de": "Zweite Novizin",
+      "conversation": "GCRankGridaniaFemaleText#2",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -125,6 +151,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#3.9",
+      "en": "",
+      "hash": "DD8B25F5A714BC96",
+      "unresolved": false,
+      "fr": "soldat 1re classe du serpent",
+      "de": "Erste Novizin",
+      "conversation": "GCRankGridaniaFemaleText#3",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#4.0",
       "en": "Serpent Corporal",
       "hash": "6E8EF2984BEC0FB5",
@@ -160,6 +199,19 @@
       "de": "Novizin",
       "conversation": "GCRankGridaniaFemaleText#4",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#4.9",
+      "en": "",
+      "hash": "9E02542B1C452CF2",
+      "unresolved": false,
+      "fr": "caporale du serpent",
+      "de": "Erleuchtete Novizin",
+      "conversation": "GCRankGridaniaFemaleText#4",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -205,6 +257,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#5.9",
+      "en": "",
+      "hash": "69D755863E3E9B4B",
+      "unresolved": false,
+      "fr": "adjudante du serpent",
+      "de": "Dritte Schlangenjüngerin",
+      "conversation": "GCRankGridaniaFemaleText#5",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#6.0",
       "en": "Serpent Sergeant Second Class",
       "hash": "ECFCABEE4C09D5C9",
@@ -240,6 +305,19 @@
       "de": "Schlangenjüngerin",
       "conversation": "GCRankGridaniaFemaleText#6",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#6.9",
+      "en": "",
+      "hash": "8EF7AF802DA4EC40",
+      "unresolved": false,
+      "fr": "sergente du serpent",
+      "de": "Zweite Schlangenjüngerin",
+      "conversation": "GCRankGridaniaFemaleText#6",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -285,6 +363,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#7.9",
+      "en": "",
+      "hash": "6354603C825B3DA9",
+      "unresolved": false,
+      "fr": "sergent-major du serpent",
+      "de": "Erste Schlangenjüngerin",
+      "conversation": "GCRankGridaniaFemaleText#7",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#8.0",
       "en": "Chief Serpent Sergeant",
       "hash": "42054325A077F6F9",
@@ -320,6 +411,19 @@
       "de": "Schlangenjüngerin",
       "conversation": "GCRankGridaniaFemaleText#8",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#8.9",
+      "en": "",
+      "hash": "912B8FC1DEFA212D",
+      "unresolved": false,
+      "fr": "major du serpent",
+      "de": "Erleuchtete Schlangenjüngerin",
+      "conversation": "GCRankGridaniaFemaleText#8",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -365,6 +469,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#9.9",
+      "en": "",
+      "hash": "1AE083AE57AAECAF",
+      "unresolved": false,
+      "fr": "sous-lieutenante du serpent",
+      "de": "Zweite Schlangenpriesterin",
+      "conversation": "GCRankGridaniaFemaleText#9",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#10.0",
       "en": "First Serpent Lieutenant",
       "hash": "5166CEF0CB9EAE91",
@@ -400,6 +517,19 @@
       "de": "Schlangenpriesterin",
       "conversation": "GCRankGridaniaFemaleText#10",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#10.9",
+      "en": "",
+      "hash": "48290D3F31B535C2",
+      "unresolved": false,
+      "fr": "lieutenante du serpent",
+      "de": "Erste Schlangenpriesterin",
+      "conversation": "GCRankGridaniaFemaleText#10",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -445,6 +575,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#11.9",
+      "en": "",
+      "hash": "92E7CCE814301951",
+      "unresolved": false,
+      "fr": "capitaine du serpent",
+      "de": "Erleuchtete Schlangenpriesterin",
+      "conversation": "GCRankGridaniaFemaleText#11",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#12.0",
       "en": "Second Serpent Commander",
       "hash": "38A8215C1A324547",
@@ -480,6 +623,19 @@
       "de": "Priorin",
       "conversation": "GCRankGridaniaFemaleText#12",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#12.9",
+      "en": "",
+      "hash": "5A877E20CCC32A56",
+      "unresolved": false,
+      "fr": "sous-commandante du serpent",
+      "de": "Zweite Priorin",
+      "conversation": "GCRankGridaniaFemaleText#12",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -525,6 +681,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#13.9",
+      "en": "",
+      "hash": "1407EAC4B6D07F02",
+      "unresolved": false,
+      "fr": "commandante du serpent",
+      "de": "Erste Priorin",
+      "conversation": "GCRankGridaniaFemaleText#13",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#14.0",
       "en": "High Serpent Commander",
       "hash": "12D55741E775D824",
@@ -560,6 +729,19 @@
       "de": "Priorin",
       "conversation": "GCRankGridaniaFemaleText#14",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#14.9",
+      "en": "",
+      "hash": "28795A90A9D8972A",
+      "unresolved": false,
+      "fr": "colonelle du serpent",
+      "de": "Erleuchtete Priorin",
+      "conversation": "GCRankGridaniaFemaleText#14",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -605,6 +787,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#15.9",
+      "en": "",
+      "hash": "FBDA3024E4537221",
+      "unresolved": false,
+      "fr": "sous-maréchale du serpent",
+      "de": "Einäugige Seherin",
+      "conversation": "GCRankGridaniaFemaleText#15",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#16.0",
       "en": "Vice Serpent Marshal",
       "hash": "CA447612DB2C27BD",
@@ -640,6 +835,19 @@
       "de": "Seherin",
       "conversation": "GCRankGridaniaFemaleText#16",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#16.9",
+      "en": "",
+      "hash": "5EEC3BFFE39BA008",
+      "unresolved": false,
+      "fr": "vice-maréchale du serpent",
+      "de": "Zweiäugige Seherin",
+      "conversation": "GCRankGridaniaFemaleText#16",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"
@@ -685,6 +893,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#17.9",
+      "en": "",
+      "hash": "58880D7EC10A985F",
+      "unresolved": false,
+      "fr": "maréchale du serpent",
+      "de": "Dreiäugige Seherin",
+      "conversation": "GCRankGridaniaFemaleText#17",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#18.0",
       "en": "Grand Serpent Marshal",
       "hash": "8AE5F8ED2D0845C9",
@@ -725,6 +946,19 @@
       "sheet": "GCRankGridaniaFemaleText"
     },
     {
+      "gameKey": "GCRankGridaniaFemaleText#18.9",
+      "en": "",
+      "hash": "B66A092FC02A797A",
+      "unresolved": false,
+      "fr": "grande maréchale du serpent",
+      "de": "Auge der Schlange",
+      "conversation": "GCRankGridaniaFemaleText#18",
+      "seq": 9,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
       "gameKey": "GCRankGridaniaFemaleText#19.0",
       "en": "Serpent Champion",
       "hash": "54E12494C5D8C3A3",
@@ -760,6 +994,19 @@
       "de": "Saatseherin",
       "conversation": "GCRankGridaniaFemaleText#19",
       "seq": 8,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GCRankGridaniaFemaleText"
+    },
+    {
+      "gameKey": "GCRankGridaniaFemaleText#19.9",
+      "en": "",
+      "hash": "4F892FCFE42B28A5",
+      "unresolved": false,
+      "fr": "générale du serpent",
+      "de": "Saatseherin",
+      "conversation": "GCRankGridaniaFemaleText#19",
+      "seq": 9,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GCRankGridaniaFemaleText"

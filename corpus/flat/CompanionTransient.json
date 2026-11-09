@@ -4681,6 +4681,18 @@
       "sheet": "CompanionTransient"
     },
     {
+      "gameKey": "CompanionTransient#68.0",
+      "en": "",
+      "hash": "373DCF4DCE357697",
+      "unresolved": false,
+      "de": "Du rufst deinen Begleiter des Lichts herbei. Eine wahrlich blendende Erscheinung.",
+      "conversation": "CompanionTransient#68",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
       "gameKey": "CompanionTransient#68.1",
       "en": "Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down from the heavens.",
       "hash": "5B02BC17716392B4",
@@ -4737,6 +4749,18 @@
       "sheet": "CompanionTransient"
     },
     {
+      "gameKey": "CompanionTransient#69.0",
+      "en": "",
+      "hash": "F4928FA3A5F1A2BB",
+      "unresolved": false,
+      "de": "Du rufst deinen Begleiter des Lichts herbei. Eine wahrlich blendende Erscheinung.",
+      "conversation": "CompanionTransient#69",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
       "gameKey": "CompanionTransient#69.1",
       "en": "Ancient records show that almost every Astral Era has had its own Warriors of Light─brave souls who appeared before forthcoming disasters to unite the people of that time...only to disappear once again as catastrophe rained down from the heavens.",
       "hash": "324D735CB6C67F40",
@@ -4788,6 +4812,18 @@
       "de": "Regeneriert bei den eigenen Trabanten in der Nähe 100 LP, im Fall von Puppen 150.",
       "conversation": "CompanionTransient#69",
       "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
+      "gameKey": "CompanionTransient#70.0",
+      "en": "",
+      "hash": "BC4C7F446B1C3F73",
+      "unresolved": false,
+      "de": "Du rufst deinen Begleiter des Lichts herbei. Eine wahrlich blendende Erscheinung.",
+      "conversation": "CompanionTransient#70",
+      "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "CompanionTransient"
@@ -4905,6 +4941,18 @@
       "sheet": "CompanionTransient"
     },
     {
+      "gameKey": "CompanionTransient#72.0",
+      "en": "",
+      "hash": "06F3BBA1D6FC0E0C",
+      "unresolved": false,
+      "de": "Du rufst deine Aufzieh-Merlwyb als Begleiter herbei. ",
+      "conversation": "CompanionTransient#72",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
       "gameKey": "CompanionTransient#72.1",
       "en": "Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent each of the three heads of Limsa Lominsa, Gridania, and Ul'dah.",
       "hash": "8A70A96F87D4BEFE",
@@ -4961,6 +5009,18 @@
       "sheet": "CompanionTransient"
     },
     {
+      "gameKey": "CompanionTransient#73.0",
+      "en": "",
+      "hash": "EF9263EF7B0375A1",
+      "unresolved": false,
+      "de": "Du rufst deine Aufzieh-Kan-E als Begleiter herbei. ",
+      "conversation": "CompanionTransient#73",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
       "gameKey": "CompanionTransient#73.1",
       "en": "Originally crafted to promote the Grand Companies of Eorzea, these clockwork dolls are often rewarded to company members for exceptional service. There are three models of wind-up leaders, one to represent each of the three heads of Limsa Lominsa, Gridania, and Ul'dah.",
       "hash": "DD2929FE0619A251",
@@ -5012,6 +5072,18 @@
       "de": "Entfernt alle negativen Effekte von eigenen Trabanten in der Nähe.",
       "conversation": "CompanionTransient#73",
       "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompanionTransient"
+    },
+    {
+      "gameKey": "CompanionTransient#74.0",
+      "en": "",
+      "hash": "D4F8986260F46580",
+      "unresolved": false,
+      "de": "Du rufst deinen Aufzieh-Raubahn als Begleiter herbei. ",
+      "conversation": "CompanionTransient#74",
+      "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "CompanionTransient"

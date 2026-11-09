@@ -13,7 +13,7 @@
       "ja": "島主専用のオーケストリオンのようだ。<br>「<sheet(Orchestrion,lnum1,0)>」が再生中です。",
       "de": "Das inseleigene Orchestrion.<br>Im Moment spielt es „<sheet(Orchestrion,lnum1,0)>“.",
       "conversation": "custom/008/CtsMjiOrchestrion_00808",
-      "seq": 1,
+      "seq": 0,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/008/CtsMjiOrchestrion_00808"
@@ -27,7 +27,7 @@
       "ja": "島主専用のオーケストリオンのようだ。",
       "de": "Das inseleigene Orchestrion.",
       "conversation": "custom/008/CtsMjiOrchestrion_00808",
-      "seq": 2,
+      "seq": 1,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/008/CtsMjiOrchestrion_00808"

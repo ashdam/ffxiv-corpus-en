@@ -14,6 +14,8 @@ PackBuilder and CorpusValidator use the same definition. Do not copy it into lan
 
 Each key is a sheet name. Its value lists the approved text column indexes, starting at zero.
 Keep identifiers, lookup fields and file paths outside this definition.
+Keep a selected text cell when at least one of EN, FR, DE or JA contains text.
+Only `""` is empty. Preserve whitespace as text.
 
 ## gender-overrides.json
 

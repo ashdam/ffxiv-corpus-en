@@ -663,6 +663,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#54.3",
+      "en": "",
+      "hash": "6953A9B847C55A35",
+      "unresolved": false,
+      "ja": "<switch(lnum1,星1月,霊1月,星2月,霊2月,星3月,霊3月,星4月,霊4月,星5月,霊5月,星6月,霊6月)> <num(lnum2)>日",
+      "conversation": "Lobby#54",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#56.3",
       "en": "<string(lstr1)><if([lnum2<7],<switch(lnum2,, \\(Legacy\\),, \\(Legacy\\),, \\(Legacy\\))>,)>",
       "hash": "4F7EBFD0D593F6F2",
@@ -1461,6 +1473,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#111.3",
+      "en": "",
+      "hash": "5DC743A7D241EB27",
+      "unresolved": false,
+      "ja": "ヒューラン",
+      "conversation": "Lobby#111",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#112.3",
       "en": "Elezen<switch(lnum1, ©, ®,)>",
       "hash": "0C2E5D113A05CE59",
@@ -1484,6 +1508,18 @@
       "de": "Die Elezen sind stolze Nomaden, die sich selbst als Auserkorene \nder Götter betrachten. Mit ihren großen, schlanken Körpern und \nlangen Gliedmaßen hatten sie als ursprüngliche Einwohner Eorzeas \neine Vormachtstellung inne - nebenbei leben sie auch etwas länger \nals beispielsweise die Hyuran. Doch vorbei sind die Zeiten, in denen \nsie verbittert mit den Hyuran kämpften, als diese in ihr Territorium \neindrangen. Heute akzeptiert man sich unter dem Motto \n„Leben und leben lassen“.",
       "conversation": "Lobby#112",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#113.3",
+      "en": "",
+      "hash": "5DACD7EC7F10DC1A",
+      "unresolved": false,
+      "ja": "エレゼン",
+      "conversation": "Lobby#113",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1517,6 +1553,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#115.3",
+      "en": "",
+      "hash": "C72F4FDF920440C6",
+      "unresolved": false,
+      "ja": "ララフェル",
+      "conversation": "Lobby#115",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#116.3",
       "en": "Miqo'te<switch(lnum1, ©, ®,)>",
       "hash": "F0BAE6F48CEEF3F8",
@@ -1540,6 +1588,18 @@
       "de": "Sie sind die Nachfahren eines Volkes von Jägern und Sammlern, \ndie im Zeitalter des langen Eises die zugefrorenen Meere überquerten. \nDank ihres scharfen Geruchssinns und ihrer starken Beine sind sie \nzum Jagen prädestiniert. Sie bilden in Eorzea nicht nur eine Minderheit, \nsondern leben auch häufig als Einzelgänger, da sie wie Raubkatzen \neigene Reviere beanspruchen. Bei männlichen Miqo'te ist dieses \nVerhalten besonders ausgeprägt.",
       "conversation": "Lobby#116",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#117.3",
+      "en": "",
+      "hash": "B2FB9A074BBE2DDA",
+      "unresolved": false,
+      "ja": "ミコッテ",
+      "conversation": "Lobby#117",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1573,6 +1633,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#119.3",
+      "en": "",
+      "hash": "F171DFC94F303877",
+      "unresolved": false,
+      "ja": "ルガディン",
+      "conversation": "Lobby#119",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#120.3",
       "en": "Midlander",
       "hash": "6DECF3ACAE5DE947",
@@ -1596,6 +1668,18 @@
       "de": "Der Volksstamm der Wiesländer macht die große Mehrheit im \nVolk der Hyuran aus. Man kann sie in ganz Eorzea antreffen, \nbesonders in den großen Städten, wo sie für die \nverschiedensten Gilden aktiv sind.",
       "conversation": "Lobby#120",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#121.3",
+      "en": "",
+      "hash": "F37F8B9E9F7D16BB",
+      "unresolved": false,
+      "ja": "ミッドランダー",
+      "conversation": "Lobby#121",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1629,6 +1713,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#123.3",
+      "en": "",
+      "hash": "87C3D02969B3FEB2",
+      "unresolved": false,
+      "ja": "ハイランダー",
+      "conversation": "Lobby#123",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#124.3",
       "en": "Wildwood",
       "hash": "5195FBF7CB08914A",
@@ -1652,6 +1748,18 @@
       "de": "Dieser Volksstamm lebte in alten Zeiten zurückgezogen in \nder Tiefe der Wälder, doch viele von ihnen findet man nun \nin Ishgard und Gridania, in den Städten, an deren Gründung \nsie beteiligt waren. Oftmals können sie etwas arrogant oder \nschulmeisterlich wirken, doch in Wahrheit lieben Erlschatten \neinfach die Ordnung. Sie haben Grundsätze und hohe Ideale, \nund an diesen halten sie fest.",
       "conversation": "Lobby#124",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#125.3",
+      "en": "",
+      "hash": "0CABF45BDC368AA2",
+      "unresolved": false,
+      "ja": "フォレスター",
+      "conversation": "Lobby#125",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1685,6 +1793,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#127.3",
+      "en": "",
+      "hash": "B31BF9D6DB214448",
+      "unresolved": false,
+      "ja": "シェーダー",
+      "conversation": "Lobby#127",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#128.3",
       "en": "Plainsfolk",
       "hash": "DD5A94527E75EABC",
@@ -1708,6 +1828,18 @@
       "de": "Die Halmlinge haben sich in den weiten Ebenen von La Noscea \nniedergelassen. Viele widmen sich der Landwirtschaft, doch es \nist auch nicht ungewöhnlich, sie in Limsa Lominsa anzutreffen, \nwo sie als Fischer und Matrosen arbeiten. Sie sind unbekümmerte \nGesellen, doch sie haben auch oft ihre eigenen Vorstellungen - \nund die können sie auch durchsetzen, wenn es darauf ankommt.",
       "conversation": "Lobby#128",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#129.3",
+      "en": "",
+      "hash": "BB64808B0D56616B",
+      "unresolved": false,
+      "ja": "プレーンフォーク",
+      "conversation": "Lobby#129",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1741,6 +1873,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#131.3",
+      "en": "",
+      "hash": "3B6182198D1F64B9",
+      "unresolved": false,
+      "ja": "デューンフォーク",
+      "conversation": "Lobby#131",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#132.3",
       "en": "Seekers of the Sun",
       "hash": "B672EF08E9ECE8E2",
@@ -1764,6 +1908,18 @@
       "de": "Die Miqo'te dieses Volksstammes haben sich diesen Namen selbst gegeben - \noffenbar deswegen, weil viele von ihnen Anhänger der Sonnengöttin \nAzeyma sind. Am häufigsten trifft man Goldtatzen in Einöden\nwie der Sagolii-Wüste an, aber sie leben auch in den Städten, \nviele von ihnen in Limsa Lominsa.",
       "conversation": "Lobby#132",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#133.3",
+      "en": "",
+      "hash": "AA85AFCEBE73BA94",
+      "unresolved": false,
+      "ja": "サンシーカー",
+      "conversation": "Lobby#133",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1797,6 +1953,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#135.3",
+      "en": "",
+      "hash": "F2E9C8A2F66ED9AB",
+      "unresolved": false,
+      "ja": "ムーンキーパー",
+      "conversation": "Lobby#135",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#136.3",
       "en": "Sea Wolves",
       "hash": "5DC9C982B66B68C4",
@@ -1820,6 +1988,18 @@
       "de": "Die Seewölfe waren einst brutale Piraten von den Inseln \nhoch oben im Nordmeer, die die Küstenbewohner in Angst \nund Schrecken versetzten. Nach ihrer Ankunft in Eorzea aber \nbesannen sie sich auf ihre friedfertigen Wurzeln, sodass \ndie meisten heute als Fischer oder Fährleute ihren Unterhalt \nverdienen. In ihrer Namensgebung bewahren sie aber das \nAndenken an ihre Wurzeln, denn stets wählen sie dafür \nWörter aus der Sprache ihrer Vorfahren.",
       "conversation": "Lobby#136",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#137.3",
+      "en": "",
+      "hash": "D0A43E022ECF9DFE",
+      "unresolved": false,
+      "ja": "ゼーヴォルフ",
+      "conversation": "Lobby#137",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1853,6 +2033,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#139.3",
+      "en": "",
+      "hash": "C214502201B9659D",
+      "unresolved": false,
+      "ja": "ローエンガルデ",
+      "conversation": "Lobby#139",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#140.3",
       "en": "Au Ra<switch(lnum1, ©, ®,)>",
       "hash": "216B4E4D7FEFC6E3",
@@ -1876,6 +2068,18 @@
       "de": "Die Wurzeln der Au Ra liegen auf dem weit im Osten gelegenen \nKontinent Othard. Typisch sind die panzerharten Schuppen im Gesicht, \ndie sich zu vielgestaltigen, ornamentartigen Dornen ausformen. \nKühn geschwungene Hörner gelten nicht nur als Zeichen von Attraktivität, \nsie beherbergen auch den Gehörsinn und die räumliche Wahrnehmung.\nDas ist ein deutlicher Beleg dafür, dass die Au Ra keineswegs mit den\nDrachen verwandt sind, wie oft fälschlich angenommen wurde, denn\nDrachenhörnern fehlt diese Fähigkeit. Außerdem unterscheiden sich die\nMänner mit ihrem kräftigen Körperbau stark von den typischerweise\nzierlichen und flexiblen Frauen - ein Charakteristikum, die bei den\nDrachen nicht zu beobachten ist.",
       "conversation": "Lobby#140",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#141.3",
+      "en": "",
+      "hash": "70869714BD663B8D",
+      "unresolved": false,
+      "ja": "アウラ",
+      "conversation": "Lobby#141",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -1909,6 +2113,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#143.3",
+      "en": "",
+      "hash": "0725713460336CF8",
+      "unresolved": false,
+      "ja": "アウラ・レン",
+      "conversation": "Lobby#143",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#144.3",
       "en": "Xaela",
       "hash": "2623E4968D661365",
@@ -1937,6 +2153,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#145.3",
+      "en": "",
+      "hash": "6FD45813E600476E",
+      "unresolved": false,
+      "ja": "アウラ・ゼラ",
+      "conversation": "Lobby#145",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#152.3",
       "en": "Custom",
       "hash": "AF7FAD197B0493BE",
@@ -1945,6 +2173,18 @@
       "ja": "CUSTOM",
       "de": "Benutzerdefiniert",
       "conversation": "Lobby#152",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#153.3",
+      "en": "",
+      "hash": "6AE4675623D8DAE2",
+      "unresolved": false,
+      "ja": "カスタム",
+      "conversation": "Lobby#153",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -2301,6 +2541,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#178.4",
+      "en": " ",
+      "hash": "E92A2E7DE6EA9C6C",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "剣術士",
+      "de": " ",
+      "conversation": "Lobby#178",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#178.5",
       "en": "Gladiators specialize in the handling of all manner of one-handed\nblades, from daggers to longswords, be they single- or double-edged,\nstraight or curved. A defining characteristic of the art is its emphasis\non diverse combat tactics, training its members to bring their martial\nskills to bear in any situation. As such, there are practitioners who\nmarry sword with shield, seeking to defend their fellow companions.\nOthers opt for an empty off hand, choosing instead to focus entirely\non their sword arm. In all instances, the ages-old art of the sword\nmakes the gladiator a formidable adversary in any encounter.\n\nCorresponding Job: Paladin",
       "hash": "A03E9BD371E58E6C",
@@ -2324,6 +2578,20 @@
       "de": "FAUSTKÄMPFER",
       "conversation": "Lobby#180",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#180.4",
+      "en": " ",
+      "hash": "B8A40CF19A043A56",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "格闘士",
+      "de": " ",
+      "conversation": "Lobby#180",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -2357,6 +2625,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#182.4",
+      "en": " ",
+      "hash": "2B12EEE89B8AF7BB",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "斧術士",
+      "de": " ",
+      "conversation": "Lobby#182",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#182.5",
       "en": "The marauder is a combat specialist whose weapon of choice is\nthe greataxe－a fearsome arm emblematic of Eorzea's pirates.\nTheir approach to battle is one of brute force, relying on strength\nand steel to crush enemies and sunder weapons. They are highly\nsought after for their ferocity and intimidating presence, and are\noften employed to hunt down monsters plaguing the land, or to turn\nthe tide of battle between warring nations.\n\nCorresponding Job: Warrior",
       "hash": "05C68F0B6A282743",
@@ -2380,6 +2662,20 @@
       "de": "PIKENIER",
       "conversation": "Lobby#184",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#184.4",
+      "en": " ",
+      "hash": "0BAF9B6FED6310F2",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "槍術士",
+      "de": " ",
+      "conversation": "Lobby#184",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -2413,6 +2709,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#186.4",
+      "en": " ",
+      "hash": "5CB74075F0D670B5",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "弓術士",
+      "de": " ",
+      "conversation": "Lobby#186",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#186.5",
       "en": "The enduring popularity of the bow is a testament to its elegant\ndesign, but this simple weapon would be of little worth without the\nsurpassing skill of those who master it－the archers. Projectile\ntechniques such as high-angle fire enable archers to assail their\nfoes with deadly precision even at great distances.\n\nConstant assessment of the battlefield enables them to carefully\ndetermine the most advantageous ground from which to loose,\nas well as the nature of the arrows best suited to their enemy.\nTogether with the longbow sentries of the Elezen military, the\nshortbow hunters among the Miqo'te are widely regarded as\nmost skilled with the bow.\n\nCorresponding Job: Bard",
       "hash": "8797D42DA55C9482",
@@ -2436,6 +2746,20 @@
       "de": "DRUIDE",
       "conversation": "Lobby#188",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#188.4",
+      "en": " ",
+      "hash": "2A4FB2CEFFE4DFF0",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "幻術士",
+      "de": " ",
+      "conversation": "Lobby#188",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -2469,6 +2793,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#190.4",
+      "en": " ",
+      "hash": "1AB249DF73806F27",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "呪術士",
+      "de": " ",
+      "conversation": "Lobby#190",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#190.5",
       "en": "In the hands of a skilled practitioner, thaumaturgy can be a force of\nterrifying destruction. At the heart of this school of magic lies the\nability to call forth and command the latent aether within oneself\nthrough deep introspection. To then mold that aether into sorcery,\nthe thaumaturge makes use of a scepter or staff, within which is\nhoused a medium－a natural stone imbued with magical properties.\n\nCorresponding Job: Black Mage",
       "hash": "FEE833E34C9336BE",
@@ -2492,6 +2830,20 @@
       "de": "HERMETIKER",
       "conversation": "Lobby#192",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#192.4",
+      "en": " ",
+      "hash": "F8B04BDBC9452869",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "巴術士",
+      "de": " ",
+      "conversation": "Lobby#192",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -4849,6 +5201,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#446.3",
+      "en": "",
+      "hash": "137E4E34B0A2D263",
+      "unresolved": false,
+      "ja": "ファイター",
+      "conversation": "Lobby#446",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#447.3",
       "en": "Disciples of Magic",
       "hash": "83BC0F80C99CDC48",
@@ -4857,6 +5221,18 @@
       "ja": "DISCIPLES OF MAGIC",
       "de": "Disziplinen der Magier",
       "conversation": "Lobby#447",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#448.3",
+      "en": "",
+      "hash": "D4B50B9FE260D600",
+      "unresolved": false,
+      "ja": "ソーサラー",
+      "conversation": "Lobby#448",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -4891,6 +5267,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#459.3",
+      "en": "",
+      "hash": "E482F0B79552F378",
+      "unresolved": false,
+      "ja": "ロスガル",
+      "conversation": "Lobby#459",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#460.3",
       "en": "Viera<switch(lnum1, ©, ®,)>",
       "hash": "76315E5B56B1FB5C",
@@ -4914,6 +5302,18 @@
       "de": "Die Viera sind ein verhältnismäßig kleines Volk aus Othard,\ndas die grünen Tiefen des Waldes seit Jahrhunderten ihr Zuhause\nnennt. Diese zurückgezogene Lebensweise spiegelt sich bereits\nin ihrem Namen wieder, der so viel wie „Waldbewohner“ bedeutet.\nBis vor kurzem scheuten die Viera jeglichen Kontakt zur\nAußenwelt und auch heute trifft man nur auf sehr wenige\nVertreterinnen dieses stolzen Volkes. Insbesondere männliche\nViera offenbaren sich so gut wie nie, da die Tradition ihnen stete,\neinsame Wanderschaft gebietet. Der Körperbau der Viera sähe \ndem der Hyuran und Elezen zum Verwechseln ähnlich ...\nWären da nicht die langen Löffel auf ihrem Haupt.",
       "conversation": "Lobby#460",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#461.3",
+      "en": "",
+      "hash": "5103F297EFC0B311",
+      "unresolved": false,
+      "ja": "ヴィエラ",
+      "conversation": "Lobby#461",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -4947,6 +5347,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#463.3",
+      "en": "",
+      "hash": "849B2D7034C211BC",
+      "unresolved": false,
+      "ja": "ヘリオン",
+      "conversation": "Lobby#463",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#464.3",
       "en": "The Lost",
       "hash": "6AB1CF38E02D6140",
@@ -4970,6 +5382,18 @@
       "de": "Im Gegensatz zu ihren Brüdern, den Helions, fühlen sich diese\nHrothgar nicht länger an ihren Stamm und ihr Oberhaupt gebunden.\nSie bevorzugen ein freies Leben als tatkräftige Saisonarbeiter,\nunerschrockene Söldner oder geschickte Händler. Man nennt sie\n„Die Losgesagten“. Wie ein Komet, der fernab seiner Sonne durch\ndie Finsternis des Firmaments zieht, verharren sie nie sehr lange an\neinem Ort und genießen ein Leben ohne Zwänge.",
       "conversation": "Lobby#464",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#465.3",
+      "en": "",
+      "hash": "1C74CF2B7DB4855B",
+      "unresolved": false,
+      "ja": "ロスト",
+      "conversation": "Lobby#465",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -5003,6 +5427,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#467.3",
+      "en": "",
+      "hash": "78234C9E305C9418",
+      "unresolved": false,
+      "ja": "ラヴァ・ヴィエラ",
+      "conversation": "Lobby#467",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#468.3",
       "en": "Veena",
       "hash": "9AA9CC9F84EBBF30",
@@ -5026,6 +5462,18 @@
       "de": "Die Veena sind ein Volksstamm der Viera, deren helle Haut\nan die schneebedeckten Gipfel ihrer Heimat erinnert - das\nSkatay-Gebirge. Im Schatten seiner rauen Hänge leben sie seit\nJahrhunderten als Jägerinnen und Sammlerinnen und meiden\njeglichen Kontakt zu Fremden. Einzelne Angehörige der Veena\nkehrten diesen Traditionen den Rücken. Man munkelt, dass einige\nunter ihnen sich nach dem großen Krieg sogar nach Eorzea\ngewagt haben sollen.",
       "conversation": "Lobby#468",
       "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#469.3",
+      "en": "",
+      "hash": "612EF2BE6E3BA8B9",
+      "unresolved": false,
+      "ja": "ヴィナ・ヴィエラ",
+      "conversation": "Lobby#469",
+      "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -5213,6 +5661,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#501.3",
+      "en": "",
+      "hash": "EFE739CB2F9AB2DD",
+      "unresolved": false,
+      "ja": "キャスティング",
+      "conversation": "Lobby#501",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#502.3",
       "en": "Viper",
       "hash": "E8AF65D5E663AC23",
@@ -5221,6 +5681,18 @@
       "ja": "Viper",
       "de": "Viper",
       "conversation": "Lobby#502",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#503.3",
+      "en": "",
+      "hash": "7B0A8718E57D2C52",
+      "unresolved": false,
+      "ja": "ヴァイパー",
+      "conversation": "Lobby#503",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -5347,6 +5819,19 @@
       "ja": "キャラクターのプレビューをバトルクラスのイメージ装備に切り替えます。(ベンチマークではバトルクラス選択ステップまで進まないため使用できません)",
       "de": "Zur Charakteransicht mit der für seine Klasse typischen Ausrüstung wechseln. (Im Benchmark gibt es keine Klassenauswahl.)",
       "conversation": "Lobby#514",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#530.3",
+      "en": "",
+      "hash": "E7C2E03B8B6FDE52",
+      "unresolved": false,
+      "fr": "Cité de départ<nbsp>: <sheet(Town,lnum2,0)>",
+      "ja": "(開始都市:<sheet(Town,lnum2,0)>) <head(<sheet(ClassJob,lnum1,0)>)>",
+      "conversation": "Lobby#530",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -7005,6 +7490,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#708.3",
+      "en": "",
+      "hash": "E37D49854A614A02",
+      "unresolved": false,
+      "fr": "Tenue de porcelet",
+      "conversation": "Lobby#708",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#791.3",
       "en": "Japanese Data Center",
       "hash": "73C0BF36191835F4",
@@ -7069,6 +7566,18 @@
       "ja": "DATA CENTER SELECT",
       "de": "DATENZENTRUM AUSWÄHLEN",
       "conversation": "Lobby#800",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#801.3",
+      "en": "",
+      "hash": "061478542F2A9B1B",
+      "unresolved": false,
+      "ja": "接続するデータセンターを選択",
+      "conversation": "Lobby#801",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -7481,6 +7990,32 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#849.3",
+      "en": "",
+      "hash": "3297E86B06BF0081",
+      "unresolved": false,
+      "fr": "Cible<nbsp>: <colortype(567)><edgecolortype(568)>données du client<edgecolortype(0)><colortype(0)>",
+      "ja": "バックアップ対象：<colortype(567)><edgecolortype(568)>クライアント共通設定データ<edgecolortype(0)><colortype(0)>",
+      "conversation": "Lobby#849",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#850.3",
+      "en": "",
+      "hash": "5C81F730E3CD6AEE",
+      "unresolved": false,
+      "fr": "Cible<nbsp>: <colortype(569)><edgecolortype(570)>données du personnage<edgecolortype(0)><colortype(0)>",
+      "ja": "バックアップ対象：<colortype(569)><edgecolortype(570)>キャラクター設定データ<edgecolortype(0)><colortype(0)>",
+      "conversation": "Lobby#850",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#851.3",
       "en": "Save a backup of local system settings for UI, sound, user macros, and more to the server.<br>※Display resolution, graphics quality, input device, and other settings dependent on current play environment will not be saved.",
       "hash": "6A41739A8222C662",
@@ -7503,6 +8038,31 @@
       "ja": "キャラクターコンフィグやHUDレイアウト情報、ホットバーやギアセットなどの<br><colortype(569)><edgecolortype(570)>「キャラクター固有の設定データ」<edgecolortype(0)><colortype(0)>をバックアップサーバーに保存します。<br>※アイテムのせいとん情報と所持状況確認に用いる参照データはバックアップの対象外です。<if([gnum78==99],<br>※リモートプレイ時の設定はHUD／ウィンドウの位置とサイズのみバックアップの対象となります。,)>",
       "de": "Speichere ein Backup mit lokalen Charaktereinstellungen, dem HUD-Layout, Kommandomenüs, Ausrüstungssets usw. auf dem Server.<br>※ Einstellungen zur Sortierung von Gegenständen und Positionen im Inventar werden nicht gespeichert.<if([gnum78==99],<br>※ Für Remote Play werden nur HUD-Größe und -Layout gespeichert.,)>",
       "conversation": "Lobby#852",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#853.3",
+      "en": "",
+      "hash": "CF546B92B457BCF1",
+      "unresolved": false,
+      "ja": "<colortype(567)><edgecolortype(568)>「クライアント共通設定データ」<edgecolortype(0)><colortype(0)>のバックアップ",
+      "conversation": "Lobby#853",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#854.3",
+      "en": "",
+      "hash": "0DDE32007A928A1B",
+      "unresolved": false,
+      "fr": "Personnage<nbsp>: <string(lstr1)><icon(88)><string(lstr2)>",
+      "ja": "対象キャラクター：<colortype(569)><edgecolortype(570)><string(lstr1)><icon(88)><string(lstr2)><edgecolortype(0)><colortype(0)>",
+      "conversation": "Lobby#854",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -8601,6 +9161,18 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#944.3",
+      "en": "",
+      "hash": "527A081645E9AF59",
+      "unresolved": false,
+      "ja": "クライアント共通マクロの復元",
+      "conversation": "Lobby#944",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#945.3",
       "en": "<if([gnum75==0],Up to 100 shared macros can be restored.,)>",
       "hash": "E1F5C6FCAE003519",
@@ -8665,6 +9237,31 @@
       "ja": "RESTORE CHARACTER SETTINGS",
       "de": "CHARAKTEREINSTELLUNGEN WIEDERHERSTELLEN",
       "conversation": "Lobby#949",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#950.3",
+      "en": "",
+      "hash": "423417B4B602DDF5",
+      "unresolved": false,
+      "ja": "キャラクター設定データの復元",
+      "conversation": "Lobby#950",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#951.3",
+      "en": "",
+      "hash": "72237A0E2AB7D5A6",
+      "unresolved": false,
+      "fr": "Cible<nbsp>: <colortype(569)><edgecolortype(570)>données du personnage<edgecolortype(0)><colortype(0)>",
+      "ja": "復元対象：<colortype(569)><edgecolortype(570)>キャラクター設定データ<edgecolortype(0)><colortype(0)>",
+      "conversation": "Lobby#951",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",
@@ -11821,6 +12418,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#1804.4",
+      "en": " ",
+      "hash": "27AEAE98B92F58F0",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "タンク",
+      "de": " ",
+      "conversation": "Lobby#1804",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#1804.5",
       "en": "Stand as a bulwark in the face of danger.\nWith superior defensive abilities, tanks protect their comrades\nby diverting enemy focus and bearing the brunt of battle.\n\nBegin your journey as a gladiator or marauder, and later master\nthe jobs of paladin, warrior, dark knight, and gunbreaker.",
       "hash": "C863151FE3CE5F05",
@@ -11849,6 +12460,20 @@
       "sheet": "Lobby"
     },
     {
+      "gameKey": "Lobby#1805.4",
+      "en": " ",
+      "hash": "738F14C5687061B3",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "ヒーラー",
+      "de": " ",
+      "conversation": "Lobby#1805",
+      "seq": 4,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
       "gameKey": "Lobby#1805.5",
       "en": "Provide succor to all in need.\nThough limited in their offensive abilities, healers replenish\nhealth and protect their comrades with myriad rejuvenating skills.\n\nBegin your journey as a conjurer, and later master the jobs of\nwhite mage, scholar, astrologian, and sage.\n※Please note that the job of scholar is unlocked via the \nDPS class of arcanist.",
       "hash": "9FE4DACAF74F1C91",
@@ -11872,6 +12497,20 @@
       "de": "ANGREIFER",
       "conversation": "Lobby#1806",
       "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#1806.4",
+      "en": " ",
+      "hash": "A3C202D3F30A4E27",
+      "unresolved": false,
+      "fr": " ",
+      "ja": "ディーピーエス",
+      "de": " ",
+      "conversation": "Lobby#1806",
+      "seq": 4,
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "Lobby"
@@ -12235,6 +12874,18 @@
       "ja": "<sheet(ClassJob,lnum1,30)>   Lv.<num(lnum2)>",
       "de": "<sheet(ClassJob,lnum1,0)> St. <num(lnum2)>",
       "conversation": "Lobby#1974",
+      "seq": 3,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Lobby"
+    },
+    {
+      "gameKey": "Lobby#1975.3",
+      "en": "",
+      "hash": "9938FFD420FAD81A",
+      "unresolved": false,
+      "ja": "<sheet(ClassJob,lnum1,0)>",
+      "conversation": "Lobby#1975",
       "seq": 3,
       "speakerKind": "unknown",
       "kind": "ambient",

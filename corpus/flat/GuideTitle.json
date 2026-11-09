@@ -17,6 +17,18 @@
       "speakerKind": "unknown",
       "kind": "ambient",
       "sheet": "GuideTitle"
+    },
+    {
+      "gameKey": "GuideTitle#1.1",
+      "en": "",
+      "hash": "D8769328D8100E1E",
+      "unresolved": false,
+      "ja": "ジョブHUD解説",
+      "conversation": "GuideTitle#1",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "GuideTitle"
     }
   ]
 }

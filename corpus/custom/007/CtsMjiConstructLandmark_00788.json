@@ -13,7 +13,7 @@
       "ja": "どうする？",
       "de": "Was möchtest du tun?",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 1,
+      "seq": 0,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -27,7 +27,7 @@
       "ja": "ランドマークの建築",
       "de": "Ein Wahrzeichen bauen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 2,
+      "seq": 1,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -41,7 +41,7 @@
       "ja": "ランドマークの建て替え",
       "de": "Das Wahrzeichen umbauen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 3,
+      "seq": 2,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -55,7 +55,7 @@
       "ja": "ランドマークの移築",
       "de": "Das Wahrzeichen verlegen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 4,
+      "seq": 3,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -69,7 +69,7 @@
       "ja": "ランドマークを回転させる",
       "de": "Wahrzeichen drehen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 5,
+      "seq": 4,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -83,7 +83,7 @@
       "ja": "キャンセル",
       "de": "Abbrechen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 6,
+      "seq": 5,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -97,7 +97,7 @@
       "ja": "ランドマークの回転 (現在の向き：デフォルト)",
       "de": "Wahrzeichen drehen (Momentane Ausrichtung: Standard)",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 7,
+      "seq": 6,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -111,7 +111,7 @@
       "ja": "90度回転：時計回り",
       "de": "Um 90 Grad drehen: Im Uhrzeigersinn",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 8,
+      "seq": 7,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -125,7 +125,7 @@
       "ja": "90度回転：反時計回り",
       "de": "Um 90 Grad drehen: Gegen den Uhrzeigersinn",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 9,
+      "seq": 8,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -139,7 +139,7 @@
       "ja": "180度回転",
       "de": "Um 180 Grad drehen",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 10,
+      "seq": 9,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -153,7 +153,7 @@
       "ja": "ランドマークの回転 (現在の向き：時計回り90度)",
       "de": "Wahrzeichen drehen (Momentane Ausrichtung: 90 Grad im Uhrzeigersinn)",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 11,
+      "seq": 10,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -167,7 +167,7 @@
       "ja": "ランドマークの回転 (現在の向き：時計回り180度)",
       "de": "Wahrzeichen drehen (Momentane Ausrichtung: 180 Grad)",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 12,
+      "seq": 11,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -181,7 +181,7 @@
       "ja": "ランドマークの回転 (現在の向き：反時計回り90度)",
       "de": "Wahrzeichen drehen (Momentane Ausrichtung: 90 Grad gegen den Uhrzeigersinn)",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 13,
+      "seq": 12,
       "speakerKind": "prompt",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -195,7 +195,7 @@
       "ja": "ランドマーク管理用の看板のようだ",
       "de": "Dies scheint die Leittafel für ein Wahrzeichen zu sein.",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 14,
+      "seq": 13,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"
@@ -209,7 +209,7 @@
       "ja": "建築完了までには一定の時間を要します。<br>完成予定時刻は、その土地の管理板より確認することができます。<br>他のことをしながら、完成するのを待ってみましょう！",
       "de": "Wann der Bau des Gebäudes abgeschlossen ist, kannst du der Leittafel am Grundstück selbst entnehmen.",
       "conversation": "custom/007/CtsMjiConstructLandmark_00788",
-      "seq": 15,
+      "seq": 14,
       "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/007/CtsMjiConstructLandmark_00788"

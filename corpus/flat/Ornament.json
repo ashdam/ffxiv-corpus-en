@@ -1477,6 +1477,19 @@
       "sheet": "Ornament"
     },
     {
+      "gameKey": "Ornament#57.10",
+      "en": "",
+      "hash": "0523895B17BE0CF4",
+      "unresolved": false,
+      "fr": "Pelles",
+      "de": "Spaten",
+      "conversation": "Ornament#57",
+      "seq": 10,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Ornament"
+    },
+    {
       "gameKey": "Ornament#58.8",
       "en": "Antique Lantern",
       "hash": "9CA93675DFC1990F",
