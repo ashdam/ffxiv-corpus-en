@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "quest/055/JobXbm191_05500",
   "entries": [
     {
@@ -32,7 +32,7 @@
       "unresolved": false,
       "fr": "1. Avoir accès à l'extension FINAL FANTASY XIV<nbsp>: Dawntrail<br>2. Être dresseur<br>3. Avoir capturé au moins 25 bêtes différentes",
       "ja": "1.「黄金のレガシー」のプレイ権を所有している。<br>2.現在のジョブが「魔獣使い」である。<br>3.魔獣を25種類以上、仲間にしている。",
-      "de": "1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<br>2. Der aktuelle Job ist Bestienbändiger.3. Es wurden mindestens 25 Bestienarten gebändigt.",
+      "de": "1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<br>2. Der aktuelle Job ist Bestienbändiger.<br>3. Es wurden mindestens 25 Bestienarten gebändigt.",
       "conversation": "quest/055/JobXbm191_05500",
       "seq": 1,
       "speakerKind": "system",
@@ -168,7 +168,7 @@
       "unresolved": false,
       "fr": "Prenez donc le temps de bien vous préparer. J'ai hâte de voir ce qu'un<if(gnum4,e,)> expert<if(gnum4,e,)> de l'école du cornago a dans le ventre... ",
       "ja": "下っ端の僕が言うまでもないことだけど、しっかり準備を整えて、<br>コルナゴ派の意地を見せつけてやってね！",
-      "de": "Bereite dich gründlich vor und dann zeige der Welt, aus welchem Hartholz ihr Kornago-Bändiger geschnitzt seid.",
+      "de": "Bereite dich gründlich vor und dann zeige der Welt, aus welchem Hartholz wir Kornago-Bändiger geschnitzt sind.",
       "conversation": "quest/055/JobXbm191_05500",
       "seq": 7,
       "speaker": "SYLMOND",

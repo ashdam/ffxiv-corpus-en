@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "BNpcName",
   "entries": [
     {
@@ -408550,6 +408550,35 @@
       "fr": "puluches",
       "de": "Schaben",
       "conversation": "BNpcName#14256",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "gender": "unknown",
+      "kind": "ambient",
+      "sheet": "BNpcName"
+    },
+    {
+      "gameKey": "BNpcName#14257.0",
+      "en": "dreambringer",
+      "hash": "4D8692342998B24A",
+      "unresolved": false,
+      "fr": "troqueur de rêves",
+      "ja": "ユメマワシ",
+      "de": "Träumelein",
+      "conversation": "BNpcName#14257",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "gender": "unknown",
+      "kind": "ambient",
+      "sheet": "BNpcName"
+    },
+    {
+      "gameKey": "BNpcName#14257.2",
+      "en": "dreambringers",
+      "hash": "AD41692BDA4A3856",
+      "unresolved": false,
+      "fr": "troqueurs de rêves",
+      "de": "Träumeleins",
+      "conversation": "BNpcName#14257",
       "seq": 2,
       "speakerKind": "unknown",
       "gender": "unknown",

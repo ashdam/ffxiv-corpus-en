@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "custom/007/FesNyr2023Omikuji_00776",
   "entries": [
     {
@@ -338,6 +338,22 @@
       "de": "Übrigens lautet mein derzeitiger Name „Namero“. Obwohl Viera, die ihr Heimatland verlassen, dazu neigen, ihre Namen aus einer Laune heraus zu ändern, bin ich ein eher ungewöhnlicher Fall. Ich wechsle zwischen zwölf verschiedenen Namen, je nach Aussicht auf mein Schicksal!",
       "conversation": "custom/007/FesNyr2023Omikuji_00776",
       "seq": 21,
+      "speaker": "Far Eastern omikujishi",
+      "speakerKind": "character",
+      "speakerGender": "male",
+      "kind": "dialogue",
+      "sheet": "custom/007/FesNyr2023Omikuji_00776"
+    },
+    {
+      "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_400_023",
+      "en": "Ah, I have yet to mention my name! It is “Daifuku,” at present. Though we Viera who have chosen to venture from our homeland are prone to changing our names on a whim, I'm a rather unusual case. I switch between twelve different names depending on the outlook of my fortune!",
+      "hash": "7DBC27FA615C4B94",
+      "unresolved": false,
+      "fr": "Au fait, je ne vous ai pas dit comment je m'appelle... En ce moment, c'est “Daifuku”<nbsp>! Les Viéras citadins choisissent leur nom librement, donc j'en ai adopté douze différents que je change selon ma chance aux omikuji<nbsp>!",
+      "ja": "ちなみに僕の名前は……今は、ダイフク！<br>街暮らしのヴィエラ族は、よく名前を変えるんだけど、<br>僕は時々の吉凶に応じて、12の名前を使い分けているのさ！",
+      "de": "Übrigens lautet mein derzeitiger Name „Daifuku“. Obwohl Viera, die ihr Heimatland verlassen, dazu neigen, ihre Namen aus einer Laune heraus zu ändern, bin ich ein eher ungewöhnlicher Fall. Ich wechsle zwischen zwölf verschiedenen Namen, je nach Aussicht auf mein Schicksal!",
+      "conversation": "custom/007/FesNyr2023Omikuji_00776",
+      "seq": 22,
       "speaker": "Far Eastern omikujishi",
       "speakerKind": "character",
       "speakerGender": "male",

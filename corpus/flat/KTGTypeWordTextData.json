@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "KTGTypeWordTextData",
   "entries": [
     {
@@ -7941,8 +7941,8 @@
     },
     {
       "gameKey": "KTGTypeWordTextData#568",
-      "en": "Ninja Cannonbal",
-      "hash": "052723A5FCAA9D48",
+      "en": "Ninja Cannonball",
+      "hash": "33A09458FBA52893",
       "unresolved": false,
       "fr": "canon shinobi",
       "ja": "シノビシュート",
@@ -14704,8 +14704,8 @@
     },
     {
       "gameKey": "KTGTypeWordTextData#1052",
-      "en": "Járngreipr",
-      "hash": "8CE263A2E6E01A1C",
+      "en": "ヤールングレイプ",
+      "hash": "524B9B425097677C",
       "unresolved": false,
       "fr": "Jarngreipr",
       "ja": "ヤールングレイプ",
@@ -14872,8 +14872,8 @@
     },
     {
       "gameKey": "KTGTypeWordTextData#1064",
-      "en": "Brísingamen",
-      "hash": "8A787D08803BEBD3",
+      "en": "ブリーシンガメン",
+      "hash": "03951C4E4CCEA32C",
       "unresolved": false,
       "fr": "Brisingamen",
       "ja": "ブリーシンガメン",
@@ -15152,8 +15152,8 @@
     },
     {
       "gameKey": "KTGTypeWordTextData#1084",
-      "en": "mythril armle",
-      "hash": "49F6EF1C684729DC",
+      "en": "mythril armlet",
+      "hash": "EA395E4861EBD489",
       "unresolved": false,
       "fr": "bracelet en mithril",
       "ja": "ミスリルの腕輪",
@@ -19562,8 +19562,8 @@
     },
     {
       "gameKey": "KTGTypeWordTextData#1399",
-      "en": "Doppelgänger",
-      "hash": "4B3F4AE3666D33D5",
+      "en": "分身の術",
+      "hash": "250E48572E751A52",
       "unresolved": false,
       "fr": "Dédoublement",
       "ja": "分身の術",

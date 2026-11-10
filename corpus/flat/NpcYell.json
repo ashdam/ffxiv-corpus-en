@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "NpcYell",
   "entries": [
     {
@@ -251943,6 +251943,20 @@
       "ja": "ブリブリっ",
       "de": "\\<husch> \\<wusch>",
       "conversation": "NpcYell#18853",
+      "seq": 13,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "NpcYell"
+    },
+    {
+      "gameKey": "NpcYell#18854",
+      "en": "Mrum, mrum!",
+      "hash": "BEE64B7A2100D26F",
+      "unresolved": false,
+      "fr": "Hum, hum...",
+      "ja": "むむぅ～ん！",
+      "de": "Mjun, mjun!",
+      "conversation": "NpcYell#18854",
       "seq": 13,
       "speakerKind": "unknown",
       "kind": "ambient",

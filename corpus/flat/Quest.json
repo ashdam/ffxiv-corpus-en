@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "Quest",
   "entries": [
     {
@@ -73709,6 +73709,20 @@
       "ja": "守護天節とふたつの幻影",
       "de": "Saures für die Imps",
       "conversation": "Quest#70912",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Quest"
+    },
+    {
+      "gameKey": "Quest#70913",
+      "en": "Bringer of Dreams, Maker of Luck",
+      "hash": "0E4705B80A1802B4",
+      "unresolved": false,
+      "fr": "Troqueur et transition",
+      "ja": "夢回しと降神祭",
+      "de": "Die Traumtauschbörse",
+      "conversation": "Quest#70913",
       "seq": 0,
       "speakerKind": "unknown",
       "kind": "ambient",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "quest/054/FesXmx201_05464",
   "entries": [
     {
@@ -592,7 +592,7 @@
       "hash": "55BA3990FA9E3A65",
       "unresolved": false,
       "fr": "Avec le professeurrr, nous avons commencé les préparatifs pour la fabrication du traîneau. Pour le moment, nous avons seulement fini de déterminer les matériaux nécessaires et les motifs à appliquer, mais... un petit coup de main ne serait pas de refus.<br>Est-ce que vous voudriez bien nous aider à recréer la légende\u00A0?",
-      "ja": "ソリ作りは、ローレンセン助教授の指示のもと進めていますが、<br>ようやく必要な資材や模様の調査を終えた段階でして……。<br>冒険者さんにも、逸話の再現に助力いただけないでしょうか？",
+      "ja": "ソリ作りは、ローレンセン准教授の指示のもと進めていますが、<br>ようやく必要な資材や模様の調査を終えた段階でして……。<br>冒険者さんにも、逸話の再現に助力いただけないでしょうか？",
       "de": "Dank der Hilfe von Laurenssen ist bereits alles in Gang gesetzt. Wir konnten schon die Materialien beschaffen und die Entwürfe für den Schlitten sind finalisiert. Würdest du uns bei dem Rest des Vorhabens unterstützen, <split(<string(gstr1)>, ,1)>?",
       "conversation": "quest/054/FesXmx201_05464",
       "seq": 24,

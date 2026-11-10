@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "quest/054/JobXbm121_05493",
   "entries": [
     {
@@ -819,7 +819,7 @@
       "unresolved": false,
       "fr": "Loosefrox a par ailleurs aperçu des roselettes, un type de piège-volant, non loin d'ici, au sud du ranch de Brancharquée. À bon entendeur. Pssshh...",
       "ja": "フライングトラップ種のローズレットは、<br>ここ中央森林にあるベントブランチ牧場の南側あたりで、<br>見かけたゴブよ。",
-      "de": "Und südlich um Gut Zwieselgrund hier im Tiefwald hab ich Röslinge sehen. Is' Unterart von Fliegenfalle.",
+      "de": "Und südlich von Gut Zwieselgrund hier im Tiefwald hab ich Röslinge sehen. Is' Unterart von Fliegenfalle.",
       "conversation": "quest/054/JobXbm121_05493",
       "seq": 33,
       "speaker": "LOOSEFROX",
@@ -871,7 +871,7 @@
       "unresolved": false,
       "fr": "Loosefrox a par ailleurs aperçu des roselettes, un type de piège-volant, non loin d'ici, au sud du ranch de Brancharquée. À bon entendeur. Pssshh...",
       "ja": "フライングトラップ種のローズレットは、<br>ここ中央森林にあるベントブランチ牧場の南側あたりで、<br>見かけたゴブよ。",
-      "de": "Und südlich um Gut Zwieselgrund hier im Tiefwald hab ich Röslinge sehen. Is' Unterart von Fliegenfalle.",
+      "de": "Und südlich von Gut Zwieselgrund hier im Tiefwald hab ich Röslinge sehen. Is' Unterart von Fliegenfalle.",
       "conversation": "quest/054/JobXbm121_05493",
       "seq": 35,
       "speaker": "LOOSEFROX",

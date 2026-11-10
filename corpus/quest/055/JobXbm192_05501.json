@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "quest/055/JobXbm192_05501",
   "entries": [
     {
@@ -53,7 +53,7 @@
       "unresolved": false,
       "fr": "3. Avoir terminé “Dédale bestial - 1er plateau expert”<br>4. Avoir capturé au moins 30 bêtes différentes",
       "ja": "3.「闘獣練 特一盤」をクリアしている。<br>4.魔獣を30種類以上、仲間にしている。",
-      "de": "3. Das Erste Meisterbrett der Bestie wurde abgeschlossen.4. Es wurden mindestens 30 Bestienarten gebändigt.",
+      "de": "3. Das Erste Meisterbrett der Bestie wurde abgeschlossen.<br>4. Es wurden mindestens 30 Bestienarten gebändigt.",
       "conversation": "quest/055/JobXbm192_05501",
       "seq": 2,
       "speakerKind": "system",
