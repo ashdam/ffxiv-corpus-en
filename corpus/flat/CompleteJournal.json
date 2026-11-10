@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "CompleteJournal",
   "entries": [
     {
@@ -71189,6 +71189,20 @@
       "ja": "御披露道中と降神祭",
       "de": "Die Pferdeparade",
       "conversation": "CompleteJournal#5265",
+      "seq": 5,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CompleteJournal"
+    },
+    {
+      "gameKey": "CompleteJournal#5266",
+      "en": "Bringer of Dreams, Maker of Luck",
+      "hash": "591274CF7D69ADE9",
+      "unresolved": false,
+      "fr": "Troqueur et transition",
+      "ja": "夢回しと降神祭",
+      "de": "Die Traumtauschbörse",
+      "conversation": "CompleteJournal#5266",
       "seq": 5,
       "speakerKind": "unknown",
       "kind": "ambient",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "quest/055/JobXbm193_05509",
   "entries": [
     {
@@ -32,7 +32,7 @@
       "unresolved": false,
       "fr": "1. Avoir accès à l'extension FINAL FANTASY XIV<nbsp>: Dawntrail<br>2. Être dresseur<br>3. Avoir terminé “Dédale bestial - 2e plateau expert”",
       "ja": "1.「黄金のレガシー」のプレイ権を所有している。<br>2.現在のジョブが「魔獣使い」である。<br>3.「闘獣練 特二盤」をクリアしている。",
-      "de": "1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<br>2. Der aktuelle Job ist Bestienbändiger.3. Das Zweite Meisterbrett der Bestie wurde abgeschlossen.",
+      "de": "1. Es wurde eine Spiellizenz für die Erweiterung „Dawntrail“ registriert.<br>2. Der aktuelle Job ist Bestienbändiger.<br>3. Das Zweite Meisterbrett der Bestie wurde abgeschlossen.",
       "conversation": "quest/055/JobXbm193_05509",
       "seq": 1,
       "speakerKind": "system",

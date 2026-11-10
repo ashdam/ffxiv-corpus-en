@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "XBMPet",
   "entries": [
     {
@@ -541,7 +541,7 @@
       "en": "Grants HP absorption to allies.",
       "hash": "5C216603772E5413",
       "unresolved": false,
-      "fr": "Absorbtion de PV pour les alliés",
+      "fr": "Absorption de PV pour les alliés",
       "ja": "味方にＨＰ吸収効果",
       "de": "Auf Verbündete: LP-Transfer",
       "conversation": "XBMPet#13",

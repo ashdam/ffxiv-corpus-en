@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "CabinetSubCategory",
   "entries": [
     {
@@ -2603,6 +2603,34 @@
       "ja": "魔獣使い装束",
       "de": "Bestienbändiger",
       "conversation": "CabinetSubCategory#186",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CabinetSubCategory"
+    },
+    {
+      "gameKey": "CabinetSubCategory#187",
+      "en": "All Saints' Wake - 2026",
+      "hash": "FA8E218FC4C27FE5",
+      "unresolved": false,
+      "fr": "Veillée des saints 2026",
+      "ja": "守護天節：2026",
+      "de": "Allerschutzheiligen - 2026",
+      "conversation": "CabinetSubCategory#187",
+      "seq": 1,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "CabinetSubCategory"
+    },
+    {
+      "gameKey": "CabinetSubCategory#188",
+      "en": "Exclusive Extras - Evercold",
+      "hash": "4EACE67FFA02DBB2",
+      "unresolved": false,
+      "fr": "Bonus d'achat - Evercold",
+      "ja": "購入特典：白銀のワンダラー",
+      "de": "Bonusgegenstände - Evercold",
+      "conversation": "CabinetSubCategory#188",
       "seq": 1,
       "speakerKind": "unknown",
       "kind": "ambient",

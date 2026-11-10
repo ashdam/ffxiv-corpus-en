@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "Companion",
   "entries": [
     {
@@ -14984,6 +14984,33 @@
       "fr": "puluches",
       "de": "Schaben",
       "conversation": "Companion#559",
+      "seq": 2,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Companion"
+    },
+    {
+      "gameKey": "Companion#560.0",
+      "en": "dreambringer",
+      "hash": "E92A06E51A9207F5",
+      "unresolved": false,
+      "fr": "troqueur de rêves",
+      "ja": "ユメマワシ",
+      "de": "Träumelein",
+      "conversation": "Companion#560",
+      "seq": 0,
+      "speakerKind": "unknown",
+      "kind": "ambient",
+      "sheet": "Companion"
+    },
+    {
+      "gameKey": "Companion#560.2",
+      "en": "dreambringers",
+      "hash": "D0ECF75926718096",
+      "unresolved": false,
+      "fr": "troqueurs de rêves",
+      "de": "Träumeleins",
+      "conversation": "Companion#560",
       "seq": 2,
       "speakerKind": "unknown",
       "kind": "ambient",

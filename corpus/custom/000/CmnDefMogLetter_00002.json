@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "custom/000/CmnDefMogLetter_00002",
   "entries": [
     {
@@ -523,7 +523,7 @@
       "unresolved": false,
       "fr": "Feo Ul m'a dit que les postiers mogs de chez toi comptaient beaucoup sur ton aide, kupo<nbsp>!",
       "ja": "フェオ＝ウルが「向こう」のレターモーグリたちも、<br><string(gstr1)>さんのこと、<br>頼りにしてたって言ってたクポ～♪",
-      "de": "Feo Ul sagte mir, die Postboten-Mogrys in deinem Land wären sehr auf deine Hilfe angewiesen, kupo!",
+      "de": "Feo Ul sagte mir, die Mogry-Postboten in deinem Land wären sehr auf deine Hilfe angewiesen, kupo!",
       "conversation": "custom/000/CmnDefMogLetter_00002",
       "seq": 32,
       "speaker": "LETTERMOOGLE",

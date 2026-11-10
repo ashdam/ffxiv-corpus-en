@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "sourceLanguage": "en",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "conversation": "custom/005/CtsEtcVoyagerMoogle_00566",
   "entries": [
     {
@@ -107,6 +107,50 @@
       "speaker": "MOGGUIDEBOOK",
       "speakerKind": "character",
       "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsEtcVoyagerMoogle_00566"
+    },
+    {
+      "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001",
+      "en": "Oh, and it seems there were some minor errors in the Mogpendium. I've gone ahead and marked <if([lnum1==1],minimog challenges,<if([lnum1==2],weekly objectives,<if([lnum1==3],minimog challenges and weekly objectives,)>)>)> from week six of the first hunt for astronomy as complete for you. Just don't tell my boss, kupo!",
+      "hash": "C83D70619F1360CA",
+      "unresolved": true,
+      "fr": "Lors de la sixième semaine de la Collection Mog Mog Astronomie Kupo - Partie 1, tu as terminé <if([lnum1==1],le challenge Mog hebdomadaire,<if([lnum1==2],le contenu hebdomadaire,<if([lnum1==3],le challenge Mog et le contenu hebdomadaires,)>)>)>, non\u00A0? Alors tu devrais jeter un œil au Guide Mog Mog, kupo\u00A0!",
+      "ja": "「天文に至る路 Part1」第6週の、<br><if([lnum1==1],ウィークリープチモグチャレンジ,<if([lnum1==2],ウィークリーコンテンツ,<if([lnum1==3],ウィークリープチモグチャレンジとウィークリーコンテンツ,)>)>)>を、<br>コンプリートにしたから、モグモグガイドブックを確認してクポ！",
+      "de": "Herzlichen Glückwunsch, du hast <if([lnum1==1],den wöchentlichen Minimog,<if([lnum1==2],die wöchentlichen Inhalte,<if([lnum1==3],den wöchentlichen Minimog und die wöchentlichen Inhalte,)>)>)> der 6. Woche der „Mog Mog-Kollektion Astronomische Abenteuer - Teil 1“ abgeschlossen! Schau unbedingt in dein Mogpendium, kupo!",
+      "conversation": "custom/005/CtsEtcVoyagerMoogle_00566",
+      "seq": 7,
+      "speaker": "VOYAGERMOOGLE",
+      "speakerKind": "character",
+      "speakerGender": "unknown",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsEtcVoyagerMoogle_00566"
+    },
+    {
+      "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002",
+      "en": "The completion period for certain duties in the Mogpendium was listed incorrectly and differed from the event end date.",
+      "hash": "61715BF76B5F9994",
+      "unresolved": false,
+      "fr": "Le délai pour accomplir certaines missions du Guide Mog Mog proposées lors de l'événement “Collection Mog Mog Astronomie Kupo - Partie 1” différait de celui de l'événement lui-même.",
+      "ja": "「モグモグ★コレクション ～天文に至る路 Part1～」の、<br>モグモグガイドブック掲載の一部コンテンツの達成期限と、<br>イベント終了日時が、異なる状態となっておりました。",
+      "de": "Die im Mogpendium angegebenen Fristen für einige Inhalte der „Mog Mog-Kollektion Astronomische Abenteuer - Teil 1“ wichen von den eigentlichen Fristen ab.",
+      "conversation": "custom/005/CtsEtcVoyagerMoogle_00566",
+      "seq": 8,
+      "speakerKind": "system",
+      "kind": "dialogue",
+      "sheet": "custom/005/CtsEtcVoyagerMoogle_00566"
+    },
+    {
+      "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003",
+      "en": "As compensation to those who were unable to attempt these duties within the allotted time, the itinerant moogle is providing a helping paw to complete these goals.",
+      "hash": "7A8D5D3B8876977C",
+      "unresolved": false,
+      "fr": "Les joueurs n'ayant pas eu la possibilité de terminer à temps ces missions recevront une récompense en compensation s'ils les accomplissent avant la date de fin de l'événement.",
+      "ja": "対象のコンテンツに、イベント終了日時までに、<br>チャレンジすることができなかったプレイヤーの方々へ、<br>目標をコンプリートとする補填をさせていただきます。",
+      "de": "Alle Spieler, die diese Inhalte nicht bestreiten konnten, erhalten die entsprechenden Abschlussbelohnungen.",
+      "conversation": "custom/005/CtsEtcVoyagerMoogle_00566",
+      "seq": 9,
+      "speakerKind": "system",
       "kind": "dialogue",
       "sheet": "custom/005/CtsEtcVoyagerMoogle_00566"
     }
