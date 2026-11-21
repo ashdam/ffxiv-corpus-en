@@ -65,7 +65,8 @@ jobs:
             corpus-structure-unique-game-key,
             corpus-structure-game-version-unique,
             corpus-structure-source-exclusions,
-            corpus-structure-gender-overrides
+            corpus-structure-gender-overrides,
+            corpus-macros-syntax
         run: |
           set -euo pipefail
           dotnet run --project Tools/CorpusValidator -c Release -- \
