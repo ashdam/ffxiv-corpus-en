@@ -6,6 +6,7 @@ on:
       - 'corpus/**/*.json'
       - 'config/**'
       - 'metadata/**'
+      - 'source-sync.json'
       - '.github/workflows/**'
   workflow_call:
     secrets:
@@ -47,7 +48,7 @@ jobs:
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
         with:
           repository: ashdam/corpus-extractor
-          ref: 878f339f6b0d40d0217b2ea6b69c5b4ae4a63710
+          ref: 292bf01c60cbc7b7eac99e116bf40580b24f37f1
           path: Tools
           token: ${{ steps.read-token.outputs.token }}
           persist-credentials: false
