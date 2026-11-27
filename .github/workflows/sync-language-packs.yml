@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'corpus/**/*.json'
+      - 'source-sync.json'
 
 permissions:
   contents: read
